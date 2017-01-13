@@ -1,0 +1,53 @@
+
+    /* TESTING GRID VIEW */
+		table td { border:1px #0A6AA4 solid; }
+
+		/* CLIENT-SPECIFIC STYLES */
+		body, table, td, a { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;}
+		table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+		img { -ms-interpolation-mode: bicubic; }
+		    
+		/* RESET STYLES */
+		img { border: 0; line-height: 100%; outline: none; text-decoration: none; }
+		table { border-collapse: collapse !important;}
+		body { height: 100% !important; margin: 0 !important; padding: 0 !important; width: 100% !important; background-color:#efefef; }
+			
+		/* MEDIA QUERIES */
+			@media screen and (max-device-width: 450px), screen and (max-width: 450px){ 
+			  
+        .logomenu {background:none !important;}
+        
+				.mobile{ width:300px!important; display:block!important; padding: 0 !important; }
+        
+			  .img{ width:100% !important; height:auto !important; }
+        
+				*[class*="logobrowser"] >span {text-align:center !important; display:block;}
+        
+				*[class="menuimagespan"] {font-size:1em;}
+        
+			  *[class="mobileOff"] { width: 0px !important; display: none !important; }
+        
+			  *[class*="mobileOn"] { display: block !important; max-height:none !important; }
+        
+			  *[class="logo-wrapper"] {
+                                    display: block !important;
+                                    padding: 5px 0 0 0 !important;
+                                    text-align: center !important;
+                                    width: 100% !important;
+                                    height: auto !important;}
+				
+		   *[class=menuwrapper] {
+                                    display: block !important;
+                                    text-align: center !important;
+                                    padding: 10px 0 0 0 !important;
+                                    width: 100% !important;
+                                    height: auto !important;
+            }
+
+      *[class=menuwrapper] table {padding: 0 20px !important;}
+        
+			*[class=logo-wrapper] img {margin: 0 auto !important;}
+        
+			*[class=menuwrapper] a {padding:0px !important; font-size:1em !important;}
+}	
+		   
