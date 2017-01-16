@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
-    <title>Adorama.com | Experts in Photo, Pro Video and Pro Audio</title>
+    <title>Adorama.com | Experts in Photo, Pro Video and Pro Audio </title>
 </head>
 
 <body style="min-width: 100%; padding: 0; margin: 0; -webkit-text-size-adjust: none; background-color: #e3e3e3">
