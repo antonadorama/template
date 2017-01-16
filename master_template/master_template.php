@@ -80,7 +80,7 @@
             screen and (max-width: 520px) {
                 /* added for the template styles*/
                 *[class=event] {
-                    padding: 0 0 15px 0 !important;
+                    padding: 0 0 0 0 !important;
                 }
                 *[class=tagline] {
                     padding: 5px 0 5px 0 !important;
@@ -325,7 +325,7 @@
                 }
             }
         </style>
-        <!--[if gte mso 15]>
+      <!--[if gte mso 15]>
 			<style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
 			<![endif]-->
         </meta>
@@ -346,16 +346,22 @@
                             <tbody>
                               
                               <!-- Header -->
-                              <?php include_once("store events/header.php");?>
+                              <?php include_once("master_template/header.php");?>
                               <!-- End of Header -->
-
                               
                               <!--Content-->
-                              <?php include("store events/content.php"); ?>
+                              <tr>
+                                <td>                              
+																	<?php include("master_template/banner_block.php"); ?>
+																	<?php include("master_template/2_events_block.php"); ?>
+                                  <?php include("master_template/learn_more_block.php"); ?>
+																	<?php include("master_template/2products_block.php"); ?>
+                                </td>
+                              </tr>
                               <!-- End of Content -->
                               
                               <!--Footer-->
-                              <?php include("store events/footer.php"); ?>
+                              <?php include("master_template/footer.php"); ?>
                               <!-- End of Footer -->
                               
                             </tbody>
