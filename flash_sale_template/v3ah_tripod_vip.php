@@ -2,19 +2,20 @@
 
       $data = array(      
       
-        "utm_compaign" => "Email011217NonVIPPolkBoomBitFlashSale",
+        "utm_compaign" => "Email011717VIP3podV3ahTripodFlashSale",
        
         
-        "product_page_link" => "https://www.adorama.com/searchsite/default.aspx?searchinfo=polk+audio+boom+bit+wearable+bluetooth+speaker",
-        "product_page_linkname" => "D_FP_Polk_011217",
-        "product_page_image" =>"796/adorama_1-12_flashsale_desktop_non-vip.jpg",
-        "product_page_image_alt" => "Polk Audio BOOM Bit Wearable Bluetooth Speaker",
-        "product_page_image_mobile" => "796/adorama_1-12_flashsale_mobile_non-vip.jpg",
+        "product_page_link" => "https://www.adorama.com/fp3pv3ah.html",
+        "product_page_linkname" => "D_FP_V3AHTripod_011717",
+        "product_page_image" =>"822/adorama_1-17_flashsale_desktop_vip.jpg",
+        "height" => "981",
+        "product_page_image_alt" => "3Pod V3AH Video Tripod System Anodized Aluminum with 2-way Fluid Head ",
+        "product_page_image_mobile" => "822/adorama_1-17_flashsale_mobile_vip.jpg",
         
 
         
         
-        "offer_text"  => "Exclusive Offer"     
+        "ttl"  => "Get 38% OFF the 3Pod V3AH Video Tripod with a 2-way Fluid Head & Quick-Release Plate! Shop Now"     
         
 
     );
@@ -167,7 +168,7 @@
             *[class=menuwrapper] {
                 display: block !important;
                 text-align: center !important;
-                padding: 40px 0 0 0 !important;
+                padding: 15px 0 15px 0 !important;
                 width: 100% !important;
                 height: auto !important;
             }
@@ -347,7 +348,7 @@
 																				<tbody>
 																					<tr>
 																						<td class="logobrowser" style="width: 470px; color: #A7A9AC; font-size: 14px; padding: 20px 0;">
-																							<span class="offer"><?php echo $data["offer_text"];?> | </span>
+																							<span class="offer"><?php echo $data["ttl"];?> | </span>
 																							<a href="" linkname="View In Browser" style="color: #A7A9AC; text-decoration: underline" target="_blank">view in a browser</a>
 																						</td>
 																						<td align="right" class="socialtopblock" style="color: #A7A9AC; font-size: 14px; padding-top: 15px; padding-bottom: 10px">
@@ -428,7 +429,7 @@
 																					<tr>
 																						<td>
 																							<a href="<?php echo $data["product_page_link"];?>&hotlink=t&refby=slgt&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="<?php echo $data["product_page_linkname"];?>" target="_blank">
-																								<img alt="<?php echo $data["product_page_image_alt"];?>" border="0" height="1162" src="image_library/org_1/<?php echo $data["product_page_image"];?>" style="display:block;" width="640" />
+																								<img alt="<?php echo $data["product_page_image_alt"];?>" border="0" height="<?php echo $data["height"];?>" src="image_library/org_1/<?php echo $data["product_page_image"];?>" style="display:block;" width="640" />
 																							</a>
 																						</td>
 																					</tr>
