@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
-    <title>Adorama.com | Experts in Photo, Pro Video and Pro Audio </title>
+    <title>Adorama.com | Experts in Photo, Pro Video and Pro Audio</title>
 </head>
 
 <body style="min-width: 100%; padding: 0; margin: 0; -webkit-text-size-adjust: none; background-color: #e3e3e3">
@@ -351,11 +351,16 @@
                               
                               <!--Content-->
                               <tr>
-                                <td>                              
+                                <td>
+																	<?php include("store events/header_strip.php"); ?>
+																	<?php include("master_template/npa_block.php"); ?>
+																	<?php include("master_template/4products_block.php"); ?>
+																	<?php include("master_template/alc_block.php"); ?>
 																	<?php include("master_template/banner_block.php"); ?>
 																	<?php include("master_template/2_events_block.php"); ?>
                                   <?php include("master_template/learn_more_block.php"); ?>
 																	<?php include("master_template/2products_block.php"); ?>
+																	
                                 </td>
                               </tr>
                               <!-- End of Content -->

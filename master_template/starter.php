@@ -347,9 +347,9 @@
                               
                               <!-- Header Goes Here -->
 															
-                              <tr>
+															<tr>
 																<td>
-                              <!--Content Goes Here-->
+																	<!--Content Goes Here-->
 																</td>
 															</tr>
                                                             
