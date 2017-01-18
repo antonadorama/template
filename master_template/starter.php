@@ -1,23 +1,21 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-
-<head>
-    <title>Adorama.com | Experts in Photo, Pro Video and Pro Audio</title>
-</head>
-
-<body style="min-width: 100%; padding: 0; margin: 0; -webkit-text-size-adjust: none; background-color: #e3e3e3">
-    <p style="display:none;">
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <meta name="apple-mobile-web-app-capable" content="yes">
-        <meta content="yes" name="apple-touch-fullscreen">
-        <meta name="apple-mobile-web-app-status-bar-style" content="black">
-        <meta name="format-detection" content="address=no">
-        <meta name="format-detection" content="telephone=no">
-        <meta name="format-detection" content="email=no">
-        <meta name="viewport" content="initial-scale=1, maximum-scale=1">
-        <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
-          
-      <style type="text/css">
+<html
+	xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>Adorama.com | Experts in Photo, Pro Video and Pro Audio</title>
+	</head>
+	<body style="min-width: 100%; padding: 0; margin: 0; -webkit-text-size-adjust: none; background-color: #e3e3e3">
+		<p style="display:none;">
+			<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+				<meta name="apple-mobile-web-app-capable" content="yes">
+					<meta content="yes" name="apple-touch-fullscreen">
+						<meta name="apple-mobile-web-app-status-bar-style" content="black">
+							<meta name="format-detection" content="address=no">
+								<meta name="format-detection" content="telephone=no">
+									<meta name="format-detection" content="email=no">
+										<meta name="viewport" content="initial-scale=1, maximum-scale=1">
+											<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+												<style type="text/css">
             body {
                 margin: 0;
                 padding: 0;
@@ -325,44 +323,39 @@
                 }
             }
         </style>
-      <!--[if gte mso 15]>
-			<style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
-			<![endif]-->
-        </meta>
-        </meta>
-        </meta>
-        </meta>
-        </meta>
-        </meta>
-        </meta>
-        </meta>
-    </p>
-    <div align="center" style="padding: 0 0px">
-        <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#e3e3e3" class="iosfix">
-            <tbody>
-                <tr>
-                    <td bgcolor="#e3e3e3" align="center">
-                        <table width="640" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" align="center" class="wrap100">
-                            <tbody>
-                              
-                              <!-- Header Goes Here -->
-															
-															<tr>
-																<td>
-																	<!--Content Goes Here-->
-																</td>
-															</tr>
-                                                            
-                              <!--Footer Goes Here-->  
-                              
-                            </tbody>
-                        </table>
-                    </td>
-                </tr>
-            </tbody>
-        </table>
-    </div>
-    <p></p>
-</body>
-
-</html>
+												<!--[if gte mso 15]>
+												<style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
+												<![endif]-->
+											</meta>
+										</meta>
+									</meta>
+								</meta>
+							</meta>
+						</meta>
+					</meta>
+				</meta>
+			</p>
+			<div align="center" style="padding: 0 0px">
+				<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#e3e3e3" class="iosfix">
+					<tbody>
+						<tr>
+							<td bgcolor="#e3e3e3" align="center">
+								<table width="640" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" align="center" class="wrap100">
+									<tbody>
+										<!-- Header Goes Here -->
+										<tr>
+											<td>
+												<!--Content Goes Here-->
+											</td>
+										</tr>
+										<!--Footer Goes Here-->
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			<p></p>
+		</body>
+	</html>

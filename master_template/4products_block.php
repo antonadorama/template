@@ -50,7 +50,7 @@
 																</tr>
 																<tr>
 																	<td align="center" class="new_price" style="color: #212121; font-size: 24px; font-family: 'Montserrat', Arial;  text-transform: none; text-align: center; line-height: normal">
-																		<font color="#212121"><strong>$400.99</strong></font>
+																		<font color="#212121" size="4"><strong>$400.99</strong></font>
 																	</td>
 																</tr>
 																<tr>
@@ -100,7 +100,7 @@
 																		</tr>
 																		<tr>
 																			<td align="center" class="new_price" style="color: #212121; font-size: 24px; font-family: 'Montserrat', Arial;  text-transform: none; text-align: center; line-height: normal">
-																				<font color="#212121"><strong>$400.99</strong></font>
+																				<font color="#212121" size="4"><strong>$400.99</strong></font>
 																			</td>
 																		</tr>
 																		<tr>
@@ -158,7 +158,7 @@
 																				</tr>
 																				<tr>
 																					<td align="center" class="new_price" style="color: #212121; font-size: 24px; font-family: 'Montserrat', Arial;  text-transform: none; text-align: center; line-height: normal">
-																						<font color="#212121"><strong>$400.99</strong></font>
+																						<font color="#212121" size="4"><strong>$400.99</strong></font>
 																					</td>
 																				</tr>
 																				<tr>
@@ -208,7 +208,7 @@
 																						</tr>
 																						<tr>
 																							<td align="center" class="new_price" style="color: #212121; font-size: 24px; font-family: 'Montserrat', Arial;  text-transform: none; text-align: center; line-height: normal">
-																								<font color="#212121"><strong>$400.99</strong></font>
+																								<font color="#212121" size="4"><strong>$400.99</strong></font>
 																							</td>
 																						</tr>
 																						<tr>

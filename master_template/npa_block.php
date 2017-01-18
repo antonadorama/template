@@ -72,7 +72,7 @@
 										</tr>
 										<tr>
 											<td class="NPABlockcopy" align="center" style="display: block; color: #212121; font-size: 38px; font-family: 'Montserrat', Arial;  text-transform: none; text-align: left;">
-                        <font color="#212121"><strong>$2,249.00</strong></font>
+                        <font color="#212121" size="5"><strong>$2,249.00</strong></font>
 											</td>
 										</tr>
 										<tr>

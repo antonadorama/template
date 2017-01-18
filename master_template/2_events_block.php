@@ -6,7 +6,9 @@
 						<table align="center" cellpadding="0" cellspacing="0" border="0" class="wrap99" width="320">
 							<tbody>
 								<tr>
-									<td bgcolor="#00589F" align="center" style="font-family: 'Open Sans', Arial; font-size: 15px; color: #ffffff; padding: 12px 0">Commercial Portraits on a Budget</td>
+									<td bgcolor="#00589F" align="center" style="font-family: 'Open Sans', Arial; font-size: 15px; color: #ffffff; padding: 12px 0" height="30">
+										<font color="#ffffff" size="3" face="'Open Sans', Arial;"> Commercial Portraits on a Budget</font>
+									</td>
 								</tr>
 								<tr>
 									<td class="event" bgcolor="#00589F" align="center">
@@ -24,17 +26,13 @@
 														<div style="display:block; width: 100%; padding: 0 0 5px 0">
 															<img src="http://php-project-antonadorama658454.codeanyapp.com/store%20events/jan10.jpg" alt="" border="0" style="display:block; margin: 0 auto" />
 														</div>
-														<div style="display:block; width: 100%; padding: 0 0 5px 0">
-                                                                                            Tue, January 10, 2017
-                                                                                        </div>
+														<div style="display:block; width: 100%; padding: 0 0 5px 0"><font color="#000001" size="2">Tue, January 10, 2017</font></div>
 													</td>
 													<td align="center" style="font-family: 'Open Sans', Arial; font-size: 14px; color: #000000; padding: 12px 0">
 														<div class="dateicon" style="display:block; width: 100%; padding: 0 0 5px 0">
 															<img src="http://php-project-antonadorama658454.codeanyapp.com/store%20events/jan10.jpg" alt="" border="0" style="display:block; margin: 0 auto" />
 														</div>
-														<div style="display:block; width: 100%; padding: 0 0 5px 0">
-                                                                                            6:00 PM – 7:30 PM EST
-                                                                                        </div>
+														<div style="display:block; width: 100%; padding: 0 0 5px 0"><font color="#000001" size="2">6:00 PM – 7:30 PM EST</font></div>
 													</td>
 												</tr>
 											</tbody>
@@ -43,12 +41,12 @@
 								</tr>
 								<tr>
 									<td bgcolor="#FFFFFF" align="center" style="font-family: 'Open Sans', Arial; font-size: 14px; color: #000000; padding: 12px 0">
-                                                                        Join photographer and author, Jeff Rojas as he discusses the art of photographing commercial portraits on a budget.
-                                                                        
+										<center><font color="#000001" size="2">Join photographer and author, Jeff Rojas as he discusses the art of photographing commercial portraits on a budget.</font></center>
 										<br>
 											<a linkname="" href="#" style="color: #00589F; text-decoration: none">
 												<strong>LEARN MORE &rsaquo;</strong>
 											</a>
+										<br><br>
 										</td>
 									</tr>
 								</tbody>
@@ -58,7 +56,9 @@
 							<table align="center" cellpadding="0" cellspacing="0" border="0" class="wrap99" width="320">
 								<tbody>
 									<tr>
-										<td bgcolor="#00589F" align="center" style="font-family: 'Open Sans', Arial; font-size: 15px; color: #ffffff; padding: 12px 0">Developing a Style - From Zero to Niche</td>
+										<td bgcolor="#00589F" align="center" style="font-family: 'Open Sans', Arial; font-size: 15px; color: #ffffff; padding: 12px 0" height="30">
+											<font color="#ffffff" size="3" face="'Open Sans', Arial;">Developing a Style - From Zero to Niche</font>
+										</td>
 									</tr>
 									<tr>
 										<td class="event" bgcolor="#00589F" align="center">
@@ -76,17 +76,13 @@
 															<div style="display:block; width: 100%; padding: 0 0 5px 0">
 																<img src="http://php-project-antonadorama658454.codeanyapp.com/store%20events/jan10.jpg" alt="" border="0" style="display:block; margin: 0 auto" />
 															</div>
-															<div style="display:block; width: 100%; padding: 0 0 5px 0">
-                                                                                            Wed, January 11, 2017
-                                                                                        </div>
+															<div style="display:block; width: 100%; padding: 0 0 5px 0"><font color="#000001" size="2">Wed, January 11, 2017</font></div>
 														</td>
 														<td width="50%" align="center" style="font-family: 'Open Sans', Arial; font-size: 14px; color: #000000; padding: 12px 0">
 															<div class="dateicon" style="display:block; width: 100%; padding: 0 0 5px 0">
 																<img src="http://php-project-antonadorama658454.codeanyapp.com/store%20events/jan10.jpg" alt="" border="0" style="display:block; margin: 0 auto" />
 															</div>
-															<div style="display:block; width: 100%; padding: 0 0 5px 0">
-                                                                                            6:00 PM – 7:30 PM EST
-                                                                                        </div>
+															<div style="display:block; width: 100%; padding: 0 0 5px 0"><font color="#000001" size="2">6:00 PM – 7:30 PM EST</font></div>
 														</td>
 													</tr>
 												</tbody>
@@ -95,12 +91,12 @@
 									</tr>
 									<tr>
 										<td bgcolor="#FFFFFF" align="center" style="font-family: 'Open Sans', Arial; font-size: 14px; color: #000000; padding: 12px 0">
-                                                                        If you’re the photographer who shoots everything, but hasn’t mastered anything, this is the workshop for you. 
-                                                                        
+											<center><font color="#000001" size="2">If you’re the photographer who shoots everything, but hasn’t mastered anything, this is the workshop for you.</font></center>                                                                        
 											<br>
 												<a linkname="" href="#" style="color: #00589F; text-decoration: none">
 													<strong>LEARN MORE &rsaquo;</strong>
 												</a>
+											<br>
 											</td>
 										</tr>
 									</tbody>

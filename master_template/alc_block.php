@@ -38,21 +38,23 @@
 									</table>
 									<!-- end column left -->
 								</td>
-								<td valign="top" class="split" width="320" align="center">
+								<td valign="middle" class="split" width="320" align="center">
 									<!-- column right -->
 									<table class="wrap100" align="center" width="95%" bgcolor="#ffffff" border="0" cellspacing="2" cellpadding="2">
 										<tbody>
 											<tr>
 												<td align="center" valign="top" style="font-size: 16px; font-family: 'Open Sans', Arial, Helvetica, sans-serif; color: #000001; padding-top: 5px; padding-bottom: 2px">
 													<a linkname="ALC_Title_Computers_110616" href="http://www.adorama.com/alc/seven-tips-to-make-your-recording-studio-computer-run-faster?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=ALC&utm_content=Header&utm_campaign=EmailEarlyBlackFridayAudio110316" style="text-decoration:none; color:#163458">
-														<strong>
-Gifts for the Audio Enthusiast</strong>
+														<font color="#163458"><strong>
+Gifts for the Audio Enthusiast</strong></font>
 													</a>
 												</td>
 											</tr>
 											<tr>
-												<td align="center" valign="top" style="font-size: 14px; font-family: 'Open Sans', Arial, Helvetica, sans-serif; color: #163458">Whether you're looking for a big sound out of your MP3 player or portable system, need a compact shelf system, or are ready to go old-school and build a big ole component-based sound system, we've got highly-rated choices that will produce every sound imaginable.
-                                                                                        </td>
+												<td align="center" valign="top" style="font-size: 14px; font-family: 'Open Sans', Arial, Helvetica, sans-serif; color: #163458">
+													<font color="#163458" size="2" face="'Open Sans', Arial, Helvetica, sans-serif">Whether you're looking for a big sound out of your MP3 player or portable system, need a compact shelf system, or are ready to go old-school and build a big ole component-based sound system, we've got highly-rated choices that will produce every sound imaginable.</font>
+														
+														</td>
 											</tr>
 											<tr>
 												<td align="center" style="padding-top: 0; padding-bottom: 0">
@@ -60,7 +62,7 @@ Gifts for the Audio Enthusiast</strong>
 														<tr>
 															<td class="Btn" align="right" valign="middle" style="font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-size: 15px; color: #163458">
 																<a linkname="ALC_CTAText_AudioDeals_110616" href="http://www.adorama.com/alc/seven-tips-to-make-your-recording-studio-computer-run-faster?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=ALC&utm_content=Header&utm_campaign=EmailEarlyBlackFridayAudio110316" style="color: #163458; text-decoration: none">
-																	<strong>Read More</strong>
+																	<font color="#163458"><strong>Read More</strong></font>
 																</a>
 															</td>
 															<td align="left" valign="middle">

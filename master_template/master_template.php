@@ -352,13 +352,23 @@
                               <!--Content-->
                               <tr>
                                 <td>
-																	<?php include("store events/header_strip.php"); ?>
+																	<?php include("master_template/strip_header.php"); ?>
 																	<?php include("master_template/npa_block.php"); ?>
+																	
+																	<?php include("master_template/devider.php"); ?>
+																	
 																	<?php include("master_template/4products_block.php"); ?>
+																	
+																	<?php include("master_template/devider.php"); ?>
+																	
 																	<?php include("master_template/alc_block.php"); ?>
+																	
 																	<?php include("master_template/banner_block.php"); ?>
+																	
 																	<?php include("master_template/2_events_block.php"); ?>
+																	
                                   <?php include("master_template/learn_more_block.php"); ?>
+																	
 																	<?php include("master_template/2products_block.php"); ?>
 																	
                                 </td>

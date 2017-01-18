@@ -9,7 +9,7 @@
 												<td >
                           <table align="center" style="font-family: 'Open Sans', Arial; font-size: 17px; color: #ffffff; padding: 12px 0px 12px 0px">
                             <tr>
-                              <td height="30px"><font style="color:#ffffff !important; font-weight:bold;">SALE OF THE WEEK</font></td>
+                              <td height="30px"><font style="color:#ffffff !important; font-weight:bold;" color="#ffffff" size="3">SALE OF THE WEEK</font></td>
                             </tr>
                           </table>
                           
