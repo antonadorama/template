@@ -15,11 +15,13 @@
 														<tbody>
 															<tr>
 																<td height="40" valign="top" style="font-size: 14px; font-family: 'Open Sans', Arial, Helvetica, sans-serif; color: #000001; text-align: center; line-height: 18px">
+																	<center>
 																	<strong>
 																		<font color="#016797">$50 Holiday Savings</font>
 																		<br />
-																		<font color="#000000">Rode Microphones VideoMic Pro R Cardioid Condenser Microphone</font>
+																		<font color="#000001">Rode Microphones VideoMic Pro R Cardioid Condenser Microphone</font>
 																	</strong>
+																		</center>
 																</td>
 															</tr>
 															<tr>
@@ -44,11 +46,12 @@
 														<tbody>
 															<tr>
 																<td style="font-size: 21px; font-family: 'Open Sans', Arial, Helvetica, sans-serif; color: #016797; text-align: center; line-height: 20px">
-																	<strong>$179.00</strong>
+																	<center><font size="4" color="#016797"><strong>$179.00</strong></font></center>
 																</td>
 															</tr>
 															<tr>
-																<td style="font-size: 15px; font-family: 'Open Sans', Arial, Helvetica, sans-serif; color: #000001; text-decoration:line-through; text-align: center; line-height: 20px">Reg. $229.00</td>
+																<td style="font-size: 15px; font-family: 'Open Sans', Arial, Helvetica, sans-serif; color: #000001; text-decoration:line-through; text-align: center; line-height: 20px">
+																	<center><strike><font color="#000001">Reg. $229.00</font></strike></center></td>
 															</tr>
 															<tr>
 																<td height="8"></td>
@@ -60,7 +63,8 @@
 																			<tr>
 																				<td width="7" bgcolor="#fe7d00"></td>
 																				<td height="35" valign="middle" align="center" bgcolor="#fe7d00" style="font-size: 15px; font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-weight: bold; color: #ffffff; line-height: 20px">
-																					<a linkname="P_CTA_Rode_110616" href="http://www.adorama.com/RDVIDEOMICPR.html?emailprice=t&refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Sale&utm_content=Body&utm_campaign=EmailEarlyBlackFridayAudio110316" style="text-decoration: none; color: #ffffff">BUY NOW</a>
+																					<a linkname="P_CTA_Rode_110616" href="http://www.adorama.com/RDVIDEOMICPR.html?emailprice=t&refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Sale&utm_content=Body&utm_campaign=EmailEarlyBlackFridayAudio110316" style="text-decoration: none; color: #ffffff">
+																						BUY NOW</a>
 																				</td>
 																				<td width="7" bgcolor="#fe7d00"></td>
 																			</tr>
@@ -92,11 +96,13 @@
 														<tbody>
 															<tr>
 																<td height="40" valign="top" style="font-size: 14px; font-family: 'Open Sans', Arial, Helvetica, sans-serif; color: #000001; text-align: center; line-height: 18px">
+																	<center>
 																	<strong>
 																		<font color="#016797">$30 Holiday Savings</font>
 																		<br />
-																		<font color="#000000">Zoom H4n Pro Handy Mobile 4-Track Recorder</font>
+																		<font color="#000001">Zoom H4n Pro Handy Mobile 4-Track Recorder</font>
 																	</strong>
+																	</center>
 																</td>
 															</tr>
 															<tr>
@@ -121,11 +127,13 @@
 														<tbody>
 															<tr>
 																<td style="font-size: 21px; font-family: 'Open Sans', Arial, Helvetica, sans-serif; color: #016797; text-align: center; line-height: 20px">
-																	<strong>$169.99</strong>
+																	<center><strong><font size="4" color="#016797">$169.99</font></strong></center>
 																</td>
 															</tr>
 															<tr>
-																<td style="font-size: 15px; font-family: 'Open Sans', Arial, Helvetica, sans-serif; color: #000001; text-decoration:line-through; text-align: center; line-height: 20px">Reg. $199.99</td>
+																<td style="font-size: 15px; font-family: 'Open Sans', Arial, Helvetica, sans-serif; color: #000001; text-decoration:line-through; text-align: center; line-height: 20px">
+																	<center><strike><font color="#000001">Reg. $199.99</font></strike></center>
+																</td>
 															</tr>
 															<tr>
 																<td height="8"></td>
@@ -137,7 +145,8 @@
 																			<tr>
 																				<td width="7" bgcolor="#fe7d00"></td>
 																				<td height="35" valign="middle" align="center" bgcolor="#fe7d00" style="font-size: 15px; font-family: 'Open Sans', Arial, Helvetica, sans-serif; font-weight: bold; color: #ffffff; line-height: 20px">
-																					<a linkname="P_CTA_Zoom_110616" href="http://www.adorama.com/ZOH4NPRO.html?emailprice=t&refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Deals&utm_content=Header&utm_campaign=EmailEarlyBlackFridayAudio110316" style="text-decoration: none; color: #ffffff">BUY NOW</a>
+																					<a linkname="P_CTA_Zoom_110616" href="http://www.adorama.com/ZOH4NPRO.html?emailprice=t&refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Deals&utm_content=Header&utm_campaign=EmailEarlyBlackFridayAudio110316" style="text-decoration: none; color: #ffffff">
+																						BUY NOW</a>
 																				</td>
 																				<td width="7" bgcolor="#fe7d00"></td>
 																			</tr>

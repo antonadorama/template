@@ -353,6 +353,7 @@
                               <tr>
                                 <td>
 																	<?php include("master_template/strip_header.php"); ?>
+																	
 																	<?php include("master_template/npa_block.php"); ?>
 																	
 																	<?php include("master_template/devider.php"); ?>
@@ -370,6 +371,10 @@
                                   <?php include("master_template/learn_more_block.php"); ?>
 																	
 																	<?php include("master_template/2products_block.php"); ?>
+																	
+																	<?php include("master_template/event_banner.php"); ?>
+																	
+																	<?php include("master_template/devider.php"); ?>
 																	
                                 </td>
                               </tr>
