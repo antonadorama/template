@@ -1,26 +1,45 @@
 <?php 
 
-      $data = array(      
-      
-        "utm_compaign" => "Email011717NonVIP3podV3ahTripodFlashSale",
-       
-        
-        "product_page_link" => "https://www.adorama.com/fp3pv3ah.html",
-        "product_page_linkname" => "D_FP_V3AHTripod_011717",
-        "product_page_image" =>"821/adorama_1-17_flashsale_desktop_non-vip.jpg",
-        "height" => "981",
-        "product_page_image_alt" => "3Pod V3AH Video Tripod System Anodized Aluminum with 2-way Fluid Head ",
-        "product_page_image_mobile" => "821/adorama_1-17_flashsale_mobile_non-vip.jpg",
-        
+    $name = $_POST['name'];
 
+    $utm = $_POST['utm'];
+
+    $link = $_POST['link'];
+
+    $linkname = $_POST['linkname'];
+
+    $dimage = $_POST['dimage'];
+
+    $height = $_POST['height'];
+
+    $mimage = $_POST['mimage'];
+
+    $ttl = $_POST['ttl'];
+
+
+$data = array(      
+      
         
+        "product_page_image_alt" => $name,
+  
+        "product_page_link" => $link,  
         
-        "ttl"  => "Get 38% OFF the 3Pod V3AH Video Tripod with a 2-way Fluid Head & Quick-Release Plate! Shop Now"     
+        "product_page_linkname" => $linkname,
+  
+        "product_page_image" => $dimage,
         
+        "height" => $height,
+  
+        "product_page_image_mobile" => $mimage,
+  
+        "utm_compaign" => $utm,
+  
+        "ttl"  => $ttl       
 
     );
 
 ?>
+
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html
@@ -688,7 +707,7 @@
 																					<a href="" linkname="Forward to a Friend"> Forward to a Friend</a>
 																				</strong> &nbsp; | &nbsp; 
 																				<strong>
-																					<a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=&pageMode=unsubscribe&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>#emailpref" linkname="Unsubscribe" style="color: inherit; text-decoration:none">Unsubscribe</a>
+																					<a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=&pageMode=unsubscribe&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>#emailpref" target="_blank" linkname="Unsubscribe" style="color: inherit; text-decoration:none">Unsubscribe</a>
 																				</strong>
 																			</p>
 																		</td>
@@ -716,3 +735,5 @@
 										<p>&nbsp;</p>
 									</body>
 								</html>
+                
+ 

@@ -2,24 +2,24 @@
 
       $data = array(      
       
-        "utm_compaign" => "Email011717NonVIP3podV3ahTripodFlashSale",
-       
+        "utm_compaign" => "EmailWeekendPromo012017",
+         "ttl"  => "Save Up To 60% - What A Dream! Shop Now"
         
-        "product_page_link" => "https://www.adorama.com/fp3pv3ah.html",
-        "product_page_linkname" => "D_FP_V3AHTripod_011717",
-        "product_page_image" =>"821/adorama_1-17_flashsale_desktop_non-vip.jpg",
-        "height" => "981",
-        "product_page_image_alt" => "3Pod V3AH Video Tripod System Anodized Aluminum with 2-way Fluid Head ",
-        "product_page_image_mobile" => "821/adorama_1-17_flashsale_mobile_non-vip.jpg",
-        
+      );
 
-        
-        
-        "ttl"  => "Get 38% OFF the 3Pod V3AH Video Tripod with a 2-way Fluid Head & Quick-Release Plate! Shop Now"     
-        
 
-    );
+      $slice1 = array(
 
+          "link" => "https://www.adorama.com/specials",
+          "name" => "Weekend Deals",
+          "image" => "851/Weekend-Deals_header.gif",
+          "height" => "520",
+          "linkname" => "WeekendDeals"
+
+        );
+
+
+      
 ?>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -168,7 +168,7 @@
             *[class=menuwrapper] {
                 display: block !important;
                 text-align: center !important;
-                padding: 15px 0 15px 0 !important;
+                padding: 15px 0 10px 0 !important;
                 width: 100% !important;
                 height: auto !important;
             }
@@ -421,19 +421,25 @@
                                       <!--  Banner -->
 																			<table align="center" border="0" cellpadding="0" cellspacing="0" class="mobno" width="638">
 																				<tbody>
-																					<tr>
+																					
+                                          <tr>
 																						<td bgcolor="#f7f7f7" height="1" width="638">
 																							<img alt="" border="0" height="1" src="global/sp.gif" style="display: block; margin-top: -60px" width="1" />
 																						</td>
 																					</tr>
+                                          
+                                          <!--Slice 1-->
 																					<tr>
 																						<td>
-																							<a href="<?php echo $data["product_page_link"];?>&hotlink=t&refby=slgt&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="<?php echo $data["product_page_linkname"];?>" target="_blank">
-																								<img alt="<?php echo $data["product_page_image_alt"];?>" border="0" height="<?php echo $data["height"];?>" src="image_library/org_1/<?php echo $data["product_page_image"];?>" style="display:block;" width="640" />
+																							<a href="<?php echo $slice1['link'];?>" linkname="<?php echo  $slice1['linkname'];?>" target="_blank">
+																								<img alt="<?php echo $slice1["name"];?>" border="0" height="<?php echo $slice1['height'];?>" src="image_library/org_1/<?php echo $slice1["image"];?>" style="display:block;" width="640" />
 																							</a>
 																						</td>
 																					</tr>
-
+																					<!--Slice 1->
+				
+																				
+                                          
 																					<tr>
 																						<td bgcolor="#f7f7f7" height="1" width="638">
 																							<img alt="" border="0" height="1" src="global/sp.gif" style="display: block" width="1" />
@@ -451,13 +457,18 @@
 																						<td class="cta">
 																							<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 																								<tbody>
+                                                  
+                                                  <!--Slice 1-->
 																									<tr>
 																										<td>
-																											<a href="<?php echo $data["product_page_link"] ?>?emailprice=t&hotlink=t&refby=slgt&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="<?php echo $data["product_page_linkname"] ?>" target="_blank">
-																												<img alt="<?php echo $data["product_page_image_alt"] ?>" border="0" height="auto" src="image_library/org_1/<?php echo $data["product_page_image_mobile"] ?>" style="display:block;" width="100%" />
+																											<a href="<?php echo $slice1['link'];?>&hotlink=t&refby=slgt&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="<?php echo $slice1['linkname'];?>" target="_blank">
+																												<img alt="<?php echo $slice1["name"];?>" border="0" height="auto" src="image_library/org_1/<?php echo $slice1["image"];?>" style="display:block;" width="100%" />
 																											</a>
 																										</td>
 																									</tr>
+																									<!--Slice 1-->
+                                                  
+	
 
 																									<tr>
 																										<td bgcolor="#f7f7f7" height="1" width="320">
@@ -681,14 +692,14 @@
 																		<td class="bottomlinkscredentials" style="color: #A7A9AC; font-size: 14px; text-align: center; padding: 20px 0 10px 0">
 																			<p style="padding: 0 30px">Email sent to: 
 																				<a href="" style="color: inherit; text-decoration:none">##EMAIL_ADDRESS##</a> &nbsp; | &nbsp; 
-																				<a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&utm_source=slgt&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>&pageMode=manage#emailpref" linkname="Preferences" style="color: inherit; text-decoration:none; white-space:nowrap">
+																				<a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=&utm_source=slgt&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>&pageMode=manage#emailpref" linkname="Preferences" style="color: inherit; text-decoration:none; white-space:nowrap">
 																					<b>Manage Preferences</b>
 																				</a> &nbsp; | &nbsp;&nbsp;
 																				<strong>
 																					<a href="" linkname="Forward to a Friend"> Forward to a Friend</a>
 																				</strong> &nbsp; | &nbsp; 
 																				<strong>
-																					<a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=&pageMode=unsubscribe&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>#emailpref" linkname="Unsubscribe" style="color: inherit; text-decoration:none">Unsubscribe</a>
+																					<a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=&pageMode=unsubscribe&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>#emailpref" target="_blank" linkname="Unsubscribe" style="color: inherit; text-decoration:none">Unsubscribe</a>
 																				</strong>
 																			</p>
 																		</td>

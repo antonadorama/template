@@ -2,20 +2,20 @@
 
       $data = array(      
       
-        "utm_compaign" => "Email011717NonVIP3podV3ahTripodFlashSale",
+        "utm_compaign" => "Email012017nonvipNikonD5300FlashSale",
        
         
-        "product_page_link" => "https://www.adorama.com/fp3pv3ah.html",
-        "product_page_linkname" => "D_FP_V3AHTripod_011717",
-        "product_page_image" =>"821/adorama_1-17_flashsale_desktop_non-vip.jpg",
-        "height" => "981",
-        "product_page_image_alt" => "3Pod V3AH Video Tripod System Anodized Aluminum with 2-way Fluid Head ",
-        "product_page_image_mobile" => "821/adorama_1-17_flashsale_mobile_non-vip.jpg",
+        "product_page_link" => "https://www.adorama.com/inkd5300bk1r.html?emailprice=t",
+        "product_page_linkname" => "D_FP_Nikon_D5300_011717",
+        "product_page_image" =>"847/adorama_1-19_flashsale_desktop_non-vip.jpg",
+        "height" => "1362",
+        "product_page_image_alt" => "Nikon D5300 24.1MP DX-Format Digital SLR Camera",
+        "product_page_image_mobile" => "847/adorama_1-19_flashsale_mobile_non-vip.jpg",
         
 
         
         
-        "ttl"  => "Get 38% OFF the 3Pod V3AH Video Tripod with a 2-way Fluid Head & Quick-Release Plate! Shop Now"     
+        "ttl"  => "Don't Miss Your Chance to Save Big on the Nikon D5300 - Shop Now!"     
         
 
     );
@@ -688,7 +688,7 @@
 																					<a href="" linkname="Forward to a Friend"> Forward to a Friend</a>
 																				</strong> &nbsp; | &nbsp; 
 																				<strong>
-																					<a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=&pageMode=unsubscribe&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>#emailpref" linkname="Unsubscribe" style="color: inherit; text-decoration:none">Unsubscribe</a>
+																					<a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=&pageMode=unsubscribe&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>#emailpref" target="_blank" linkname="Unsubscribe" style="color: inherit; text-decoration:none">Unsubscribe</a>
 																				</strong>
 																			</p>
 																		</td>

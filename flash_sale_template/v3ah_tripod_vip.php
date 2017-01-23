@@ -699,7 +699,7 @@
 																		<td class="bottomfinal">
 																			<p style="padding: 0 30px; text-align: center; margin: 5px">Please add info@shop.adorama.com to your email address book or white list.</p>
 																			<p style="padding: 0 30px; text-align: center; margin: 5px">Products are subject to price change and availability. Not responsible for typographical errors.</p>
-																			<p style="padding: 0 30px; text-align: center; margin: 5px">&copy; 2016 Adorama Camera, Inc. All rights reserved. | 
+																			<p style="padding: 0 30px; text-align: center; margin: 5px">&copy; 2017 Adorama Camera, Inc. All rights reserved. | 
 																				<a href="http://www.adorama.com/help/termsAndConditions" linkname="Terms" style="color: inherit; text-decoration:underline">Terms</a> | 
 																				<a href="http://www.adorama.com/help/termsAndConditions" linkname="Privacy" style="color: inherit; text-decoration: underline">Privacy</a>
 																			</p>
