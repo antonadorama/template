@@ -29,15 +29,13 @@
   <nav class="navbar navbar-inverse">
     <div class="container-fluid">
       <div class="navbar-header">
-        <a class="navbar-brand" href="#" style="height:70px !important;">
+        <a class="navbar-brand" href="#" style="height:70px;">
           <img alt="Brand" src="https://www.adorama.com/artworks2/adorama-logo.png">
           </a>
         
         </div>
       </div>
-   
-      <p class="navbar-text navbar-center">Flash Sale</p>
-      
+         
     </nav>
     <div class="container-fluid">
       <div class="row row-centered">
@@ -73,7 +71,7 @@
                           </div>
                           <div class="form-group">
                             <label for="ttl">TTL</label>
-                            <input type="ttl" class="form-control" id="ttl" value="Hurry and Save 40% OFF our 2TB WD My Passport Ultra. Shop Now!" name="ttl" name="ttl">
+                            <input type="ttl" class="form-control" id="ttl" value="Hurry and Save 41% OFF our 2TB WD My Passport Ultra. Shop Now!" name="ttl" name="ttl">
                             </div>
                             <button type="submit" class="btn btn-primary" formtarget="_blank">Submit</button>
                             <button type="reset" class="btn btn-danger">Reset</button>
