@@ -472,7 +472,7 @@ $data = array(
 																								<tbody>
 																									<tr>
 																										<td>
-																											<a href="<?php echo $data["product_page_link"] ?>?emailprice=t&hotlink=t&refby=slgt&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="<?php echo $data["product_page_linkname"] ?>" target="_blank">
+																											<a href="<?php echo $data["product_page_link"] ?>&hotlink=t&refby=slgt&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="<?php echo $data["product_page_linkname"] ?>" target="_blank">
 																												<img alt="<?php echo $data["product_page_image_alt"] ?>" border="0" height="auto" src="image_library/org_1/<?php echo $data["product_page_image_mobile"] ?>" style="display:block;" width="100%" />
 																											</a>
 																										</td>
@@ -707,7 +707,7 @@ $data = array(
 																					<a href="" linkname="Forward to a Friend"> Forward to a Friend</a>
 																				</strong> &nbsp; | &nbsp; 
 																				<strong>
-																					<a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=&pageMode=unsubscribe&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>#emailpref" target="_blank" linkname="Unsubscribe" style="color: inherit; text-decoration:none">Unsubscribe</a>
+																					<a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=unsubscribe&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>#emailpref" target="_blank" linkname="Unsubscribe" style="color: inherit; text-decoration:none">Unsubscribe</a>
 																				</strong>
 																			</p>
 																		</td>

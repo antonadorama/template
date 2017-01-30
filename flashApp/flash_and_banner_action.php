@@ -1,28 +1,58 @@
 <?php 
 
-      $data = array(      
+    $utm = $_POST['utm'];
+    $ttl = $_POST['ttl'];
+    
+    $name = $_POST['name'];
+    $link = $_POST['link'];
+    $linkname = $_POST['linkname'];
+    $dimage = $_POST['dimage'];
+    $height = $_POST['height'];
+    $mimage = $_POST['mimage'];
+
+    $fname = $_POST['fname'];
+    $flink = $_POST['flink'];
+    $flinkname = $_POST['flinkname'];
+    $fimage = $_POST['fimage'];
+    $fheight = $_POST['fheight'];
+       
+
+
+$data = array(      
       
-        "utm_compaign" => "Email011117NonVIPManfrottoFlashSale",
-        "link_name" => "122516",
         
-        "product_page_link" => "https://www.adorama.com/bgmt190goaba.html",
-        "product_page_linkname" => "D_FP_Manfrotto_011117",
-        "product_page_image" =>"adorama_1-11_flashsale_desktop_non-vip.jpg",
-        "product_page_image_alt" => "Manfrotto 190Go! 4-Section Aluminum Tripod Black W/Manfrotto MVH502AH Video Head",
-        "product_page_image_mobile" => "adorama_1-11_flashsale_mobile_non-vip.jpg",
+        "utm_compaign" => $utm,
+  
+        "ttl"  => $ttl,
+  
+  
+        "product_page_image_alt" => $name,
+  
+        "product_page_link" => $link,  
         
-        "footer_banner_link" => "https://www.adorama.com/bgmt190goaba.html",
-        "footer_banner_linkname" => "D_FP_Manfrotto_011117",
-        "footer_banner_image" =>"adorama_1-11_flashsale_desktop_non-vip.jpg",
-        "footer_banner_image_alt" => "Manfrotto 190Go! 4-Section Aluminum Tripod Black W/Manfrotto MVH502AH Video Head",
+        "product_page_linkname" => $linkname,
+  
+        "product_page_image" => $dimage,
         
-        
-        "offer_text"  => "Exclusive Offer"     
-        
+        "height" => $height,
+  
+        "product_page_image_mobile" => $mimage,
+  
+         
+        "footer_banner_image_alt" => $fname,
+  
+        "footer_banner_link" => $flink,
+  
+        "footer_banner_linkname" => $flinkname,
+  
+        "footer_banner_image"  => $fimage,
+  
+        "footer_banner_image_height" => $fheight
 
     );
 
 ?>
+
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html
@@ -170,7 +200,7 @@
             *[class=menuwrapper] {
                 display: block !important;
                 text-align: center !important;
-                padding: 40px 0 0 0 !important;
+                padding: 15px 0 15px 0 !important;
                 width: 100% !important;
                 height: auto !important;
             }
@@ -350,7 +380,7 @@
 																				<tbody>
 																					<tr>
 																						<td class="logobrowser" style="width: 470px; color: #A7A9AC; font-size: 14px; padding: 20px 0;">
-																							<span class="offer"><?php echo $data["offer_text"];?> | </span>
+																							<span class="offer"><?php echo $data["ttl"];?> | </span>
 																							<a href="" linkname="View In Browser" style="color: #A7A9AC; text-decoration: underline" target="_blank">view in a browser</a>
 																						</td>
 																						<td align="right" class="socialtopblock" style="color: #A7A9AC; font-size: 14px; padding-top: 15px; padding-bottom: 10px">
@@ -428,25 +458,25 @@
 																							<img alt="" border="0" height="1" src="global/sp.gif" style="display: block; margin-top: -60px" width="1" />
 																						</td>
 																					</tr>
+                                          
 																					<tr>
 																						<td>
-																							<a href="<?php echo $data["product_page_link"];?>?emailprice=t&hotlink=t&refby=slgt&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="<?php echo $data["product_page_linkname"];?>" target="_blank">
-																								<img alt="<?php echo $data["product_page_image_alt"];?>" border="0" height="971" src="image_library/org_1/787/<?php echo $data["product_page_image"];?>" style="display:block;" width="640" />
+																							<a href="<?php echo $data["product_page_link"];?>&hotlink=t&refby=slgt&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="<?php echo $data["product_page_linkname"];?>" target="_blank">
+																								<img alt="<?php echo $data["product_page_image_alt"];?>" border="0" height="<?php echo $data["height"];?>" src="image_library/org_1/<?php echo $data["product_page_image"];?>" style="display:block;" width="640" />
 																							</a>
 																						</td>
 																					</tr>
-																					<!--AmEx FOOTER STRIP-->
+                                          
+                                          <!--Botttom Banner-->
 																					<tr>
 																						<td>
-																							<a href="<?php echo $data["footer_banner_link"];?>?emailprice=t&hotlink=t&refby=slgt&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="<?php echo $data["footer_banner_linkname"];?>" target="_blank">
-																								<img alt="<?php echo $data["footer_banner_image_alt"];?>" border="0" height="150" src="image_library/org_1/787/<?php echo $data["footer_banner_image"];?>" style="display:block;" width="640" />
+																							<a href="<?php echo $data["footer_banner_link"];?>&hotlink=t&refby=slgt&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="<?php echo $data["footer_banner_linkname"];?>" target="_blank">
+																								<img alt="<?php echo $data["footer_banner_image_alt"];?>" border="0" height="<?php echo $data["footer_banner_image_height"];?>" src="image_library/org_1/<?php echo $data["footer_banner_image"];?>" style="display:block;" width="640" />
 																							</a>
 																						</td>
 																					</tr>
-																					<!--END AmEx FOOTER STRIP-->
-																					
-																					
-																					
+																					<!--End Bottom Banner-->
+
 																					<tr>
 																						<td bgcolor="#f7f7f7" height="1" width="638">
 																							<img alt="" border="0" height="1" src="global/sp.gif" style="display: block" width="1" />
@@ -454,13 +484,6 @@
 																					</tr>
 																				</tbody>
 																			</table>
-																			
-																			<table align="center" border="0" cellpadding="0" cellspacing="0" width="638">
-																				<tbody>
-																					<?php include_once("flash_sale_template/test.php"); ?>
-																				</tbody>
-																			</table>
-																			
                                       
 																			<!--REVEAL MOBILE 250px IMAGE-->
 																			<!--[if !mso]>
@@ -471,24 +494,25 @@
 																						<td class="cta">
 																							<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 																								<tbody>
+                                                  
 																									<tr>
 																										<td>
-																											<a href="<?php echo $data["product_page_link"] ?>?emailprice=t&hotlink=t&refby=slgt&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="<?php echo $data["product_page_linkname"] ?>" target="_blank">
-																												<img alt="<?php echo $data["product_page_image_alt"] ?>" border="0" height="auto" src="image_library/org_1/787/<?php echo $data["product_page_image_mobile"] ?>" style="display:block;" width="100%" />
+																											<a href="<?php echo $data["product_page_link"] ?>&hotlink=t&refby=slgt&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="<?php echo $data["product_page_linkname"] ?>" target="_blank">
+																												<img alt="<?php echo $data["product_page_image_alt"] ?>" border="0" height="auto" src="image_library/org_1/<?php echo $data["product_page_image_mobile"] ?>" style="display:block;" width="100%" />
 																											</a>
 																										</td>
 																									</tr>
-																									<!--AMEX FOOTER STRIP-->
+                                                  
+                                                  <!--Bottom Banner-->
 																									<tr>
 																										<td>
-																											<a href="<?php echo $data["footer_banner_link"];?>?emailprice=t&hotlink=t&refby=slgt&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="<?php echo $data["footer_banner_linkname"];?>" target="_blank">
-																												<img alt="<?php echo $data["footer_banner_image_alt"];?>" border="0" height="auto" src="image_library/org_1/787/<?php echo $data["footer_banner_image"];?>" style="display:block;" width="100%" />
+																											<a href="<?php echo $data["footer_banner_link"];?>&hotlink=t&refby=slgt&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="<?php echo $data["footer_banner_linkname"];?>" target="_blank">
+																												<img alt="<?php echo $data["footer_banner_image_alt"];?>" border="0" height="auto" src="image_library/org_1/<?php echo $data["footer_banner_image"];?>" style="display:block;" width="100%" />
 																											</a>
 																										</td>
 																									</tr>
-																									<!--END AMEX FOOTER STRIP-->
-																									<!--November Rebates FOOTER STRIP-->
-																									<!--November Rebates FOOTER STRIP-->
+																									<!--END Bottom Banner-->
+
 																									<tr>
 																										<td bgcolor="#f7f7f7" height="1" width="320">
 																											<img alt="" border="0" height="1" src="global/sp.gif" style="display: block" width="1" />
@@ -718,7 +742,7 @@
 																					<a href="" linkname="Forward to a Friend"> Forward to a Friend</a>
 																				</strong> &nbsp; | &nbsp; 
 																				<strong>
-																					<a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=unsubscribe&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>#emailpref" linkname="Unsubscribe" style="color: inherit; text-decoration:none">Unsubscribe</a>
+																					<a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=unsubscribe&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>#emailpref" target="_blank" linkname="Unsubscribe" style="color: inherit; text-decoration:none">Unsubscribe</a>
 																				</strong>
 																			</p>
 																		</td>
@@ -729,7 +753,7 @@
 																		<td class="bottomfinal">
 																			<p style="padding: 0 30px; text-align: center; margin: 5px">Please add info@shop.adorama.com to your email address book or white list.</p>
 																			<p style="padding: 0 30px; text-align: center; margin: 5px">Products are subject to price change and availability. Not responsible for typographical errors.</p>
-																			<p style="padding: 0 30px; text-align: center; margin: 5px">&copy; 2016 Adorama Camera, Inc. All rights reserved. | 
+																			<p style="padding: 0 30px; text-align: center; margin: 5px">&copy; 2017 Adorama Camera, Inc. All rights reserved. | 
 																				<a href="http://www.adorama.com/help/termsAndConditions" linkname="Terms" style="color: inherit; text-decoration:underline">Terms</a> | 
 																				<a href="http://www.adorama.com/help/termsAndConditions" linkname="Privacy" style="color: inherit; text-decoration: underline">Privacy</a>
 																			</p>
@@ -746,3 +770,5 @@
 										<p>&nbsp;</p>
 									</body>
 								</html>
+                
+ 
