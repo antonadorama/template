@@ -1,67 +1,3 @@
-<?php 
-
-				$utm = $_POST['utm'];
-				$ttl = $_POST['ttl'];
-
-				$count = $_POST['count'];
-
-				$name = $_POST['name'];
-				$link = $_POST['link'];
-				$linkname = $_POST['linkname'];
-				$dimage = $_POST['dimage'];
-				$height = $_POST['height'];
-				$mimage = $_POST['mimage'];
-
-				for( $i = 1; $i<((int)$count+1); $i++ ) {
-
-				${'fname' . $i} = $_POST['fname'.$i.''];
-				${'flink' . $i} = $_POST['flink'.$i.''];
-				${'flinkname' . $i} = $_POST['flinkname'.$i.''];
-				${'fimage' . $i} = $_POST['fimage'.$i.''];
-				${'fheight' . $i} = $_POST['fheight'.$i.''];
-
-				}
-
-				$data = array(      
-        
-        "utm_compaign" => $utm,
-  
-        "ttl"  => $ttl,
-  
-  
-        "product_page_image_alt" => $name,
-  
-        "product_page_link" => $link,  
-        
-        "product_page_linkname" => $linkname,
-  
-        "product_page_image" => $dimage,
-        
-        "height" => $height,
-  
-        "product_page_image_mobile" => $mimage
-	
-				);
-  
-        
-				for( $z = 1; $z<((int)$count+1); $z++ ) {
-					 
-				         
-				$data2["footer_banner_image_alt_".$z.""] = ${'fname' . $z};
-  
-        $data2["footer_banner_link_".$z.""] = ${'flink' . $z};
-  
-        $data2["footer_banner_linkname_".$z.""] = ${'flinkname' . $z};
-  
-        $data2["footer_banner_image_".$z.""]  = ${'fimage' . $z};
-  
-        $data2["footer_banner_image_height_".$z.""] = ${'fheight' . $z};
-			
-				};
-
-?>
-
-
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html
 	xmlns="http://www.w3.org/1999/xhtml">
@@ -388,7 +324,7 @@
 																				<tbody>
 																					<tr>
 																						<td class="logobrowser" style="width: 470px; color: #A7A9AC; font-size: 14px; padding: 20px 0;">
-																							<span class="offer"><?php echo $data["ttl"];?> | </span>
+																							<span class="offer">Your Personal Imaging Concierge! | </span>
 																							<a href="" linkname="View In Browser" style="color: #A7A9AC; text-decoration: underline" target="_blank">view in a browser</a>
 																						</td>
 																						<td align="right" class="socialtopblock" style="color: #A7A9AC; font-size: 14px; padding-top: 15px; padding-bottom: 10px">
@@ -418,7 +354,7 @@
 																				<tbody>
 																					<tr>
 																						<td align="center" class="logo-wrapper" style="width: 155px; padding: 30px 15px 20px 10px">
-																							<a href="http://www.adorama.com/?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="Logo" style="color: inherit" target="_blank">
+																							<a href="http://www.adorama.com/?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Header&utm_campaign=EmailConciergeProgram" linkname="Logo" style="color: inherit" target="_blank">
 																								<img alt="ADORAMA - More than a camera store" border="0" src="http://www.adorama.com/col/images/email/logo-x2.png" style="display:block;" width="155" />
 																							</a>
 																						</td>
@@ -427,22 +363,22 @@
 																								<tbody>
 																									<tr>
 																										<td class="shop" style=" text-align: center">
-																											<a color="#393F42" href="http://www.adorama.com/?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="Shop" style="text-decoration: none; color: #393F42; font-weight: bold; font-size: 12px; " target="_blank">SHOP</a>
+																											<a color="#393F42" href="http://www.adorama.com/?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Header&utm_campaign=Email" linkname="Shop" style="text-decoration: none; color: #393F42; font-weight: bold; font-size: 12px; " target="_blank">SHOP</a>
 																										</td>
 																										<td class="cameras" style=" text-align: center">
-																											<a color="#393F42" href="http://www.adorama.com/c/Cameras?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Cameras&utm_content=Header&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="Cameras" style="text-decoration: none; color: #393F42; font-weight: bold; font-size: 12px; " target="_blank">CAMERAS</a>
+																											<a color="#393F42" href="http://www.adorama.com/c/Cameras?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Cameras&utm_content=Header&utm_campaign=EmailConciergeProgram" linkname="Cameras" style="text-decoration: none; color: #393F42; font-weight: bold; font-size: 12px; " target="_blank">CAMERAS</a>
 																										</td>
 																										<td class="lenses" style=" text-align: center">
-																											<a color="#393F42" href="http://www.adorama.com/c/Lenses?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Lenses&utm_content=Header&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="Lenses" style="text-decoration: none; color: #393F42; font-weight: bold; font-size: 12px; " target="_blank">LENSES</a>
+																											<a color="#393F42" href="http://www.adorama.com/c/Lenses?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Lenses&utm_content=Header&utm_campaign=EmailConciergeProgram" linkname="Lenses" style="text-decoration: none; color: #393F42; font-weight: bold; font-size: 12px; " target="_blank">LENSES</a>
 																										</td>
 																										<td class="video" style=" text-align: center">
-																											<a color="#393F42" href="http://www.adorama.com/c/Video-Equipment?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=ProVideo&utm_content=Header&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="ProVideo" style="text-decoration: none; color: #393F42; font-weight: bold; font-size: 12px; " target="_blank">PRO VIDEO</a>
+																											<a color="#393F42" href="http://www.adorama.com/c/Video-Equipment?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=ProVideo&utm_content=Header&utm_campaign=EmailConciergeProgram" linkname="ProVideo" style="text-decoration: none; color: #393F42; font-weight: bold; font-size: 12px; " target="_blank">PRO VIDEO</a>
 																										</td>
 																										<td class="audio" style=" text-align: center">
-																											<a color="#393F42" href="http://www.adorama.com/c/Professional-Audio?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=ProAudio&utm_content=Header&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="ProAudio" style="text-decoration: none; color: #393F42; font-weight: bold; font-size: 12px; " target="_blank">PRO AUDIO</a>
+																											<a color="#393F42" href="http://www.adorama.com/c/Professional-Audio?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=ProAudio&utm_content=Header&utm_campaign=EmailConciergeProgram" linkname="ProAudio" style="text-decoration: none; color: #393F42; font-weight: bold; font-size: 12px; " target="_blank">PRO AUDIO</a>
 																										</td>
 																										<td class="deals" style=" text-align: center">
-																											<a href="http://www.adorama.com/specials?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Deals&utm_content=Header&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="Deals" style="text-decoration: none; color: #B92E2C; font-weight: bold;font-size: 12px;" target="_blank">DEALS</a>
+																											<a href="http://www.adorama.com/specials?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Deals&utm_content=Header&utm_campaign=EmailConciergeProgram" linkname="Deals" style="text-decoration: none; color: #B92E2C; font-weight: bold;font-size: 12px;" target="_blank">DEALS</a>
 																										</td>
 																									</tr>
 																								</tbody>
@@ -454,134 +390,15 @@
 																		</td>
 																		<!-- End Header -->
 																	</tr>
+                                  
+                                  
 																	<tr>
 																		<td align="center" bgcolor="#FFFFFF" class="block-a" style="width: 100%; padding: 1px 1px">
-																			<!-- Content START (End of Header): Paste in all Email content here when building -->
-																			
-                                      <!--  Banner -->
-																			<table align="center" border="0" cellpadding="0" cellspacing="0" class="mobno" width="638">
-																				<tbody>
-																					<tr>
-																						<td bgcolor="#f7f7f7" height="1" width="638">
-																							<img alt="" border="0" height="1" src="global/sp.gif" style="display: block; margin-top: -60px" width="1" />
-																						</td>
-																					</tr>
-                                          
-																					<tr>
-																						<td>
-																							<a href="<?php echo $data["product_page_link"];?>&hotlink=t&refby=slgt&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="<?php echo $data["product_page_linkname"];?>" target="_blank">
-																								<img alt="<?php echo $data["product_page_image_alt"];?>" border="0" height="<?php echo $data["height"];?>" src="image_library/org_1/<?php echo $data["product_page_image"];?>" style="display:block;" width="640" />
-																							</a>
-																						</td>
-																					</tr>
-                                          
-                                          <!--Botttom Banner-->
-																				<?php																					
-																						
-																						for( $z = 1; $z<((int)$count+1); $z++ ) {																			
-
-																								echo '<tr>';
-																								echo '<td>';
-																								echo '<a href="';
-																								echo 	$data2["footer_banner_link_".$z.""];
-																								echo	'&amp;?refby=slgt&amp;utm_source=slgt&amp;utm_medium=email&amp;utm_campaign=';
-																								echo  $data["utm_compaign"];
-																								echo	'" linkname="';
-																								echo  $data2["footer_banner_linkname_".$z.""];
-																								echo 	'" target="_blank">';
-																								echo 	'<img alt="';
-																								echo 	$data2["footer_banner_image_alt_".$z.""];
-																								echo	'" border="0" height="';
-																								echo 	$data2["footer_banner_image_height_".$z.""];
-																								echo 	'" src="image_library/org_1/';
-																								echo 	$data2["footer_banner_image_".$z.""];
-																								echo 	'" style="display:block;" width="640">';
-																								echo 	'</a>';
-																								echo 	'</td>';
-																								echo 	'</tr>';
-																							
-																						};
-																					?>
-																						
-																					<!--End Bottom Banner-->
-
-																					<tr>
-																						<td bgcolor="#f7f7f7" height="1" width="638">
-																							<img alt="" border="0" height="1" src="global/sp.gif" style="display: block" width="1" />
-																						</td>
-																					</tr>
-																				</tbody>
-																			</table>
-                                      
-																			<!--REVEAL MOBILE 250px IMAGE-->
-																			<!--[if !mso]>
-																			<!-->
-																			<table align="center" bgcolor="#f7f7f7" border="0" cellpadding="0" cellspacing="0" class="fluid" style="display:none;">
-																				<tbody>
-																					<tr class="show" style="width:0; overflow:hidden; float:left; display:none; max-height:0px; mso-hide:all;">
-																						<td class="cta">
-																							<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-																								<tbody>
-                                                  
-																									<tr>
-																										<td>
-																											<a href="<?php echo $data["product_page_link"] ?>&hotlink=t&refby=slgt&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="<?php echo $data["product_page_linkname"] ?>" target="_blank">
-																												<img alt="<?php echo $data["product_page_image_alt"] ?>" border="0" height="auto" src="image_library/org_1/<?php echo $data["product_page_image_mobile"] ?>" style="display:block;" width="100%" />
-																											</a>
-																										</td>
-																									</tr>
-                                                  
-                                                  <!--Bottom Banner-->
-
-																									
-																									<?php		
-	
-																										for( $z = 1; $z<((int)$count+1); $z++ ) {																					
-
-																												echo '<tr>';
-																												echo '<td>';
-																												echo '<a href="';
-																												echo 	$data2["footer_banner_link_".$z.""];
-																												echo	'&amp;?refby=slgt&amp;utm_source=slgt&amp;utm_medium=email&amp;utm_campaign=';
-																												echo  $data["utm_compaign"];
-																												echo	'" linkname="';
-																												echo  $data2["footer_banner_linkname_".$z.""];
-																												echo 	'" target="_blank">';
-																												echo 	'<img alt="';
-																												echo 	$data2["footer_banner_image_alt_".$z.""];
-																												echo	'" border="0" height="auto" src="image_library/org_1/';
-																												echo 	$data2["footer_banner_image_".$z.""];
-																												echo 	'" style="display:block;" width="100%">';
-																												echo 	'</a>';
-																												echo 	'</td>';
-																												echo 	'</tr>';
-																																											
-																										};
-																									?>
-																									
-																									
-																									<!--END Bottom Banner-->
-
-																									<tr>
-																										<td bgcolor="#f7f7f7" height="1" width="320">
-																											<img alt="" border="0" height="1" src="global/sp.gif" style="display: block" width="1" />
-																										</td>
-																									</tr>
-																									<tr>
-																										<td bgcolor="#f7f7f7" height="6" width="320">&nbsp;</td>
-																									</tr>
-																								</tbody>
-																							</table>
-																						</td>
-																					</tr>
-																				</tbody>
-																			</table>
-																			<!--
-																			<![endif]-->
-																			<!--END REVEAL ON MOBILE--->
-																			<!--End Content: Remaining Template content (Footer)-->
+                                        <?php include_once("concierge_program_block.php"); ?>
 																		</td>
 																	</tr>
+                                  
+                                  
 																	<tr>
 																		<!-- Cat Strip-->
 																		<td bgcolor="#FFFFFF" class="blockimages" style="width: 100%;  padding: 20px 0">
@@ -589,58 +406,58 @@
 																				<tbody>
 																					<tr>
 																						<td align="center" class="menuimage" style="width: 16.666%;  text-align: center" width="16.666%">
-																							<a href="ttp://www.adorama.com/c/Cameras?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Cameras&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="CamerasFooter" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
+																							<a href="ttp://www.adorama.com/c/Cameras?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Cameras&utm_content=Footer&utm_campaign=EmailConciergeProgram" linkname="CamerasFooter" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
 																								<img alt="Cameras" border="0" class="menuimageimg" src="http://www.adorama.com/col/images/email/cameras-x2.png" style="margin: 0 auto; display: block; padding: 10px 0" width="82" />
 																							</a>
 																							<p class="menuimagespan" style="padding: 10px 0;">
-																								<a href="http://www.adorama.com/c/Cameras?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Cameras&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="CamerasFooter" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">CAMERAS</a>
+																								<a href="http://www.adorama.com/c/Cameras?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Cameras&utm_content=Footer&utm_campaign=EmailConciergeProgram" linkname="CamerasFooter" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">CAMERAS</a>
 																							</p>
-																							<a href="http://www.adorama.com/c/Cameras?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Cameras&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="CamerasFooter" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank"></a>
+																							<a href="http://www.adorama.com/c/Cameras?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Cameras&utm_content=Footer&utm_campaign=EmailConciergeProgram" linkname="CamerasFooter" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank"></a>
 																						</td>
 																						<td align="center" class="menuimage" style="width: 16.666%; text-align: center" width="16.666%">
-																							<a href="http://www.adorama.com/c/Lenses?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Lenses&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="LensesIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
+																							<a href="http://www.adorama.com/c/Lenses?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Lenses&utm_content=Footer&utm_campaign=EmailConciergeProgram" linkname="LensesIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
 																								<img alt="Lenses" border="0" class="menuimageimg" src="http://www.adorama.com/col/images/email/lenses-x2.png" style="margin: 0 auto; display: block; padding: 10px 0" width="82" />
 																							</a>
 																							<p class="menuimagespan" style="padding: 10px 0">
-																								<a href="http://www.adorama.com/c/Lenses?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Lenses&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="LensesIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">LENSES</a>
+																								<a href="http://www.adorama.com/c/Lenses?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Lenses&utm_content=Footer&utm_campaign=EmailConciergeProgram" linkname="LensesIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">LENSES</a>
 																							</p>
-																							<a href="http://www.adorama.com/c/Lenses?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Lenses&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="LensesIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank"></a>
+																							<a href="http://www.adorama.com/c/Lenses?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Lenses&utm_content=Footer&utm_campaign=EmailConciergeProgram" linkname="LensesIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank"></a>
 																						</td>
 																						<td align="center" class="menuimage" style="width: 16.666%; text-align: center" width="16.666%">
-																							<a href="http://www.adorama.com/c/Video-Equipment?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=ProVideo&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="ProVideoIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
+																							<a href="http://www.adorama.com/c/Video-Equipment?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=ProVideo&utm_content=Footer&utm_campaign=EmailConciergeProgram" linkname="ProVideoIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
 																								<img alt="Pro video" border="0" class="menuimageimg" src="http://www.adorama.com/col/images/email/video-x2.png" style="margin: 0 auto; display: block; padding: 10px 0" width="82" />
 																							</a>
 																							<p class="menuimagespan" style="padding: 10px 0">
-																								<a href="http://www.adorama.com/c/Video-Equipment?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=ProVideo&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="ProVideoIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">PRO VIDEO</a>
+																								<a href="http://www.adorama.com/c/Video-Equipment?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=ProVideo&utm_content=Footer&utm_campaign=EmailConciergeProgram" linkname="ProVideoIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">PRO VIDEO</a>
 																							</p>
-																							<a href="http://www.adorama.com/c/Video-Equipment?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=ProVideo&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="ProVideoIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank"></a>
+																							<a href="http://www.adorama.com/c/Video-Equipment?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=ProVideo&utm_content=Footer&utm_campaign=EmailConciergeProgram" linkname="ProVideoIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank"></a>
 																						</td>
 																						<td align="center" class="menuimage" style="width: 16.666%; text-align: center" width="16.666%">
-																							<a href="http://www.adorama.com/c/Professional-Audio?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=ProAudio&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="ProAudioIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
+																							<a href="http://www.adorama.com/c/Professional-Audio?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=ProAudio&utm_content=Footer&utm_campaign=EmailConciergeProgram" linkname="ProAudioIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
 																								<img alt="Pro audio" border="0" class="menuimageimg" src="http://www.adorama.com/col/images/email/audio-x2.png" style="margin: 0 auto; display: block; padding: 10px 0" width="82" />
 																							</a>
 																							<p class="menuimagespan" style="padding: 10px 0">
-																								<a href="http://www.adorama.com/c/Professional-Audio?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=ProAudio&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="ProAudioIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">PRO AUDIO</a>
+																								<a href="http://www.adorama.com/c/Professional-Audio?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=ProAudio&utm_content=Footer&utm_campaign=EmailConciergeProgram" linkname="ProAudioIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">PRO AUDIO</a>
 																							</p>
-																							<a href="http://www.adorama.com/c/Professional-Audio?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=ProAudio&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="ProAudioIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank"></a>
+																							<a href="http://www.adorama.com/c/Professional-Audio?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=ProAudio&utm_content=Footer&utm_campaign=EmailConciergeProgram" linkname="ProAudioIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank"></a>
 																						</td>
 																						<td align="center" class="menuimage" style="width: 16.666%;  white-space: nowrap; text-align: center" width="16.666%">
-																							<a href="http://www.adorama.com/c/Computers?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Computers&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="ComputersIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
+																							<a href="http://www.adorama.com/c/Computers?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Computers&utm_content=Footer&utm_campaign=EmailConciergeProgram" linkname="ComputersIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
 																								<img alt="Computers" border="0" class="menuimageimg" src="http://www.adorama.com/col/images/email/computers-x2.png" style="margin: 0 auto; display: block; padding: 10px 0" width="82" />
 																							</a>
 																							<p class="menuimagespan" style="padding: 10px 0">
-																								<a href="http://www.adorama.com/c/Computers?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Computers&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="ComputersIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">COMPUTERS</a>
+																								<a href="http://www.adorama.com/c/Computers?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Computers&utm_content=Footer&utm_campaign=EmailConciergeProgram" linkname="ComputersIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">COMPUTERS</a>
 																							</p>
-																							<a href="http://www.adorama.com/c/Computers?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Computers&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="ComputersIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank"></a>
+																							<a href="http://www.adorama.com/c/Computers?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Computers&utm_content=Footer&utm_campaign=EmailConciergeProgram" linkname="ComputersIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank"></a>
 																						</td>
 																						<td align="center" class="menuimage" style="width: 16.666%; text-align: center" width="16.666%">
-																							<a href="http://www.adorama.com/c/TVs-and-Home-Entertainment?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=HomeEntertainment&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="EntertainmentIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
+																							<a href="http://www.adorama.com/c/TVs-and-Home-Entertainment?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=HomeEntertainment&utm_content=Footer&utm_campaign=EmailConciergeProgram" linkname="EntertainmentIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
 																								<img alt="Entertaiment" border="0" class="menuimageimg" src="http://www.adorama.com/col/images/email/entertaiment-x2.png" style="margin: 0 auto; display: block; padding: 10px 0" width="82" />
 																							</a>
 																							<p class="menuimagespan" style="padding: 10px 0">
-																								<a href="http://www.adorama.com/c/TVs-and-Home-Entertainment?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=HomeEntertainment&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="EntertainmentIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">HOME THEATER</a>
+																								<a href="http://www.adorama.com/c/TVs-and-Home-Entertainment?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=HomeEntertainment&utm_content=Footer&utm_campaign=EmailConciergeProgram" linkname="EntertainmentIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">HOME THEATER</a>
 																							</p>
-																							<a href="http://www.adorama.com/c/TVs-and-Home-Entertainment?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=HomeEntertainment&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="EntertainmentIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank"></a>
+																							<a href="http://www.adorama.com/c/TVs-and-Home-Entertainment?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=HomeEntertainment&utm_content=Footer&utm_campaign=EmailConciergeProgram" linkname="EntertainmentIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank"></a>
 																						</td>
 																					</tr>
 																				</tbody>
@@ -699,13 +516,13 @@
 																								<tbody>
 																									<tr>
 																										<td align="center">
-																											<a class="bottomsubmenu" href="http://www.adorama.com/help/contactus?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Contact&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="Contact Us" style="color: #003055; font-size: 12px; text-decoration: none; font-weight: bold;" target="_blank">CONTACT US </a>
+																											<a class="bottomsubmenu" href="http://www.adorama.com/help/contactus?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Contact&utm_content=Footer&utm_campaign=EmailConciergeProgram" linkname="Contact Us" style="color: #003055; font-size: 12px; text-decoration: none; font-weight: bold;" target="_blank">CONTACT US </a>
 																										</td>
 																										<td align="center">
-																											<a class="bottomsubmenu" href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Account&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="My Account" style="color: #003055; font-size: 12px; text-decoration: none; font-weight: bold;" target="_blank">MY ACCOUNT </a>
+																											<a class="bottomsubmenu" href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Account&utm_content=Footer&utm_campaign=EmailConciergeProgram" linkname="My Account" style="color: #003055; font-size: 12px; text-decoration: none; font-weight: bold;" target="_blank">MY ACCOUNT </a>
 																										</td>
 																										<td align="center">
-																											<a class="bottomsubmenu" href="https://www.adorama.com/trackOrder?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Status&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="Order Status" style="color: #003055; font-size: 12px; text-decoration: none; font-weight: bold;" target="_blank">ORDER STATUS </a>
+																											<a class="bottomsubmenu" href="https://www.adorama.com/trackOrder?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Status&utm_content=Footer&utm_campaign=EmailConciergeProgram" linkname="Order Status" style="color: #003055; font-size: 12px; text-decoration: none; font-weight: bold;" target="_blank">ORDER STATUS </a>
 																										</td>
 																									</tr>
 																								</tbody>
@@ -728,7 +545,7 @@
 																								<tbody>
 																									<tr>
 																										<td align="center" class="flogo">
-																											<a href="http://www.adorama.com/?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="LogoFooter" style="color: inherit" target="_blank">
+																											<a href="http://www.adorama.com/?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Header&utm_campaign=EmailConciergeProgram" linkname="LogoFooter" style="color: inherit" target="_blank">
 																												<img alt="" src="http://www.adorama.com/col/images/email/logo-gray-x2.png" width="156" />
 																											</a>
 																										</td>
@@ -736,17 +553,17 @@
 																											<img alt="" src="http://www.adorama.com/col/images/email/brands.jpg" />
 																										</td>
 																										<td align="center" class="fbottom">
-																											<a href="http://www.adoramarentals.com/?utm_source=slgt&utm_medium=Email&utm_term=Rent&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="ARCFooter" style="color: inherit" target="_blank">
+																											<a href="http://www.adoramarentals.com/?utm_source=slgt&utm_medium=Email&utm_term=Rent&utm_content=Footer&utm_campaign=EmailConciergeProgram" linkname="ARCFooter" style="color: inherit" target="_blank">
 																												<img alt="" src="http://www.adorama.com/col/images/email/logo-arc-x2.png" width="51" />
 																											</a>
 																										</td>
 																										<td align="center" class="fbottom">
-																											<a href="http://www.adoramapix.com/app/home?utm_source=slgt&utm_medium=Email&utm_term=Print&utm_content=Header&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="PixFooter" style="color: inherit" target="_blank">
+																											<a href="http://www.adoramapix.com/app/home?utm_source=slgt&utm_medium=Email&utm_term=Print&utm_content=Header&utm_campaign=EmailConciergeProgram" linkname="PixFooter" style="color: inherit" target="_blank">
 																												<img alt="" src="http://www.adorama.com/col/images/email/logo-pix-x2.png" width="44" />
 																											</a>
 																										</td>
 																										<td align="center" class="fbottom">
-																											<a href="http://www.adorama.com/pages/usedQuote?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Trade&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="TradeFooter" style="color: inherit" target="_blank">
+																											<a href="http://www.adorama.com/pages/usedQuote?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Trade&utm_content=Footer&utm_campaign=EmailConciergeProgram" linkname="TradeFooter" style="color: inherit" target="_blank">
 																												<img alt="" src="http://www.adorama.com/col/images/email/logo-trade-x2.png" width="64" />
 																											</a>
 																										</td>
@@ -771,7 +588,7 @@
 																						<td align="center" class="bottomlinksbright" style="padding: 14px 0; border-right: 1px solid #FFFFFF" width="50%">42 W 18TH STREET, NEW YORK, NY 10011</td>
 																						<td align="center" class="bottomlinksbright" style="padding: 14px 0; border-right: 1px solid #FFFFFF">800-223-2500</td>
 																						<td align="center" class="bottomlinksbrightno" style="padding: 14px 0">
-																							<a href="http://www.adorama.com/?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>" linkname="AdoramaText" style="color: inherit" target="_blank">ADORAMA.COM </a>
+																							<a href="http://www.adorama.com/?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Footer&utm_campaign=EmailConciergeProgram" linkname="AdoramaText" style="color: inherit" target="_blank">ADORAMA.COM </a>
 																						</td>
 																					</tr>
 																				</tbody>
@@ -784,14 +601,14 @@
 																		<td class="bottomlinkscredentials" style="color: #A7A9AC; font-size: 14px; text-align: center; padding: 20px 0 10px 0">
 																			<p style="padding: 0 30px">Email sent to: 
 																				<a href="" style="color: inherit; text-decoration:none">##EMAIL_ADDRESS##</a> &nbsp; | &nbsp; 
-																				<a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&utm_source=slgt&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>&pageMode=manage#emailpref" linkname="Preferences" style="color: inherit; text-decoration:none; white-space:nowrap">
+																				<a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&utm_source=slgt&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=EmailConciergeProgram&pageMode=manage#emailpref" linkname="Preferences" style="color: inherit; text-decoration:none; white-space:nowrap">
 																					<b>Manage Preferences</b>
 																				</a> &nbsp; | &nbsp;&nbsp;
 																				<strong>
 																					<a href="" linkname="Forward to a Friend"> Forward to a Friend</a>
 																				</strong> &nbsp; | &nbsp; 
 																				<strong>
-																					<a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=unsubscribe&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Footer&utm_campaign=<?php echo $data["utm_compaign"];?>#emailpref" target="_blank" linkname="Unsubscribe" style="color: inherit; text-decoration:none">Unsubscribe</a>
+																					<a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=unsubscribe&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Footer&utm_campaign=EmailConciergeProgram#emialpref" target="_blank" linkname="Unsubscribe" style="color: inherit; text-decoration:none">Unsubscribe</a>
 																				</strong>
 																			</p>
 																		</td>
@@ -819,5 +636,5 @@
 										<p>&nbsp;</p>
 									</body>
 								</html>
-                
- 
+
+

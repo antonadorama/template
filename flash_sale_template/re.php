@@ -257,7 +257,7 @@
 				width: 460px !important; height: auto !important; display:block !important}
 	
 				table[class="wrap600"], table[class="wrap560"], table[class="wrap500"]{
-				width: 460px !important; height: auto !important; display:block !important; margin: 0 auto !important}
+				width: 460px !important; height: auto !important;  margin: 0 auto !important}
 
 				td[class="spacer"]{height: 8px !important}
 
