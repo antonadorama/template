@@ -296,6 +296,220 @@
     padding: 25px 0px 0px;
 }
 
+   @media screen and (max-device-width: 450px), screen and (max-width: 450px) {
+table.vb-container, table.vb-row {
+    width: 100% !important;
+}
+.mobile-hide {
+    display: none !important;
+}
+.mobile-textcenter {
+    text-align: center !important;
+}
+.mobile-full {
+    float: none !important;
+    width: 100% !important;
+    max-width: none !important;
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+}
+img.mobile-full {
+    width: 100% !important;
+    max-width: none !important;
+    height: auto !important;
+}
+     
+img.mobile-full-2 {
+    width: 70% !important;
+    max-width: none !important;
+    height: auto !important;
+}
+     
+.big-title {
+    font-size: 21px !important;
+    line-height: 28px !important;
+}
+.small-title {
+    font-size: 16px !important;
+    line-height: 20px !important;
+}
+.list-title {
+    font-size: 21px !important;
+}
+
+/* adorama header and footer */
+            *[class=wrap770] {
+                width: 100% !important;
+                height: auto !important;
+            }
+            *[class=mobno]{
+                display:none !important;}
+
+            *[class=logobrowser] {
+                display: block !important;
+                width: 100% !important;
+                height: auto !important;
+                padding-bottom: 0 !important;
+                text-align: center !important;
+            }
+
+            *[class=socialtop] {
+                padding: 15px 10px !important;
+            }
+
+            *[class=socialtopblock] {
+                display: block !important;
+                text-align: center !important;
+                width: 100% !important;
+                height: auto !important;
+            }
+
+            *[class=offer] {
+                display: none !important;
+            }
+
+            *[class=logomenu] {
+                background: #FFFFFF !important;
+            }
+
+            *[class=logo-wrapper] {
+                display: block !important;
+                padding: 30px 0 0 0 !important;
+                text-align: center !important;
+                width: 100% !important;
+                height: auto !important;
+            }
+
+                *[class=logo-wrapper] img {
+                    margin: 0 auto !important;
+                }
+
+            *[class=menuwrapper] {
+                display: block !important;
+                text-align: center !important;
+                padding: 40px 0 0 0 !important;
+                width: 100% !important;
+                height: auto !important;
+            }
+
+                *[class=menuwrapper] table {
+                    padding: 0 20px !important;
+                }
+
+            *[class=video] {
+                display: none !important;
+            }
+
+            *[class=audio] {
+                display: none !important;
+            }
+
+            *[class=shop] {
+                width: auto !important;
+            }
+
+            *[class=cameras] {
+                width: auto !important;
+            }
+
+            *[class=lenses] {
+                width: auto !important;
+            }
+
+            *[class=deals] {
+                text-align: center !important;
+                width: auto !important;
+            }
+
+            *[class=menuimage] {
+                float: left !important;
+                display: block !important;
+                width: 33.333% !important;
+                text-align: center !important;
+                height: 150px;
+                
+               
+            }
+
+            *[class=block-a] {
+                width: 100% !important;
+                padding-bottom: 0 !important;
+            }
+
+            *[class=block-b-left] {
+                display: block !important;
+                padding-bottom: 20px !important;
+                width: 100% !important;
+                height: auto !important;
+            }
+
+            *[class=block-c-right] {
+                display: block;
+                width: 100% !important;
+                height: auto !important;
+            }
+
+            *[class=blockimages] {
+                width: 100% !important;
+                padding: 30px 0 10px 0 !important;
+            }
+
+            *[class=menubottomleft] {
+                display: block !important;
+                padding: 20px 0 !important;
+                width: 100% !important;
+                height: auto !important;
+            }
+
+            *[class=menubottomright] {
+                display: block !important;
+                padding: 20px 0 !important;
+                border-top: none !important;
+                width: 100% !important;
+                height: auto !important;
+            }
+
+            *[class=bottomlinksbright] {
+                display: block !important;
+                border-right: 0 !important;
+                width: 100% !important;
+                height: auto !important;
+                border-bottom: 1px solid #FFFFFF !important;
+            }
+
+            *[class=bottomlinksbrightno] {
+                display: block !important;
+                width: 100% !important;
+                height: auto !important;
+            }
+
+            *[class=flogo] {
+                float: left;
+                display: block !important;
+                width: 100% !important;
+                height: auto !important;
+            }
+
+            *[class=fbottomhidden] {
+                display: none !important;
+            }
+
+            *[class=fbottom] {
+                float: left;
+                display: block !important;
+                width: 30% !important;
+                height: auto !important;
+                padding-top: 20px;
+            }
+}
+@media screen and (device-width: 320px) and (device-height: 480px), screen and (device-width: 320px) and (device-height: 568px) {
+            table[class=iosfix] {
+                position: absolute;
+                right: 0%;
+                top: 0%;
+            }
+        }
+
   
 </style>
 

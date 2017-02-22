@@ -177,8 +177,8 @@
 						<table bgcolor="#EEF0F1" cellpadding="0" cellspacing="0" class="bottomlinks" style="width: 100%; color: #A7A9AC; font-size: 13px; text-decoration: none">
 							<tbody>
 								<tr>
-									<td align="center" class="bottomlinksbright" style="padding: 14px 0; border-right: 1px solid #FFFFFF" width="50%">42 W 18TH STREET, NEW YORK, NY 10011</td>
-									<td align="center" class="bottomlinksbright" style="padding: 14px 0; border-right: 1px solid #FFFFFF">800-223-2500</td>
+									<td align="center" class="bottomlinksbright" style="padding: 14px 0; border-right: 1px solid #FFFFFF; color: #A7A9AC;" width="50%">42 W 18TH STREET, NEW YORK, NY 10011</td>
+									<td align="center" class="bottomlinksbright" style="padding: 14px 0; border-right: 1px solid #FFFFFF; color: #A7A9AC;">800-223-2500</td>
 									<td align="center" class="bottomlinksbrightno" style="padding: 14px 0">
                     <a href="https://www.adorama.com/?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Footer&utm_campaign=" linkname="AdoramaText" style="color: #A7A9AC; font-size: 13px; text-decoration: none;" target="_blank">
                       ADORAMA.COM
@@ -193,11 +193,14 @@
 					
 					<!-- Preference Center -->
 					<tr>
-           <td class="bottomlinkscredentials" style="color: #A7A9AC; font-size: 14px; text-align: center; padding: 20px 0 10px 0">
-						<p style="padding: 0 30px">Email sent to: <a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=manage&utm_source=slgt&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=" linkname="MyEmail" style="color: #A7A9AC; font-size: 14px; text-decoration:none">
-              ##EMAIL_ADDRESS##</a> &nbsp; | &nbsp; <a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=manage&utm_source=slgt&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=#emailpref" linkname="Preferences" style="color: #A7A9AC; font-size: 14px; text-decoration:none; white-space:nowrap">
+           <td class="bottomlinkscredentials" style="color: #A7A9AC; font-size: 14px; text-align: center;">
+						<p style="padding: 0 30px; margin:5px;">Email sent to: <a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=manage&utm_source=slgt&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=" linkname="MyEmail" style="color: #A7A9AC; font-size: 14px; text-decoration:none">
+              ##EMAIL_ADDRESS##</a> 
+							<br /> 
+					 
+							<a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=manage&utm_source=slgt&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=#emailpref" linkname="Preferences" style="color: #A7A9AC; font-size: 14px; text-decoration:none; white-space:nowrap">
               <b>Manage Preferences</b></a> &nbsp; | &nbsp; 
-              <a href="#" linkname="Forward" style="color: #A7A9AC; text-decoration:none; white-space:nowrap">
+              <a href="" linkname="Forward" style="color: #A7A9AC; text-decoration:none; white-space:nowrap">
                 <b>Forward to a Friend</b></a> &nbsp; | &nbsp;
               <a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=unsubscribe&utm_source=slgt&utm_medium=email&utm_term=Unsubscribe&utm_content=Footer&utm_campaign=#emailpref" linkname="Unsubscribe" style="color: #A7A9AC; font-size: 14px; text-decoration:none">
                 <b>Unsubscribe</b></a></p>

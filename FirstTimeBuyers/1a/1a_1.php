@@ -9,7 +9,8 @@
             <table style="border-collapse: separate;border-spacing: 0px;padding-left: 0;padding-right: 0;width: 100%;max-width: 640px;background-color: #fff;" class="vb-container fullpad" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="640">
               <tbody>
               <tr>
-                  <td style="background-color: #ffffff; font-size: 22px; font-family: Arial, Helvetica, sans-serif; color: #393F42; text-align: center;" align="center" bgcolor="#ffffff" class="name-topmargin">Hi $FIRST_NAME$!</td>
+                  <td style="background-color: #ffffff; font-size: 22px; font-family: Arial, Helvetica, sans-serif; color: #393F42; text-align: center;" align="center" bgcolor="#ffffff" class="name-topmargin">
+                    <span style="display:block; padding-top:15px;">Hi ##SMFMT_PROPERCASE[\first_name[Dear Friend]]##!</span></td>
               </tr>
               <tr>
                   <td height="18">&nbsp;</td>
