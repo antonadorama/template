@@ -7,10 +7,10 @@
           <!--[if (gte mso 9)|(lte ie 8)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="640"><tr><td align="center" valign="top"><![endif]-->
           
           <div class="oldwebkit" style="max-width: 640px;">
-            <table style="border-collapse: separate;border-spacing: 9px;padding: 20px;width: 100%;max-width: 640px;background-color: #DFEDF4;" class="vb-container halfpad" bgcolor="#DFEDF4" border="0" cellpadding="0" cellspacing="20" width="570">
+            <table style="border-collapse: separate;border-spacing: 9px;padding: 20px;width: 100%;max-width: 640px;background-color: #ECF6F8;" class="vb-container halfpad" bgcolor="#DFEDF4" border="0" cellpadding="0" cellspacing="20" width="570">
               <tbody>
                 <tr>
-                  <td style="background-color: #DFEDF4; font-size: 24px; font-family: 'Montserrat', Helvetica, sans-serif; font-weight:700; color: #006E95; text-align: center; letter-spacing:1px;" align="center" bgcolor="#EAF3F7">
+                  <td style="background-color: #ECF6F8; font-size: 24px; font-family: 'Montserrat', Helvetica, sans-serif; font-weight:700; color: #006E95; text-align: center; letter-spacing:1px;" align="center" bgcolor="#EAF3F7">
                     YOU MAY ALSO LIKE</td>
                 </tr>
               </tbody>

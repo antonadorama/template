@@ -50,7 +50,7 @@
 					
 					<?php include_once("FirstTimeBuyers/1a/1a_6.php"); ?>
 					
-					<?php include_once("FirstTimeBuyers/1a/1a_7_b.php"); ?>
+					<?php include_once("FirstTimeBuyers/1a/1a_8.php"); ?>
 					
 				
 					

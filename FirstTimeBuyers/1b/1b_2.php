@@ -35,7 +35,7 @@
 												<tr>
 													<td align="center">
 														<!-- Feature Headline -->
-														<table style="border-collapse: separate;border-spacing: 0px;padding: 0px; max-width: 500px;" class="vb-container halfpad" border="0" cellpadding="0" cellspacing="0" width="500">
+														<table style="border-collapse: separate;border-spacing: 0px;padding: 0px; max-width: 500px; width:60%;" class="vb-container halfpad" border="0" cellpadding="0" cellspacing="0" width="500">
 															<tbody>
 																<tr>
 																	<td style="text-align: center; font-size: 21px; font-family: 'Arvo', Helvetica, sans-serif; font-weight:400italic;color: #006E95; line-height:26px;" class="small-title" align="center">

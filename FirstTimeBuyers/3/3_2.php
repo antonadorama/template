@@ -27,7 +27,7 @@
                   <td align="center">
                     <!-- Feature Headline -->               
                     
-                    <table style="border-collapse: separate;border-spacing: 0px;padding: 0px; max-width: 500px;" class="vb-container halfpad" border="0" cellpadding="0" cellspacing="0" width="500">
+                    <table style="border-collapse: separate;border-spacing: 0px;padding: 0px; max-width: 500px; width:60%;" class="vb-container halfpad" border="0" cellpadding="0" cellspacing="0" width="500">
                       <tbody>
                         <tr>
                           

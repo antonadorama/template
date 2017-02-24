@@ -69,11 +69,17 @@
             width: 100% !important;
             height: auto !important;
         }
+  
+
 
         @media screen and (max-device-width: 450px), screen and (max-width: 450px) {
 
 
-
+          *[class=line_hide] {
+            
+            display:none;
+            
+          }
 
             /*New Template Content*/
 

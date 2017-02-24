@@ -11,7 +11,7 @@
               <tbody>
                 <tr>
                   <td style="background-color: #ECF6F8; font-size: 24px; font-family: 'Montserrat', Helvetica, sans-serif; font-weight:700; color: #006E95; text-align: center; letter-spacing:1px;" align="center" bgcolor="#EAF3F7">
-                    YOU MAY ALSO LIKE</td>
+                    HAND PICKED JUST FOR YOU</td>
                 </tr>
               </tbody>
             </table>

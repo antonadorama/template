@@ -33,33 +33,30 @@
 					
 					<?php //include_once("FirstTimeBuyers/blocks/send_button.php"); ?>
 					
-					<?php $ttl = "Discover all that Adorama has to offer you!"; ?>
+					<?php $ttl = "We've selected these special offers just for you!"; ?>
 					
 					<?php include_once("FirstTimeBuyers/blocks/header.php"); ?>
 					
 					<!-- Intro --->
-					<?php include_once("FirstTimeBuyers/3/3_1.php"); ?>
+					<?php include_once("FirstTimeBuyers/4/4_1.php"); ?>
 					
-					<!-- Devider --->
-					<?php include("FirstTimeBuyers/3/devider.php"); ?>
-					
-					
-					<!-- Learn More--->					
-				  <?php include_once("FirstTimeBuyers/3/3_2.php"); ?>
-					<!-- Main Bullets--->
-			    <?php include_once("FirstTimeBuyers/3/3_3.php"); ?>
-					
-					<!-- Empty Block --->
-				
-					<!-- Empty Block --->
-					
-					
+          					
 					<!-- Products Header--->
-					<?php include_once("FirstTimeBuyers/3/3_7.php"); ?>
-					<!-- Devider --->
-					<?php include("FirstTimeBuyers/3/devider.php"); ?>
-					<!-- Featured Products --->
-					<?php include_once("FirstTimeBuyers/3/3_8.php"); ?>		
+					<?php include_once("FirstTimeBuyers/4/4_7.php"); ?>
+
+					<!-- Featured Products 1 Row--->
+					<?php include_once("FirstTimeBuyers/4/4_8_1.php"); ?>
+					
+					<!-- Featured Products 2 Row--->
+					<?php include_once("FirstTimeBuyers/4/4_8_2.php"); ?>	
+					          
+					<!-- Learn More--->					
+				  <?php include_once("FirstTimeBuyers/4/4_2.php"); ?>
+          
+          <!-- Banner--->					
+				  <?php include_once("FirstTimeBuyers/4/4_3.php"); ?>
+
+
 					
 					<?php include_once("FirstTimeBuyers/blocks/footer.php"); ?>
 					

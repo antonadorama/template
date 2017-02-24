@@ -22,7 +22,7 @@
                 <tr>
                   <td align="center"><!-- Feature Headline -->
                     
-                    <table style="border-collapse: separate;border-spacing: 0px;padding: 0px;width: 80%;max-width: 600px;" class="vb-container halfpad" border="0" cellpadding="0" cellspacing="0" width="600">
+                    <table style="border-collapse: separate;border-spacing: 0px;padding: 0px;width: 60%;max-width: 600px;" class="vb-container halfpad" border="0" cellpadding="0" cellspacing="0" width="600">
                       <tbody>
                         <tr>
                           <td style="font-size: 31px; font-family: 'Montserrat', Helvetica, sans-serif; font-weight:700; color: #006E95; text-align: center; letter-spacing:1px; line-height:42px" align="center" class="big-title">

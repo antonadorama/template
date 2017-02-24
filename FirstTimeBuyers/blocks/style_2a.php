@@ -295,6 +295,13 @@
 }
 
    @media screen and (max-device-width: 450px), screen and (max-width: 450px) {
+     
+         *[class=line_hide] {
+            
+            display:none;
+            
+          }
+     
 table.vb-container, table.vb-row {
     
     text-align: center !important;

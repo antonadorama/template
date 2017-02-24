@@ -14,7 +14,7 @@
               </tr>
                 <tr>
                   <td style="text-align: center; font-size: 21px; font-family: 'Arvo', Helvetica, sans-serif; font-weight:400italic;color: #006E95; line-height:26px;" class="small-title" align="center">
-                    <em>Lenses</em></td>
+                    <em>adorama trade and used</em></td>
                 </tr>
                 <tr>
                   <td height="18">&nbsp;</td>
@@ -22,11 +22,11 @@
                 <tr>
                   <td align="center"><!-- Feature Headline -->
                     
-                    <table style="border-collapse: separate;border-spacing: 0px;padding: 0px;width: 65%;max-width: 600px;" class="vb-container halfpad" border="0" cellpadding="0" cellspacing="0" width="600">
+                    <table style="border-collapse: separate;border-spacing: 0px;padding: 0px;width: 60%;max-width: 600px;" class="vb-container halfpad" border="0" cellpadding="0" cellspacing="0" width="600">
                       <tbody>
                         <tr>
                           <td style="font-size: 31px; font-family: 'Montserrat', Helvetica, sans-serif; font-weight:700; color: #006E95; text-align: center; letter-spacing:1px; line-height:42px" align="center" class="big-title">
-                            Shop Our Largest Selection of Lenses for a Every Shot</span></td>
+                            Turn Your Gear Into Cash Trade-in, Sell or Buy Used Equipment at Adorama</span></td>
                         </tr>
                       </tbody>
                     </table>
@@ -62,7 +62,8 @@
                       <tbody>
                         <tr>
                           <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #FFFFFF; font-weight: normal; padding:14px 24px; background-color: #F05674; border-radius: 0px; letter-spacing:1px;" height="26" align="center" bgcolor="#F05674" valign="middle" width="auto">
-                            <a  rilt="CamerasBody"   href="https://www.adorama.com/c/Lenses" linkname="Cameras" target="_new" style="text-decoration: none; color: #FFFFFF; font-weight: bold;">
+                            <a  href="https://www.adorama.com/" linkname="LearnMore" target="_new"                               
+                               style="text-decoration: none; color: #FFFFFF; font-weight: bold;">
                               LEARN MORE</a></td>
                         </tr>
                       </tbody>

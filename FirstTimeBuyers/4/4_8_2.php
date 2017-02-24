@@ -31,7 +31,7 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <img src="https://www.adorama.com/images/Large/ntfir1369ad.jpg" style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
+                                      <img src="https://www.adorama.com/images/Large/ipcdcgh5.jpg" style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
                                            class="mobile-full" alt="" height="135" hspace="0" border="0" vspace="0" width="135" /></td>
                                   </tr>
                                   <tr>
@@ -43,7 +43,7 @@
                                           <tr>
                                             <td style="font-size: 13px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #F05674; font-weight: normal; padding:8px 15px; background-color: #ffffff; border-radius: 0px; border:2px solid #f05675;" 
                                                 height="26" align="center" bgcolor="#F05674" valign="middle" width="auto">
-                                              <a href="https://www.adorama.com/c/Computers" linkname="" target="_new" style="text-decoration: none; color: #F05674; font-weight: bold;">VIEW DETAILS</a></td>
+                                              <a href="https://www.adorama.com/ipcdcgh5.html" linkname="" target="_new" style="text-decoration: none; color: #F05674; font-weight: bold;">VIEW DETAILS</a></td>
                                           </tr>
                                         </tbody>
                                       </table></td>
@@ -78,7 +78,7 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <img src="https://www.adorama.com/images/Large/acmk482la.jpg" style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
+                                      <img src="https://www.adorama.com/images/Large/ifjxt20sk1.jpg" style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
                                            class="mobile-full" alt="" height="135" hspace="0" border="0" vspace="0" width="135" /></td>
                                   </tr>
                                   <tr>
@@ -90,7 +90,7 @@
                                           <tr>
                                             <td style="font-size: 13px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #F05674; font-weight: normal; padding:8px 15px; background-color: #ffffff; border-radius: 0px; border:2px solid #f05675;" 
                                                 height="26" align="center" bgcolor="#F05674" valign="middle" width="auto">
-                                              <a href="https://www.adorama.com/c/Computers" linkname="" target="_new" style="text-decoration: none; color: #F05674; font-weight: bold;">VIEW DETAILS</a></td>
+                                              <a href="https://www.adorama.com/ifjxt20sk1.html" linkname="" target="_new" style="text-decoration: none; color: #F05674; font-weight: bold;">VIEW DETAILS</a></td>
                                           </tr>
                                         </tbody>
                                       </table></td>
@@ -125,7 +125,7 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <img src="https://www.adorama.com/images/Large/acmll42lla.jpg" style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" class="mobile-full" alt="" 
+                                      <img src="https://www.adorama.com/images/Large/ifjxt20b.jpg" style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" class="mobile-full" alt="" 
                                            height="135" hspace="0" border="0" vspace="0" width="135" /></td>
                                   </tr>
                                   <tr>
@@ -137,7 +137,7 @@
                                           <tr>
                                             <td style="font-size: 13px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #F05674; font-weight: normal; padding:8px 15px; background-color: #ffffff; border-radius: 0px; border:2px solid #f05675;" 
                                                 height="26" align="center" bgcolor="#F05674" valign="middle" width="auto">
-                                              <a href="https://www.adorama.com/c/Computers" linkname="" target="_new" style="text-decoration: none; color: #F05674; font-weight: bold;">VIEW DETAILS</a></td>
+                                              <a href="https://www.adorama.com/ifjxt20b.html" linkname="" target="_new" style="text-decoration: none; color: #F05674; font-weight: bold;">VIEW DETAILS</a></td>
                                           </tr>
                                         </tbody>
                                       </table></td>
