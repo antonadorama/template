@@ -16,7 +16,7 @@
 		<meta name="format-detection" content="email=no">
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
-		<?php include_once("FirstTimeBuyers/blocks/style_1a.php"); ?>		
+		<?php include_once("FirstTimeBuyers/blocks/style_2a.php"); ?>		
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -33,29 +33,28 @@
 					
 					<?php //include_once("FirstTimeBuyers/blocks/send_button.php"); ?>
 					
-					<?php $ttl = "Get Excited About Your New Purchase!"; ?>
+					<?php $ttl = "From Point & Shoot to HDSLR Cameras, We Have It All"; ?>
 					
 					<?php include_once("FirstTimeBuyers/blocks/header.php"); ?>
 					
+					<!-- Intro --->
+					<?php include_once("FirstTimeBuyers/2a/2a_1.php"); ?>
+					<!-- Learn More--->
+					<?php include_once("FirstTimeBuyers/2a/2a_2.php"); ?>
+					<!-- Main banner--->
+					<?php include_once("FirstTimeBuyers/2a/2a_3.php"); ?>
 					
-					<?php include_once("FirstTimeBuyers/1a/1a_1.php"); ?>
+					<!-- First Row Products --->
+					<?php include_once("FirstTimeBuyers/2a/2a_4.php"); ?>
+					<!-- Second Row Products --->
+					<?php include_once("FirstTimeBuyers/2a/2a_5.php"); ?>	
 					
-					<?php include_once("FirstTimeBuyers/1a/1a_2.php"); ?>
-					
-					<?php include_once("FirstTimeBuyers/1a/1a_3.php"); ?>
-					
-					<?php include_once("FirstTimeBuyers/1a/1a_4.php"); ?>
-					
-					<?php include_once("FirstTimeBuyers/1a/1a_5.php"); ?>
-					
-					<?php include_once("FirstTimeBuyers/1a/1a_6.php"); ?>
-					
-					<?php include_once("FirstTimeBuyers/1a/1a_7_b.php"); ?>
-					
-				
+					<!-- Products Header--->
+					<?php include_once("FirstTimeBuyers/2a/2a_7.php"); ?>
+					<!-- Featured Products --->
+					<?php include_once("FirstTimeBuyers/2a/2a_8.php"); ?>					
 					
 					<?php include_once("FirstTimeBuyers/blocks/footer.php"); ?>
-					
 					
 				</tbody>
 			</table>

@@ -5,7 +5,7 @@
 							<tbody>
 								<tr>
 									<td class="logobrowser" style="width: 470px; color: #A7A9AC; font-size: 14px; padding: 20px 0;">
-                    <span class="offer">Upgrade to the Wacom Intuos Pro, the tablet that offers you more natural creative control than ever before. | </span>
+                    <span class="offer"><?php echo $ttl; ?> | </span>
                     <a href="" linkname="View In Browser" style="color: #A7A9AC; text-decoration: underline" target="_blank">view in a browser</a>
                   </td>
 									<td align="right" class="socialtopblock" style="color: #A7A9AC; font-size: 14px; padding-top: 15px; padding-bottom: 10px">

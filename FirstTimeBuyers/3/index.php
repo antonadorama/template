@@ -16,7 +16,7 @@
 		<meta name="format-detection" content="email=no">
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
-		<?php include_once("FirstTimeBuyers/blocks/style_1a.php"); ?>		
+		<?php include_once("FirstTimeBuyers/blocks/style_2b.php"); ?>		
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -31,31 +31,30 @@
 			<table align="center" bgcolor="#e3e3e3" border="0" cellpadding="0" cellspacing="0" class="wrap640" width="640">
 				<tbody>
 					
-					<?php //include_once("FirstTimeBuyers/blocks/send_button.php"); ?>
+					<?php include_once("FirstTimeBuyers/blocks/send_button.php"); ?>
 					
-					<?php $ttl = "Get Excited About Your New Purchase!"; ?>
+					<?php $ttl = "Discover all that Adorama has to offer you!"; ?>
 					
 					<?php include_once("FirstTimeBuyers/blocks/header.php"); ?>
 					
+					<!-- Intro --->
+					<?php include_once("FirstTimeBuyers/3/3_1.php"); ?>
+					<!-- Learn More--->
+				  <?php include_once("FirstTimeBuyers/3/3_2.php"); ?>
+					<!-- Main Bullets--->
+			    <?php include_once("FirstTimeBuyers/3/3_3.php"); ?>
 					
-					<?php include_once("FirstTimeBuyers/1a/1a_1.php"); ?>
+					<!-- First Row Products --->
+					<?php //include_once("FirstTimeBuyers/2e/2e_4.php"); ?>
+					<!-- Second Row Products --->
+					<?php //include_once("FirstTimeBuyers/2e/2e_5.php"); ?>
 					
-					<?php include_once("FirstTimeBuyers/1a/1a_2.php"); ?>
-					
-					<?php include_once("FirstTimeBuyers/1a/1a_3.php"); ?>
-					
-					<?php include_once("FirstTimeBuyers/1a/1a_4.php"); ?>
-					
-					<?php include_once("FirstTimeBuyers/1a/1a_5.php"); ?>
-					
-					<?php include_once("FirstTimeBuyers/1a/1a_6.php"); ?>
-					
-					<?php include_once("FirstTimeBuyers/1a/1a_7_b.php"); ?>
-					
-				
+					<!-- Products Header--->
+					<?php include_once("FirstTimeBuyers/3/3_7.php"); ?>
+					<!-- Featured Products --->
+					<?php include_once("FirstTimeBuyers/3/3_8.php"); ?>		
 					
 					<?php include_once("FirstTimeBuyers/blocks/footer.php"); ?>
-					
 					
 				</tbody>
 			</table>

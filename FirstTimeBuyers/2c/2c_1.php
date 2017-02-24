@@ -22,7 +22,7 @@
                   <table style="border-collapse: separate;border-spacing: 0px;padding-left: 0;padding-right: 0;width: 50%;max-width: 300px;background-color: #fff;" class="vb-container fullpad" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="300">
               <tbody>
                 <tr>
-                  <td style="text-align: center; font-size: 16px; font-family: Arial, Helvetica, sans-serif; color: #6A6F71; line-height:26px; " class="long-text links-color" align="center">We can't wait to ship you your order. To get you ready, here are some useful tips:</td>
+                  <td style="text-align: center; font-size: 16px; font-family: Arial, Helvetica, sans-serif; color: #6A6F71; line-height:26px; " class="long-text links-color" align="center">Your order is on its way. Here is what else we have to offer:</td>
                 </tr>
               </tbody>
             </table>

@@ -16,7 +16,7 @@
 		<meta name="format-detection" content="email=no">
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
-		<?php include_once("FirstTimeBuyers/blocks/style_1a.php"); ?>		
+		<?php include_once("FirstTimeBuyers/blocks/style_1b.php"); ?>		
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -37,25 +37,24 @@
 					
 					<?php include_once("FirstTimeBuyers/blocks/header.php"); ?>
 					
-					
-					<?php include_once("FirstTimeBuyers/1a/1a_1.php"); ?>
-					
-					<?php include_once("FirstTimeBuyers/1a/1a_2.php"); ?>
-					
-					<?php include_once("FirstTimeBuyers/1a/1a_3.php"); ?>
-					
-					<?php include_once("FirstTimeBuyers/1a/1a_4.php"); ?>
-					
-					<?php include_once("FirstTimeBuyers/1a/1a_5.php"); ?>
-					
-					<?php include_once("FirstTimeBuyers/1a/1a_6.php"); ?>
-					
-					<?php include_once("FirstTimeBuyers/1a/1a_7_b.php"); ?>
-					
-				
+					<!-- Intro --->
+					<?php include_once("FirstTimeBuyers/1b/1b_1.php"); ?>
+					<!-- Learn More--->
+					<?php include_once("FirstTimeBuyers/1b/1b_2.php"); ?>
+					<!-- Main banner--->
+					<?php include_once("FirstTimeBuyers/1b/1b_3.php"); ?>
+					<!-- Content Menu --->
+					<?php include_once("FirstTimeBuyers/1b/1b_4.php"); ?>
+					<!-- --->
+					<?php include_once("FirstTimeBuyers/1b/1b_5.php"); ?>
+					<!-- Directions --->
+					<?php include_once("FirstTimeBuyers/1b/1b_6.php"); ?>
+					<!-- Featured Products Header--->
+					<?php include_once("FirstTimeBuyers/1b/1b_7.php"); ?>
+					<!-- Featured Products --->
+					<?php include_once("FirstTimeBuyers/1b/1b_8.php"); ?>
 					
 					<?php include_once("FirstTimeBuyers/blocks/footer.php"); ?>
-					
 					
 				</tbody>
 			</table>
