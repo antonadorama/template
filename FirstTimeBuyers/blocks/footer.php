@@ -113,9 +113,15 @@
 									<table cellpadding="0" cellspacing="0" class="wrap100" width="100%">
 										<tbody>
 											<tr>
-												<td align="center"><a class="bottomsubmenu" href="https://www.adorama.com/help/contactus?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Contact&utm_content=Footer&utm_campaign=" linkname="Contact Us" style="color: #003055; font-size: 12px; text-decoration: none; font-weight: bold;" target="_blank">CONTACT US </a></td>
-												<td align="center"><a class="bottomsubmenu" href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Account&utm_content=Footer&utm_campaign=" linkname="My Account" style="color: #003055; font-size: 12px; text-decoration: none; font-weight: bold;" target="_blank">MY ACCOUNT </a></td>
-												<td align="center"><a class="bottomsubmenu" href="https://www.adorama.com/trackOrder?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Status&utm_content=Footer&utm_campaign=" linkname="Order Status" style="color: #003055; font-size: 12px; text-decoration: none; font-weight: bold;" target="_blank">ORDER STATUS </a></td>
+												<td align="center">
+													<a class="bottomsubmenu" href="https://www.adorama.com/help/contactus?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Contact&utm_content=Footer&utm_campaign=" 
+																							linkname="Contact Us" style="color: #003055; font-size: 12px; text-decoration: none; font-weight: bold;" target="_blank">CONTACT US </a></td>
+												<td align="center">
+													<a class="bottomsubmenu" href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Account&utm_content=Footer&utm_campaign=" 
+																							linkname="My Account" style="color: #003055; font-size: 12px; text-decoration: none; font-weight: bold;" target="_blank">MY ACCOUNT </a></td>
+												<td align="center">
+													<a class="bottomsubmenu" href="https://www.adorama.com/trackOrder?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Status&utm_content=Footer&utm_campaign=" 
+																							linkname="Order Status" style="color: #003055; font-size: 12px; text-decoration: none; font-weight: bold;" target="_blank">ORDER STATUS </a></td>
 											</tr>
 										</tbody>
 									</table>
@@ -180,7 +186,8 @@
 									<td align="center" class="bottomlinksbright" style="padding: 14px 0; border-right: 1px solid #FFFFFF; color: #A7A9AC;" width="50%">42 W 18TH STREET, NEW YORK, NY 10011</td>
 									<td align="center" class="bottomlinksbright" style="padding: 14px 0; border-right: 1px solid #FFFFFF; color: #A7A9AC;">800-223-2500</td>
 									<td align="center" class="bottomlinksbrightno" style="padding: 14px 0">
-                    <a href="https://www.adorama.com/?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Footer&utm_campaign=" linkname="AdoramaText" style="color: #A7A9AC; font-size: 13px; text-decoration: none;" target="_blank">
+                    <a href="https://www.adorama.com/?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Footer&utm_campaign=" 
+											 linkname="AdoramaText" style="color: #A7A9AC; font-size: 13px; text-decoration: none;" target="_blank">
                       ADORAMA.COM
                     </a>
                   </td>
@@ -194,15 +201,20 @@
 					<!-- Preference Center -->
 					<tr>
            <td class="bottomlinkscredentials" style="color: #A7A9AC; font-size: 14px; text-align: center;">
-						<p style="padding: 0 30px; margin:5px;">Email sent to: <a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=manage&utm_source=slgt&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=" linkname="MyEmail" style="color: #A7A9AC; font-size: 14px; text-decoration:none">
+						<p style="padding: 0 30px; margin:5px;">
+							Email sent to: 
+							<a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=manage&utm_source=slgt&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=" 
+								 linkname="MyEmail" style="color: #A7A9AC; font-size: 14px; text-decoration:none">
               ##EMAIL_ADDRESS##</a> 
 							<br /> 
 					 
-							<a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=manage&utm_source=slgt&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=#emailpref" linkname="Preferences" style="color: #A7A9AC; font-size: 14px; text-decoration:none; white-space:nowrap">
+							<a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=manage&utm_source=slgt&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=#emailpref" 
+								 linkname="Preferences" style="color: #A7A9AC; font-size: 14px; text-decoration:none; white-space:nowrap">
               <b>Manage Preferences</b></a> &nbsp; | &nbsp; 
               <a href="" linkname="Forward" style="color: #A7A9AC; text-decoration:none; white-space:nowrap">
                 <b>Forward to a Friend</b></a> &nbsp; | &nbsp;
-              <a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=unsubscribe&utm_source=slgt&utm_medium=email&utm_term=Unsubscribe&utm_content=Footer&utm_campaign=#emailpref" linkname="Unsubscribe" style="color: #A7A9AC; font-size: 14px; text-decoration:none">
+              <a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=unsubscribe&utm_source=slgt&utm_medium=email&utm_term=Unsubscribe&utm_content=Footer&utm_campaign=#emailpref" 
+								 linkname="Unsubscribe" style="color: #A7A9AC; font-size: 14px; text-decoration:none">
                 <b>Unsubscribe</b></a></p>
 						</td>						
 					</tr>
@@ -213,7 +225,8 @@
 						<td class="bottomfinal">
 						<p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">
 							Please add 
-							<a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=manage&utm_source=slgt&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=#emailpref" linkname="AddUs" style="color: #A7A9AC; text-decoration:none">
+							<a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=manage&utm_source=slgt&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=#emailpref" 
+								 linkname="AddUs" style="color: #A7A9AC; text-decoration:none">
 								info@shop.adorama.com</a> to your email address book or white list.</p>
 							<p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">
 								Products are subject to price change and availability. Not responsible for typographical errors.</p>
