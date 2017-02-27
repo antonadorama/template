@@ -7,7 +7,8 @@
           <!--[if (gte mso 9)|(lte ie 8)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="640"><tr><td align="center" valign="top"><![endif]-->
           
           <div class="oldwebkit" style="max-width: 640px;">
-            <table style="border-collapse: separate;padding-left: 0;padding-right: 0;width: 100%;max-width: 640px;background-color: #EAF3F7;" class="vb-container fullwidth" align="center" bgcolor="#EAF3F7" border="0" cellpadding="0" cellspacing="0" width="640">
+            <table style="border-collapse: separate;padding-left: 0;padding-right: 0;width: 100%;max-width: 640px;background-color: #EAF3F7;" 
+                   class="vb-container fullwidth" align="center" bgcolor="#EAF3F7" border="0" cellpadding="0" cellspacing="0" width="640">
               <tbody>
                 <tr>
                   <td align="center" valign="top">

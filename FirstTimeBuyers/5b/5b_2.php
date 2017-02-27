@@ -7,7 +7,8 @@
           <!--[if (gte mso 9)|(lte ie 8)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="640"><tr><td align="center" valign="top"><![endif]-->
           
           <div class="oldwebkit" style="max-width: 640px;">
-            <table style="border-collapse: separate;padding-left: 0;padding-right: 0;width: 100%;max-width: 640px;background-color: #EAF3F7;" class="vb-container fullwidth" align="center" bgcolor="#EAF3F7" border="0" cellpadding="0" cellspacing="0" width="640">
+            <table style="border-collapse: separate;padding-left: 0;padding-right: 0;width: 100%;max-width: 640px;background-color: #EAF3F7;" 
+                   class="vb-container fullwidth" align="center" bgcolor="#EAF3F7" border="0" cellpadding="0" cellspacing="0" width="640">
               <tbody>
               <tr>
                   <td height="18">&nbsp;</td>
@@ -62,8 +63,7 @@
                       <tbody>
                         <tr>
                           <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #FFFFFF; font-weight: normal; padding:14px 24px; background-color: #F05674; border-radius: 0px; letter-spacing:1px;" height="26" align="center" bgcolor="#F05674" valign="middle" width="auto">
-                            <a  href="https://www.adorama.com/" linkname="LearnMore" target="_new"                               
-                               style="text-decoration: none; color: #FFFFFF; font-weight: bold;">
+                            <a  rilt="CamerasBody"   href="https://www.adorama.com/c/Lenses" linkname="Cameras" target="_new" style="text-decoration: none; color: #FFFFFF; font-weight: bold;">
                               LEARN MORE</a></td>
                         </tr>
                       </tbody>
