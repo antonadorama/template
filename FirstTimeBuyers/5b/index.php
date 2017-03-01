@@ -33,6 +33,8 @@
 					
 					<?php //include_once("FirstTimeBuyers/blocks/send_button.php"); ?>
 					
+					<?php $utm = "EmailFTB-1"; ?>
+					
 					<?php $ttl = "You Could Turn Your Old Gear Into Cash"; ?>
 					
 					<?php include_once("FirstTimeBuyers/blocks/header.php"); ?>

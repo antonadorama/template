@@ -33,7 +33,9 @@
 					
 					<?php //include_once("FirstTimeBuyers/blocks/send_button.php"); ?>
 					
-					<?php $ttl = "See Lenses & Accessories That Capture Every Shot"; ?>
+					<?php $utm = "EmailFTB-2B"; ?>
+					
+					<?php $ttl = "Your order is on its way! Check out what else we have to offer you!"; ?>
 					
 					<?php include_once("FirstTimeBuyers/blocks/header.php"); ?>
 					

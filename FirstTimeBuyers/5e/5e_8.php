@@ -41,9 +41,9 @@
                                     <td valign="top"><table class="mobile-full" style="padding-top: 4px;" align="center" border="0" cellpadding="0" cellspacing="0">
                                         <tbody>
                                           <tr>
-                                            <td style="font-size: 13px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #F05674; font-weight: normal; padding:8px 15px; background-color: #ffffff; border-radius: 0px; border:2px solid #f05675;" 
-                                                height="26" align="center" bgcolor="#F05674" valign="middle" width="auto">
-                                              <a href="https://www.adorama.com/c/Computers" linkname="" target="_new" style="text-decoration: none; color: #F05674; font-weight: bold;">VIEW DETAILS</a></td>
+                                            <td style="font-size: 13px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #114998; font-weight: normal; padding:8px 15px; background-color: #ffffff; border-radius: 0px; border:2px solid #114998;" 
+                                                height="26" align="center" bgcolor="#114998" valign="middle" width="auto">
+                                              <a href="https://www.adorama.com/c/Computers" linkname="" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">VIEW DETAILS</a></td>
                                           </tr>
                                         </tbody>
                                       </table></td>
@@ -88,9 +88,9 @@
                                     <td valign="top"><table class="mobile-full" style="padding-top: 4px;" align="center" border="0" cellpadding="0" cellspacing="0">
                                         <tbody>
                                           <tr>
-                                            <td style="font-size: 13px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #F05674; font-weight: normal; padding:8px 15px; background-color: #ffffff; border-radius: 0px; border:2px solid #f05675;" 
-                                                height="26" align="center" bgcolor="#F05674" valign="middle" width="auto">
-                                              <a href="https://www.adorama.com/c/Computers" linkname="" target="_new" style="text-decoration: none; color: #F05674; font-weight: bold;">VIEW DETAILS</a></td>
+                                            <td style="font-size: 13px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #114998; font-weight: normal; padding:8px 15px; background-color: #ffffff; border-radius: 0px; border:2px solid #114998;" 
+                                                height="26" align="center" bgcolor="#114998" valign="middle" width="auto">
+                                              <a href="https://www.adorama.com/c/Computers" linkname="" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">VIEW DETAILS</a></td>
                                           </tr>
                                         </tbody>
                                       </table></td>
@@ -135,9 +135,9 @@
                                     <td valign="top"><table class="mobile-full" style="padding-top: 4px;" align="center" border="0" cellpadding="0" cellspacing="0">
                                         <tbody>
                                           <tr>
-                                            <td style="font-size: 13px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #F05674; font-weight: normal; padding:8px 15px; background-color: #ffffff; border-radius: 0px; border:2px solid #f05675;" 
-                                                height="26" align="center" bgcolor="#F05674" valign="middle" width="auto">
-                                              <a href="https://www.adorama.com/c/Computers" linkname="" target="_new" style="text-decoration: none; color: #F05674; font-weight: bold;">VIEW DETAILS</a></td>
+                                            <td style="font-size: 13px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #114998; font-weight: normal; padding:8px 15px; background-color: #ffffff; border-radius: 0px; border:2px solid #114998;" 
+                                                height="26" align="center" bgcolor="#114998" valign="middle" width="auto">
+                                              <a href="https://www.adorama.com/c/Computers" linkname="" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">VIEW DETAILS</a></td>
                                           </tr>
                                         </tbody>
                                       </table></td>

@@ -345,6 +345,8 @@
                         <table width="640" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" align="center" class="wrap100">
                             <tbody>
                               
+															 
+															
                               <!-- Header -->
                               <?php include_once("store events/header.php");?>
                               <!-- End of Header -->

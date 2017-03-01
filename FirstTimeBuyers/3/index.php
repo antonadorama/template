@@ -33,7 +33,9 @@
 					
 					<?php //include_once("FirstTimeBuyers/blocks/send_button.php"); ?>
 					
-					<?php $ttl = "Discover all that Adorama has to offer you!"; ?>
+					<?php $utm = "EmailFTB-3"; ?>
+					
+					<?php $ttl = "Rent, Print, Watch, Learn… Discover all that Adorama has to offer you!"; ?>
 					
 					<?php include_once("FirstTimeBuyers/blocks/header.php"); ?>
 					

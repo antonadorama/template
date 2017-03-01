@@ -30,9 +30,9 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a  linkname="Office_Center"  href="https://www.adorama.com/c/Office-Equipment" target="_blank">
-                                        <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-5-general-Office.jpg" style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
-                                             alt="Office Center" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
+                                      <a  linkname="Entertainment"  href="https://www.adorama.com/l/TVs-and-Home-Entertainment?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
+                                        <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-5-general-tv.jpg" style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
+                                             alt="Entertainment" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%" height="24">&nbsp;</td>
@@ -43,7 +43,7 @@
                                           <tr>
                                             <td style="font-size: 18px; font-family: 'Montserrat', Helvetica, sans-serif; color: #393F42; text-align: center; font-weight:700" class="list-title" height="26" valign="middle" align="center" width="auto">
                                               
-                                              Office Center
+                                              Entertainment
                                               
                                               <br />&nbsp;</td>
                                           </tr>
@@ -82,9 +82,9 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a  linkname="Scopes"   href="https://www.adorama.com/c/Binoculars-and-Scopes" target="_blank">
-                                      <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-5-general-Scopes.jpg" style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
-                                           alt="Scopes" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
+                                      <a  linkname="Office_Center"   href="https://www.adorama.com/l/Office-Equipment/Printers-and-Scanners?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
+                                      <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-5-general-Office.jpg" style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
+                                           alt="Office Center" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%" height="24">&nbsp;</td>
@@ -95,7 +95,7 @@
                                         <tbody>
                                           <tr>
                                             <td style="font-size: 18px; font-family: 'Montserrat', Helvetica, sans-serif; color: #393F42; text-align: center; font-weight:700" height="26" valign="middle" align="center" width="auto" class="list-title">
-                                              Scopes<br />&nbsp;</td>
+                                              Office<br />&nbsp;</td>
                                           </tr>
                                         </tbody>
                                       </table>
@@ -132,10 +132,10 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a  linkname="BagsCases"   href="https://www.adorama.com/c/Bags-and-Cases" target="_blank">
-                                      <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-5-general-bags.jpg" 
+                                      <a  linkname="Storage"   href="https://www.adorama.com/l/Computers/Memory-and-Data-Storage?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
+                                      <img src="/img/ssgmz75e500.jpg" 
                                            style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
-                                           alt="Bags And Cases" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
+                                           alt="Storage" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%" height="24">&nbsp;</td>
@@ -145,7 +145,7 @@
                                         <tbody>
                                           <tr>
                                             <td style="font-size: 18px; font-family: 'Montserrat', Helvetica, sans-serif; color: #393F42; text-align: center; font-weight:700" height="26" valign="middle" align="center" width="auto" class="list-title">
-                                              Bags &#38; Cases<br />&nbsp;</td>
+                                              Storage<br />&nbsp;</td>
                                           </tr>
                                         </tbody>
                                       </table></td>

@@ -30,7 +30,7 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a  linkname="PointandShoot"  href="https://www.adorama.com/l/Cameras/Digital-Point-and-Shoot-Cameras" target="_blank">
+                                      <a  linkname="PointandShoot"  href="https://www.adorama.com/l/Cameras/Digital-Point-and-Shoot-Cameras?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
                                         <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-1-cameras-pointshoot.jpg" style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" alt="" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>
                                   <tr>
@@ -81,7 +81,7 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a  linkname="DSLR"   href="https://www.adorama.com/l/Cameras/Digital-SLR-Cameras" target="_blank">
+                                      <a  linkname="DSLR"   href="https://www.adorama.com/l/Cameras/Digital-SLR-Cameras?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
                                       <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-1-cameras-dslr.jpg" style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" alt="" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>
                                   <tr>
@@ -130,7 +130,7 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a  rilt="HDSLR"   href="https://www.adorama.com/c/Cameras/HDSLR-System" target="_blank">
+                                      <a  linkname="HDSLR"   href="https://www.adorama.com/l/Cameras/HDSLR-System?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
                                       <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-1-cameras-hdslr.jpg" 
                                            style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" alt="" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>

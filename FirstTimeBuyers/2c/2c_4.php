@@ -30,7 +30,7 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a  linkname="ProCameras"  href="https://www.adorama.com/c/Video-Equipment/Professional-Video-Cameras" target="_blank">
+                                      <a  linkname="ProCameras"  href="https://www.adorama.com/l/Video-Equipment/Professional-Video-Cameras?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
                                         <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-3-video-cameras.jpg" style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
                                              alt="Pro Cameras" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>
@@ -82,7 +82,7 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a  linkname="VideolessLenses"   href="https://www.adorama.com/c/Video-Equipment/Video-Lenses-and-Accessories" target="_blank">
+                                      <a  linkname="VideolessLenses"   href="https://www.adorama.com/l/Video-Equipment/Video-Lenses-and-Accessories?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
                                       <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-2-lenses-video.jpg" style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
                                            alt="Pro Video Lenses" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>
@@ -133,10 +133,10 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a  linkname="VideoLighting"   href="https://www.adorama.com/c/Video-Equipment/Video-Lighting" target="_blank">
-                                      <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-3-video-lighting.jpg" 
+                                      <a  linkname="Drones"   href="https://www.adorama.com/l/Video-Equipment/Drones-and-Accessories?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
+                                      <img src="http://www.adorama.com/col/images/email/djiph4pp.jpg" 
                                            style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
-                                           alt="Video Lighting" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
+                                           alt="Drones" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%" height="24">&nbsp;</td>
@@ -146,7 +146,7 @@
                                         <tbody>
                                           <tr>
                                             <td style="font-size: 18px; font-family: 'Montserrat', Helvetica, sans-serif; color: #393F42; text-align: center; font-weight:700" height="26" valign="middle" align="center" width="auto" class="list-title">
-                                              Lighting<br />&nbsp;</td>
+                                              Drones<br />&nbsp;</td>
                                           </tr>
                                         </tbody>
                                       </table></td>

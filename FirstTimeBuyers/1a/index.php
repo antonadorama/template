@@ -33,7 +33,9 @@
 					
 					<?php //include_once("FirstTimeBuyers/blocks/send_button.php"); ?>
 					
-					<?php $ttl = "Get Excited About Your New Purchase!"; ?>
+					<?php $utm = "EmailFTB-1A"; ?>
+					
+					<?php $ttl = "Thanks for your order! We have some useful tips inside to help you get ready for your new gear!"; ?>
 					
 					<?php include_once("FirstTimeBuyers/blocks/header.php"); ?>
 					

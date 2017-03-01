@@ -19,7 +19,7 @@
                       <tbody>
                         <tr>
                   <td style="text-align: center; font-size: 21px; font-family: 'Arvo', Helvetica, sans-serif; font-weight:400italic;color: #006E95; line-height:26px;" class="small-title" align="center">
-                    <em>events@adorama 
+                    <em>Adorama | Store &#38; Events
                       <br />
                       42 w 18th st, nyc 10011</em></td>
                 </tr>
@@ -56,8 +56,10 @@
                   <td valign="top"><table style="padding-top: 4px;" align="center" border="0" cellpadding="0" cellspacing="0">
                       <tbody>
                         <tr>
-                          <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #FFFFFF; font-weight: normal; padding:14px 24px; background-color: #F05674; border-radius: 0px; letter-spacing:1px;" height="26" align="center" bgcolor="#F05674" valign="middle" width="auto">
-                            <a rilt="Directions" href="" linkname="Get Directions" target="_new" style="text-decoration: none; color: #FFFFFF; font-weight: bold;">
+                          <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #FFFFFF; 
+                                     font-weight: normal; padding:14px 24px; background-color: #114998; border-radius: 0px; letter-spacing:1px;" 
+                              height="26" align="center" bgcolor="#114998" valign="middle" width="auto">
+                            <a linkname="Directions" href="https://www.adorama.com/help/mapAndDirections?emailprice=t&utm_source=slgt&utm_medium=email&utm_term=Directions&utm_content=Map&utm_campaign=<?php echo $utm;?>" linkname="Get Directions" target="_new" style="text-decoration: none; color: #FFFFFF; font-weight: bold;">
                               GET DIRECTIONS</a></td>
                         </tr>
                       </tbody>

@@ -33,7 +33,9 @@
 					
 					<?php //include_once("FirstTimeBuyers/blocks/send_button.php"); ?>
 					
-					<?php $ttl = "Hundreds of Tutorials, Gear Guides and Videos You'll Love"; ?>
+					<?php $utm = "EmailFTB-5A"; ?>
+					
+					<?php $ttl = "Discover Hundreds of Tutorials, Gear Guides and Videos to Get You Inspired!"; ?>
 					
 					<?php include_once("FirstTimeBuyers/blocks/header.php"); ?>
 					

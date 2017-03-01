@@ -30,7 +30,7 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a  linkname="Computers"  href="https://www.adorama.com/c/Computers" target="_blank">
+                                      <a  linkname="Computers"  href="https://www.adorama.com/l/Computers?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
                                         <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-5-general-computers.jpg" style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
                                              alt="Computers" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>
@@ -82,9 +82,9 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a  linkname="Entertainment"   href="https://www.adorama.com/c/TVs-and-Home-Entertainment" target="_blank">
-                                      <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-5-general-tv.jpg" style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
-                                           alt="Entertainment" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
+                                      <a  linkname="Tablets"   href="https://www.adorama.com/l/Computers/iPads-and-Tablets?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
+                                      <img src="/img/ssgt813nzwex.jpg" style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
+                                           alt="Tablets" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%" height="24">&nbsp;</td>
@@ -95,7 +95,7 @@
                                         <tbody>
                                           <tr>
                                             <td style="font-size: 18px; font-family: 'Montserrat', Helvetica, sans-serif; color: #393F42; text-align: center; font-weight:700" height="26" valign="middle" align="center" width="auto" class="list-title">
-                                              Entertainment
+                                              Tablets
                                               <br />&nbsp;</td>
                                           </tr>
                                         </tbody>
@@ -133,10 +133,10 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a  linkname="Electronics"   href="https://www.adorama.com/c/TVs-and-Home-Entertainment/Portable-Electronics" target="_blank">
-                                      <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-5-general-Electronics.jpg" 
+                                      <a  linkname="Portable"   href="https://www.adorama.com/l/TVs-and-Home-Entertainment/Portable-Electronics?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
+                                      <img src="/img/fb502sbks.jpg" 
                                            style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
-                                           alt="Electronics" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
+                                           alt="Portable" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%" height="24">&nbsp;</td>
@@ -146,7 +146,7 @@
                                         <tbody>
                                           <tr>
                                             <td style="font-size: 18px; font-family: 'Montserrat', Helvetica, sans-serif; color: #393F42; text-align: center; font-weight:700" height="26" valign="middle" align="center" width="auto" class="list-title">
-                                              Electronics<br />&nbsp;</td>
+                                              Portable<br />&nbsp;</td>
                                           </tr>
                                         </tbody>
                                       </table></td>

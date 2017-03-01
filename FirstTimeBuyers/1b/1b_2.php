@@ -39,11 +39,7 @@
 															<tbody>
 																<tr>
 																	<td style="text-align: center; font-size: 21px; font-family: 'Arvo', Helvetica, sans-serif; font-weight:400italic;color: #006E95; line-height:26px;" class="small-title" align="center">
-																		<em>We proudly offer free In-Store Events,
-
-																			<span style="white-space:nowrap;">Hands On Workshops</span> and Demos by Top Pros
-in the Photo, Video and Audio industry.
-																		</em>
+																		<em>Join Us In-Store for Free Events, Hands-On Workshops and Product Demo’s by Top Photo &#38; Video Pros!</em>
 																	</td>
 																</tr>
 															</tbody>

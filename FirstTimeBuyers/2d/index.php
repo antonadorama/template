@@ -33,7 +33,9 @@
 					
 					<?php //include_once("FirstTimeBuyers/blocks/send_button.php"); ?>
 					
-					<?php $ttl = "Shop Pro Audio Equipment Selected By Adorama Pro's"; ?>
+					<?php $utm = "EmailFTB-2D"; ?>
+					
+					<?php $ttl = "Your order is on its way! Check out what else we have to offer you!"; ?>
 					
 					<?php include_once("FirstTimeBuyers/blocks/header.php"); ?>
 					

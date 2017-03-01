@@ -30,7 +30,7 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a  linkname="ProAudio"  href="https://www.adorama.com/c/Video-Equipment/Audio-for-Video" target="_blank">
+                                      <a  linkname="ProAudio"  href="https://www.adorama.com/l/Video-Equipment/Audio-for-Video?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
                                         <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-3-video-audio.jpg" style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
                                              alt="Audio" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>
@@ -82,9 +82,9 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a  linkname="Support"   href="https://www.adorama.com/c/Video-Equipment/Video-Supports-and-Stabilizers" target="_blank">
-                                      <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-3-video-support.jpg" style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
-                                           alt="Support" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
+                                      <a  linkname="VideoLighting"   href="https://www.adorama.com/l/Video-Equipment/Video-Lighting?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
+                                      <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-3-video-lighting.jpg" style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
+                                           alt="Video Lighting" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%" height="24">&nbsp;</td>
@@ -95,7 +95,7 @@
                                         <tbody>
                                           <tr>
                                             <td style="font-size: 18px; font-family: 'Montserrat', Helvetica, sans-serif; color: #393F42; text-align: center; font-weight:700" height="26" valign="middle" align="center" width="auto" class="list-title">
-                                              Support<br />&nbsp;</td>
+                                              Lighting<br />&nbsp;</td>
                                           </tr>
                                         </tbody>
                                       </table>
@@ -132,7 +132,7 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a  linkname="Monitors"   href="https://www.adorama.com/c/Video-Equipment/Monitors-and-Viewfinders" target="_blank">
+                                      <a  linkname="Monitors"   href="https://www.adorama.com/l/Video-Equipment/Monitors-and-Viewfinders?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
                                       <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-3-video-monitors.jpg" 
                                            style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
                                            alt="Monitors" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>

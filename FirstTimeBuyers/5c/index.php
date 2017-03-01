@@ -33,6 +33,8 @@
 					
 					<?php //include_once("FirstTimeBuyers/blocks/send_button.php"); ?>
 					
+					<?php $utm = "EmailFTB-1"; ?>
+					
 					<?php $ttl = "Showcase Your Photo's on the Finest Photo Books & Prints"; ?>
 					
 					<?php include_once("FirstTimeBuyers/blocks/header.php"); ?>

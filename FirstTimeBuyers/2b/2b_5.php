@@ -30,7 +30,7 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a  linkname="VideoLenses"  href="https://www.adorama.com/c/Lenses/Video-Lenses-and-Accessories" target="_blank">
+                                      <a  linkname="VideoLenses"  href="https://www.adorama.com/l/Lenses/Video-Lenses-and-Accessories?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
                                         <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-2-lenses-video.jpg" style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" alt="" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>
                                   <tr>
@@ -81,7 +81,7 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a  linkname="LensAccessories"   href="https://www.adorama.com/c/Lenses/Lens-Accessories" target="_blank">
+                                      <a  linkname="LensAccessories"   href="https://www.adorama.com/l/Lenses/Lens-Accessories?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
                                       <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-2-lenses-accessories.jpg" style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" alt="" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>
                                   <tr>
@@ -130,7 +130,7 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a  linkname="SpecialtyLenses"   href="https://www.adorama.com/c/Lenses/Specialty-Lenses" target="_blank">
+                                      <a  linkname="SpecialtyLenses"   href="https://www.adorama.com/l/Lenses/Specialty-Lenses?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
                                       <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-2-lenses-specialty.jpg" 
                                            style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" alt="" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>

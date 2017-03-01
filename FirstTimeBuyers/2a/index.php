@@ -16,7 +16,7 @@
 		<meta name="format-detection" content="email=no">
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
-		<?php include_once("FirstTimeBuyers/blocks/style_2a.php"); ?>		
+		<?php include_once("FirstTimeBuyers/blocks/style_2b.php"); ?>		
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -33,7 +33,9 @@
 					
 					<?php //include_once("FirstTimeBuyers/blocks/send_button.php"); ?>
 					
-					<?php $ttl = "From Point & Shoot to HDSLR Cameras, We Have It All"; ?>
+					<?php $utm = "EmailFTB-2A"; ?>
+					
+					<?php $ttl = "Your order is on its way! Check out what else we have to offer you!"; ?>
 					
 					<?php include_once("FirstTimeBuyers/blocks/header.php"); ?>
 					

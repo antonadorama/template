@@ -33,7 +33,8 @@
                         <tbody>
                           <tr>
                             <td class="links-color" align="left" valign="top" width="100%">
-                              <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-3-1-brands-pix.jpg" 
+                              
+                              <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-3-1-brands-alc.jpg" 
                                    style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
                                    class="mobile-full" alt="" hspace="0" border="0" vspace="0" width="208" />
                             </td>
@@ -49,21 +50,31 @@
                           <tr>
                             <td class="mobile-textcenter big-title name-topmargin-mobile" 
                                 style="font-size: 19px; padding-top:15px; font-family: 'Montserrat', Helvetica, sans-serif; font-weight:700; color: #393F42; text-align: left;" >
-                              PRINT at AdoramaPIX</td>
+                              Watch Videos at AdoramaTV</td>
                           </tr>
                           <tr>
                             <td style="text-align: left; font-size: 16px; font-family: Arial, Helvetica, sans-serif; color: #6A6F71; padding:0 20px 0 10px;" 
                                 class="long-text links-color mobile-hide" align="left">
-                              Need a custom photo book or professional prints? AdoramaPix offers superior quality, service and competitive prices on a range of print-on-demand products.</td>
+                              Getting the most out of your new photo 
+                              &#38; video gear starts with great videos. The experts at AdoramaTV offer hundreds of free videos, hands-on tutorials and educational tips to help you reach your goals.</td>
+                          </tr>
+                          <!-- Mobile Only-->
+                          <tr>
+                            <td style="text-align: center; font-size: 14px; font-family: Arial, Helvetica, sans-serif; color: #000; padding: 0px;" 
+                                 align="center">
+                              <span style="display:none;" class="mobile-show">Get Quality Pro Gear, Suited for Any Project.</span>
+                            </td>
                           </tr>
                           <tr>
+                          <!-- -->  
                             <td valign="top">
-                              <table class="mobile-full" style="padding-top: 4px;" align="left" border="0" cellpadding="0" cellspacing="0">
+                              <table class="mobile-full" style="" align="left" border="0" cellpadding="0" cellspacing="0">
                               <tr>
-                                <td class="mobile-textcenter" style="font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-align: left; color: #F05674; font-weight: normal; background-color: #ffffff; border-radius: 0px;" 
+                                <td class="mobile-textcenter" style="font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-align: left; 
+                                                                     color: #114998; font-weight: normal; background-color: #ffffff; border-radius: 0px;" 
                                     height="26" align="left" bgcolor="#ffffff" valign="middle">
-                                  <a linkname="AdoramaPix_Secondary" href="" target="_new" style="text-decoration: none; color: #F05674; font-weight: bold;">
-                                    LEARN MORE <i class="fa fa-caret-right"></i></a></td>
+                                  <a linkname="AdoramaTv" href="http://www.adorama.com/alc/category/AdoramaTv/?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">
+                                    WATCH NOW <i class="fa fa-caret-right"></i></a></td>
                               </tr>
                               <tbody>
                               </tbody>
@@ -122,17 +133,28 @@
                           <tr>
                             <td style="text-align: left; font-size: 16px; font-family: Arial, Helvetica, sans-serif; color: #6A6F71; padding:0 20px 0 10px;" 
                                 class="long-text links-color mobile-hide" align="left">
-                              Ready to upgrade your old gear? We make it easy. 
-                              Trade it in or sell it for cash. Or buy quality tested, used products at a great price from Adorama Trade. </td>
+                              Ready to upgrade your old gear? Adorama Trade makes it easy. Trade in your old items for new gear, 
+                              sell it for cash, or buy quality-assured used products at great prices. </td>
                           </tr>
+                          
+                          <!-- Mobile Only-->
+                          <tr>
+                            <td style="text-align: center; font-size: 14px; font-family: Arial, Helvetica, sans-serif; color: #000; padding: 0px;" 
+                                 align="center">
+                              <span style="display:none;" class="mobile-show">Trade in your old gear for cash.</span>
+                            </td>
+                          </tr>
+                          <tr>
+                          <!-- -->  
+                          
                           <tr>
                             <td valign="top">
                               <table class="mobile-full" style="padding-top: 4px;" align="left" border="0" cellpadding="0" cellspacing="0">
                               <tr>
-                                <td class="mobile-textcenter" style="font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-align: left; color: #F05674; font-weight: normal; background-color: #ffffff; border-radius: 0px;" 
+                                <td class="mobile-textcenter" style="font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-align: left; color: #114998; font-weight: normal; background-color: #ffffff; border-radius: 0px;" 
                                     height="26" align="left" bgcolor="#ffffff" valign="middle">
-                                  <a linkname="Trade" href="" target="_new" style="text-decoration: none; color: #F05674; font-weight: bold;">
-                                    LEARN MORE <i class="fa fa-caret-right"></i>
+                                  <a linkname="Trade" href="https://www.adorama.com/pages/usedQuote?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">
+                                    GET A QUOTE <i class="fa fa-caret-right"></i>
                                   </a>
                                 </td>
                               </tr>
@@ -172,7 +194,7 @@
                         <tbody>
                           <tr>
                             <td class="links-color" align="left" valign="top" width="100%">
-                              <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-3-1-brands-arc.jpg" 
+                              <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-3-1-brands-pro.jpg" 
                                    style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
                                    class="mobile-full" alt="" hspace="0" border="0" vspace="0" width="208" />
                             </td>
@@ -189,23 +211,32 @@
                           <tr>
                             <td class="mobile-textcenter big-title name-topmargin-mobile" 
                                 style="font-size: 19px; padding-top:15px; font-family: 'Montserrat', Helvetica, sans-serif; font-weight:700; color: #393F42; text-align: left;" >
-                              RENT at ARC, Adorama Rental Co
+                              Shop Pro Video &#38; Audio Gear
                             </td>
                           </tr>
                           <tr>
                             <td style="text-align: left; font-size: 16px; font-family: Arial, Helvetica, sans-serif; color: #6A6F71; padding:0 20px 0 10px;" 
                                 class="long-text links-color mobile-hide" align="left">
-                              Rent pro photo, video and cinema gear for a special project at the lowest prices in the industry from Adorama Rental Co. 
-                              Rent-to-Buy Program lets you try it before you buy it.</td>
+                              Your complete resource for professional tools, in-depth knowledge and production support,
+                              the Adorama Pro team will help you bring your most creative visions to life from the very start.</td>
                           </tr>
+                          <!-- Mobile Only-->
+                          <tr>
+                            <td style="text-align: center; font-size: 14px; font-family: Arial, Helvetica, sans-serif; color: #000; padding: 0px;" 
+                                 align="center">
+                              <span style="display:none;" class="mobile-show">Get Quality Pro Gear, Suited for Any Project.</span>
+                            </td>
+                          </tr>
+                          <tr>
+                          <!-- -->  
                           <tr>
                             <td valign="top">
                               <table class="mobile-full" style="padding-top: 4px;" align="left" border="0" cellpadding="0" cellspacing="0">
                               <tr>
-                                <td class="mobile-textcenter" style="font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-align: left; color: #F05674; font-weight: normal; background-color: #ffffff; border-radius: 0px;" 
+                                <td class="mobile-textcenter" style="font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-align: left; color: #114998; font-weight: normal; background-color: #ffffff; border-radius: 0px;" 
                                     height="26" align="left" bgcolor="#ffffff" valign="middle">
-                                  <a linkname="Rent" href="" target="_new" style="text-decoration: none; color: #F05674; font-weight: bold;">
-                                    LEARN MORE <i class="fa fa-caret-right"></i></a></td>
+                                  <a linkname="Rent" href="https://www.adorama.com/c/Video-Equipment?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">
+                                    SHOP PRO GEAR<i class="fa fa-caret-right"></i></a></td>
                               </tr>
                               <tbody>
                               </tbody>
@@ -243,7 +274,8 @@
                         <tbody>
                           <tr>
                             <td class="links-color" align="left" valign="top" width="100%">
-                              <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-3-1-brands-pro.jpg" 
+                              
+                              <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-3-1-brands-arc.jpg" 
                                    style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
                                    class="mobile-full" alt="" hspace="0" border="0" vspace="0" width="208" />
                             </td>
@@ -259,21 +291,31 @@
                           <tr>
                             <td class="mobile-textcenter big-title name-topmargin-mobile" 
                                 style="font-size: 19px; padding-top:15px; font-family: 'Montserrat', Helvetica, sans-serif; font-weight:700; color: #393F42; text-align: left;" >
-                              SHOP at Adorama PRO</td>
+                              Rent at Adorama Rental Co.</td>
                           </tr>
                           <tr>
                             <td style="text-align: left; font-size: 16px; font-family: Arial, Helvetica, sans-serif; color: #6A6F71; padding:0 20px 0 10px;" 
                                 class="long-text links-color mobile-hide" align="left">
-                              Your complete resource for professional tools, in-depth knowledge and production support. Adorama PRO helps you bring your most creative visions to life.</td>
+                              Rent Pro Video, Audio and Cinema gear for your next big project at the lowest prices in the industry 
+                              from Adorama Rental Co. Plus, our Rent-to-Buy Program lets you try it before you buy it.</td>
                           </tr>
+                          <!-- Mobile Only-->
+                          <tr>
+                            <td style="text-align: center; font-size: 14px; font-family: Arial, Helvetica, sans-serif; color: #000; padding: 0px;" 
+                                 align="center">
+                              <span style="display:none;" class="mobile-show">Rent pro video, audio &#38; cinema gear for your next big project.</span>
+                            </td>
+                          </tr>
+                          <tr>
+                          <!-- -->  
                           <tr>
                             <td valign="top"><table class="mobile-full" style="padding-top: 4px;" align="left" border="0" cellpadding="0" cellspacing="0">
                               <tr>
                                 <td class="mobile-textcenter" 
-                                    style="font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-align: left; color: #F05674; font-weight: normal; background-color: #ffffff; border-radius: 0px;" 
+                                    style="font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-align: left; color: #114998; font-weight: normal; background-color: #ffffff; border-radius: 0px;" 
                                     height="26" align="left" bgcolor="#ffffff" valign="middle">
-                                  <a linkname="AdoramaPro" href="" target="_new" style="text-decoration: none; color: #F05674; font-weight: bold;">
-                                    LEARN MORE <i class="fa fa-caret-right"></i></a></td>
+                                  <a linkname="AdoramaPro" href="http://www.adoramarentals.com/?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">
+                                    START RENTING <i class="fa fa-caret-right"></i></a></td>
                               </tr>
                               <tbody>
                               </tbody>
@@ -310,7 +352,7 @@
                         <tbody>
                           <tr>
                             <td class="links-color" align="left" valign="top" width="100%">
-                              <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-3-1-brands-alc.jpg" 
+                              <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-3-1-brands-pix.jpg" 
                                    style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
                                    class="mobile-full" alt="" hspace="0" border="0" vspace="0" width="208"></td>
                           </tr>
@@ -325,22 +367,32 @@
                           <tr>
                             <td class="mobile-textcenter big-title name-topmargin-mobile" 
                                 style="font-size: 19px; padding-top:15px; font-family: 'Montserrat', Helvetica, sans-serif; font-weight:700; color: #393F42; text-align: left;" >
-                              LEARN at Adorama Learning Center</td>
+                              PRINT at AdoramaPIX</td>
                           </tr>
                           <tr>
                             <td style="text-align: left; font-size: 16px; font-family: Arial, Helvetica, sans-serif; color: #6A6F71; padding:0 20px 0 10px;" 
                                 class="long-text links-color mobile-hide" align="left">
-                              Get inspired, learn and get the most out of your new gear  with hundreds of free educational articles, how-to tips, tricks, reviews and buying guides at Adorama Learning Center.</td>
+                              Need a custom photo book or professional prints? AdoramaPix offers superior quality, 
+                              service and competitive prices on a range of print-on-demand products.</td>
                           </tr>
+                         <!-- Mobile Only-->
+                          <tr>
+                            <td style="text-align: center; font-size: 14px; font-family: Arial, Helvetica, sans-serif; color: #000; padding: 0px;" 
+                                 align="center">
+                              <span style="display:none;" class="mobile-show">Need a custom photo book or professional prints?</span>
+                            </td>
+                          </tr>
+                          <tr>
+                          <!-- -->  
                           <tr>
                             <td valign="top">
                               <table class="mobile-full" style="padding-top: 4px;" align="left" border="0" cellpadding="0" cellspacing="0">
                                 <tr>
                                   <td class="mobile-textcenter" 
-                                      style="font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-align: left; color: #F05674; font-weight: normal; 
+                                      style="font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-align: left; color: #114998; font-weight: normal; 
                                              background-color: #ffffff; border-radius: 0px;" height="26" align="left" bgcolor="#ffffff" valign="middle">
-                                    <a href="" target="_new" style="text-decoration: none; color: #F05674; font-weight: bold;">
-                                      LEARN MORE <i class="fa fa-caret-right"></i></a></td>
+                                    <a href="https://www.adoramapix.com/app/home?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">
+                                      START PRINTING <i class="fa fa-caret-right"></i></a></td>
                                 </tr>
                                 <tbody>
                                 </tbody>

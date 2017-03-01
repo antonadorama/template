@@ -279,9 +279,6 @@
                 display: block !important; width: 100% !important; height:auto !important;
             }
 
-            p {
-                padding: 10px 30px 10px 30px !important;
-            }
         }
 
         @media screen and (device-width: 320px) and (device-height: 480px), screen and (device-width: 320px) and (device-height: 568px) {
@@ -308,10 +305,25 @@ table.vb-container, table.vb-row {
     font-size: 0.8em !important;
 }
     
+     .big-title {
+       
+       display:block;
+       padding:10px;
+       
+     }
+     
+     .long-text {
+       
+       display:block;
+       padding:10px;
+       font-size: 16px !important;
+       
+     }
+     
      .name-topmargin {
        
        display: block !important;
-       width: 98% !important;
+       width: 96% !important;
       height: auto !important;
        padding-top: 0px !important;
      }     

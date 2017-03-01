@@ -14,7 +14,7 @@
               </tr>
                 <tr>
                   <td style="text-align: center; font-size: 21px; font-family: 'Arvo', Helvetica, sans-serif; font-weight:400italic;color: #006E95; line-height:26px;" class="small-title" align="center">
-                  <a href="http://www.adorama.com/alc/?emailprice=t&utm_source=slgt&utm_medium=email&utm_campaign=Email-1TBuyer" target="_blank">
+                  <a href="http://www.adorama.com/alc/?emailprice=t&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $utm;?>" target="_blank">
                     <img src="image_library/org_1/1076/adorama-learning-center-logo.png" alt="alc">
                    </a> 
                   </td>
@@ -27,15 +27,15 @@
                   <td align="center">
                     <!-- Feature Headline -->               
                     
-                    <table style="border-collapse: separate;border-spacing: 0px;padding: 0px; max-width: 500px; width:60%;" class="vb-container halfpad" border="0" cellpadding="0" cellspacing="0" width="500">
+                    <table style="border-collapse: separate;border-spacing: 0px;padding: 0px; max-width: 500px; width:70%;" class="vb-container halfpad" border="0" cellpadding="0" cellspacing="0" width="500">
                       <tbody>
                         <tr>
                           
                           <td  align="center" class="big-title">
-                            <a href="http://www.adorama.com/alc/?emailprice=t&utm_source=slgt&utm_medium=email&utm_campaign=Email-1TBuyer" target="_blank" 
+                            <a href="http://www.adorama.com/alc/?emailprice=t&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $utm;?>" target="_blank" 
                                style="font-size: 31px; font-family: 'Montserrat', Helvetica, sans-serif; font-weight:700; color: #006E95; text-align: center; 
                                       letter-spacing:1px; line-height:42px; text-decoration:none;">
-                              <span>100&#39;s of How-to Tutorials, <span style="white-space:nowrap;">Gear Guides</span> and Video&#39;s to Get You Inspired</span></a></td>
+                              <span>Looking to take your photography to the next level? The Adorama Learning Center can help.</span></a></td>
                         </tr>
                       </tbody>
                     </table>

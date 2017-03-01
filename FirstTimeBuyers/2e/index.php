@@ -33,7 +33,9 @@
 					
 					<?php //include_once("FirstTimeBuyers/blocks/send_button.php"); ?>
 					
-					<?php $ttl = "Shop our Large Selection of Brands, Electronics & Gear!"; ?>
+					<?php $utm = "EmailFTB-2E"; ?>
+					
+					<?php $ttl = "Your order is on its way! Check out what else we have to offer you!"; ?>
 					
 					<?php include_once("FirstTimeBuyers/blocks/header.php"); ?>
 					

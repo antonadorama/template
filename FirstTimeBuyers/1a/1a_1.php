@@ -9,12 +9,12 @@
             <table style="border-collapse: separate;border-spacing: 0px;padding-left: 0;padding-right: 0;width: 100%;max-width: 640px;background-color: #fff;" class="vb-container fullpad" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="640">
               <tbody>
               <tr>
-                  <td style="background-color: #ffffff; font-size: 1.1em; font-family: Arial, Helvetica, sans-serif; color: #393F42; text-align: center; padding-top:25px" 
+                  <td style="font-weight:bold; background-color: #ffffff; font-size: 1.2em; font-family: Arial, Helvetica, sans-serif; color: #393F42; text-align: center; padding-top:25px" 
                       align="center" bgcolor="#ffffff" class="name-topmargin">
                     Hi ##SMFMT_PROPERCASE[\first_name[Dear Friend]]##!</td>
               </tr>
               <tr>
-                  <td height="18">&nbsp;</td>
+                  <td height="18" class="mobile-hide">&nbsp;</td>
               </tr>
               <tr>
                   <td align="center">
@@ -22,7 +22,8 @@
                   <table style="border-collapse: separate;border-spacing: 0px;padding-left: 0;padding-right: 0;width: 50%;max-width: 300px;background-color: #fff;" class="vb-container fullpad" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="300">
               <tbody>
                 <tr>
-                  <td style="text-align: center; font-size: 16px; font-family: Arial, Helvetica, sans-serif; color: #6A6F71; line-height:26px; " class="long-text links-color" align="center">We can't wait to ship you your order. To get you ready, here are some useful tips:</td>
+                  <td style="text-align: center; font-size: 16px; font-family: Arial, Helvetica, sans-serif; color: #6A6F71; line-height:26px; " class="long-text links-color" align="center">
+                    We can't wait to ship you your order. To get you ready, discover useful tips for your new gear at the Adorama Learning Center:</td>
                 </tr>
               </tbody>
             </table>
@@ -30,7 +31,7 @@
                   </td>
                </tr>
                <tr>
-                  <td height="18">&nbsp;</td>
+                  <td height="18" class="mobile-hide">&nbsp;</td>
               </tr>
               </tbody>
             </table>
@@ -42,3 +43,4 @@
   </table>
   </td>
 </tr>  
+

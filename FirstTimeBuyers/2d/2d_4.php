@@ -30,9 +30,9 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a  linkname="Mixers"  href="https://www.adorama.com/l/Professional-Audio/DJ-Equipment/DJ-Mixers-and-Controllers" target="_blank">
-                                        <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-4-audio-mixers.jpg" style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
-                                             alt="Mixers" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
+                                      <a  linkname="Audio_for_Video"  href="https://www.adorama.com/l/Professional-Audio/Audio-for-Video?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
+                                        <img src="https://www.adorama.com/images/product/zoh4npro.jpg" style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
+                                             alt="Audio for Video" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%" height="24">&nbsp;</td>
@@ -43,7 +43,7 @@
                                           <tr>
                                             <td style="font-size: 18px; font-family: 'Montserrat', Helvetica, sans-serif; color: #393F42; text-align: center; font-weight:700" class="list-title" height="26" valign="middle" align="center" width="auto">
                                               
-                                              Mixers
+                                              Audio for Video
                                               
                                               <br />&nbsp;</td>
                                           </tr>
@@ -82,7 +82,7 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a  linkname="Microphones"   href="https://www.adorama.com/c/Professional-Audio/Microphones-and-Accessories/Microphones" target="_blank">
+                                      <a  linkname="Microphones"   href="https://www.adorama.com/l/Professional-Audio/Microphones-and-Accessories/Microphones?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
                                       <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-4-audio-Microphones.jpg" style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
                                            alt="Microphones" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>
@@ -133,10 +133,10 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a  linkname="LiveSound"   href="https://www.adorama.com/c/Professional-Audio/PA-and-Live-Sound" target="_blank">
-                                      <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-4-audio-pa.jpg" 
+                                      <a  linkname="Headphones"   href="https://www.adorama.com/l/Professional-Audio/Headphones-and-Earphones?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
+                                      <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-4-audio-Headphones.jpg" 
                                            style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
-                                           alt="Live Sound" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
+                                           alt="Headphones" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%" height="24">&nbsp;</td>
@@ -146,7 +146,7 @@
                                         <tbody>
                                           <tr>
                                             <td style="font-size: 18px; font-family: 'Montserrat', Helvetica, sans-serif; color: #393F42; text-align: center; font-weight:700" height="26" valign="middle" align="center" width="auto" class="list-title">
-                                              Live Sound<br />&nbsp;</td>
+                                              Headphones<br />&nbsp;</td>
                                           </tr>
                                         </tbody>
                                       </table></td>

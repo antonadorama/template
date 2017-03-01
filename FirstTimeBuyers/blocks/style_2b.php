@@ -282,7 +282,7 @@
             }
 
             p {
-                padding: 10px 30px 10px 30px !important;
+                padding: 0px !important;
             }
         }
 
@@ -313,7 +313,7 @@ table.vb-container, table.vb-row {
      .name-topmargin {
        
        display: block !important;
-       width: 98% !important;
+       width: 95% !important;
       height: auto !important;
        padding-top: 0px !important;
      }     
@@ -321,6 +321,17 @@ table.vb-container, table.vb-row {
 .mobile-hide {
     display: none !important;
 }
+     
+     .mobile-show {
+       
+      color:#6A6F71 !important;
+      padding-top:15px !important;
+      font-size: 1.2em; 
+      display:block !important;
+      padding-left: 10px !important;
+      padding-right:10px !important; 
+       
+     }    
 .mobile-textcenter {
     text-align: center !important;
 }
@@ -346,10 +357,12 @@ img.mobile-full-2 {
 .big-title {
     font-size: 21px !important;
     line-height: 28px !important;
+    padding: 0 15px;
 }
 .small-title {
     font-size: 16px !important;
     line-height: 20px !important;
+    padding: 10px;
 }
 .list-title {
     font-size: 21px !important;

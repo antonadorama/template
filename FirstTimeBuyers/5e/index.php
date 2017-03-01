@@ -33,6 +33,8 @@
 					
 					<?php //include_once("FirstTimeBuyers/blocks/send_button.php"); ?>
 					
+					<?php $utm = "EmailFTB-1"; ?>
+					
 					<?php $ttl = "Discover PRO Gear, In-Depth Knowledge & Product Support for Professionals!"; ?>
 					
 					<?php include_once("FirstTimeBuyers/blocks/header.php"); ?>
