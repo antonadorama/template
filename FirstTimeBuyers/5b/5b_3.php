@@ -12,7 +12,7 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/" linkname="Adorama" target="_blank">
+                    <a href="https://www.adorama.com/pages/usedQuote?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="Adorama" target="_blank">
                     <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-5-2-feature-used.jpg" 
                          style="border: 0px;border-radius: 0px;display: block;max-width: 410px;width: 100%;height: auto;" 
                          class="mobile-full" alt="Adorama" hspace="0" border="0" vspace="0" width="410" height="auto">

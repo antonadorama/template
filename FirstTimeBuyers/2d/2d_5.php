@@ -31,7 +31,7 @@
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
                                       <a  linkname="Speakers"  href="https://www.adorama.com/l/Professional-Audio/Speakers-and-Monitors?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
-                                        <img src="https://www.adorama.com/images/product/pkults10.jpg" style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
+                                        <img src="http://www.adorama.com/col/images/email/43831.jpg" style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
                                              alt="Speakers" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>
                                   <tr>

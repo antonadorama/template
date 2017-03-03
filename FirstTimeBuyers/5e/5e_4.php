@@ -26,13 +26,24 @@
                         <tbody>
                           <tr>
                             <td class="links-color" style="padding-bottom: 9px;" align="left" valign="top" width="100%">
-                              <a href="" linkname="" target="_blank" >
+                              <a href="http://www.adorama.com/pro?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="ProSales" target="_blank" >
                               <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-3-1-brands-pro.jpg" 
                                    style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
-                                   class="mobile-full" alt="" hspace="0" border="0" vspace="0" width="208">
+                                   class="mobile-full" alt="Pro Sales" hspace="0" border="0" vspace="0" width="208">
                               </a>
                             </td>
                           </tr>
+                          
+                          <!-- Mobile Only-->
+                          <tr>
+                            <td style="text-align: center; font-size: 14px; font-family: Arial, Helvetica, sans-serif; color: #000; padding: 0px;" 
+                                 align="center">
+                              <span style="display:none;" class="mobile-show">We help you select the perfect tools for any project.</span>
+                            </td>
+                          </tr>
+                          <tr>
+                          <!-- -->
+                          
                           <tr>
                             <td style="font-size: 18px; font-family: 'Montserrat', Helvetica, sans-serif; color: #393F42; text-align: center; font-weight:700" height="26" valign="middle" align="center" width="auto" class="big-title">
                               PRO Sales</td>
@@ -61,16 +72,27 @@
                         <tbody>
                           <tr>
                             <td class="links-color" style="padding-bottom: 9px;" align="left" valign="top" width="100%">
-                              <a href="" linkname="" target="_blank" >
+                              <a href="https://www.adorama.com/pages/usedQuote?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="TradeUsed" target="_blank" >
                               <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-5-2-used-sell.jpg" 
                                    style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" class="mobile-full" 
-                                   alt="" hspace="0" border="0" vspace="0" width="208">
+                                   alt="Trade Used" hspace="0" border="0" vspace="0" width="208">
                               </a>
                             </td>
                           </tr>
+                          
+                          <!-- Mobile Only-->
+                          <tr>
+                            <td style="text-align: center; font-size: 14px; font-family: Arial, Helvetica, sans-serif; color: #000; padding: 0px;" 
+                                 align="center">
+                              <span style="display:none;" class="mobile-show">We pay top dollar for your used gear.</span>
+                            </td>
+                          </tr>
+                          <tr>
+                          <!-- -->                          
+                          
                           <tr>
                             <td style="font-size: 18px; font-family: 'Montserrat', Helvetica, sans-serif; color: #393F42; text-align: center; font-weight:700" height="26" valign="middle" align="center" width="auto" class="big-title">
-                              TRADE &#38; Upgrade</td>
+                              TRADE</td>
                           </tr>
                           <tr>
                             <td style="text-align: center; font-size: 13px !important; font-family: Arial, Helvetica, sans-serif; color: #6A6F71;" 
@@ -78,7 +100,7 @@
                               <div style="margin-left:10px;margin-right:10px;">
                                 <!--[if (gte mso 9)|(lte ie 8)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="180"><tr><![endif]-->
                                 <!--[if (gte mso 9)|(lte ie 8)]><td align="center" valign="top" width="180"><font size="3" color="#6A6F71"><![endif]-->
-                                We pay top dollar for your used photo and video equipment. From a single camera to a large estate, nothing is too big or small.
+                                We pay top dollar for your used photo and video equipment. Find out how much your old gear is truly worth.
                                 <!--[if (gte mso 9)|(lte ie 8)]></font></td><![endif]--> 
                                 <!--[if (gte mso 9)|(lte ie 8)]></tr></table><![endif]-->
                               </div>
@@ -96,13 +118,24 @@
                         <tbody>
                           <tr>
                             <td class="links-color" style="padding-bottom: 9px;" align="left" valign="top" width="100%">
-                              <a href="" linkname="" target="_blank" >
+                              <a href="https://www.adorama.com/pages/Rent-to-Buy?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="RentToBuy" target="_blank" >
                               <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-7-1-brands-arc-rentbuy.jpg" 
                                    style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
-                                   class="mobile-full" hspace="0" border="0" vspace="0" width="208">
+                                   class="mobile-full" hspace="0" border="0" vspace="0" width="208" alt="Rent To Buy">
                               </a>
                             </td>
                           </tr>
+                          
+                          <!-- Mobile Only-->
+                          <tr>
+                            <td style="text-align: center; font-size: 14px; font-family: Arial, Helvetica, sans-serif; color: #000; padding: 0px;" 
+                                 align="center">
+                              <span style="display:none;" class="mobile-show">Learn how to get 100% back on your rental.</span>
+                            </td>
+                          </tr>
+                          <tr>
+                          <!-- -->
+                          
                           <tr>
                             <td style="font-size: 18px; font-family: 'Montserrat', Helvetica, sans-serif; color: #393F42; text-align: center; font-weight:700" height="26" valign="middle" align="center" width="auto" class="big-title">
                               Rent-to-Buy</td>
@@ -144,7 +177,7 @@
                                                font-weight: normal; background-color: #ffffff; border-radius: 0px;" height="26" 
                                         align="center" bgcolor="#ffffff" valign="middle" width="auto">
                                       <!--[if (gte mso 9)|(lte ie 8)]><font size="2"><![endif]-->
-                                      <a linkname="PreOwned_Deals" href="" target="_new" style="text-decoration: none; color: #F05674; font-weight: bold;">                                        
+                                      <a linkname="Pre_Sales" href="http://www.adorama.com/pro?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #F05674; font-weight: bold;">                                        
                                         LEARN MORE                                        
                                         <i class="fa fa-caret-right"></i> </a>
                                       <!--[if (gte mso 9)|(lte ie 8)]></font><![endif]-->
@@ -172,8 +205,8 @@
                                              color: #F05674; font-weight: normal; padding-left: 18px; padding-right: 18px; background-color: #ffffff; border-radius: 0px;" 
                                       height="26" align="center" bgcolor="#ffffff" valign="middle">
                                     <!--[if (gte mso 9)|(lte ie 8)]><font size="2"><![endif]-->
-                                    <a linkname="Sell" href="" target="_new" style="text-decoration: none; color: #F05674; font-weight: bold;">
-                                      LEARN MORE <i class="fa fa-caret-right"></i> </a>
+                                    <a linkname="Trade_Used" href="https://www.adorama.com/pages/usedQuote?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #F05674; font-weight: bold;">
+                                      GET A QUOTE <i class="fa fa-caret-right"></i> </a>
                                     <!--[if (gte mso 9)|(lte ie 8)]></font><![endif]-->
                                   </td>
                                 </tr>
@@ -198,8 +231,8 @@
                                              font-weight: normal; padding-left: 18px; padding-right: 18px; background-color: #ffffff; border-radius: 0px;" 
                                       height="26" align="center" bgcolor="#ffffff" valign="middle">
                                     <!--[if (gte mso 9)|(lte ie 8)]><font size="2"><![endif]-->
-                                    <a linkname="Quote" href="" target="_new" style="text-decoration: none; color: #F05674; font-weight: bold;">
-                                      GET DIRECTIONS 
+                                    <a linkname="Rent_To_Buy" href="https://www.adorama.com/pages/Rent-to-Buy?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #F05674; font-weight: bold;">
+                                      LEARN MORE
                                       <i class="fa fa-caret-right"></i>
                                     </a>
                                     <!--[if (gte mso 9)|(lte ie 8)]></font><![endif]-->

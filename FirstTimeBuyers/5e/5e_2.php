@@ -15,7 +15,7 @@
               </tr>
                 <tr>
                   <td style="text-align: center; font-size: 21px; font-family: 'Arvo', Helvetica, sans-serif; font-weight:400italic;color: #006E95; line-height:26px;" class="small-title" align="center">
-                    <em>adorama pro</em></td>
+                    <em>Adorama Pro</em></td>
                 </tr>
                 <tr>
                   <td height="18">&nbsp;</td>
@@ -27,7 +27,7 @@
                       <tbody>
                         <tr>
                           <td style="font-size: 31px; font-family: 'Montserrat', Helvetica, sans-serif; font-weight:700; color: #006E95; text-align: center; letter-spacing:1px; line-height:42px" align="center" class="big-title">
-                            Complete Resource for Pro Gear, In-Depth Knowledge and Production Support</span></td>
+                            Discover Resources, In-Depth Knowledge and Product Support for Professionals.</span></td>
                         </tr>
                       </tbody>
                     </table>
@@ -62,8 +62,10 @@
                     <table style="padding-top: 4px;" align="center" border="0" cellpadding="0" cellspacing="0">
                       <tbody>
                         <tr>
-                          <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #FFFFFF; font-weight: normal; padding:14px 24px; background-color: #F05674; border-radius: 0px; letter-spacing:1px;" height="26" align="center" bgcolor="#F05674" valign="middle" width="auto">
-                            <a  rilt="CamerasBody"   href="https://www.adorama.com/c/Lenses" linkname="Cameras" target="_new" style="text-decoration: none; color: #FFFFFF; font-weight: bold;">
+                          <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #FFFFFF; 
+                                     font-weight: normal; padding:14px 24px; background-color: #114998; border-radius: 0px; letter-spacing:1px;" 
+                              height="26" align="center" bgcolor="#114998" valign="middle" width="auto">
+                            <a href="http://www.adorama.com/pro?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="AdoramaPro" target="_new" style="text-decoration: none; color: #FFFFFF; font-weight: bold;">
                               LEARN MORE</a></td>
                         </tr>
                       </tbody>

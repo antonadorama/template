@@ -12,10 +12,10 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/" linkname="Adorama" target="_blank">
+                    <a href="http://www.adorama.com/pro?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="AdoramapRO" target="_blank">
                     <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-5-4-feature-arc-pro.jpg" 
                          style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" 
-                         class="mobile-full" alt="Adorama" hspace="0" border="0" vspace="0" width="640" height="auto">
+                         class="mobile-full" alt="Adorama Pro" hspace="0" border="0" vspace="0" width="640" height="auto">
                     </a>
                   </td>
                 </tr>

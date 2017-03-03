@@ -31,7 +31,7 @@
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
                                       <a  linkname="Audio_for_Video"  href="https://www.adorama.com/l/Professional-Audio/Audio-for-Video?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
-                                        <img src="https://www.adorama.com/images/product/zoh4npro.jpg" style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
+                                        <img src="http://www.adorama.com/col/images/email/49281.jpg" style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
                                              alt="Audio for Video" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>
                                   <tr>

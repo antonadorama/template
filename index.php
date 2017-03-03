@@ -27,7 +27,7 @@
 
   //include_once("flash_sale_template/D5300_VIP.php");
   
-  //include_once("test.php");
+  include_once("test.php");
 
   //include_once("SunnySports/camping_hiking.php");
 
@@ -35,7 +35,7 @@
   //include_once("store events/main.php");
 
 
-  include_once("FirstTimeBuyers/index.php");
+  //include_once("FirstTimeBuyers/index.php");
 
   //include_once("FirstTimeBuyers/1a/1a_6.php"); 
 	//include_once("FirstTimeBuyers/1a/1a_8.php"); 

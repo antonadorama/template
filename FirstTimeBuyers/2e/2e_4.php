@@ -83,7 +83,7 @@
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
                                       <a  linkname="Tablets"   href="https://www.adorama.com/l/Computers/iPads-and-Tablets?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
-                                      <img src="/img/ssgt813nzwex.jpg" style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
+                                      <img src="http://www.adorama.com/col/images/email/ssgt813nzwex.jpg" style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
                                            alt="Tablets" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>
                                   <tr>
@@ -134,7 +134,7 @@
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
                                       <a  linkname="Portable"   href="https://www.adorama.com/l/TVs-and-Home-Entertainment/Portable-Electronics?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
-                                      <img src="/img/fb502sbks.jpg" 
+                                      <img src="http://www.adorama.com/col/images/email/fb502sbks.jpg" 
                                            style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
                                            alt="Portable" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>

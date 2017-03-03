@@ -33,7 +33,7 @@
 					
 					<?php //include_once("FirstTimeBuyers/blocks/send_button.php"); ?>
 					
-					<?php $utm = "EmailFTB-1"; ?>
+					<?php $utm = "EmailFTB-5D"; ?>
 					
 					<?php $ttl = "Learn About Rental Rewards & Rent To Buy Program!"; ?>
 					

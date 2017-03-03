@@ -33,9 +33,9 @@
 					
 					<?php //include_once("FirstTimeBuyers/blocks/send_button.php"); ?>
 					
-					<?php $utm = "EmailFTB-1"; ?>
+					<?php $utm = "EmailFTB-6"; ?>
 					
-					<?php $ttl = "Learn More about Adorama's Flagship NYC Store!"; ?>
+					<?php $ttl = "Discover more about Adorama NYC, our flagship electronics store with free events, workshops & hands-on demos!"; ?>
 					
 					<?php include_once("FirstTimeBuyers/blocks/header.php"); ?>
 					

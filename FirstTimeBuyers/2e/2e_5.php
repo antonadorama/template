@@ -133,7 +133,7 @@
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
                                       <a  linkname="Storage"   href="https://www.adorama.com/l/Computers/Memory-and-Data-Storage?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
-                                      <img src="/img/ssgmz75e500.jpg" 
+                                      <img src="http://www.adorama.com/col/images/email/ssgmz75e500.jpg" 
                                            style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
                                            alt="Storage" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>

@@ -33,9 +33,9 @@
 					
 					<?php //include_once("FirstTimeBuyers/blocks/send_button.php"); ?>
 					
-					<?php $utm = "EmailFTB-1"; ?>
+					<?php $utm = "EmailFTB-5E"; ?>
 					
-					<?php $ttl = "Discover PRO Gear, In-Depth Knowledge & Product Support for Professionals!"; ?>
+					<?php $ttl = "Discover Professional-Grade Gear, In-Depth Knowledge & Product Support for Pro Video, Audio & Cinema!"; ?>
 					
 					<?php include_once("FirstTimeBuyers/blocks/header.php"); ?>
 					

@@ -18,10 +18,10 @@
                       <tbody>
                         <tr>
                           <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #FFFFFF; 
-                                     font-weight: normal; padding:14px 24px; background-color: #F05674; border-radius: 0px; letter-spacing:1px;" 
-                              height="26" align="center" bgcolor="#F05674" valign="middle" width="auto">
+                                     font-weight: normal; padding:14px 24px; background-color: #114998; border-radius: 0px; letter-spacing:1px;" 
+                              height="26" align="center" bgcolor="#114998" valign="middle" width="auto">
                             <a  linkname="EventArchives" 
-                               href=""
+                               href="https://www.eventbrite.com/o/adorama-2821855680#past_events?emailprice=t&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $utm;?>"
                                target="_new" style="text-decoration: none; color: #FFFFFF; font-weight: bold;">
                               EVENT ARCHIVES <i class="fa fa-caret-right"></i> </a></td>
                         </tr>
