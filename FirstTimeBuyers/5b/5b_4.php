@@ -28,7 +28,7 @@
                             <td class="links-color" style="" align="left" valign="top" width="100%">
                               <a href="https://www.adorama.com/l/Used/Clearance?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                                  linkname="PreOwnedDeals" target="_blank" >
-                              <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-5-2-used-deal.jpg" 
+                              <img src="http://www.adorama.com/col/images/email/PreOwned_5B.jpg" 
                                    style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
                                    class="mobile-full" alt="Pre Owned Deals" hspace="0" border="0" vspace="0" width="208">
                               </a>
@@ -76,7 +76,7 @@
                             <td class="links-color" style="" align="left" valign="top" width="100%">
                               <a href="https://www.adorama.com/l/Used/Open~Box?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                                  linkname="OpenBoxDiscounts" target="_blank" >
-                              <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-5-2-used-sell.jpg" 
+                              <img src="http://www.adorama.com/col/images/email/OpenBox_5B.jpg" 
                                    style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" class="mobile-full" 
                                    alt="" hspace="0" border="0" vspace="0" width="208" alt="Open Box Discounts">
                               </a>
@@ -124,7 +124,7 @@
                             <td class="links-color" style="" align="left" valign="top" width="100%">
                               <a href="https://www.adorama.com/l/Refurbished?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                                  linkname="Refurbished_Gear" target="_blank" >
-                              <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-5-2-used-quote.jpg" 
+                              <img src="http://www.adorama.com/col/images/email/Refurbs_5B.jpg" 
                                    style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
                                    class="mobile-full" hspace="0" border="0" vspace="0" width="208" alt="Refurbished Gear">
                               </a>

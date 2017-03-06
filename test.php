@@ -621,7 +621,7 @@
 																						<td align="center" class="bottomlinksbright" style="padding: 14px 0; border-right: 1px solid #FFFFFF" width="50%">42 W 18TH STREET, NEW YORK, NY 10011</td>
 																						<td align="center" class="bottomlinksbright" style="padding: 14px 0; border-right: 1px solid #FFFFFF">800-223-2500</td>
 																						<td align="center" class="bottomlinksbrightno" style="padding: 14px 0">
-																							<a href="https://www.adorama.com/?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Footer&utm_campaign=FlashSaleVipNikonD3400andD7200Refurbished030317" linkname="AdoramaText" style="color: inherit" target="_blank">ADORAMA.COM </a>
+																							<a href="https://www.adorama.com/?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Footer&utm_campaign=FlashSaleVipNikonD3400andD7200Refurbished030317" linkname="AdoramaText" style="color: #A7A9AC" target="_blank">ADORAMA.COM </a>
 																						</td>
 																					</tr>
 																				</tbody>
@@ -633,15 +633,15 @@
 																		<!-- Preference Center -->
 																		<td class="bottomlinkscredentials" style="color: #A7A9AC; font-size: 14px; text-align: center; padding: 20px 0 10px 0">
 																			<p style="padding: 0 30px">Email sent to: 
-																				<a href="" style="color: inherit; text-decoration:none">##EMAIL_ADDRESS##</a> &nbsp; | &nbsp; 
-																				<a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&utm_source=slgt&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=FlashSaleVipNikonD3400andD7200Refurbished030317&pageMode=manage#emailpref" linkname="Preferences" style="color: inherit; text-decoration:none; white-space:nowrap">
+																				<a href="" style="color: #A7A9AC; text-decoration:none">##EMAIL_ADDRESS##</a> &nbsp; | &nbsp; 
+																				<a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&utm_source=slgt&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=FlashSaleVipNikonD3400andD7200Refurbished030317&pageMode=manage#emailpref" linkname="Preferences" style="color: #A7A9AC; text-decoration:none; white-space:nowrap">
 																					<b>Manage Preferences</b>
 																				</a> &nbsp; | &nbsp;&nbsp;
 																				<strong>
-																					<a href="" linkname="Forward to a Friend"> Forward to a Friend</a>
+																					<a href="" linkname="Forward to a Friend" style="color: #A7A9AC"> Forward to a Friend</a>
 																				</strong> &nbsp; | &nbsp; 
 																				<strong>
-																					<a href="http://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=unsubscribe&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Footer&utm_campaign=FlashSaleVipNikonD3400andD7200Refurbished030317#emailpref" target="_blank" linkname="Unsubscribe" style="color: inherit; text-decoration:none">Unsubscribe</a>
+																					<a href="http://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=unsubscribe&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Footer&utm_campaign=FlashSaleVipNikonD3400andD7200Refurbished030317#emailpref" target="_blank" linkname="Unsubscribe" style="color: #A7A9AC; text-decoration:none">Unsubscribe</a>
 																				</strong>
 																			</p>
 																		</td>
@@ -650,11 +650,11 @@
 																	<tr>
 																		<!-- Terms -->
 																		<td class="bottomfinal">
-																			<p style="padding: 0 30px; text-align: center; margin: 5px">Please add info@shop.adorama.com to your email address book or white list.</p>
+																			<p style="padding: 0 30px; text-align: center; margin: 5px">Please add <span style="color:#A7A9AC">info@shop.adorama.com</span> to your email address book or white list.</p>
 																			<p style="padding: 0 30px; text-align: center; margin: 5px">Products are subject to price change and availability. Not responsible for typographical errors.</p>
 																			<p style="padding: 0 30px; text-align: center; margin: 5px">&copy; 2017 Adorama Camera, Inc. All rights reserved. | 
-																				<a href="https://www.adorama.com/help/termsAndConditions" linkname="Terms" style="color: inherit; text-decoration:underline">Terms</a> | 
-																				<a href="https://www.adorama.com/help/termsAndConditions" linkname="Privacy" style="color: inherit; text-decoration: underline">Privacy</a>
+																				<a href="https://www.adorama.com/help/termsAndConditions" linkname="Terms" style="color: #A7A9AC; text-decoration:underline">Terms</a> | 
+																				<a href="https://www.adorama.com/help/termsAndConditions" linkname="Privacy" style="color: #A7A9AC; text-decoration: underline">Privacy</a>
 																			</p>
 																		</td>
 																		<!-- End Terms -->
