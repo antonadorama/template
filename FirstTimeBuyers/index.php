@@ -19,7 +19,7 @@
 
 <?php //include_once("FirstTimeBuyers/5a/index.php"); ?>
 
-<?php include_once("FirstTimeBuyers/5b/index.php"); ?>
+<?php //include_once("FirstTimeBuyers/5b/index.php"); ?>
 
 <?php //include_once("FirstTimeBuyers/5c/index.php"); ?>
 
@@ -27,5 +27,5 @@
 
 <?php //include_once("FirstTimeBuyers/5e/index.php"); ?>
 
-<?php //include_once("FirstTimeBuyers/6/index.php"); ?>
+<?php include_once("FirstTimeBuyers/6/index.php"); ?>
 

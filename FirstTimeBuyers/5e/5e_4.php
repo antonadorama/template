@@ -173,11 +173,11 @@
                               <table class="mobile-full" style="padding-top: 4px;" align="center" border="0" cellpadding="0" cellspacing="0">
                                 <tbody>
                                   <tr>
-                                    <td style="font-size: 12px !important; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #F05674; 
+                                    <td style="font-size: 12px !important; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #114998; 
                                                font-weight: normal; background-color: #ffffff; border-radius: 0px;" height="26" 
                                         align="center" bgcolor="#ffffff" valign="middle" width="auto">
                                       <!--[if (gte mso 9)|(lte ie 8)]><font size="2"><![endif]-->
-                                      <a linkname="Pre_Sales" href="http://www.adorama.com/pro?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #F05674; font-weight: bold;">                                        
+                                      <a linkname="Pre_Sales" href="http://www.adorama.com/pro?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">                                        
                                         LEARN MORE                                        
                                         <i class="fa fa-caret-right"></i> </a>
                                       <!--[if (gte mso 9)|(lte ie 8)]></font><![endif]-->
@@ -202,10 +202,10 @@
                             <td valign="top"><table class="mobile-full" style="padding-top: 4px;" align="center" border="0" cellpadding="0" cellspacing="0">
                                 <tr>
                                   <td style="font-size: 12px !important; font-family: Arial, Helvetica, sans-serif; text-align: center; 
-                                             color: #F05674; font-weight: normal; padding-left: 18px; padding-right: 18px; background-color: #ffffff; border-radius: 0px;" 
+                                             color: #114998; font-weight: normal; padding-left: 18px; padding-right: 18px; background-color: #ffffff; border-radius: 0px;" 
                                       height="26" align="center" bgcolor="#ffffff" valign="middle">
                                     <!--[if (gte mso 9)|(lte ie 8)]><font size="2"><![endif]-->
-                                    <a linkname="Trade_Used" href="https://www.adorama.com/pages/usedQuote?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #F05674; font-weight: bold;">
+                                    <a linkname="Trade_Used" href="https://www.adorama.com/pages/usedQuote?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">
                                       GET A QUOTE <i class="fa fa-caret-right"></i> </a>
                                     <!--[if (gte mso 9)|(lte ie 8)]></font><![endif]-->
                                   </td>
@@ -227,11 +227,11 @@
                             <td valign="top">
                               <table class="mobile-full" style="padding-top: 4px;" align="center" border="0" cellpadding="0" cellspacing="0">
                                 <tr>
-                                  <td style="font-size: 12px !important; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #F05674; 
+                                  <td style="font-size: 12px !important; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #114998; 
                                              font-weight: normal; padding-left: 18px; padding-right: 18px; background-color: #ffffff; border-radius: 0px;" 
                                       height="26" align="center" bgcolor="#ffffff" valign="middle">
                                     <!--[if (gte mso 9)|(lte ie 8)]><font size="2"><![endif]-->
-                                    <a linkname="Rent_To_Buy" href="https://www.adorama.com/pages/Rent-to-Buy?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #F05674; font-weight: bold;">
+                                    <a linkname="Rent_To_Buy" href="https://www.adorama.com/pages/Rent-to-Buy?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">
                                       LEARN MORE
                                       <i class="fa fa-caret-right"></i>
                                     </a>

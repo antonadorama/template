@@ -17,7 +17,7 @@
                   <a href="https://www.adorama.com/hapstc200.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="HakubaTripodCase" target="_blank">
                     <img src="image_library/org_1/1163/Tripods-Email-06_06.jpg" alt="Hakuba Tripod Case" width="100%" height="auto" border="0" style="display:inline;"></a></td>
                 <td>
-                  <a href="https://www.adorama.com/vgs37f.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="VanguardSupreme37F" target="_blank">
+                  <a href="https://www.adorama.com/pbtlqb41xt.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="VanguardSupreme37F" target="_blank">
                     <img src="image_library/org_1/1163/Tripods-Email-06_07.jpg" alt="Vanguard Supreme 37F" width="100%" height="auto" border="0" style="display:inline;"></a></td>
               </tr>
               </tbody>

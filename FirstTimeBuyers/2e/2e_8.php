@@ -31,8 +31,8 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a href="https://www.adorama.com/ica77d.html" target="_blank" linkname="">
-                                      <img src="https://www.adorama.com/images/Large/ica77d.jpg" style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
+                                      <a href="https://www.adorama.com/btml9d2lla.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" linkname="">
+                                      <img src="https://www.adorama.com/images/Large/btml9d2lla.jpg" style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
                                            class="mobile-full" alt="" height="135" hspace="0" border="0" vspace="0" width="135" />
                                         </a>
                                     </td>
@@ -45,7 +45,7 @@
                                             <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #114998; font-weight: normal; 
                                                        padding:5px; background-color: #ffffff; border-radius: 0px;" 
                                                 height="26" align="center" bgcolor="#114998" valign="middle" width="auto">
-                                              Canon EOS 77D Digital SLR Camera Body - Black
+                                              Beats by Dr. Dre EP, On-Ear Headphones
                                             </td>
                                           </tr>
                                         </tbody>
@@ -59,7 +59,7 @@
                                           <tr>
                                             <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #114998; font-weight: normal; padding:8px 15px; background-color: #ffffff; border-radius: 0px; border:2px solid #114998;" 
                                                 height="26" align="center" bgcolor="#114998" valign="middle" width="auto">
-                                              <a href="https://www.adorama.com/ica77d.html" linkname="" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">VIEW DETAILS</a></td>
+                                              <a href="https://www.adorama.com/btml9d2lla.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">VIEW DETAILS</a></td>
                                           </tr>
                                         </tbody>
                                       </table></td>
@@ -94,8 +94,8 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a href="https://www.adorama.com/ica6dk.html" target="_blank" linkname="">
-                                      <img src="https://www.adorama.com/images/Large/ica6dk.jpg" style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
+                                      <a href="https://www.adorama.com/tbmcbbk.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" linkname="">
+                                      <img src="https://www.adorama.com/images/Large/tbmcbbk.jpg" style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
                                            class="mobile-full" alt="" height="135" hspace="0" border="0" vspace="0" width="135" />
                                       </a>
                                         </td>
@@ -107,7 +107,7 @@
                                             <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #114998; font-weight: normal; 
                                                        padding:5px; background-color: #ffffff; border-radius: 0px;" 
                                                 height="26" align="center" bgcolor="#114998" valign="middle" width="auto">
-                                              Canon EOS-6D Digital SLR Camera Kit with Lens
+                                              Tenba Lightweight Messenger Camera Bag
                                             </td>
                                           </tr>
                                         </tbody>
@@ -120,7 +120,7 @@
                                           <tr>
                                             <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #114998; font-weight: normal; padding:8px 15px; background-color: #ffffff; border-radius: 0px; border:2px solid #114998;" 
                                                 height="26" align="center" bgcolor="#114998" valign="middle" width="auto">
-                                              <a href="https://www.adorama.com/ica6dk.html" linkname="" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">VIEW DETAILS</a></td>
+                                              <a href="https://www.adorama.com/tbmcbbk.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">VIEW DETAILS</a></td>
                                           </tr>
                                         </tbody>
                                       </table></td>
@@ -155,8 +155,8 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a href="https://www.adorama.com/icat7ik.html" target="_blank" linkname="">
-                                      <img src="https://www.adorama.com/images/Large/icat7ik.jpg" style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" class="mobile-full" alt="" 
+                                      <a href="https://www.adorama.com/wdmpu1tbl.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" linkname="">
+                                      <img src="https://www.adorama.com/images/Large/wdmpu1tbl.jpg" style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" class="mobile-full" alt="" 
                                            height="135" hspace="0" border="0" vspace="0" width="135" />
                                       </a>
                                         </td>
@@ -168,7 +168,7 @@
                                             <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #114998; font-weight: normal; 
                                                        padding:5px; background-color: #ffffff; border-radius: 0px;" 
                                                 height="26" align="center" bgcolor="#114998" valign="middle" width="auto">
-                                              Canon EOS Rebel T7i DSLR Camera with Lens
+                                              WD My Passport Ultra 1TB Portable Hard Drive
                                             </td>
                                           </tr>
                                         </tbody>
@@ -181,7 +181,7 @@
                                           <tr>
                                             <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #114998; font-weight: normal; padding:8px 15px; background-color: #ffffff; border-radius: 0px; border:2px solid #114998;" 
                                                 height="26" align="center" bgcolor="#114998" valign="middle" width="auto">
-                                              <a href="https://www.adorama.com/icat7ik.html" linkname="" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">VIEW DETAILS</a></td>
+                                              <a href="https://www.adorama.com/wdmpu1tbl.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">VIEW DETAILS</a></td>
                                           </tr>
                                         </tbody>
                                       </table></td>
