@@ -26,7 +26,7 @@
                              dipslay:block; padding-left:10px; padding-right:10px;
                              font-family: Arial, Helvetica, sans-serif; color: #6A6F71; line-height:26px; " 
                       class="long-text links-color" align="center">
-                    Let's make it even sweeter with these handpicked accessories, selected just for you!</td>
+                    Make your setup even sweeter with these handpicked accessories, selected just for you!</td>
                 </tr>
               </tbody>
             </table>

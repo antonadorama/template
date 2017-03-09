@@ -33,23 +33,22 @@
                     
                     
                     <div style="display: inline-block; max-width: 320px; vertical-align: middle;" class="mobile-full">
-                      <table style="border-collapse: separate;width: 320px; max-width: 320px;" class="vb-content mobile-full" align="left" border="0" cellpadding="9" cellspacing="0" width="430">
+                      <table style="border-collapse: separate;width: 320px; max-width: 320px;" class="vb-content mobile-full" align="left" border="0" cellpadding="9" cellspacing="0" width="320">
                         <tbody>
                           <tr>
                             <td class="mobile-textcenter big-title name-topmargin-mobile" 
-                                style="font-size: 19px; padding-top:15px; font-family: 'Montserrat', Helvetica, sans-serif; font-weight:700; color: #393F42; text-align: left;" >
-                              Get your Cartridge 1</td>
-                          </tr>
-                          <tr>
-                            <td style="text-align: left; font-size: 16px; font-family: Arial, Helvetica, sans-serif; color: #6A6F71; padding:0 20px 0 10px;" 
-                                class="long-text links-color mobile-hide" align="left">
-                              Get your Cartridge 2
+                                style="font-size: 20px; padding-top:40px; padding-bottom:20px; font-family: 'GothamHTF', Helvetica, sans-serif; 
+                                       font-weight:300; color: #404040; text-align: left;" >
+                              Get your<br />
+                              <span style="font-size: 22px; padding-top:15px; padding-bottom:30px; font-family: 'GothamHTF', Helvetica, sans-serif; font-weight:500; color: #404040; text-align: left;" >
+                              ##Canon CLI-42##</span>
+                              <br />ink cartridges</td>
                           </tr>
                           <!-- Mobile Only-->
                           <tr>
                             <td style="text-align: center; font-size: 14px; font-family: Arial, Helvetica, sans-serif; color: #000; padding: 0px;" 
                                  align="center">
-                              <span style="display:none;" class="mobile-show">Get your cartridge 3</span>
+                              <span style="display:none;" class="mobile-show"></span>
                             </td>
                           </tr>
                           <tr>
@@ -70,7 +69,7 @@
                                     <![endif]-->
                                         <a href="http://"
                                            style="background-color:#00adef;color:#ffffff;display:inline-block;
-                                                  font-family:sans-serif;font-size:13px;font-weight:bold;
+                                                  font-family:sans-serif;font-size:20px;font-weight:bold;
                                                   line-height:40px;text-align:center;text-decoration:none;width:240px;-webkit-text-size-adjust:none;">
                                           ORDER INK
                                         </a>

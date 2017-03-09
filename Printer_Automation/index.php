@@ -46,13 +46,13 @@
 					<?php include_once("Printer_Automation/p_2.php"); ?>
           
           <!-- Get More header --->
-					<?php include_once("Printer_Automation/p_3.php"); ?>
+					<?php //include_once("Printer_Automation/p_3.php"); ?>
           
           <!-- Stock Up Header --->
-					<?php include_once("Printer_Automation/p_5.php"); ?>
+					<?php //include_once("Printer_Automation/p_5.php"); ?>
           
           <!-- Shop by Brand --->
-					<?php include_once("Printer_Automation/p_7.php"); ?>
+					<?php //include_once("Printer_Automation/p_7.php"); ?>
 
 					
 					<?php include_once("Printer_Automation/blocks/footer.php"); ?>

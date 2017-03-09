@@ -31,8 +31,8 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a href="https://www.adorama.com/btml9d2lla.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" linkname="">
-                                      <img src="https://www.adorama.com/images/Large/btml9d2lla.jpg" style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
+                                      <a href="https://www.adorama.com/acmef2ama.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" linkname="">
+                                      <img src="https://www.adorama.com/images/Large/acmef2ama.jpg" style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
                                            class="mobile-full" alt="" height="135" hspace="0" border="0" vspace="0" width="135" />
                                         </a>
                                     </td>
@@ -45,7 +45,7 @@
                                             <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #114998; font-weight: normal; 
                                                        padding:5px; background-color: #ffffff; border-radius: 0px;" 
                                                 height="26" align="center" bgcolor="#114998" valign="middle" width="auto">
-                                              Beats by Dr. Dre EP, On-Ear Headphones
+                                              <br />&nbsp;Apple AirPods<br />&nbsp;
                                             </td>
                                           </tr>
                                         </tbody>
@@ -59,7 +59,7 @@
                                           <tr>
                                             <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #114998; font-weight: normal; padding:8px 15px; background-color: #ffffff; border-radius: 0px; border:2px solid #114998;" 
                                                 height="26" align="center" bgcolor="#114998" valign="middle" width="auto">
-                                              <a href="https://www.adorama.com/btml9d2lla.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">VIEW DETAILS</a></td>
+                                              <a href="https://www.adorama.com/acmef2ama.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">VIEW DETAILS</a></td>
                                           </tr>
                                         </tbody>
                                       </table></td>
@@ -94,8 +94,8 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a href="https://www.adorama.com/tbmcbbk.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" linkname="">
-                                      <img src="https://www.adorama.com/images/Large/tbmcbbk.jpg" style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
+                                      <a href="https://www.adorama.com/irctscw.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" linkname="">
+                                      <img src="https://www.adorama.com/images/Large/irctscw.jpg" style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
                                            class="mobile-full" alt="" height="135" hspace="0" border="0" vspace="0" width="135" />
                                       </a>
                                         </td>
@@ -107,7 +107,7 @@
                                             <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #114998; font-weight: normal; 
                                                        padding:5px; background-color: #ffffff; border-radius: 0px;" 
                                                 height="26" align="center" bgcolor="#114998" valign="middle" width="auto">
-                                              Tenba Lightweight Messenger Camera Bag
+                                              Ricoh Theta SC 360 Degree Panorama Camera
                                             </td>
                                           </tr>
                                         </tbody>
@@ -120,7 +120,7 @@
                                           <tr>
                                             <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #114998; font-weight: normal; padding:8px 15px; background-color: #ffffff; border-radius: 0px; border:2px solid #114998;" 
                                                 height="26" align="center" bgcolor="#114998" valign="middle" width="auto">
-                                              <a href="https://www.adorama.com/tbmcbbk.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">VIEW DETAILS</a></td>
+                                              <a href="https://www.adorama.com/irctscw.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">VIEW DETAILS</a></td>
                                           </tr>
                                         </tbody>
                                       </table></td>
@@ -155,8 +155,8 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a href="https://www.adorama.com/wdmpu1tbl.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" linkname="">
-                                      <img src="https://www.adorama.com/images/Large/wdmpu1tbl.jpg" style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" class="mobile-full" alt="" 
+                                      <a href="https://www.adorama.com/acmk9j2lla.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" linkname="">
+                                      <img src="https://www.adorama.com/images/Large/acmk9j2lla.jpg" style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" class="mobile-full" alt="" 
                                            height="135" hspace="0" border="0" vspace="0" width="135" />
                                       </a>
                                         </td>
@@ -168,7 +168,7 @@
                                             <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #114998; font-weight: normal; 
                                                        padding:5px; background-color: #ffffff; border-radius: 0px;" 
                                                 height="26" align="center" bgcolor="#114998" valign="middle" width="auto">
-                                              WD My Passport Ultra 1TB Portable Hard Drive
+                                              <br />&nbsp;Apple iPad Mini 4 Wi-Fi 64GB Gold
                                             </td>
                                           </tr>
                                         </tbody>
@@ -181,7 +181,7 @@
                                           <tr>
                                             <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #114998; font-weight: normal; padding:8px 15px; background-color: #ffffff; border-radius: 0px; border:2px solid #114998;" 
                                                 height="26" align="center" bgcolor="#114998" valign="middle" width="auto">
-                                              <a href="https://www.adorama.com/wdmpu1tbl.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">VIEW DETAILS</a></td>
+                                              <a href="https://www.adorama.com/acmk9j2lla.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">VIEW DETAILS</a></td>
                                           </tr>
                                         </tbody>
                                       </table></td>

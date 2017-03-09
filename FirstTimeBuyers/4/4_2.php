@@ -26,7 +26,7 @@
                       <tbody>
                         <tr>
                           <td style="font-size: 31px; font-family: 'Montserrat', Helvetica, sans-serif; font-weight:700; color: #006E95; text-align: center; letter-spacing:1px; line-height:42px" align="center" class="big-title">
-                            Your Gear is Worth Something! Turn Your Used Gear Into Cash at Adorama Trade.</span></td>
+                            Your Old Gear is Worth Cash. Find Out How Much at Adorama Trade.</span></td>
                         </tr>
                       </tbody>
                     </table>

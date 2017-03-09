@@ -35,7 +35,7 @@
 					
 					<?php $utm = "EmailFTB-6"; ?>
 					
-					<?php $ttl = "Discover more about Adorama NYC, our flagship electronics store with free events, workshops & hands-on demos!"; ?>
+					<?php $ttl = "Discover Adorama NYC, our flagship store, with fast in-store pickup, free events & knowledgeable staff."; ?>
 					
 					<?php include_once("FirstTimeBuyers/blocks/header.php"); ?>
 					

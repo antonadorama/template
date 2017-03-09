@@ -35,7 +35,7 @@
 					
 					<?php $utm = "EmailFTB-3"; ?>
 					
-					<?php $ttl = "Rent, Print, Watch, Learn… Discover all that Adorama has to offer you!"; ?>
+					<?php $ttl = "Rent, Print, Watch, Learn… You Can Do It All at Adorama!"; ?>
 					
 					<?php include_once("FirstTimeBuyers/blocks/header.php"); ?>
 					

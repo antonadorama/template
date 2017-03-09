@@ -26,7 +26,7 @@
                              dipslay:block; padding-left:10px; padding-right:10px;
                              font-family: Arial, Helvetica, sans-serif; color: #6A6F71; line-height:26px; " 
                       class="long-text links-color" align="center">
-                    Your order is on its way! Here is what else we have to offer:</td>
+                    Your order is on its way! While you wait, explore everything that Adorama can offer you!</td>
                 </tr>
               </tbody>
             </table>

@@ -33,10 +33,13 @@
                         <tbody>
                           <tr>
                             <td class="links-color" align="left" valign="top" width="100%">
-                              
+                             <a linkname="Adorama_Tv"
+                                href="http://www.adorama.com/alc/category/AdoramaTv/?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                                target="_new" style="text-decoration: none;">                                 
                               <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-3-1-brands-alc.jpg" 
                                    style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
                                    class="mobile-full" alt="" hspace="0" border="0" vspace="0" width="208" />
+                              </a>
                             </td>
                           </tr>
                         </tbody>
@@ -112,9 +115,16 @@
                         <tbody>
                           <tr>
                             <td class="links-color" align="left" valign="top" width="100%">
+                              
+                                <a linkname="Trade_"
+                                href="https://www.adorama.com/pages/usedQuote?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                                target="_new" style="text-decoration: none;">    
+                              
                               <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-3-1-brands-used.jpg" 
                                    style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
                                    class="mobile-full" alt="" hspace="0" border="0" vspace="0" width="208" />
+                                  
+                              </a>
                             </td>
                           </tr>
                         </tbody>
@@ -128,7 +138,7 @@
                           <tr>
                             <td class="mobile-textcenter big-title name-topmargin-mobile" 
                                 style="font-size: 19px; padding-top:15px; font-family: 'Montserrat', Helvetica, sans-serif; font-weight:700; color: #393F42; text-align: left;" >
-                              TRADE, SELL or BUY at Adorama TRADE</td>
+                              Trade, Sell or Buy at Adorama Trade</td>
                           </tr>
                           <tr>
                             <td style="text-align: left; font-size: 16px; font-family: Arial, Helvetica, sans-serif; color: #6A6F71; padding:0 20px 0 10px;" 
@@ -194,9 +204,16 @@
                         <tbody>
                           <tr>
                             <td class="links-color" align="left" valign="top" width="100%">
+                              
+                                                              <a linkname="Rent_"
+                                href="https://www.adorama.com/c/Video-Equipment?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                                target="_new" style="text-decoration: none;">    
+                              
                               <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-3-1-brands-pro.jpg" 
                                    style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
                                    class="mobile-full" alt="" hspace="0" border="0" vspace="0" width="208" />
+                                                                
+                              </a>
                             </td>
                           </tr>
                         </tbody>
@@ -274,10 +291,13 @@
                         <tbody>
                           <tr>
                             <td class="links-color" align="left" valign="top" width="100%">
-                              
+                                                              <a linkname="Adorama_Pro"
+                                href="http://www.adoramarentals.com/?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                                target="_new" style="text-decoration: none;">    
                               <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-3-1-brands-arc.jpg" 
                                    style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
                                    class="mobile-full" alt="" hspace="0" border="0" vspace="0" width="208" />
+                              </a>
                             </td>
                           </tr>
                         </tbody>
@@ -352,9 +372,14 @@
                         <tbody>
                           <tr>
                             <td class="links-color" align="left" valign="top" width="100%">
+                                                              <a linkname="Adorama_Pix"
+                                href="https://www.adoramapix.com/app/home?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                                target="_new" style="text-decoration: none;">    
                               <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-3-1-brands-pix.jpg" 
                                    style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
-                                   class="mobile-full" alt="" hspace="0" border="0" vspace="0" width="208"></td>
+                                   class="mobile-full" alt="" hspace="0" border="0" vspace="0" width="208">
+                              </a>
+                                                                </td>
                           </tr>
                         </tbody>
                       </table>
@@ -391,7 +416,8 @@
                                   <td class="mobile-textcenter" 
                                       style="font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-align: left; color: #114998; font-weight: normal; 
                                              background-color: #ffffff; border-radius: 0px;" height="26" align="left" bgcolor="#ffffff" valign="middle">
-                                    <a href="https://www.adoramapix.com/app/home?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">
+                                    <a href="https://www.adoramapix.com/app/home?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                                       target="_new" style="text-decoration: none; color: #114998; font-weight: bold;" linkname="AdoramaPix">
                                       START PRINTING <i class="fa fa-caret-right"></i></a></td>
                                 </tr>
                                 <tbody>
