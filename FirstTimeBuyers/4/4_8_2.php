@@ -31,9 +31,10 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a href="https://www.adorama.com/acmk9j2lla.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" linkname="">
+                                      <a href="https://www.adorama.com/acmk9j2lla.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
+                                         linkname="Apple iPad Mini 4 Wi-Fi 64GB">
                                       <img src="https://www.adorama.com/images/Large/acmk9j2lla.jpg" style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
-                                           class="mobile-full" alt="" height="135" hspace="0" border="0" vspace="0" width="135" />
+                                           class="mobile-full" alt="Apple iPad Mini 4 Wi-Fi 64GB" height="135" hspace="0" border="0" vspace="0" width="135" />
                                         </a>
                                     </td>
                                   </tr>
@@ -59,7 +60,8 @@
                                           <tr>
                                             <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #114998; font-weight: normal; padding:8px 15px; background-color: #ffffff; border-radius: 0px; border:2px solid #114998;" 
                                                 height="26" align="center" bgcolor="#114998" valign="middle" width="auto">
-                                              <a href="https://www.adorama.com/acmk9j2lla.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">VIEW DETAILS</a></td>
+                                              <a href="https://www.adorama.com/acmk9j2lla.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                                                 linkname="Apple iPad Mini 4 Wi-Fi 64GB" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">VIEW DETAILS</a></td>
                                           </tr>
                                         </tbody>
                                       </table></td>
@@ -94,9 +96,10 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a href="https://www.adorama.com/isodschx400.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" linkname="">
+                                      <a href="https://www.adorama.com/isodschx400.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
+                                         linkname="Sony Cyber-shot DSC-HX400V Digital Camera">
                                       <img src="https://www.adorama.com/images/Large/isodschx400.jpg" style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
-                                           class="mobile-full" alt="" height="135" hspace="0" border="0" vspace="0" width="135" />
+                                           class="mobile-full" alt="Sony Cyber-shot DSC-HX400V Digital Camera" height="135" hspace="0" border="0" vspace="0" width="135" />
                                       </a>
                                         </td>
                                   </tr>
@@ -120,7 +123,8 @@
                                           <tr>
                                             <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #114998; font-weight: normal; padding:8px 15px; background-color: #ffffff; border-radius: 0px; border:2px solid #114998;" 
                                                 height="26" align="center" bgcolor="#114998" valign="middle" width="auto">
-                                              <a href="https://www.adorama.com/isodschx400.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">VIEW DETAILS</a></td>
+                                              <a href="https://www.adorama.com/isodschx400.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                                                 linkname="Sony Cyber-shot DSC-HX400V Digital Camera" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">VIEW DETAILS</a></td>
                                           </tr>
                                         </tbody>
                                       </table></td>
@@ -155,8 +159,10 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a href="https://www.adorama.com/icamx922.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" linkname="">
-                                      <img src="https://www.adorama.com/images/Large/icamx922.jpg" style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" class="mobile-full" alt="" 
+                                      <a href="https://www.adorama.com/icamx922.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
+                                         linkname="Canon PIXMA MX922 Wireless All-in-One Printer">
+                                      <img src="https://www.adorama.com/images/Large/icamx922.jpg" style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" class="mobile-full" 
+                                           alt="Canon PIXMA MX922 Wireless All-in-One Printer" 
                                            height="135" hspace="0" border="0" vspace="0" width="135" />
                                       </a>
                                         </td>
@@ -181,7 +187,8 @@
                                           <tr>
                                             <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #114998; font-weight: normal; padding:8px 15px; background-color: #ffffff; border-radius: 0px; border:2px solid #114998;" 
                                                 height="26" align="center" bgcolor="#114998" valign="middle" width="auto">
-                                              <a href="https://www.adorama.com/icamx922.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">VIEW DETAILS</a></td>
+                                              <a href="https://www.adorama.com/icamx922.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                                                 linkname="Canon PIXMA MX922 Wireless All-in-One Printer" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">VIEW DETAILS</a></td>
                                           </tr>
                                         </tbody>
                                       </table></td>

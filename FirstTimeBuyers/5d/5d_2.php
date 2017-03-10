@@ -15,7 +15,7 @@
               </tr>
                 <tr>
                   <td style="text-align: center; font-size: 21px; font-family: 'Arvo', Helvetica, sans-serif; font-weight:400italic;color: #006E95; line-height:26px;" class="small-title" align="center">
-                  <a href="http://www.adoramarentals.com/?emailprice=t&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $utm;?>" target="_blank">
+                  <a href="http://www.adoramarentals.com/?emailprice=t&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $utm;?>" target="_blank" linkname="ARC_logo">
                     <img src="image_library/org_1/1126/ARC-logo.png" alt="Adorama Rental">
                    </a> 
                   </td>

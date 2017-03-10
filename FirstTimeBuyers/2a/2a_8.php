@@ -31,9 +31,10 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a href="https://www.adorama.com/fp3pv3ahk.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" linkname="">
+                                      <a href="https://www.adorama.com/fp3pv3ahk.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                                         target="_blank" linkname="3Pod Video Tripod System Anodized Aluminum">
                                       <img src="https://www.adorama.com/images/Large/fp3pv3ahk.jpg" style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
-                                           class="mobile-full" alt="" height="135" hspace="0" border="0" vspace="0" width="135" />
+                                           class="mobile-full" alt="3Pod Video Tripod System Anodized Aluminum" height="135" hspace="0" border="0" vspace="0" width="135" />
                                         </a>
                                     </td>
                                   </tr>
@@ -59,7 +60,8 @@
                                           <tr>
                                             <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #114998; font-weight: normal; padding:8px 15px; background-color: #ffffff; border-radius: 0px; border:2px solid #114998;" 
                                                 height="26" align="center" bgcolor="#114998" valign="middle" width="auto">
-                                              <a href="https://www.adorama.com/fp3pv3ahk.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">VIEW DETAILS</a></td>
+                                              <a href="https://www.adorama.com/fp3pv3ahk.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                                                 linkname="3Pod Video Tripod System Anodized Aluminum" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">VIEW DETAILS</a></td>
                                           </tr>
                                         </tbody>
                                       </table></td>
@@ -94,9 +96,10 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a href="https://www.adorama.com/fplfrl600b.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" linkname="">
+                                      <a href="https://www.adorama.com/fplfrl600b.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
+                                         linkname="Flashpoint RoveLight 600 Ws Monolight">
                                       <img src="https://www.adorama.com/images/Large/fplfrl600b.jpg" style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
-                                           class="mobile-full" alt="" height="135" hspace="0" border="0" vspace="0" width="135" />
+                                           class="mobile-full" alt="Flashpoint RoveLight 600 Ws Monolight" height="135" hspace="0" border="0" vspace="0" width="135" />
                                       </a>
                                         </td>
                                   </tr>
@@ -120,7 +123,8 @@
                                           <tr>
                                             <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #114998; font-weight: normal; padding:8px 15px; background-color: #ffffff; border-radius: 0px; border:2px solid #114998;" 
                                                 height="26" align="center" bgcolor="#114998" valign="middle" width="auto">
-                                              <a href="https://www.adorama.com/fplfrl600b.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">VIEW DETAILS</a></td>
+                                              <a href="https://www.adorama.com/fplfrl600b.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                                                 linkname="Flashpoint RoveLight 600 Ws Monolight" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">VIEW DETAILS</a></td>
                                           </tr>
                                         </tbody>
                                       </table></td>
@@ -155,8 +159,10 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a href="https://www.adorama.com/lptlz55awbk.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" linkname="">
-                                      <img src="https://www.adorama.com/images/Large/lptlz55awbk.jpg" style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" class="mobile-full" alt="" 
+                                      <a href="https://www.adorama.com/lptlz55awbk.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
+                                         linkname="Lowepro Toploader 55 AW Bag for DSLR Camera">
+                                      <img src="https://www.adorama.com/images/Large/lptlz55awbk.jpg" style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" class="mobile-full" 
+                                           alt="Lowepro Toploader 55 AW Bag for DSLR Camera" 
                                            height="135" hspace="0" border="0" vspace="0" width="135" />
                                       </a>
                                         </td>
@@ -181,7 +187,8 @@
                                           <tr>
                                             <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #114998; font-weight: normal; padding:8px 15px; background-color: #ffffff; border-radius: 0px; border:2px solid #114998;" 
                                                 height="26" align="center" bgcolor="#114998" valign="middle" width="auto">
-                                              <a href="https://www.adorama.com/lptlz55awbk.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">VIEW DETAILS</a></td>
+                                              <a href="https://www.adorama.com/lptlz55awbk.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                                                 linkname="Lowepro Toploader 55 AW Bag for DSLR Camera" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">VIEW DETAILS</a></td>
                                           </tr>
                                         </tbody>
                                       </table></td>

@@ -11,7 +11,7 @@
 
 <?php //include_once("FirstTimeBuyers/2d/index.php"); ?>
 
-<?php include_once("FirstTimeBuyers/2e/index.php"); ?>
+<?php //include_once("FirstTimeBuyers/2e/index.php"); ?>
 
 <?php //include_once("FirstTimeBuyers/3/index.php"); ?>
 
@@ -27,5 +27,5 @@
 
 <?php //include_once("FirstTimeBuyers/5e/index.php"); ?>
 
-<?php //include_once("FirstTimeBuyers/6/index.php"); ?>
+<?php include_once("FirstTimeBuyers/6/index.php"); ?>
 

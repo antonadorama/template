@@ -19,7 +19,8 @@
                         <tbody>
                           <tr>
                             <td class="links-color" style="padding-bottom: 9px;" align="left" valign="top" width="100%">
-                              <a href="http://www.adorama.com/alc/category/AdoramaTv?emailprice=t&refby=slgt&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $utm;?>" linkname="" target="_blank">
+                              <a href="http://www.adorama.com/alc/category/AdoramaTv?emailprice=t&refby=slgt&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $utm;?>" 
+                                 linkname="AdoramaTV" target="_blank">
                               <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-1-1-alc-tv.jpg" style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" class="mobile-full" alt="" hspace="0" border="0" vspace="0" width="210">
                               </a>  
                             </td>
@@ -55,7 +56,8 @@
                         <tbody>
                           <tr>
                             <td class="links-color" style="padding-bottom: 9px;" align="left" valign="top" width="100%">
-                              <a href="http://www.adorama.com/alc/category/gear?emailprice=t&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $utm;?>" linkname="" target="_blank">
+                              <a href="http://www.adorama.com/alc/category/gear?emailprice=t&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $utm;?>" 
+                                 linkname="GearGuides" target="_blank">
                               <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-1-1-alc-gearguides.jpg" style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" class="mobile-full" alt="" hspace="0" border="0" vspace="0" width="210">
                               </a>
                             </td>
@@ -92,7 +94,8 @@
                         <tbody>
                           <tr>
                             <td class="links-color" style="padding-bottom: 9px;" align="left" valign="top" width="100%">
-                              <a href="http://www.adorama.com/alc/category/how-to?emailprice=t&refby=slgt&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $utm;?>" linkname="" target="_blank">
+                              <a href="http://www.adorama.com/alc/category/how-to?emailprice=t&refby=slgt&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $utm;?>" 
+                                 linkname="HowToGuides" target="_blank">
                               <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-1-1-alc-reviews.jpg" style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" class="mobile-full" alt="" hspace="0" border="0" vspace="0" width="210">
                               </a>
                             </td>
