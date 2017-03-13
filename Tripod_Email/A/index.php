@@ -33,9 +33,9 @@
 					
 					<?php //include_once("Tripod_Email/blocks/send_button.php"); ?>
 					
-					<?php $utm = "EmailTripods_A_030717"; ?>
+					<?php $utm = "EmailTripods_A_031317"; ?>
 					
-					<?php $ttl = "Tripod Buyers Segment Buyers"; ?>
+					<?php $ttl = "Everything You Need to Know About Tripods, All In One Place."; ?>
 					
 					<?php include_once("Tripod_Email/blocks/header.php"); ?>
 					

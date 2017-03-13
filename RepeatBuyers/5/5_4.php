@@ -9,15 +9,13 @@
           <div class="oldwebkit" style="max-width: 640px;">
             <table style="border-collapse: separate;padding-left: 0;padding-right: 0;width: 100%;max-width: 640px;background-color: #ECF6F8;" class="vb-container fullwidth" align="center" bgcolor="#ECF6F8" border="0" cellpadding="0" cellspacing="0" width="640">
               <tbody>
-              <tr>
-                <td>
-                  <a href="http://www.adorama.com/alc/best-budget-tripods-under-50?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="SolidTripodsUnder50" target="_blank">
-                  <img src="image_library/org_1/1163/Tripods-Email-05_01.jpg" alt="5 Solid Tripods Under 50" width="100%" height="auto" border="0" style="display:inline;"></a></td>
-                <td>
-                  <a href="http://www.adorama.com/alc/0008168/article/Buying-Guide-Tripod-Heads?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="TripodHeadBuyingGuide" target="_blank">
-                    <img src="image_library/org_1/1163/Tripods-Email-05_02.jpg" alt="Tripod Head Buying Guide" width="100%" height="auto" border="0" style="display:inline;"></a></td>
-                
-              </tr>
+                <tr>
+                  <td align="center" valign="top">
+                    <a href="http://www.adorama.com/alc/events/?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" linkname="Events">
+                    <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-1-2-feature-events.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" alt="" hspace="0" border="0" vspace="0" width="640">
+                    </a>
+                  </td>
+                </tr>
               </tbody>
             </table>
           </div>

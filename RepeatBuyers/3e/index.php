@@ -16,7 +16,7 @@
 		<meta name="format-detection" content="email=no">
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
-		<?php include_once("Tripod_Email/blocks/style_3.php"); ?>		
+		<?php include_once("RepeatBuyers/blocks/style_2b.php"); ?>		
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -31,44 +31,32 @@
 			<table align="center" bgcolor="#e3e3e3" border="0" cellpadding="0" cellspacing="0" class="wrap640" width="640">
 				<tbody>
 					
-					<?php //include_once("Tripod_Email/blocks/send_button.php"); ?>
+					<?php //include_once("RepeatBuyers/blocks/send_button.php"); ?>
 					
-					<?php $utm = "EmailTripods_B_031317"; ?>
+					<?php $utm = "EmailRepeatBuyers-3E"; ?>
 					
-					<?php $ttl = "Everything You Need to Know About Tripods, All In One Place."; ?>
+					<?php $ttl = "Your order is on its way! Check out what else we have to offer you!"; ?>
 					
-					<?php include_once("Tripod_Email/blocks/header.php"); ?>
+					<?php include_once("RepeatBuyers/blocks/header.php"); ?>
 					
-					<!-- Banner 1 --->
-					<?php include_once("Tripod_Email/B/b1.php"); ?>
+					<!-- Intro --->
+					<?php include_once("RepeatBuyers/3e/3e_1.php"); ?>
+					<!-- Learn More--->
+				  <?php include_once("RepeatBuyers/3e/3e_2.php"); ?>
+					<!-- Main banner--->
+			    <?php include_once("RepeatBuyers/3e/3e_3.php"); ?>
 					
-					<?php include_once("Tripod_Email/B/b2.php"); ?>
+					<!-- First Row Products --->
+					<?php include_once("RepeatBuyers/3e/3e_4.php"); ?>
+					<!-- Second Row Products --->
+					<?php include_once("RepeatBuyers/3e/3e_5.php"); ?>
 					
-					<?php include_once("Tripod_Email/B/b3.php"); ?>
+					<!-- Products Header--->
+					<?php include_once("RepeatBuyers/3e/3e_7.php"); ?>
+					<!-- Featured Products --->
+					<?php include_once("RepeatBuyers/3e/3e_8.php"); ?>		
 					
-					<?php include_once("Tripod_Email/B/b4.php"); ?>
-					
-					<!-- BeFree Manfrotto --->
-					<?php include_once("Tripod_Email/B/b5.php"); ?>
-					
-					<?php include_once("Tripod_Email/B/b6.php"); ?>
-					
-					<?php //include_once("Tripod_Email/B/b7.php"); ?>
-					
-					<?php //include_once("Tripod_Email/B/b8.php"); ?>
-					
-					
-					
-					<!-- Featured Accesories Header --->
-					<?php include_once("Tripod_Email/A/p_7_1.php"); ?>
-          <!-- Featured Accesories Row 1 --->
-					<?php include_once("Tripod_Email/A/p_7_2.php"); ?>
-          <!-- Featured Accesories Row 2 --->
-					<?php include_once("Tripod_Email/A/p_7_3.php"); ?>
-					
-					<?php include_once("Tripod_Email/B/b9.php"); ?>
-					
-					<?php include_once("Tripod_Email/blocks/footer.php"); ?>
+					<?php include_once("RepeatBuyers/blocks/footer.php"); ?>
 					
 				</tbody>
 			</table>
