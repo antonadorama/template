@@ -33,7 +33,7 @@
 					
 					<?php //include_once("Tripod_Email/blocks/send_button.php"); ?>
 					
-					<?php $utm = "EmailTripods_B_031317"; ?>
+					<?php $utm = "EmailTripods_B_031717"; ?>
 					
 					<?php $ttl = "Everything You Need to Know About Tripods, All In One Place."; ?>
 					

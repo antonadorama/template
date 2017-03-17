@@ -29,7 +29,7 @@
   
   //include_once("test.php");
 
-  //include_once("SunnySports/camping_hiking.php");
+  //include_once("SunnySports/patricks_day.php");
 
 
   //include_once("store events/main.php");
@@ -44,9 +44,9 @@
 
 	//include_once("Tripod_Email/index.php");
 
-	//include_once("Printer_Automation/index.php");
+	include_once("Printer_Automation/index.php");
 
-	include_once("TradeIn/index.php");
+	//include_once("TradeIn/index.php");
 
 
 ?>

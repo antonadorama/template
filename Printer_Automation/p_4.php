@@ -18,15 +18,10 @@
                         <tbody>
                           <tr>
                             <td class="links-color" align="center" valign="top" width="100%">
-                              <a href="https://www.adorama.com/##SMFMT_LOWERCASE[\INK_ITEM_NUMBER[BRTN250]]##.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>"
-                                           linkname="InkImage"
-                                           style="">                                  
-                                      
-                              <img src="https://www.adorama.com/images/Large/##SMFMT_LOWERCASE[\INK_ITEM_NUMBER[BRTN250]]##.jpg" 
+                              
+                              <img src="https://www.adorama.com/images/Large/##SMFMT_LOWERCASE[\PRINTER_ITEM_NUMBER[ICAMX922]]##.jpg" 
                                    style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto; max-width:200px; max-height:185px;" 
                                    class="mobile-width-200" alt="" hspace="0" border="0" vspace="0" width="200" />
-                                
-                                  </a>
                             </td>
                           </tr>
                         </tbody>
@@ -44,10 +39,10 @@
                             <td class="mobile-textcenter big-title name-topmargin-mobile" 
                                 style="font-size: 20px; padding-top:40px; padding-bottom:20px; font-family: Helvetica, sans-serif; 
                                        font-weight:300; color: #404040; text-align: left;" >
-                              Save on Ink or Toner for your<br />
+                              Get the most out of your<br />
                               <span style="font-size: 22px; padding-top:15px; padding-bottom:30px; font-family: Helvetica, sans-serif; font-weight:500; color: #404040; text-align: left;" >
-                                <strong>##SMFMT_PROPERCASE[\manufacturer]## Printer</strong></span>
-                              <br />when you refill today!</td>
+                                <b>##SMFMT_PROPERCASE[\product_name[Printer]]##</b></span>
+                              <br />with top-rated accessories</td>
                           </tr>
                           <!-- Mobile Only-->
                           <tr>
@@ -68,16 +63,16 @@
                                   <!--[if mso]>
                                   <v:rect xmlns:v="urn:schemas-microsoft-com:vml" 
                                   xmlns:w="urn:schemas-microsoft-com:office:word" 
-                                  href="https://www.adorama.com/##SMFMT_LOWERCASE[\INK_ITEM_NUMBER[BRTN250]]##.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" style="height:40px;v-text-anchor:middle;width:240px;" stroke="f" fillcolor="#00adef">
+                                  href="https://www.adorama.com/##SMFMT_LOWERCASE[\PRINTER_ITEM_NUMBER[ICAMX922]]##.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>#accessories" style="height:40px;v-text-anchor:middle;width:240px;" stroke="f" fillcolor="#ed008c">
                                       <w:anchorlock/>
                                       <center>
                                     <![endif]-->
-                                        <a href="https://www.adorama.com/##SMFMT_LOWERCASE[\INK_ITEM_NUMBER[BRTN250]]##.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>"
-                                           linkname="OrderInkButton"
-                                           style="background-color:#00adef;color:#ffffff;display:inline-block;
+                                        <a href="https://www.adorama.com/##SMFMT_LOWERCASE[\PRINTER_ITEM_NUMBER[ICAMX922]]##.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>#accessories"
+                                           linkname="ShopAccessoriesButton"
+                                           style="background-color:#ed008c;color:#ffffff;display:inline-block;
                                                   font-family:sans-serif;font-size:20px;font-weight:bold;
                                                   line-height:40px;text-align:center;text-decoration:none;width:240px;-webkit-text-size-adjust:none;">
-                                          REFILL NOW
+                                          SHOP ACCESSORIES
                                         </a>
                                     <!--[if mso]>
                                       </center>

@@ -129,17 +129,7 @@
                     margin: 0 auto !important;
                 }
 
-            *[class=menuwrapper] {
-                display: block !important;
-                text-align: center !important;
-                padding: 40px 0 0 0 !important;
-                width: 100% !important;
-                height: auto !important;
-            }
 
-                *[class=menuwrapper] table {
-                    padding: 0 20px !important;
-                }
 
             *[class=video] {
                 display: none !important;
@@ -166,15 +156,6 @@
                 width: auto !important;
             }
 
-            *[class=menuimage] {
-                float: left !important;
-                display: block !important;
-                width: 33.333% !important;
-                text-align: center !important;
-                height: 150px;
-                
-               
-            }
 
             *[class=block-a] {
                 width: 100% !important;
@@ -192,11 +173,6 @@
                 display: block;
                 width: 100% !important;
                 height: auto !important;
-            }
-
-            *[class=blockimages] {
-                width: 100% !important;
-                padding: 0 0 30px 0 !important;
             }
 
             *[class=menubottomleft] {
@@ -304,10 +280,11 @@
 table.vb-container, table.vb-row {
     
     text-align: center !important;
-    padding: 5px 0 0 0 !important;
+    padding: 5px 0 5px 0 !important;
     width: 100% !important;
     height: auto !important;
     font-size: 0.8em !important;
+    background-color: #ffffff !important;
 }
     
      .name-topmargin {
@@ -364,7 +341,8 @@ img.mobile-full-2 {
 .big-title {
     font-size: 21px !important;
     line-height: 28px !important;
-    padding: 0 15px;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
 }
 .small-title {
     font-size: 16px !important;
@@ -425,13 +403,13 @@ img.mobile-full-2 {
             *[class=menuwrapper] {
                 display: block !important;
                 text-align: center !important;
-                padding: 40px 0 0 0 !important;
+                padding: 15px 0 10px 0 !important;
                 width: 100% !important;
                 height: auto !important;
             }
 
                 *[class=menuwrapper] table {
-                    padding: 0 20px 20px 0 !important;
+                    padding: 0 !important;
                 }
 
             *[class=video] {
@@ -464,7 +442,7 @@ img.mobile-full-2 {
                 display: block !important;
                 width: 33.333% !important;
                 text-align: center !important;
-                height: 150px;
+                height: 100px;
                 
                
             }
@@ -489,7 +467,7 @@ img.mobile-full-2 {
 
             *[class=blockimages] {
                 width: 100% !important;
-                padding: 30px 0 10px 0 !important;
+                padding: 5px 0 10px 0 !important;
             }
 
             *[class=menubottomleft] {

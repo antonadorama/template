@@ -31,11 +31,11 @@
 			<table align="center" bgcolor="#e3e3e3" border="0" cellpadding="0" cellspacing="0" class="wrap640" width="640">
 				<tbody>
 					
-					<?php include_once("Printer_Automation/blocks/send_button.php"); ?>
+					<?php //include_once("Printer_Automation/blocks/send_button.php"); ?>
 					
-					<?php $utm = "EmailPrinterAutomation_0317"; ?>
+					<?php $utm = "EmailPrinterAutomationProgram"; ?>
 					
-					<?php $ttl = "Printer Automation Email"; ?>
+					<?php $ttl = "Ink Goes Fast. We Got You Covered with New Low Prices on Brand Name Inks!"; ?>
 					
 					<?php include_once("Printer_Automation/blocks/header.php"); ?>
 					
@@ -46,13 +46,24 @@
 					<?php include_once("Printer_Automation/p_2.php"); ?>
           
           <!-- Get More header --->
-					<?php //include_once("Printer_Automation/p_3.php"); ?>
+					<?php include_once("Printer_Automation/p_3.php"); ?>
+					
+					<!-- Get More Section --->
+					<?php include_once("Printer_Automation/p_4.php"); ?>
           
           <!-- Stock Up Header --->
-					<?php //include_once("Printer_Automation/p_5.php"); ?>
+					<?php include_once("Printer_Automation/p_5.php"); ?>
+					
+					<!-- Stock Up Banner 1 --->
+					<?php include_once("Printer_Automation/p_6_1.php"); ?>
+					
+					<!-- Stock Up Banner 2 --->
+					<?php include_once("Printer_Automation/p_6_2.php"); ?>
           
-          <!-- Shop by Brand --->
-					<?php //include_once("Printer_Automation/p_7.php"); ?>
+          <!-- Shop by Brand Header --->
+					<?php include_once("Printer_Automation/p_7_1.php"); ?>
+					<!-- Shop by Brand --->
+					<?php include_once("Printer_Automation/p_7_2.php"); ?>
 
 					
 					<?php include_once("Printer_Automation/blocks/footer.php"); ?>

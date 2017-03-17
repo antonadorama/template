@@ -11,8 +11,8 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" linkname="">
-                    <img src="http://php-project-antonadorama658454.codeanyapp.com/image_library/org_1/1194/Printer-Automation-Refill.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" alt="" hspace="0" border="0" vspace="0" width="640">
+                    <a href="https://www.adorama.com/##SMFMT_LOWERCASE[\INK_ITEM_NUMBER[BRTN250]]##.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" linkname="TimeForARefill">
+                    <img src="image_library/org_1/1194/Printer-Automation-Refill.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" alt="" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>
                 </tr>
