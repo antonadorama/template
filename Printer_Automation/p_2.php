@@ -18,11 +18,11 @@
                         <tbody>
                           <tr>
                             <td class="links-color" align="center" valign="top" width="100%">
-                              <a href="https://www.adorama.com/##SMFMT_LOWERCASE[\INK_ITEM_NUMBER[BRTN250]]##.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>"
-                                           linkname="InkImage"
+                              <a href="https://www.adorama.com/##SMFMT_LOWERCASE[\ink_item_number[BRTN250]]##.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>"
+                                           linkname="Ink_Image"
                                            style="">                                  
                                       
-                              <img src="https://www.adorama.com/images/Large/##SMFMT_LOWERCASE[\INK_ITEM_NUMBER[BRTN250]]##.jpg" 
+                              <img src="https://www.adorama.com/images/Large/##SMFMT_LOWERCASE[\ink_item_number[BRTN250]]##.jpg" 
                                    style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto; max-width:200px; max-height:185px;" 
                                    class="mobile-width-200" alt="" hspace="0" border="0" vspace="0" width="200" />
                                 
@@ -46,7 +46,7 @@
                                        font-weight:300; color: #404040; text-align: left;" >
                               Save on Ink or Toner for your<br />
                               <span style="font-size: 22px; padding-top:15px; padding-bottom:30px; font-family: Helvetica, sans-serif; font-weight:500; color: #404040; text-align: left;" >
-                                <strong>##SMFMT_PROPERCASE[\manufacturer]## Printer</strong></span>
+                                ##SMFMT_PROPERCASE[\manufacturer]## Printer</span>
                               <br />when you refill today!</td>
                           </tr>
                           <!-- Mobile Only-->
@@ -68,11 +68,11 @@
                                   <!--[if mso]>
                                   <v:rect xmlns:v="urn:schemas-microsoft-com:vml" 
                                   xmlns:w="urn:schemas-microsoft-com:office:word" 
-                                  href="https://www.adorama.com/##SMFMT_LOWERCASE[\INK_ITEM_NUMBER[BRTN250]]##.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" style="height:40px;v-text-anchor:middle;width:240px;" stroke="f" fillcolor="#00adef">
+                                  href="https://www.adorama.com/##SMFMT_LOWERCASE[\ink_item_number[BRTN250]]##.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" style="height:40px;v-text-anchor:middle;width:240px;" stroke="f" fillcolor="#00adef" linkname="mso_button">
                                       <w:anchorlock/>
                                       <center>
                                     <![endif]-->
-                                        <a href="https://www.adorama.com/##SMFMT_LOWERCASE[\INK_ITEM_NUMBER[BRTN250]]##.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>"
+                                        <a href="https://www.adorama.com/##SMFMT_LOWERCASE[\ink_item_number[BRTN250]]##.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>"
                                            linkname="OrderInkButton"
                                            style="background-color:#00adef;color:#ffffff;display:inline-block;
                                                   font-family:sans-serif;font-size:20px;font-weight:bold;

@@ -11,8 +11,9 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/##SMFMT_LOWERCASE[\ink_item_number[BRTN250]]##.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" linkname="TimeForARefill">
-                    <img src="image_library/org_1/1194/Printer-Automation-Refill.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" alt="" hspace="0" border="0" vspace="0" width="640">
+                    <a href="https://www.adorama.com/searchsite/default.aspx?searchinfo=acmd0**lla&emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
+                       linkname="D_Shop_By_Product_Banner">
+                    <img src="image_library/org_1/1273/AppleCare_02.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" alt="Shop By Brand" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>
                 </tr>

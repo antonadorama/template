@@ -1,6 +1,6 @@
 <?php 
 
-    $to = "antony@adorama.com, antonadorama@gmail.com, anton_yakuta@yahoo.com"; 
+    $to = "antony@adorama.com"; 
     $from = "antonadorama@gmail.com"; 
     $first_name = "Anton";
     $last_name = "Yakuta";

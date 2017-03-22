@@ -16,7 +16,7 @@
 		<meta name="format-detection" content="email=no">
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
-		<?php include_once("Tripod_Email/blocks/style_3.php"); ?>		
+		<?php include_once("Other/blocks/style_3.php"); ?>		
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -31,42 +31,22 @@
 			<table align="center" bgcolor="#e3e3e3" border="0" cellpadding="0" cellspacing="0" class="wrap640" width="640">
 				<tbody>
 					
-					<?php //include_once("Tripod_Email/blocks/send_button.php"); ?>
+					<?php //include_once(""Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "EmailTripods_B_032217"; ?>
+					<?php $utm = "EmailAppleCare_032117"; ?>
 					
-					<?php $ttl = "Everything You Need to Know About Tripods, All In One Place."; ?>
+					<?php $ttl = "Save Money & Protect your Apple devices with an AppleCare Protection Plan Limited Time Offer!"; ?>
 					
-					<?php include_once("Tripod_Email/blocks/header.php"); ?>
+					<?php include_once("Other/blocks/header.php"); ?>
 					
-					<!-- Banner 1 --->
-					<?php include_once("Tripod_Email/B/b1.php"); ?>
+					<!-- Main Banner--->
+					<?php include_once("Other/AppleCare/p_1.php"); ?>
+          
+          <?php include_once("Other/AppleCare/p_2.php"); ?>
+          
+          <?php include_once("Other/AppleCare/p_3.php"); ?>
 					
-					<?php include_once("Tripod_Email/B/b2.php"); ?>
-					
-					<?php include_once("Tripod_Email/B/b3.php"); ?>
-					
-					<?php include_once("Tripod_Email/B/b4.php"); ?>
-					
-					<!-- BeFree Manfrotto --->
-					<?php include_once("Tripod_Email/B/b5_2.php"); ?>
-					
-					<?php include_once("Tripod_Email/B/b6.php"); ?>
-					
-					<?php //include_once("Tripod_Email/B/b7.php"); ?>
-					
-					<?php //include_once("Tripod_Email/B/b8.php"); ?>					
-					
-					<!-- Featured Accesories Header --->
-					<?php include_once("Tripod_Email/A/p_7_1.php"); ?>
-          <!-- Featured Accesories Row 1 --->
-					<?php include_once("Tripod_Email/A/p_7_2.php"); ?>
-          <!-- Featured Accesories Row 2 --->
-					<?php include_once("Tripod_Email/A/p_7_3.php"); ?>
-					
-					<?php include_once("Tripod_Email/B/b9.php"); ?>
-					
-					<?php include_once("Tripod_Email/blocks/footer.php"); ?>
+					<?php include_once("Other/blocks/footer.php"); ?>
 					
 				</tbody>
 			</table>

@@ -18,10 +18,11 @@
                         <tbody>
                           <tr>
                             <td class="links-color" align="center" valign="top" width="100%">
-                              
-                              <img src="https://www.adorama.com/images/Large/##SMFMT_LOWERCASE[\PRINTER_ITEM_NUMBER[ICAMX922]]##.jpg" 
+                              <a linkname="Shop_Accessories_Printer_Image" href="https://www.adorama.com/##SMFMT_LOWERCASE[\printer_item_number[ICAMX922]]##.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>#accessories"  >
+                              <img src="https://www.adorama.com/images/Large/##SMFMT_LOWERCASE[\printer_item_number[ICAMX922]]##.jpg" 
                                    style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto; max-width:200px; max-height:185px;" 
                                    class="mobile-width-200" alt="" hspace="0" border="0" vspace="0" width="200" />
+                                </a>
                             </td>
                           </tr>
                         </tbody>
@@ -41,7 +42,7 @@
                                        font-weight:300; color: #404040; text-align: left;" >
                               Get the most out of your<br />
                               <span style="font-size: 22px; padding-top:15px; padding-bottom:30px; font-family: Helvetica, sans-serif; font-weight:500; color: #404040; text-align: left;" >
-                                <b>##SMFMT_PROPERCASE[\product_name[Printer]]##</b></span>
+                                ##SMFMT_PROPERCASE[\short_name[Printer]]##</span>
                               <br />with top-rated accessories</td>
                           </tr>
                           <!-- Mobile Only-->
@@ -63,11 +64,11 @@
                                   <!--[if mso]>
                                   <v:rect xmlns:v="urn:schemas-microsoft-com:vml" 
                                   xmlns:w="urn:schemas-microsoft-com:office:word" 
-                                  href="https://www.adorama.com/##SMFMT_LOWERCASE[\PRINTER_ITEM_NUMBER[ICAMX922]]##.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>#accessories" style="height:40px;v-text-anchor:middle;width:240px;" stroke="f" fillcolor="#ed008c">
+                                  href="https://www.adorama.com/##SMFMT_LOWERCASE[\printer_item_number[ICAMX922]]##.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>#accessories" style="height:40px;v-text-anchor:middle;width:240px;" stroke="f" fillcolor="#ed008c" linkname="mso_button_2">
                                       <w:anchorlock/>
                                       <center>
                                     <![endif]-->
-                                        <a href="https://www.adorama.com/##SMFMT_LOWERCASE[\PRINTER_ITEM_NUMBER[ICAMX922]]##.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>#accessories"
+                                        <a href="https://www.adorama.com/##SMFMT_LOWERCASE[\printer_item_number[ICAMX922]]##.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>#accessories"
                                            linkname="ShopAccessoriesButton"
                                            style="background-color:#ed008c;color:#ffffff;display:inline-block;
                                                   font-family:sans-serif;font-size:20px;font-weight:bold;
