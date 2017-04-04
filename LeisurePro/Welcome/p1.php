@@ -32,20 +32,26 @@
 </tr>
 <tr>
 	<td align="center" bgcolor="#DBE5E7" style="padding-bottom: 25px">
+		
 		<table align="center" border="0" cellpadding="0" cellspacing="0" class="wrap316">
 			<tbody>
 				<tr>
-					<td align="center" class="wrap316" height="48" style="font-size: 20px; font-family: Arial, Helvetica, sans-serif; color: #2B3B48; background-image:url(http://www.leisurepro.com/image/email/couponbg.png)" valign="middle" width="316">
+					<td align="center" class="wrap316" height="48" style="font-size: 20px; font-family: Arial, Helvetica, sans-serif; background-color: #2B3B48; color:#ffffff;" valign="middle" width="316">
 						<!--[if gte mso 9]>
-						<v:image
-							xmlns:v="urn:schemas-microsoft-com:vml" id="theImage" style='behavior: url(#default#VML); position:absolute; height:48px; width:316px; top:0; left:0; border:0; z-index:1;' src="http://www.leisurepro.com/image/email/couponbg.png"/>
 							<v:shape
-								xmlns:v="urn:schemas-microsoft-com:vml" id="theText" style='behavior: url(#default#VML); position:absolute; height:48px; width:316px; border:0; z-index:2;font-family:Arial;font-size:20px;font-weight:bold;color:#2B3B48;text-align:center; '>
+								xmlns:v="urn:schemas-microsoft-com:vml" id="theText" style='behavior: url(#default#VML); position:absolute; height:48px; width:316px; border:0; z-index:2;font-family:Arial;font-size:20px;font-weight:bold;background-color: #2B3B48; color:#ffffff;text-align:center; '>
 								<![endif]-->
 								<table align="center" border="0" cellpadding="0" cellspacing="0" class="wrap316">
 									<tbody>
 										<tr>
-											<td align="center" class="wrap316" style="font-size: 20px; line-height: 20px; font-family: Arial, Helvetica, sans-serif; color: #2B3B48; padding-top: 8px; padding-bottom: 10px; font-weight: bold" valign="middle" width="316">SHOP SPECIALS</td>
+											<td align="center" class="wrap316" style="font-size: 20px; line-height: 20px; font-family: Arial, Helvetica, sans-serif; padding-top: 8px; padding-bottom: 10px; font-weight: bold" valign="middle" width="316">
+												<a href="http://www.leisurepro.com/c-17205/specials?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=welcome&utm_content=main&utm_campaign=EmailLPWelcome1" 
+													 style="font-size: 20px; font-family: Arial, Helvetica, sans-serif;text-decoration:none; color: #FFFFFF;" linkname="D_F_Specials_Button">
+													<!--[if mso]><font color="#FFFFFF"><![endif]-->
+												SHOP SPECIALS
+													<!--[if mso]></font><![endif]-->
+												</a>	
+												</td>
 										</tr>
 									</tbody>
 								</table>
@@ -56,7 +62,11 @@
 					</tr>
 				</tbody>
 			</table>
+		
+		
+		
 		</td>
 	</tr>
+
           
 					

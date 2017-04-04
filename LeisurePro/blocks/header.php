@@ -7,9 +7,11 @@
 				<tr>
 					<td class="TTL" style="color: #A7A9AC; font-family: Arial; font-size: 12px">
 						<?php echo $ttl; ?>
-						<span class="hide">&nbsp; | &nbsp;
-                
-							<a class="hide" href="" linkname="ViewInBrowser" style="color: #A7A9AC; text-decoration: underline" target="_blank">view in a browser</a>
+						<span class="hide">
+							&nbsp; | &nbsp;
+						</span>
+						<span>    
+							<a class="moby" href="" linkname="ViewInBrowser" style="color: #A7A9AC; text-decoration: underline" target="_blank">view in a browser</a>
 						</span>
 					</td>
 					<td align="right" class="hide" style="color: #A7A9AC; font-family: Arial; font-size: 12px">

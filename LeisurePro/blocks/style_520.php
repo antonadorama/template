@@ -10,6 +10,11 @@
     visibility: hidden !important;
     border: none !important;
   }
+	
+	*[class="moby"] {
+		display: block !important;
+		padding-top: 8px !important;	
+	}
 
   table[class="wrap640"], img[class="img640"] {
     width: 100% !important;

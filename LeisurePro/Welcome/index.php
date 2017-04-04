@@ -25,7 +25,7 @@
     
     <?php $ttl = "Thanks for joining our family of passionate divers &amp; underwater enthusiasts! Let&#39;s get to know you more!"; ?>
     
-    
+    <?php //include_once("LeisurePro/blocks/send_button.php"); ?>
     
 		<tr>
 			<td align="center">

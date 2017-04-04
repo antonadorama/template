@@ -201,7 +201,7 @@
 			<tbody>
 				<tr>
 					<td align="center" class="navBtm" style="padding: 14px 0; border-right: 1px solid #ffffff; font-family: Arial, sans-serif; font-size: 13px; color:#A7A9AC" width="50%">42 W 18TH STREET, 3RD FLOOR NYC 10011</td>
-					<td align="center" class="navBtm" style="padding: 14px 0; border-right: 1px solid #ffffff; font-family: Arial, sans-serif; font-size: 13px; color:#A7A9AC" width="25%">800-637-6880</td>
+					<td align="center" class="navBtm" style="padding: 14px 0; border-right: 1px solid #ffffff; font-family: Arial, sans-serif; font-size: 13px; color:#A7A9AC" width="25%"><font color="#A7A9AC">800-637-6880</font></td>
 					<td align="center" class="navBtm" style="padding: 14px 0; font-family: Arial, sans-serif; font-size: 13px; color:#A7A9AC" width="25%">
 						<a href="http://www.leisurepro.com/?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=LeisurePro&utm_content=Footer&utm_campaign=EmailLPWelcome1" linkname="LeisurePro" style="color: #A7A9AC; text-decoration:none" target="_blank">LEISUREPRO.COM</a>
 					</td>
@@ -216,6 +216,7 @@
 			<tbody>
 				<tr>
 					<td align="center" style="font-family: Arial, sans-serif; font-size:14px; line-height:18px; color:#A7A9AC">
+						<!--[if mso]><font color="#A7A9AC"><![endif]-->
 						<br />
 						<br />
 						Email sent to: 
@@ -227,8 +228,7 @@
 						&nbsp; | &nbsp;
 						<a href="https://www.leisurepro.com/myaccount?guid=##GUID##&pageMode=manage&utm_source=slgt&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=EmailLPWelcome1#emailpref" linkname="Preferences" style="color: #A7A9AC; text-decoration:none; white-space:nowrap">
 							<b>Manage Preferences</b>
-						</a> &nbsp; | &nbsp; 
-						
+						</a> &nbsp; | &nbsp;
 						<strong>
 							<a href="" linkname="Forward" style="color: #A7A9AC; text-decoration:none; white-space:nowrap">
                 Forward to a Friend</a>
@@ -237,10 +237,12 @@
 						<strong>
 							<a href="https://www.leisurepro.com/myaccount?guid=##GUID##&pageMode=unsubscribe&utm_source=slgt&utm_medium=email&utm_term=Unsubscribe&utm_content=Footer&utm_campaign=EmailLPWelcome1#emailpref" linkname="Unsubscribe" style="color: #A7A9AC; text-decoration:none">
                 Unsubscribe</a>
-						</strong>
+						</strong>&nbsp; | &nbsp; 
 						<br />
 						&nbsp;
 					
+						
+					<!--[if mso]></font><![endif]-->	
 					</td>
 				</tr>
 				<tr>

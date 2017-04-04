@@ -11,6 +11,11 @@
     border: none !important;
   }
 	
+	*[class="moby"] {
+		display: block !important;
+		padding-top: 8px !important;	
+	}
+	
 	*[class="scuba"],td[class="wetsuits"],td[class="deals"],*[class="used"]{
 		
 		width:24% !important;
@@ -97,6 +102,20 @@
     background-color: #2B3B48 !important;
     font-weight: normal !important;
   }
+	
+	[class="wrap316"] a {
+		
+		text-decoration:none;
+		color:#ffffff !important;
+			
+	}
+	
+	[class="wrap316"] a:visited {
+		
+		text-decoration:none;
+		color:#ffffff !important;
+			
+	}
 
   td[class="navsplit"] {
     text-align: center !important;
