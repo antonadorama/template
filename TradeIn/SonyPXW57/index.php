@@ -40,8 +40,19 @@
 					<?php include_once("TradeIn/blocks/header.php"); ?>
 					
 					<!-- Main Banner--->
-					<?php include_once("TradeIn/SonyPXW57/p_1.php"); ?>
+					<?php //include_once("TradeIn/SonyPXW57/p_1.php"); ?>
+					
+					<?php include_once("TradeIn/SonyPXW57/p_2.php"); ?>
+					
+					<!-- Json Goes Here--->
+					
+					<?php //include_once("TradeIn/SonyPXW57/p_3.php"); ?>
           
+					<!-- End Json --->
+					
+					<?php //include("TradeIn/SonyPXW57/flat.php"); ?>
+					<?php //include("TradeIn/SonyPXW57/flat.php"); ?>
+					<?php //include("TradeIn/SonyPXW57/flat.php"); ?>
 
 					
 					<?php include_once("TradeIn/blocks/footer.php"); ?>

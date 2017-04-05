@@ -7,7 +7,6 @@
   //include_once("master_template/wppi.php");
 
   //include_once("master_template/master_template.php");
-
   
   //include_once("flash_sale_template/re.php");
 
