@@ -26,7 +26,7 @@
 
   //include_once("flash_sale_template/D5300_VIP.php");
   
-  include_once("test.php");
+  //include_once("test.php");
 
   //include_once("SunnySports/index.php");
 
@@ -39,7 +39,7 @@
 
 	//include_once("RepeatBuyers/index.php");
 
-	//include_once("TradeIn/index.php");
+	include_once("TradeIn/index.php");
 
 	//include_once("Tripod_Email/index.php");
 

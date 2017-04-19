@@ -33,16 +33,16 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "EmailDellXPS_032917"; ?>
+					<?php $utm = "EmailNABPreConference_041917"; ?>
 					
-					<?php $ttl = "Check Out Our All-In-One Computers and XPS Laptops - Shop Now!"; ?>
+					<?php $ttl = "Visit us at Booth C9539 for Gear Demos, Giveaways, Adorama Rental Co. & Trade!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
-					<!-- Main Banner--->
-					<?php include_once("Other/Dell/p_1.php"); ?>
-          
 					
+					<?php include_once("Other/NAB/p_1.php"); ?>
+          
+			
 					<?php include_once("Other/blocks/footer.php"); ?>
 					
 				</tbody>

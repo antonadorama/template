@@ -40,7 +40,7 @@
 					<?php include_once("TradeIn/blocks/header.php"); ?>
 					
 					<!-- Main Banner--->
-					<?php //include_once("TradeIn/SonyPXW57/p_1.php"); ?>
+					<?php include_once("TradeIn/SonyPXW57/p_1.php"); ?>
 					
 					<?php include_once("TradeIn/SonyPXW57/p_2.php"); ?>
 					
