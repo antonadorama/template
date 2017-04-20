@@ -16,7 +16,7 @@
 		<meta name="format-detection" content="email=no">
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
-		<?php include_once("TradeIn/blocks/style_3.php"); ?>		
+		<?php include_once("Other/blocks/style_3.php"); ?>		
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -31,31 +31,23 @@
 			<table align="center" bgcolor="#e3e3e3" border="0" cellpadding="0" cellspacing="0" class="wrap640" width="640">
 				<tbody>
 					
-					<?php //include_once("TradeIn/blocks/send_button.php"); ?>
+					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "EmailSonyPXW_FS7_042017"; ?>
+					<?php $utm = "EmailNABEarlyAccess042217"; ?>
 					
-					<?php $ttl = "Time to trade up your old Sony PXW-FS & get up to 70% credit towards the next generation version!"; ?>
+					<?php $ttl = "NAB Specials"; ?>
+					 
+					<?php include_once("Other/blocks/header.php"); ?>
 					
-					<?php include_once("TradeIn/blocks/header.php"); ?>
 					
-					<!-- Main Banner--->
-					<?php include_once("TradeIn/SonyPXW57/p_1.php"); ?>
+					<?php include_once("Other/NABSpecials/p_1.php"); ?>
 					
-					<?php //include_once("TradeIn/SonyPXW57/p_2.php"); ?>
+					<?php include_once("Other/NABSpecials/p_2.php"); ?>
 					
-					<!-- Json Goes Here--->
-					
-					<?php //include_once("TradeIn/SonyPXW57/p_3.php"); ?>
-          
-					<!-- End Json --->
-					
-					<?php //include("TradeIn/SonyPXW57/flat.php"); ?>
-					<?php //include("TradeIn/SonyPXW57/flat.php"); ?>
-					<?php //include("TradeIn/SonyPXW57/flat.php"); ?>
-
-					
-					<?php include_once("TradeIn/blocks/footer.php"); ?>
+					<?php include_once("Other/NABSpecials/p_3.php"); ?>
+					   
+			
+					<?php include_once("Other/blocks/footer.php"); ?>
 					
 				</tbody>
 			</table>

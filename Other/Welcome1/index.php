@@ -16,7 +16,7 @@
 		<meta name="format-detection" content="email=no">
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
-		<?php include_once("TradeIn/blocks/style_3.php"); ?>		
+		<?php include_once("Other/blocks/style_3.php"); ?>		
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -31,31 +31,32 @@
 			<table align="center" bgcolor="#e3e3e3" border="0" cellpadding="0" cellspacing="0" class="wrap640" width="640">
 				<tbody>
 					
-					<?php //include_once("TradeIn/blocks/send_button.php"); ?>
+					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "EmailSonyPXW_FS7_042017"; ?>
+					<?php $utm = "EmailWelcome1"; ?>
 					
-					<?php $ttl = "Time to trade up your old Sony PXW-FS & get up to 70% credit towards the next generation version!"; ?>
+					<?php $ttl = "We're excited you've joined our family! Let's get to know each other!"; ?>
+					 
+					<?php include_once("Other/blocks/header.php"); ?>
 					
-					<?php include_once("TradeIn/blocks/header.php"); ?>
 					
-					<!-- Main Banner--->
-					<?php include_once("TradeIn/SonyPXW57/p_1.php"); ?>
+					<?php include_once("Other/Welcome1/p_1.php"); ?>					
+					<?php include_once("Other/Welcome1/p_2.php"); ?>
+					<?php include_once("Other/Welcome1/p_3.php"); ?>
+					<?php include_once("Other/Welcome1/p_4.php"); ?>
+					<?php include_once("Other/Welcome1/p_5.php"); ?>
+					<?php include_once("Other/Welcome1/p_6.php"); ?>
+					<?php include_once("Other/Welcome1/p_7.php"); ?>
+					<?php include_once("Other/Welcome1/p_8.php"); ?>
+					<?php include_once("Other/Welcome1/p_9.php"); ?>
 					
-					<?php //include_once("TradeIn/SonyPXW57/p_2.php"); ?>
+					<?php include_once("Other/Welcome1/p_10.php"); ?>
 					
-					<!-- Json Goes Here--->
+					<?php include_once("Other/Welcome1/p_11.php"); ?>
 					
-					<?php //include_once("TradeIn/SonyPXW57/p_3.php"); ?>
-          
-					<!-- End Json --->
-					
-					<?php //include("TradeIn/SonyPXW57/flat.php"); ?>
-					<?php //include("TradeIn/SonyPXW57/flat.php"); ?>
-					<?php //include("TradeIn/SonyPXW57/flat.php"); ?>
-
-					
-					<?php include_once("TradeIn/blocks/footer.php"); ?>
+					<?php //include_once("Other/Welcome1/p_12.php"); ?>          
+			
+					<?php include_once("Other/blocks/footer.php"); ?>
 					
 				</tbody>
 			</table>

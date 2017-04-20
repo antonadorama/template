@@ -39,7 +39,7 @@
 
 	//include_once("RepeatBuyers/index.php");
 
-	include_once("TradeIn/index.php");
+	//include_once("TradeIn/index.php");
 
 	//include_once("Tripod_Email/index.php");
 
@@ -47,7 +47,7 @@
 
 	///include_once("LeisurePro/index.php");
 
-	//include_once("Other/index.php");
+	include_once("Other/index.php");
 
 	
 
