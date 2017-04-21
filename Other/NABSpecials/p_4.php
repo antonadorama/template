@@ -11,9 +11,9 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/g/NAB2017ShowSpecials?emailprice=t&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" target="_blank" 
-                       linkname="NAB_Specials">
-                    <img src="image_library/org_1/1426/nab_early_access_08.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" alt="NAB Specials" hspace="0" border="0" vspace="0" width="640">
+                    <a href="https://www.adorama.com/g/LexarNABSpecials?emailprice=t&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" target="_blank" 
+                       linkname="Lexar_NAB">
+                    <img src="image_library/org_1/1426/Banner-Lexar_NAB.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" alt="Lexar NAB" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>
                 </tr>

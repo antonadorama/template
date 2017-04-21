@@ -11,24 +11,24 @@
               <tbody>
 
                 <tr>
-                  <td><a href="https://www.adorama.com/g/NAB2017ShowSpecials?emailprice=t&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
+                  <td><a href="https://www.adorama.com/g/NAB2017ShowSpecials_Cameras?emailprice=t&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
                          linkname="Cameras And Lenses" target="_blank">
                     <img src="image_library/org_1/1426/nab_early_access_02.jpg" alt="Cameras And Lenses" width="100%" height="auto" border="0" style="display:inline;"></a></td>
-                  <td><a href="https://www.adorama.com/g/NAB2017ShowSpecials?emailprice=t&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
+                  <td><a href="https://www.adorama.com/g/NAB2017ShowSpecials_ProVideo?emailprice=t&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
                          linkname="Pro Video" target="_blank">
                     <img src="image_library/org_1/1426/nab_early_access_03.jpg" alt="Pro Video" width="100%" height="auto" border="0" style="display:inline;"></a></td>
-                  <td><a href="https://www.adorama.com/g/NAB2017ShowSpecials?emailprice=t&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
+                  <td><a href="https://www.adorama.com/g/NAB2017ShowSpecials_ProAudio?emailprice=t&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
                          linkname="Pro Audio" target="_blank">
                     <img src="image_library/org_1/1426/nab_early_access_04.jpg" alt="Pro Audio" width="100%" height="auto" border="0" style="display:inline;"></a></td>
                 </tr>
                 <tr>
-                  <td><a href="https://www.adorama.com/g/NAB2017ShowSpecials?emailprice=t&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
+                  <td><a href="https://www.adorama.com/g/NAB2017ShowSpecials_Tech?emailprice=t&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
                          linkname="Computers" target="_blank">
                     <img src="image_library/org_1/1426/nab_early_access_05.jpg" alt="Computers" width="100%" height="auto" border="0" style="display:inline;"></a></td>
-                  <td><a href="https://www.adorama.com/g/NAB2017ShowSpecials?emailprice=t&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
+                  <td><a href="https://www.adorama.com/g/NAB2017ShowSpecials_Studio?emailprice=t&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
                          linkname="Studio Gear" target="_blank">
                     <img src="image_library/org_1/1426/nab_early_access_06.jpg" alt="Studio Gear" width="100%" height="auto" border="0" style="display:inline;"></a></td>
-                  <td><a href="https://www.adorama.com/g/NAB2017ShowSpecials?emailprice=t&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
+                  <td><a href="https://www.adorama.com/g/NAB2017ShowSpecials_Accessories?emailprice=t&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
                          linkname="Accessories" target="_blank">
                     <img src="image_library/org_1/1426/nab_early_access_07.jpg" alt="Accessories" width="100%" height="auto" border="0" style="display:inline;"></a></td>
                 </tr>

@@ -35,7 +35,7 @@
 					
 					<?php $utm = "EmailNABEarlyAccess042217"; ?>
 					
-					<?php $ttl = "NAB Specials"; ?>
+					<?php $ttl = "Save Up To 50% on Pro Video, Audio & Studio Gear + 10% OFF Lexar During NAB Week!"; ?>
 					 
 					<?php include_once("Other/blocks/header.php"); ?>
 					
@@ -45,7 +45,8 @@
 					<?php include_once("Other/NABSpecials/p_2.php"); ?>
 					
 					<?php include_once("Other/NABSpecials/p_3.php"); ?>
-					   
+					
+					<?php include_once("Other/NABSpecials/p_4.php"); ?>					   
 			
 					<?php include_once("Other/blocks/footer.php"); ?>
 					
