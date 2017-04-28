@@ -8,6 +8,14 @@ $product3 = array (
 	
 );
 
+$product3_token = array (
+	
+	"sku" => "##lens_3##",
+	"title" => "##lens_3_title##",
+	"description" => "##lens_3_description##"
+	
+);
+
 ?>
 <tr>
 	<td>
@@ -21,8 +29,8 @@ $product3 = array (
 									
 									<!--[if !mso]><!-- -->
 									<td class="NPABlocksplit_show" valign="bottom" width="50%" align="left" style="display:none;">
-										<a href="https://www.adorama.com/<?php echo $product3['sku']; ?>.html?emailprice=t&hotlink=t&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $utm; ?>">
-											<img src="http://www.adorama.com/images/Large/<?php echo $product3['sku']; ?>.jpg" style="margin: 0 auto; display: block" class="NPABlockIMG" width="300" height="300" border="0" alt="">
+										<a linkname="FP_lens_3" href="https://www.adorama.com/<?php echo $product3_token['sku']; ?>.html?emailprice=t&hotlink=t&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $utm; ?>">
+											<img src="http://www.adorama.com/images/Large/<?php echo $product3_token['sku']; ?>.jpg" style="margin: 0 auto; display: block" class="NPABlockIMG" width="300" height="300" border="0" alt="">
 										</a>
 									</td>
 									<!--<![endif]-->
@@ -37,12 +45,12 @@ $product3 = array (
 												</tr>
 												<tr>
 													<td class="NPABlockcopy" align="center" style="display: block; color: #212121; font-size: 26px; font-family: 'Montserrat', Arial;  text-transform: uppercase; text-align: left;">
-														<font color="#212121" size="5"><strong><?php echo $product3['title']; ?></strong></font>
+														<font color="#212121" size="5"><strong><?php echo $product3_token['title']; ?></strong></font>
 													</td>
 												</tr>
 												<tr>
 													<td class="NPABlockcopy" align="center" style="display: block; color: #212121; font-weight: 400; font-size: 14px; font-family: 'Lato', sans-serif;  text-transform: none; text-align: left; line-height: 16px;">
-														<font color="#212121"><?php echo $product3['description']; ?></font>
+														<font color="#212121"><?php echo $product3_token['description']; ?></font>
 													</td>
 												</tr>
 												<tr>
@@ -60,11 +68,11 @@ $product3 = array (
 
 								<div>
 	<!--[if mso]>
-  <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://www.adorama.com/<?php echo $product3['sku']; ?>.html?emailprice=t&hotlink=t&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $utm; ?>" style="height:32px;v-text-anchor:middle;width:175px;" stroke="f" fillcolor="#006E95">
+  <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://www.adorama.com/<?php echo $product3_token['sku']; ?>.html?emailprice=t&hotlink=t&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $utm; ?>" style="height:32px;v-text-anchor:middle;width:175px;" stroke="f" fillcolor="#006E95">
     <w:anchorlock/>
     <center>
   <![endif]-->
-	<a href="https://www.adorama.com/<?php echo $product3['sku']; ?>.html?emailprice=t&hotlink=t&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $utm; ?>" style="background-color:#006E95;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:13px;font-weight:bold;line-height:32px;text-align:center;text-decoration:none;width:175px;-webkit-text-size-adjust:none;">
+	<a linkname="FP_lens_3" href="https://www.adorama.com/<?php echo $product3_token['sku']; ?>.html?emailprice=t&hotlink=t&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $utm; ?>" style="background-color:#006E95;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:13px;font-weight:bold;line-height:32px;text-align:center;text-decoration:none;width:175px;-webkit-text-size-adjust:none;">
 		VIEW THIS LENS</a>
 	<!--[if mso]>
     </center>
@@ -79,8 +87,8 @@ $product3 = array (
 									
 									
 									<td class="NPABlocksplit_hide" valign="bottom" width="50%" align="right">
-										<a href="https://www.adorama.com/<?php echo $product3['sku']; ?>.html?emailprice=t&hotlink=t&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $utm; ?>">
-											<img src="http://www.adorama.com/images/Large/<?php echo $product3['sku']; ?>.jpg" style="margin: 0 auto; display: block" class="NPABlockIMG" width="300" height="300" border="0" alt="">
+										<a linkname="FP_lens_3" href="https://www.adorama.com/<?php echo $product3_token['sku']; ?>.html?emailprice=t&hotlink=t&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $utm; ?>">
+											<img src="http://www.adorama.com/images/Large/<?php echo $product3_token['sku']; ?>.jpg" style="margin: 0 auto; display: block" class="NPABlockIMG" width="300" height="300" border="0" alt="">
 										</a>
 									</td>
 									

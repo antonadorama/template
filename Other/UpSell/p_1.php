@@ -27,7 +27,7 @@
                              font-family: Arial, Helvetica, sans-serif; color: #6A6F71; line-height:26px; " 
                       class="long-text links-color" align="center">
                     Capture every shot on your new  <br />
-                    <strong>Canon EOS 5D Mark IV DSLR Camera</strong> <br />
+                    <strong>##camera_name[Camera]##</strong> <br />
                     with these handpicked lenses, selected just for you! </td>
                 </tr>
               </tbody>

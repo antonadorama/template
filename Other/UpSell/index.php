@@ -35,9 +35,9 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "UpSell"; ?>
+					<?php $utm = "LensSuggestionEmail-B"; ?>
 					
-					<?php $ttl = "Here’s How to Capture Every Spectacular Shot with Your New Camera!"; ?>
+					<?php $ttl = "We've Handpicked a Few Lenses, Perfect for Your New Camera!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
