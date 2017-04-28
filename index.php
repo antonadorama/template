@@ -49,7 +49,7 @@
 
 	include_once("Other/index.php");
 
-	
+	//include_once("Events/index.php");	
 
 
 ?>
