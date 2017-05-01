@@ -45,9 +45,9 @@
 					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #5e5e5e; text-align: left; line-height: 18px;
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
             
-Thank you for choosing shopping our recent 
+Thank you for shopping our recent 
 										<strong>
-									<a href="https://www.adorama.com/?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+									<a href="https://www.adorama.com/g/Mothers_Day_Secret_Sale_2017?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                                                linkname="MD_GLP_Link" style="color:#5e5e5e; text-decoration:none;">Mother&#39;s Day Secret Sale
 									</a>
 								</strong> 
@@ -64,7 +64,7 @@ Thank you for choosing shopping our recent
 					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #5e5e5e; text-align: left; line-height: 18px;
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
         <strong>    
-					You should receive your Restaurant.com certificate and redemption instructions </strong>, along with a link to Restaurant.com, within 7 days after the sale ends! 
+					You should receive your Restaurant.com eGift Card and redemption instructions</strong>, along with a link to Restaurant.com, within 7 days after the sale ends on March 3<sup>rd</sup>! 
          
 							<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
           
@@ -72,7 +72,7 @@ Thank you for choosing shopping our recent
 			</tr>
 			<tr>
 				<td style="padding-top:2px; padding-left:10px; padding-bottom:2px; padding-right:10px;">
-         Thank you again for your purchase and congratulations!
+         Thank you again for your purchase and Happy Mother&#39;s Day!
         </td>
 			</tr>
 			<tr>

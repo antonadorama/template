@@ -20,6 +20,8 @@
   
   //include_once("Other/ThankYou/index.php");
 
-  include_once("Other/UpSell/index.php");
+  //include_once("Other/UpSell/index.php");
+
+  include_once("Other/CanonRebate/index.php");
 
 ?>
