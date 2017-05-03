@@ -2,16 +2,16 @@
 <tr>
   <td>
 
-<table id="ko_titleBlock_7" style="background-color: #E3E3E3;" class="vb-outer" bgcolor="#E3E3E3" border="0" cellpadding="0" cellspacing="0" width="100%">
+<table id="ko_titleBlock_7" style="background-color: #F5F5F5;" class="vb-outer" bgcolor="#F5F5F5" border="0" cellpadding="0" cellspacing="0" width="100%">
     <tbody>
       <tr>
-        <td style="background-color: #e3e3e3;" class="vb-outer" align="center" bgcolor="#E3E3E3" valign="top">
+        <td style="background-color: #e3e3e3;" class="vb-outer" align="center" bgcolor="#F5F5F5" valign="top">
           <!--[if (gte mso 9)|(lte ie 8)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="640"><tr><td align="center" valign="top"><![endif]-->          
           <div class="oldwebkit" style="max-width: 640px;">
-            <table style="border-collapse: separate;border-spacing: 9px;padding: 20px;width: 100%;max-width: 640px;background-color: #ECF6F8;" class="vb-container halfpad" bgcolor="#ECF6F8" border="0" cellpadding="0" cellspacing="20" width="570">
+            <table style="border-collapse: separate;border-spacing: 9px;padding: 20px;width: 100%;max-width: 640px;background-color: #003055;" class="vb-container halfpad" bgcolor="#003055" border="0" cellpadding="0" cellspacing="20" width="570">
               <tbody>
                 <tr>
-                  <td style="background-color: #ECF6F8; font-size: 24px; font-family: 'Montserrat', Helvetica, sans-serif; font-weight:700; color: #006E95; text-align: center; letter-spacing:1px;" align="center" bgcolor="#EAF3F7">YOU MAY ALSO NEED</td>
+                  <td style="background-color: #003055; font-size: 24px; font-family: 'Montserrat', Helvetica, sans-serif; font-weight:700; color: #FFFFFF; text-align: center; letter-spacing:1px;" align="center" bgcolor="#EAF3F7">YOU MAY ALSO NEED</td>
                 </tr>
               </tbody>
             </table>
@@ -29,10 +29,10 @@
 
 <tr>
   <td>
-  <table id="ko_tripleArticleBlock_10" style="background-color: #E3E3E3;" class="vb-outer" bgcolor="#E3E3E3" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <table id="ko_tripleArticleBlock_10" style="background-color: #F5F5F5;" class="vb-outer" bgcolor="#F5F5F5" border="0" cellpadding="0" cellspacing="0" width="100%">
     <tbody>
       <tr>
-        <td style="background-color: #e3e3e3;" class="vb-outer" align="center" bgcolor="#E3E3E3" valign="top">
+        <td style="background-color: #e3e3e3;" class="vb-outer" align="center" bgcolor="#F5F5F5" valign="top">
           <!--[if (gte mso 9)|(lte ie 8)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="640"><tr><td align="center" valign="top"><![endif]-->
           
           <div class="oldwebkit" style="max-width: 640px;">
@@ -72,9 +72,9 @@
                                     <td valign="middle" height="80"><table class="mobile-full" style="padding-top: 4px;" align="center" border="0" cellpadding="0" cellspacing="0">
                                         <tbody>
                                           <tr>
-                                            <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #114998; font-weight: normal; 
+                                            <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #003055; font-weight: normal; 
                                                        padding:5px; background-color: #ffffff; border-radius: 0px;" 
-                                                height="26" align="center" bgcolor="#114998" valign="middle" width="auto">
+                                                height="26" align="center" bgcolor="#003055" valign="middle" width="auto">
                                              ##json_accessories.name_1##
                                             </td>
                                           </tr>
@@ -87,10 +87,10 @@
                                     <td valign="top"><table class="mobile-full" style="padding-top: 4px;" align="center" border="0" cellpadding="0" cellspacing="0">
                                         <tbody>
                                           <tr>
-                                            <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #114998; font-weight: normal; padding:8px 15px; background-color: #ffffff; border-radius: 0px; border:2px solid #114998;" 
-                                                height="26" align="center" bgcolor="#114998" valign="middle" width="auto">
+                                            <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #003055; font-weight: normal; padding:8px 15px; background-color: #ffffff; border-radius: 0px; border:2px solid #003055;" 
+                                                height="26" align="center" bgcolor="#003055" valign="middle" width="auto">
                                               <a href="https://www.adorama.com/##json_accessories.sku_1##.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
-                                                 linkname="FP_##json_accessories.sku_1##" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">VIEW DETAILS</a></td>
+                                                 linkname="FP_##json_accessories.sku_1##" target="_new" style="text-decoration: none; color: #003055; font-weight: bold;">VIEW DETAILS</a></td>
                                           </tr>
                                         </tbody>
                                       </table></td>
@@ -136,9 +136,9 @@
                                     <td valign="middle" height="80"><table class="mobile-full" style="padding-top: 4px;" align="center" border="0" cellpadding="0" cellspacing="0">
                                         <tbody>
                                           <tr>
-                                            <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #114998; font-weight: normal; 
+                                            <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #003055; font-weight: normal; 
                                                        padding:5px; background-color: #ffffff; border-radius: 0px;" 
-                                                height="26" align="center" bgcolor="#114998" valign="middle" width="auto">
+                                                height="26" align="center" bgcolor="#003055" valign="middle" width="auto">
                                               ##json_accessories.name_2##
                                             </td>
                                           </tr>
@@ -150,9 +150,9 @@
                                     <td valign="top"><table class="mobile-full" style="padding-top: 4px;" align="center" border="0" cellpadding="0" cellspacing="0">
                                         <tbody>
                                           <tr>
-                                            <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #114998; font-weight: normal; padding:8px 15px; background-color: #ffffff; border-radius: 0px; border:2px solid #114998;" 
-                                                height="26" align="center" bgcolor="#114998" valign="middle" width="auto">
-                                              <a href="https://www.adorama.com/##json_accessories.sku_2##.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="FP_##json_accessories.sku_2##" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">VIEW DETAILS</a></td>
+                                            <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #003055; font-weight: normal; padding:8px 15px; background-color: #ffffff; border-radius: 0px; border:2px solid #003055;" 
+                                                height="26" align="center" bgcolor="#003055" valign="middle" width="auto">
+                                              <a href="https://www.adorama.com/##json_accessories.sku_2##.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="FP_##json_accessories.sku_2##" target="_new" style="text-decoration: none; color: #003055; font-weight: bold;">VIEW DETAILS</a></td>
                                           </tr>
                                         </tbody>
                                       </table></td>
@@ -197,9 +197,9 @@
                                     <td valign="middle" height="80"><table class="mobile-full" style="padding-top: 4px;" align="center" border="0" cellpadding="0" cellspacing="0">
                                         <tbody>
                                           <tr>
-                                            <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #114998; font-weight: normal; 
+                                            <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #003055; font-weight: normal; 
                                                        padding:5px; background-color: #ffffff; border-radius: 0px;" 
-                                                height="26" align="center" bgcolor="#114998" valign="middle" width="auto">
+                                                height="26" align="center" bgcolor="#003055" valign="middle" width="auto">
                                             ##json_accessories.name_3##
                                             </td>
                                           </tr>
@@ -211,9 +211,9 @@
                                     <td valign="top"><table class="mobile-full" style="padding-top: 4px;" align="center" border="0" cellpadding="0" cellspacing="0">
                                         <tbody>
                                           <tr>
-                                            <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #114998; font-weight: normal; padding:8px 15px; background-color: #ffffff; border-radius: 0px; border:2px solid #114998;" 
-                                                height="26" align="center" bgcolor="#114998" valign="middle" width="auto">
-                                              <a href="https://www.adorama.com/##json_accessories.sku_3##.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="FP_##json_accessories.sku_3##" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">VIEW DETAILS</a></td>
+                                            <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #003055; font-weight: normal; padding:8px 15px; background-color: #ffffff; border-radius: 0px; border:2px solid #003055;" 
+                                                height="26" align="center" bgcolor="#003055" valign="middle" width="auto">
+                                              <a href="https://www.adorama.com/##json_accessories.sku_3##.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="FP_##json_accessories.sku_3##" target="_new" style="text-decoration: none; color: #003055; font-weight: bold;">VIEW DETAILS</a></td>
                                           </tr>
                                         </tbody>
                                       </table></td>

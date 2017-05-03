@@ -33,7 +33,7 @@
 					
 					<?php //include_once("TradeIn/blocks/send_button.php"); ?>
 					
-					<?php $utm = "EmailSonyPXW_FS7_042017"; ?>
+					<?php $utm = "EmailSonyPXW_FS7_050217"; ?>
 					
 					<?php $ttl = "Time to trade up your old Sony PXW-FS & get up to 70% credit towards the next generation version!"; ?>
 					
@@ -46,7 +46,7 @@
 					
 					<!-- Json Goes Here--->
 					
-					<?php //include_once("TradeIn/SonyPXW57/p_3.php"); ?>
+					<?php include_once("TradeIn/SonyPXW57/p_3.php"); ?>
           
 					<!-- End Json --->
 					

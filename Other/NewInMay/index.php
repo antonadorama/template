@@ -16,7 +16,7 @@
 		<meta name="format-detection" content="email=no">
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
-		<?php include_once("Other/blocks/style_5.php"); ?>	
+		<?php include_once("Other/blocks/style_5.php"); ?>		
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -33,32 +33,21 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Exclusive_Canon_Rebates_050117"; ?>
+					<?php $utm = "Email050417NewInMay_RR"; ?>
 					
-					<?php $ttl = "Save on Canon Cinema Prime Lenses + Up To $9,000 on Lens Kits!"; ?>
+					<?php $ttl = "+ New PRICE DROPS of Up To $1,500 on Cameras & Lenses from Canon, Nikon, Sony & Panasonic"; ?>
 					
-					<!-- https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=unsubscribe&utm_source=slgt&utm_medium=email&utm_term=Unsubscribe&utm_content=Footer&utm_campaign=Email_Exclusive_Canon_Rebates_050117#emailpref -->
-
-					 
 					<?php include_once("Other/blocks/header.php"); ?>
 					
+					<!-- Main Banner--->
+					<?php include_once("Other/NewInMay/p_1.php"); ?>
 					
-					<?php include_once("Other/CanonRebate/p_1.php"); ?>
+					<!-- Json Goes Here--->
 					
-					<?php include_once("Other/CanonRebate/p_2.php"); ?>
-					<?php include_once("Other/CanonRebate/p_3.php"); ?>
-					<?php include_once("Other/CanonRebate/p_4.php"); ?>
+					<?php include_once("Other/NewInMay/rr.php"); ?>
+          
+					<!-- End Json --->
 					
-					<?php //include_once("Other/CanonRebate/p_5.php"); ?>
-					<?php include_once("Other/CanonRebate/p_6.php"); ?>
-					<?php include_once("Other/CanonRebate/p_7.php"); ?>
-					
-					<?php include_once("Other/CanonRebate/p_8.php"); ?>
-					
-					<?php include_once("Other/CanonRebate/p_9.php"); ?>
-					<?php include_once("Other/CanonRebate/p_10.php"); ?>
-		   
-			
 					<?php include_once("Other/blocks/footer.php"); ?>
 					
 				</tbody>

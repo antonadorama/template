@@ -21,6 +21,7 @@
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
   <![endif]-->
+	
 	</p>
 
 <div align="center" style="padding: 0 0px">
@@ -33,31 +34,17 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Exclusive_Canon_Rebates_050117"; ?>
+					<?php $utm = "Email_CanonCarePAK_050317"; ?>
 					
-					<?php $ttl = "Save on Canon Cinema Prime Lenses + Up To $9,000 on Lens Kits!"; ?>
+					<?php $ttl = "Get FREE accidental damage protection for eligible Canon products - Learn More!"; ?>
 					
-					<!-- https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=unsubscribe&utm_source=slgt&utm_medium=email&utm_term=Unsubscribe&utm_content=Footer&utm_campaign=Email_Exclusive_Canon_Rebates_050117#emailpref -->
-
+					<!-- https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=unsubscribe&utm_source=slgt&utm_medium=email&utm_term=Unsubscribe&utm_content=Footer&utm_campaign=Email_CanonCarePAK_050317#emailpref -->
 					 
 					<?php include_once("Other/blocks/header.php"); ?>
 					
 					
-					<?php include_once("Other/CanonRebate/p_1.php"); ?>
-					
-					<?php include_once("Other/CanonRebate/p_2.php"); ?>
-					<?php include_once("Other/CanonRebate/p_3.php"); ?>
-					<?php include_once("Other/CanonRebate/p_4.php"); ?>
-					
-					<?php //include_once("Other/CanonRebate/p_5.php"); ?>
-					<?php include_once("Other/CanonRebate/p_6.php"); ?>
-					<?php include_once("Other/CanonRebate/p_7.php"); ?>
-					
-					<?php include_once("Other/CanonRebate/p_8.php"); ?>
-					
-					<?php include_once("Other/CanonRebate/p_9.php"); ?>
-					<?php include_once("Other/CanonRebate/p_10.php"); ?>
-		   
+					<?php include_once("Other/CanonDamage/p_1.php"); ?>
+					   
 			
 					<?php include_once("Other/blocks/footer.php"); ?>
 					

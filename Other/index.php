@@ -22,6 +22,10 @@
 
   //include_once("Other/UpSell/index.php");
 
-  include_once("Other/CanonRebate/index.php");
+  //include_once("Other/CanonRebate/index.php");
+
+  //include_once("Other/CanonDamage/index.php");
+
+  include_once("Other/NewInMay/index.php");
 
 ?>
