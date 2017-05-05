@@ -26,6 +26,10 @@
 
   //include_once("Other/CanonDamage/index.php");
 
-  include_once("Other/NewInMay/index.php");
+  //include_once("Other/NewInMay/index.php");
+
+  include_once("Other/NewTemplate2Columns/index.php");
+
+
 
 ?>
