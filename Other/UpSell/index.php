@@ -44,21 +44,37 @@
 					<!-- Intro --->
 					<?php include_once("Other/UpSell/p_1.php"); ?>
 					
-					<?php include("Other/UpSell/devider.php"); ?>
-					
-					<?php include_once("Other/UpSell/npa_block_1.php"); ?>
+					<?php include_once("Other/UpSell/wanda_vision_token_1_1.php"); ?>
 					
 					<?php include("Other/UpSell/devider.php"); ?>
 					
-					<?php include_once("Other/UpSell/npa_block_2.php"); ?>
+					<?php include_once("Other/UpSell/wanda_vision_token_2_1.php"); ?>
 					
 					<?php include("Other/UpSell/devider.php"); ?>
 					
-					<?php include_once("Other/UpSell/npa_block_3.php"); ?>
+					<?php include_once("Other/UpSell/wanda_vision_token_1_2.php"); ?>
 					
 					<?php include("Other/UpSell/devider.php"); ?>
 					
-					<?php include_once("Other/UpSell/npa_block_4.php"); ?>
+					<?php include_once("Other/UpSell/wanda_vision_token_2_2.php"); ?>
+					
+					
+					
+					<?php //include("Other/UpSell/devider.php"); ?>
+					
+					<?php //include_once("Other/UpSell/npa_block_1.php"); ?>
+					
+					<?php //include("Other/UpSell/devider.php"); ?>
+					
+					<?php //include_once("Other/UpSell/npa_block_2.php"); ?>
+					
+					<?php //include("Other/UpSell/devider.php"); ?>
+					
+					<?php //include_once("Other/UpSell/npa_block_3.php"); ?>
+					
+					<?php //include("Other/UpSell/devider.php"); ?>
+					
+					<?php //include_once("Other/UpSell/npa_block_4.php"); ?>
 										
 					<?php include("Other/UpSell/spacer_white.php"); ?>
 					
@@ -75,8 +91,13 @@
 					<?php include_once("Other/UpSell/alc_5.php"); ?>
 					<?php include_once("Other/UpSell/alc_6.php"); ?>
 					<?php include_once("Other/UpSell/alc_7.php"); ?>
-					<?php //include_once("Other/UpSell/alc_8.php"); ?>	
+					<?php //include_once("Other/UpSell/alc_8.php"); ?>
 					
+					<!--JSON goes Here -->
+					
+					<?php //include_once("Other/UpSell/rr.php"); ?>	
+					
+					<!--END OF JSON-->
 					
 					<?php include_once("Other/blocks/footer.php"); ?>
 					

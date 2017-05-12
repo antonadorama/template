@@ -1,11 +1,11 @@
 <!-- Blue Devider -->
 <tr>
-  <td>
-      <table cellspacing="0" cellpadding="0" border="0" width="100%" bgcolor="#FFFFFF" style="background-color:#ffffff">
+  <td class="mobile-hide">
+      <table cellspacing="0" cellpadding="0" border="0" width="100%" bgcolor="#FFFFFF" style="background-color:#ffffff; mso-hide: all;">
         
         <tr>
           <td>
-            <span style="display:block; background-color:#FFFFFF; line-height:10px; width:100%;" >&nbsp;</span>
+            <span style="display:block; background-color:#FFFFFF; line-height:5px; width:100%;" >&nbsp;</span>
           </td>
         </tr>
         
@@ -19,7 +19,7 @@
         
          <tr>
           <td>
-            <span style="display:block; background-color:#FFFFFF; line-height:10px; width:100%;" >&nbsp;</span>
+            <span style="display:block; background-color:#FFFFFF; line-height:5px; width:100%;" >&nbsp;</span>
           </td>
         </tr>
         

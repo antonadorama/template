@@ -20,7 +20,7 @@
   
   //include_once("Other/ThankYou/index.php");
 
-  //include_once("Other/UpSell/index.php");
+  
 
   //include_once("Other/CanonRebate/index.php");
 
@@ -28,7 +28,14 @@
 
   //include_once("Other/NewInMay/index.php");
 
-  include_once("Other/NewTemplate2Columns/index.php");
+  //include_once("Other/NewTemplate2Columns/index.php");
+
+  //include_once("Other/UpSell/index.php");
+
+
+  //include_once("Other/GraduationSale/index.php");
+
+include_once("Other/profoto/index.php");
 
 
 

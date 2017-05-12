@@ -43,11 +43,12 @@ $product4_token = array (
 														<font color="#006E95" size="4"><!-- Save Up To 40% --></font>
 													</td>
 												</tr>
-												<tr>
-													<td class="NPABlockcopy" align="center" style="display: block; color: #212121; font-size: 26px; font-family: 'Montserrat', Arial;  text-transform: uppercase; text-align: left;">
-														<font color="#212121" size="5"><strong><?php echo $product4_token['title']; ?></strong></font>
-													</td>
-												</tr>
+<tr>
+	<td class="NPABlockcopy" align="center" style="display: block; color: #000001; font-size: 26px; font-family: 'Montserrat', Arial;  
+																								 text-transform: uppercase; background-color:#ffffff; font-weight:bold; padding-top:5px; padding-bottom:5px;">
+		<?php echo $token_4["title"];?>
+	</td>
+</tr>
 												<tr>
 													<td class="NPABlockcopy" align="center" style="display: block; color: #212121; font-weight: 400; font-size: 14px; font-family: 'Lato', sans-serif;  text-transform: none; text-align: left; line-height: 16px;">
 														<font color="#212121"><?php echo $product4_token['description']; ?></font>

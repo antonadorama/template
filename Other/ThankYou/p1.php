@@ -45,15 +45,14 @@
 					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #5e5e5e; text-align: left; line-height: 18px;
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
             
-Thank you for shopping our recent 
+					Great news! Your <strong>$##value##</strong>
 										<strong>
-									<a href="https://www.adorama.com/g/Mothers_Day_Secret_Sale_2017?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
-                                               linkname="MD_GLP_Link" style="color:#5e5e5e; text-decoration:none;">Mother&#39;s Day Secret Sale
+									<a href="dine.restaurant.com" 
+                                               linkname="RDC" style="color:#5e5e5e; text-decoration:none;">Restaurant.com
 									</a>
 								</strong> 
 					
-					and congratulations on being eligible for our Restaurant.com rewards! 
-					We know you have many options when you shop and we appreciate that you chose Adorama for your purchase.
+		rewards are here! 
          
 							<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
           
@@ -63,8 +62,12 @@ Thank you for shopping our recent
 				<td style="padding-top:2px; padding-left:10px; padding-bottom:2px; padding-right:10px;">
 					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #5e5e5e; text-align: left; line-height: 18px;
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
-        <strong>    
-					You should receive your Restaurant.com eGift Card and redemption instructions</strong>, along with a link to Restaurant.com, within 7 days after the sale ends on March 3<sup>rd</sup>! 
+         
+					To claim your <strong>$##value##</strong> rewards, simply visit 			<strong>
+									<a href="dine.Restaurant.com" 
+                                               linkname="RDC" style="color:#5e5e5e; text-decoration:none;">Dine.Restaurant.com
+									</a>
+					</strong> , use code <strong>##rdc_coupon##</strong>, follow the easy online instructions to create an account and start redeeming! Best of all, these deals never expire!
          
 							<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
           
@@ -72,7 +75,8 @@ Thank you for shopping our recent
 			</tr>
 			<tr>
 				<td style="padding-top:2px; padding-left:10px; padding-bottom:2px; padding-right:10px;">
-         Thank you again for your purchase and Happy Mother&#39;s Day!
+         Thank you again for your purchase and Happy <strong><a href="https://www.adorama.com/g/MothersDayDeals?emailprice=t&utm_campaign=<?php echo $utm;?>" 
+																												linkname="MD_linkback" style="color:#5e5e5e; text-decoration:none;">Mother&#39;s Day!</a></strong>
         </td>
 			</tr>
 			<tr>

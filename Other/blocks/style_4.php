@@ -309,6 +309,11 @@
       padding-left: 10px !important;
       padding-right: 10px !important;
     }
+    
+    .mobile-show-npa {
+      display: block !important;      
+    }
+    
     .mobile-textcenter {
       text-align: center !important;
     }

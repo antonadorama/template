@@ -16,7 +16,7 @@
 		<meta name="format-detection" content="email=no">
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
-		<?php include_once("Other/blocks/style_4.php"); ?>		
+		<?php include_once("TradeIn/blocks/style_3.php"); ?>		
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -31,19 +31,25 @@
 			<table align="center" bgcolor="#e3e3e3" border="0" cellpadding="0" cellspacing="0" class="wrap640" width="640">
 				<tbody>
 					
-					<?php //include_once("Other/blocks/send_button.php"); ?>
+					<?php //include_once("TradeIn/blocks/send_button.php"); ?>
 					
-					<?php $utm = "MD_ThankYou_Email_Redeem"; ?>
+					<?php $utm = "EmailSony_Alpha_A9_051117"; ?>
 					
-					<?php $ttl = "Redeem Your Restaurant.com Rewards Right in Time for Mother’s Day!"; ?>
+					<?php $ttl = "Time to trade up your old Sony Gear & get up to 70% credit towards the next generation version!"; ?>
 					
-					<?php include_once("Other/blocks/header.php"); ?>
+					<?php include_once("TradeIn/blocks/header.php"); ?>
+					
+					<!-- Main Banner--->
+					<?php include_once("TradeIn/SonyAlphaA9/p_1.php"); ?>
 					
 					
-					<?php include_once("Other/ThankYou/p1.php"); ?>
-
+					<!-- Json Goes Here--->
 					
-					<?php include_once("Other/blocks/footer.php"); ?>
+					<?php //include_once("TradeIn/SonyAlphaA9/rr.php"); ?>
+          
+					<!-- End Json --->					
+						
+					<?php include_once("TradeIn/blocks/footer.php"); ?>
 					
 				</tbody>
 			</table>

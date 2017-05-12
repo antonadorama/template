@@ -1,4 +1,13 @@
 <style>
+	
+			*[class].NPABlockcopy {
+				padding:10px !important;
+            }
+	
+	*[class].NPABlockIMG {
+			padding:15px 0 !important;
+			
+	}
 
   @media screen and (max-device-width: 480px), screen and (max-width: 480px) {
   
@@ -42,7 +51,7 @@
             }
 		
 			*[class].NPABlockcopy {
-				text-align: center !important; display: block !important
+				text-align: center !important; display: block !important;
             }
 			*[class].NPABlockIMG {
 				width: 280px !important; height:auto !important; text-align:center !important

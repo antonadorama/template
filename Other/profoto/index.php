@@ -16,7 +16,7 @@
 		<meta name="format-detection" content="email=no">
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
-		<?php include_once("Other/blocks/style_4.php"); ?>		
+		<?php include_once("Other/blocks/style_5.php"); ?>		
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -33,15 +33,20 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "MD_ThankYou_Email_Redeem"; ?>
+					<?php $utm = "Email_Profoto_B1_051217"; ?>
 					
-					<?php $ttl = "Redeem Your Restaurant.com Rewards Right in Time for Mother’s Day!"; ?>
+					<?php $ttl = " EXCLUSIVE: Get a Free $100 Gift Card + Remote with a Profoto B1 500 AirTTL Monolight!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
+					<!-- Main Banner--->
+					<?php include_once("Other/profoto/p_1.php"); ?>
 					
-					<?php include_once("Other/ThankYou/p1.php"); ?>
-
+					<!-- Json Goes Here--->
+					
+					
+          
+					<!-- End Json --->
 					
 					<?php include_once("Other/blocks/footer.php"); ?>
 					
