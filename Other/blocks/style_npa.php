@@ -1,11 +1,11 @@
 <style>
 	
 			*[class].NPABlockcopy {
-				padding:10px !important;
+				padding:2px !important;
             }
 	
 	*[class].NPABlockIMG {
-			padding:15px 0 !important;
+			padding:5px 0 !important;
 			
 	}
 

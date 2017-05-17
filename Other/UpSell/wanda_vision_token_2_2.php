@@ -4,6 +4,7 @@
 		
 		"sku" => "##acc_4##",
 		"title" => "##acc_4_name##",
+		"best_for" => "##best_for_4##",
 		"description" => "##acc_4_desc##",
 		"desktop_image" => "##acc_4_img_desktop##",
 		"mobile_image" => "##acc_4_img_mobile##"
@@ -46,7 +47,7 @@
 </tr> 
 
 <tr>
-	<td class="NPABlockcopy" align="center" style="display: block; color: #000001; font-size: 26px; font-family: 'Montserrat', Arial;  
+	<td class="NPABlockcopy" align="center" style="display: block; color: #000001; font-size: 20px; font-family: Arial, Helvetica, sans-serif;
 																								 text-transform: uppercase; background-color:#ffffff; font-weight:bold; padding-top:5px; padding-bottom:5px;">
 		<?php echo $token_2["title"];?>
 	</td>
@@ -63,15 +64,21 @@
 								<tr>
 
 									
-									<td class="NPABlocksplit" valign="top" width="50%" align="center" style="text-align:center; vertical-align:middle;">
+									<td class="NPABlocksplit" valign="top" width="50%" align="center" style="text-align:center; vertical-align:top;">
 										<table class="NPABlock" cellpadding="3" cellspacing="3" border="0" width="95%">
 											<tbody>
+												
+												<tr>
+													<td class="NPABlockcopy" align="center" style="display: block; color:#006E95; font-size: 20px; font-family:Arial, Helvetica, sans-serif;  text-transform: uppercase; text-align: left;">
+														<font color="#006E95" size="4"><?php echo $token_4["best_for"];?></font>
+													</td>
+												</tr>
 
 												
 												<!--[if mso]><tr><td>&nbsp;</td></tr><![endif]-->
 												
 												<tr>
-													<td class="NPABlockcopy" align="center" style="display: block; color: #212121; font-weight: 400; font-size: 14px; font-family: 'Lato', sans-serif;  text-transform: none; text-align: left; line-height: 16px;">
+													<td class="NPABlockcopy" align="center" style="display: block; color: #212121; font-weight: 400; font-size: 14px; font-family: Arial, Helvetica, sans-serif;  text-transform: none; text-align: left; line-height: 16px;">
 														<font color="#212121"><?php echo $token_4["description"];?></font>
 													</td>
 												</tr>
@@ -80,7 +87,8 @@
 
 												<tr>
 																					<td class="NPABlocksplit" valign="bottom" width="50%" align="left">
-										<a href="https://www.adorama.com/<?php echo $token_4["sku"];?>.html?emailprice=t&hotlink=t&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $utm; ?>">
+										<a href="https://www.adorama.com/<?php echo $token_4["sku"];?>.html?emailprice=t&hotlink=t&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $utm; ?>"
+											 linkname="Product_4_Image">
 											<img src="http://www.adorama.com/images/Large/<?php echo $token_4["sku"];?>.jpg" style="margin: 0 auto; display: block; padding-top:15px; padding-bottom:15px;" class="NPABlockIMG" width="300" height="300" border="0" alt="">
 										</a>
 									</td>
@@ -94,7 +102,9 @@
 						<w:anchorlock/>
 						<center>
 					<![endif]-->
-					<a href="https://www.adorama.com/<?php echo $token_4["sku"];?>.html?emailprice=t&hotlink=t&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $utm; ?>" style="background-color:#006E95;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:13px;font-weight:bold;line-height:32px;text-align:center;text-decoration:none;width:175px;-webkit-text-size-adjust:none;">
+					<a href="https://www.adorama.com/<?php echo $token_4["sku"];?>.html?emailprice=t&hotlink=t&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $utm; ?>" 
+						 linkname="View Lens 4"
+						 style="background-color:#006E95;color:#ffffff;display:inline-block;font-family:Arial, Helvetica, sans-serif;font-size:13px;font-weight:bold;line-height:32px;text-align:center;text-decoration:none;width:175px;-webkit-text-size-adjust:none;">
 						VIEW THIS LENS</a>
 					<!--[if mso]>
 						</center>
@@ -112,7 +122,8 @@
 										<table class="mobile-hide">
 											<tr>
 												<td>
-										<a href="https://www.adorama.com/<?php echo $token_4["sku"];?>.html?emailprice=t&hotlink=t&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $utm; ?>">
+										<a href="https://www.adorama.com/<?php echo $token_4["sku"];?>.html?emailprice=t&hotlink=t&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $utm; ?>"
+											 linkname="Custom_Image_SKU_4">
 											<img src="image_library/org_1/1513/<?php echo $token_4["desktop_image"];?>" style="margin: 0 auto; display: block" class="NPABlockIMG" width="300" height="500" border="0" alt="">
 										</a>
 												</td>

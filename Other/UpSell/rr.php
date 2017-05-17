@@ -11,7 +11,7 @@
             <table style="border-collapse: separate;border-spacing: 9px;padding: 20px;width: 100%;max-width: 640px;background-color: #003055;" class="vb-container halfpad" bgcolor="#003055" border="0" cellpadding="0" cellspacing="20" width="570">
               <tbody>
                 <tr>
-                  <td style="background-color: #003055; font-size: 24px; font-family: 'Montserrat', Helvetica, sans-serif; font-weight:700; color: #FFFFFF; text-align: center; letter-spacing:1px;" align="center" bgcolor="#EAF3F7">YOU MAY ALSO NEED</td>
+                  <td style="background-color: #003055; font-size: 24px; font-family: 'Montserrat', Helvetica, sans-serif; font-weight:700; color: #FFFFFF; text-align: center; letter-spacing:1px;" align="center" bgcolor="#EAF3F7">ACCESSORIZE YOUR GEAR</td>
                 </tr>
               </tbody>
             </table>
