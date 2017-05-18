@@ -34,12 +34,12 @@
 
   //include_once("Other/Wedding_051517/index.php");  
 
-  //include_once("Other/UpSell/index.php");
+  include_once("Other/UpSell/index.php");
 
   //include_once("Other/ContentBlocks/index.php");
 
   //include_once("Other/AdobeDedicated/index.php");
 
-  include_once("Other/SonyNPA/index.php");
+  //include_once("Other/SonyNPA/index.php");
 
 ?>

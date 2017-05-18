@@ -35,7 +35,7 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "LensSuggestionEmail-C"; ?>
+					<?php $utm = "LensSuggestionEmail-F"; ?>
 					
 					<?php $ttl = "We've Handpicked a Few Lenses, Perfect for Your New Camera!"; ?>
 					

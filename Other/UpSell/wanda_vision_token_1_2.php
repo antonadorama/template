@@ -27,7 +27,7 @@
 								<tbody>
 									<tr>
 										<td align="center" valign="top">
-											<a href="https://www.adorama.com/?emailprice=t&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" target="_blank" linkname="Main_Banner_Link">
+											<a href="https://www.adorama.com/<?php echo $token_3["sku"];?>.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" target="_blank" linkname="Main_Banner_Link">
 												<img src="image_library/org_1/1513/<?php echo $token_3["mobile_image"];?>" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" alt="Main Banner" hspace="0" border="0" vspace="0" width="640">
 											</a>
 										</td>
@@ -116,7 +116,7 @@
 						<w:anchorlock/>
 						<center>
 					<![endif]-->
-															<a href="https://www.adorama.com/ca241052.html?emailprice=t&hotlink=t&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $utm; ?>" 
+															<a href="https://www.adorama.com/<?php echo $token_3["sku"];?>.html?emailprice=t&hotlink=t&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $utm; ?>" 
 																 linkname="View Lens 3"
 																 style="background-color:#006E95;color:#ffffff;display:inline-block;font-family:Arial, Helvetica, sans-serif;font-size:13px;font-weight:bold;line-height:32px;text-align:center;text-decoration:none;width:175px;-webkit-text-size-adjust:none;">
 						VIEW THIS LENS</a>

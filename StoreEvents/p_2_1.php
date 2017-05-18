@@ -30,8 +30,8 @@
               <td>
               <a href=""
                  linkname="">
-                <img src="image_library/org_1/1555/event1.jpg" 
-                     alt="Event 1" width="100%"
+                <img src="image_library/org_1/1555/event5.jpg" 
+                     alt="Event 1" width="250" height="195"
                      style="">
               </a>
               </td>

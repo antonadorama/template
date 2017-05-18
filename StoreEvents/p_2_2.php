@@ -13,7 +13,7 @@
               <td>----</td>
             </tr>
             <tr>
-              <td>18</td>
+              <td>21</td>
             </tr>
               <tr>
               <td></td>
@@ -30,8 +30,8 @@
               <td>
               <a href=""
                  linkname="">
-                <img src="image_library/org_1/1555/event1.jpg" 
-                     alt="Event 1" width="100%"
+                <img src="image_library/org_1/1555/event2.jpg" 
+                     alt="Event 2" width="250" height="195"
                      style="">
               </a>
               </td>
@@ -45,7 +45,7 @@
               <td style="padding-left:15px;"  class="Event_Logo">
               <a href=""
                  linkname="">
-                <img src="image_library/org_1/1555/seminar.jpg" 
+                <img src="image_library/org_1/1555/onset.jpg" 
                      alt="Event 1" width="103" height="auto"
                      style="">
               </a>
@@ -55,7 +55,7 @@
               <td>
                 <table style="padding-left:15px; padding-bottom:5px; font-size:1.1em; font-family:Helvetica; letter-spacing:0.8px;">
                   <tr>
-                    <td>Shoot Beautiful Models and try Photoflex Gear: OnSet with Daniel Norton</td>
+                    <td>The Art of Single Frame Storytelling</td>
                   </tr>
                 </table>            
               </td>
@@ -65,7 +65,7 @@
                 <table style="padding-left:15px; font-size:1em; font-family:Helvetica; display:block; font-weight:bold;">
                   <tr>
                     <td>
-                      MAY 18
+                      MAY 21
                     </td>
                   </tr>
                 </table>
@@ -76,7 +76,7 @@
                 <table style="font-size:1em; font-family:Helvetica; display:block;font-weight:bold;padding-left:15px;">
                   <tr>
                     <td>
-                      12:00 PM – 5:00 PM
+                      11:00 AM – 1:00 PM
                     </td>
                   </tr>
                 </table>
@@ -102,8 +102,8 @@
           <table style="padding-top:15px;">
             <tr>
               <td style="padding-left:5px; padding-right:5px;">
-                <span>Join Daniel Norton and Steven Rossi (Sales Representative for Photoflex, Hoodman &#38; BlackRapid)<br >
-OnSet for a FREE open model shoot. Adorama and Photoflex will provide models and lighting. You bring your camera, memory cards and a desire to make great images!</span></td>
+                <span>If a picture can say a thousand words, how do we choose which words we want it to say? 
+                  Join us for a panel discussion featuring three storytellers that use the camera as their storytelling tool of choice. </span></td>
             </tr>
           </table>
         </td>

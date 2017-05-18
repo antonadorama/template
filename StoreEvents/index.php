@@ -17,6 +17,7 @@
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
 		<?php include_once("StoreEvents/blocks/style.php"); ?>
+		<?php include_once("StoreEvents/blocks/style_event.php"); ?>
 		<?php include_once("StoreEvents/blocks/style_520.php"); ?>
     <?php include_once("StoreEvents/blocks/style_450.php"); ?>
 		<?php include_once("StoreEvents/blocks/style_400.php"); ?>
@@ -45,9 +46,15 @@
 					
 					<?php include_once("StoreEvents/p_1.php"); ?>
           
-          <?php include_once("StoreEvents/p_2.php"); ?>
+						<?php include_once("StoreEvents/p_2_1.php"); ?>
+
+						<?php include_once("StoreEvents/p_2_2.php"); ?>
+
+						<?php include_once("StoreEvents/p_2_3.php"); ?>
           
           <?php include_once("StoreEvents/p_3.php"); ?>
+						
+						<?php include_once("StoreEvents/p_2_4.php"); ?>
           
           <?php include_once("StoreEvents/p_5.php"); ?>
           
