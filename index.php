@@ -1,5 +1,4 @@
 <?php
-
   //include("form.php");
 
   //include_once("setup.php");
@@ -32,7 +31,7 @@
 
   //include_once("store events/main.php");
 
-  //include_once("FirstTimeBuyers/index.php");
+  include_once("FirstTimeBuyers/index.php");
 
 	//include_once("RepeatBuyers/index.php");
 
@@ -45,11 +44,7 @@
 	//include_once("SunnySports/index.php");
 	//include_once("LeisurePro/index.php");
 
-	include_once("Other/index.php");
-
-	
-
-
+	//include_once("Other/index.php");
 ?>
 
 
