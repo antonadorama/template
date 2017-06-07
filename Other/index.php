@@ -26,6 +26,8 @@
 
   //include_once("Other/NewInMay/index.php");
 
+  //include_once("Other/NewInJune/index.php");
+
   //include_once("Other/NewTemplate2Columns/index.php");
   
   //include_once("Other/GraduationSale/index.php");
@@ -34,7 +36,7 @@
 
   //include_once("Other/Wedding_051517/index.php");  
 
-  //include_once("Other/UpSell/index.php");
+ // include_once("Other/UpSell/index.php");
 
   //include_once("Other/ContentBlocks/index.php");
 
@@ -44,6 +46,10 @@
 
   //include_once("Other/TravelGear/index.php");
 
-  include_once("Other/ThankYouA9/index.php");
+  //include_once("Other/ThankYouA9/index.php");
+
+  //include_once("Other/AppleUpsell/index.php");
+
+  include_once("Other/Coop/index.php");
 
 ?>
