@@ -1,5 +1,27 @@
 <?php 
 
+
+  include_once("Other/AppleUpsell/index.php");
+
+  
+
+  //include_once("Other/OneDaySale060717/index.php");
+
+
+  //include_once("Other/Coop/index.php");
+  //include_once("Other/UpSell/index.php");
+
+  //include_once("Other/ContentBlocks/index.php");
+
+  //include_once("Other/AdobeDedicated/index.php");
+
+  //include_once("Other/SonyNPA/index.php");
+
+  //include_once("Other/TravelGear/index.php");
+
+  //include_once("Other/ThankYouA9/index.php");
+
+
   //include_once("Other/AppleCare/index.php");
 
   //include_once("Other/JordanSmith/index.php");
@@ -36,20 +58,5 @@
 
   //include_once("Other/Wedding_051517/index.php");  
 
- // include_once("Other/UpSell/index.php");
-
-  //include_once("Other/ContentBlocks/index.php");
-
-  //include_once("Other/AdobeDedicated/index.php");
-
-  //include_once("Other/SonyNPA/index.php");
-
-  //include_once("Other/TravelGear/index.php");
-
-  //include_once("Other/ThankYouA9/index.php");
-
-  //include_once("Other/AppleUpsell/index.php");
-
-  include_once("Other/Coop/index.php");
 
 ?>
