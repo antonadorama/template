@@ -35,7 +35,7 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_OneDaySale_060717"; ?>
+					<?php $utm = "Email_OneDaySale_061417"; ?>
 					
 					<?php $ttl = "OneDaySale"; ?>
 					
@@ -61,8 +61,9 @@
 	</tbody>
 </table>
 </div>
-	<p style="display:none !important;">    
-<img src="http://svopn.adorama.com/?sv_cid=2620_03922&sv_emopen=true&sv_svem=##GUID##" height="1" width="1" style="display:none !important;"/>
-</p>
+<div style="display:none !important; padding:0 !important;">
+<img src="http://svopn.adorama.com/?sv_cid=2620_03922&sv_emopen=true&sv_svemi=##GUID##" height="1" width="1" style="display:none !important;"/>
+</div>
+
 </body>
 </html>
