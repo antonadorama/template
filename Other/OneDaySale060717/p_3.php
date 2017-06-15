@@ -1,3 +1,4 @@
+
 <tr>
   <td>
     <table id="ko_imageBlock_5" style="background-color: #E3E3E3;" class="vb-outer" bgcolor="#E3E3E3" border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -11,10 +12,10 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/g/12HourSale?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
-                       linkname="Main_Banner_Link">
-                    <img src="image_library/org_1/1678/12H-Sale-060617.gif" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
-												 alt="One Day Sale" hspace="0" border="0" vspace="0" width="640">
+                    <a href="https://www.adorama.com/g/FathersDaySpecials-2017?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
+                       linkname="FP_Fathers_Day_Sale">
+                    <img src="image_library/org_1/1678/Fathers-Day-Banner-06-08-17.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
+												 alt="Fathers Day Sale" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>
                 </tr>

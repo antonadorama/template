@@ -13,7 +13,7 @@
                   <td align="center" valign="top">
                     <a href="https://www.adorama.com/gph5b.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
                        linkname="FP_GoPro_HERO5_Black">
-                    <img src="image_library/org_1/1640/12Hr-Sale-GoPro-Promo-Banner.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
+                    <img src="image_library/org_1/1678/12Hr-Sale-GoPro-Promo-Banner.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
 												 alt="GoPro HERO5 Black" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>
@@ -28,3 +28,4 @@
   </table>
   </td>
 </tr>  
+

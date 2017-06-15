@@ -1,12 +1,12 @@
 <?php 
 
-  include_once("Other/le061317/index.php");  
+  //include_once("Other/le061317/index.php");  
 
   //include_once("Other/StreetFairTopPicks/index.php");  
 
   //include_once("Other/AppleUpsell/index.php");
 
-  //include_once("Other/OneDaySale060717/index.php");
+  include_once("Other/OneDaySale060717/index.php");
 
   //include_once("Other/StreetFair/index.php");
 
@@ -60,6 +60,6 @@
 
   //include_once("Other/profoto/index.php");
 
-  //include_once("Other/Wedding_051517/index.php");  
+  //include_once("Other/Wedding_051517/index.php"); 
 
 ?>

@@ -11,10 +11,10 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/g/12HourSale?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
-                       linkname="Main_Banner_Link">
-                    <img src="image_library/org_1/1678/12H-Sale-060617.gif" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
-												 alt="One Day Sale" hspace="0" border="0" vspace="0" width="640">
+                    <a href="https://www.adorama.com/rebates/l/?sel=brand_Canon&emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
+                       linkname="Canon_Banner">
+                    <img src="image_library/org_1/1678/adorama_6-13_banners_canon.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
+												 alt="Canon Banner" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>
                 </tr>

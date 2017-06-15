@@ -35,16 +35,30 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_OneDaySale_061417"; ?>
+					<?php //$utm = "Email_OneDaySale_061417"; ?>
+					<?php $utm = "Email_OneDaySale_nikon_061417"; ?>
+					<?php //$utm = "Email_OneDaySale_canon_061417"; ?>
+					<?php //$utm = "Email_OneDaySale_sony_061417"; ?>
 					
-					<?php $ttl = "OneDaySale"; ?>
+					<?php $ttl = "We've Unlocked VIP Exclusive Deals Just for You, In Time for Father's Day!"; ?>
 					
-					<?php include_once("Other/blocks/header.php"); ?>
+					<?php include_once("Other/blocks/header.php"); ?>	
 					
+					<?php //include_once("Other/OneDaySale060717/p_5_sony.php"); ?>
+					
+					<?php //include_once("Other/OneDaySale060717/p_5_canon.php"); ?>
+					<?php include_once("Other/OneDaySale060717/p_5_nikon.php"); ?>
+							
+					<?php include_once("Other/OneDaySale060717/c.php"); ?>				
+					
+										
 					<!-- Main Banner--->
 					<?php include_once("Other/OneDaySale060717/p_1.php"); ?>
 					
-					<?php include_once("Other/OneDaySale060717/p_2.php"); ?>
+					
+					<?php //include_once("Other/OneDaySale060717/p_2.php"); ?>
+					
+					<?php include_once("Other/OneDaySale060717/p_3.php"); ?>
 					
 					
 					<!-- Json Goes Here--->
