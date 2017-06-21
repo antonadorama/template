@@ -1,12 +1,20 @@
 <?php 
 
-  //include_once("Other/le061317/index.php");  
+  include_once("Other/le062117/index.php");  
+
+  //include_once("Other/StreetFair_EXT/index.php");
+
+  //include_once("Other/PriceDrop/index.php");
+  
+  //include_once("Other/le061317/index.php");
+
+  //include_once("Other/NewTemplate2Columns/index.php");
 
   //include_once("Other/StreetFairTopPicks/index.php");  
 
   //include_once("Other/AppleUpsell/index.php");
 
-  include_once("Other/OneDaySale060717/index.php");
+  //include_once("Other/OneDaySale060717/index.php");
 
   //include_once("Other/StreetFair/index.php");
 
@@ -54,8 +62,6 @@
 
   //include_once("Other/NewInJune/index.php");
 
-  //include_once("Other/NewTemplate2Columns/index.php");
-  
   //include_once("Other/GraduationSale/index.php");
 
   //include_once("Other/profoto/index.php");

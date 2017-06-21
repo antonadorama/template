@@ -58,6 +58,10 @@
     padding: 25px 0px 0px;
   }
   
+      *[class=mobile-show-fs] {
+        display:none;
+       }
+  
   @media screen and (max-device-width: 480px),  screen and (max-width: 480px) {
     
     td[class=deals],td[class=shop],td[class=cameras],td[class=lenses]{
@@ -310,6 +314,14 @@
       padding-left: 10px !important;
       padding-right: 10px !important;
     }
+    .mobile-show-fs {
+      color: #6A6F71 !important;
+      font-size: 1.2em;
+      display: block !important;
+
+    }
+
+    
     .mobile-textcenter {
       text-align: center !important;
     }
@@ -320,6 +332,7 @@
       padding-right: 0 !important;
       padding-left: 0 !important;
     }
+    
     img.mobile-width-200 {
       width: 100% !important;
       max-width: 260px !important;

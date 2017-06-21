@@ -1,6 +1,12 @@
 <?php
 
-	include_once("Other/index.php");
+	 include_once("ALC/index.php");	
+
+	//include_once("ContentBlock/index.php");
+
+	//include_once("TradeIn/index.php");
+
+	//include_once("Other/index.php");
 
 	//include_once("SunnySports/index.php");
 
@@ -42,15 +48,13 @@
 
 	//include_once("RepeatBuyers/index.php");
 
-	//include_once("TradeIn/index.php");
-
 	//include_once("Tripod_Email/index.php");
 
 	//include_once("StoreEvents/index.php");	
 
 	//include_once("LeisurePro/index.php");
 
-  //include_once("ALC/index.php");	
+ 
 
 ?>
 
