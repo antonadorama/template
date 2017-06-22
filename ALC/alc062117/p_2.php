@@ -49,7 +49,7 @@
 											<tbody>
 												<tr>
 													<td>
-														<a href="<?php echo $article2['link']; ?>?utm_source=slgt&utm_medium=email&utm_term=ALCImages&utm_content=ALCBody&utm_campaign=<?php echo $utm; ?>" 
+														<a href="<?php echo $article2['link']; ?>?utm_source=slgt&utm_medium=email&guid=##GUID##&utm_term=ALCImages&utm_content=ALCBody&utm_campaign=<?php echo $utm; ?>" 
 															 linkname="<?php echo $article2['image_linkname']; ?>" target="_blank">
 															<img alt="<?php echo $article2['alt']; ?>" 
 																	 border="0" height="auto" width="320"
@@ -68,7 +68,7 @@
 											<tbody>
 												<tr>
 													<td align="center" class="article-title" style="font-family: Arial, Helvetica, sans-serif; font-size: 17px; color: #163458">
-														<a href="<?php echo $article2['link']; ?>?utm_source=slgt&utm_medium=email&utm_term=ALCImages&utm_content=ALCBody&utm_campaign=<?php echo $utm; ?>" 
+														<a href="<?php echo $article2['link']; ?>?utm_source=slgt&utm_medium=email&guid=##GUID##&utm_term=ALCImages&utm_content=ALCBody&utm_campaign=<?php echo $utm; ?>" 
 															 linkname="<?php echo $article2['title_linkname_bottom']; ?>" style="text-decoration: none; color: #163458; font-weight: bold; font-size:17px"
 															target="_blank">
 															<?php echo $article2['title']; ?>
@@ -86,13 +86,13 @@
 																<tr>
 																	<td align="right" class="Btn" style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; color: #163458" 
 																			valign="middle">
-																		<a href="<?php echo $article2['link']; ?>?utm_source=slgt&utm_medium=email&utm_term=ALCImages&utm_content=ALCBody&utm_campaign=<?php echo $utm; ?>" 
+																		<a href="<?php echo $article2['link']; ?>?utm_source=slgt&utm_medium=email&guid=##GUID##&utm_term=ALCImages&utm_content=ALCBody&utm_campaign=<?php echo $utm; ?>" 
 																			 linkname="<?php echo $article2['see_more_linkname']; ?>" style="color: #163458; text-decoration: none" target="_blank">
 																			<strong>See More</strong>
 																		</a>
 																	</td>
 																	<td align="left" valign="middle">
-																		<a href="<?php echo $article2['link']; ?>?utm_source=slgt&utm_medium=email&utm_term=ALCImages&utm_content=ALCBody&utm_campaign=<?php echo $utm; ?>" 
+																		<a href="<?php echo $article2['link']; ?>?utm_source=slgt&utm_medium=email&guid=##GUID##&utm_term=ALCImages&utm_content=ALCBody&utm_campaign=<?php echo $utm; ?>" 
 																			 linkname="<?php echo $article2['see_more_linkname']; ?>" target="_blank">
 																			<img alt="<?php echo $article2['alt']; ?>" border="0" height="15" 
 																					 src="image_library/org_1/1637/btn_arrow.jpg" style="display:block;" width="9" />
@@ -122,7 +122,7 @@
 											<tbody>
 												<tr>
 													<td>
-														<a href="<?php echo $article3['link']; ?>?utm_source=slgt&utm_medium=email&utm_term=ALCImages&utm_content=ALCBody&utm_campaign=<?php echo $utm; ?>" 
+														<a href="<?php echo $article3['link']; ?>?utm_source=slgt&utm_medium=email&guid=##GUID##&utm_term=ALCImages&utm_content=ALCBody&utm_campaign=<?php echo $utm; ?>" 
 															 linkname="<?php echo $article2['image_linkname']; ?>" target="_blank">
 															<img alt="<?php echo $article3['alt']; ?>" border="0" 
 																	 height="auto" width="320" 
@@ -142,7 +142,7 @@
 											<tbody>
 												<tr>
 													<td align="center" class="article-title" style="font-family: Arial, Helvetica, sans-serif; font-size: 17px; color: #163458">
-														<a href="<?php echo $article3['link']; ?>?utm_source=slgt&utm_medium=email&utm_term=ALCImages&utm_content=ALCBody&utm_campaign=<?php echo $utm; ?>" 
+														<a href="<?php echo $article3['link']; ?>?utm_source=slgt&utm_medium=email&guid=##GUID##&utm_term=ALCImages&utm_content=ALCBody&utm_campaign=<?php echo $utm; ?>" 
 															 linkname="<?php echo $article3['title_linkname_bottom']; ?>" style="text-decoration: none; color: #163458; font-weight: bold; font-size:17px"
 															target="_blank"><?php echo $article3['title']; ?></a></td>
 												</tr>
@@ -156,13 +156,13 @@
 															<tbody>
 																<tr>
 																	<td align="right" class="Btn" style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; color: #163458" valign="middle">
-																		<a href="<?php echo $article3['link']; ?>?utm_source=slgt&utm_medium=email&utm_term=ALCImages&utm_content=ALCBody&utm_campaign=<?php echo $utm; ?>" 
+																		<a href="<?php echo $article3['link']; ?>?utm_source=slgt&utm_medium=email&guid=##GUID##&utm_term=ALCImages&utm_content=ALCBody&utm_campaign=<?php echo $utm; ?>" 
 																			 linkname="<?php echo $article3['see_more_linkname']; ?>" style="color: #163458; text-decoration: none" target="_blank">
 																			<strong>See More</strong>
 																		</a>
 																	</td>
 																	<td align="left" valign="middle">
-																		<a href="<?php echo $article3['link']; ?>?utm_source=slgt&utm_medium=email&utm_term=ALCImages&utm_content=ALCBody&utm_campaign=<?php echo $utm; ?>" 
+																		<a href="<?php echo $article3['link']; ?>?utm_source=slgt&utm_medium=email&guid=##GUID##&utm_term=ALCImages&utm_content=ALCBody&utm_campaign=<?php echo $utm; ?>" 
 																			 linkname="<?php echo $article3['see_more_linkname']; ?>" target="_blank">
 																			<img alt="<?php echo $article3['alt']; ?>" border="0" height="15" 
 																					 src="image_library/org_1/1637/btn_arrow.jpg" style="display:block;" width="9" />

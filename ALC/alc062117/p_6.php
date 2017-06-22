@@ -1,3 +1,4 @@
+<!-- Banner Section -->
 <tr>
   <td>
     <table id="ko_imageBlock_5" style="background-color: #E3E3E3;" class="vb-outer" bgcolor="#E3E3E3" border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -11,7 +12,7 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/g/new-zeiss-35mm?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
+                    <a href="https://www.adorama.com/g/new-zeiss-35mm?emailprice=t&utm_source=slgt&utm_medium=email&guid=##GUID##&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
                        linkname="FP_Zeiss_NPA">
                     <img src="image_library/org_1/1719/eMail_Banner-Zeiss_JustAnnounced_Milvus.png" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" alt="AppleCare" hspace="0" border="0" vspace="0" width="640">
                     </a>
@@ -26,4 +27,5 @@
     </tbody>
   </table>
   </td>
-</tr>  
+</tr>
+<!-- End of Banner Section -->

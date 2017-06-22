@@ -43,9 +43,11 @@
 		<table align="center" border="0" cellpadding="0" cellspacing="0" class="wrap640" width="640">
 			<tbody>
 				
+				<!-- Main Video -->
+				
 				<tr>
 					<td bgcolor="#202020">
-						<a href="https://www.adorama.com/alc/category/AdoramaTv/?utm_source=slgt&utm_medium=email&utm_term=ALCImages&utm_content=ALCBody&utm_campaign=<?php echo $utm; ?>" 
+						<a href="https://www.adorama.com/alc/category/AdoramaTv/?utm_source=slgt&utm_medium=email&guid=##GUID##&utm_term=ALCImages&utm_content=ALCBody&utm_campaign=<?php echo $utm; ?>" 
 							 linkname="V_ALC_AdoramaTV" target="_blank">
 							<img alt="Adorama TV" border="0" class="AdoramaTV" height="60" 
 									 src="image_library/org_1/1637/alc_adoramatv.png" 
@@ -60,7 +62,7 @@
 							<tbody>
 								<tr>
 									<td>
-										<a href="<?php echo $video1['link']; ?>?utm_source=slgt&utm_medium=email&utm_term=ALCImages&utm_content=ALCBody&utm_campaign=<?php echo $utm; ?>" 
+										<a href="<?php echo $video1['link']; ?>?utm_source=slgt&utm_medium=email&guid=##GUID##&utm_term=ALCImages&utm_content=ALCBody&utm_campaign=<?php echo $utm; ?>" 
 											 linkname="<?php echo $video1['linkname']; ?>" target="_blank">
 											<img alt="<?php echo $video1['alt']; ?>" border="0" height="auto" width="640" 
 													 src="image_library/org_1/<?php echo $video1['image']; ?>" style="display:block; width:100%; height:auto;" /></a>
@@ -78,7 +80,7 @@
 							<tbody>
 								<tr>
 									<td align="center" class="article-title" style="font-family: Arial, Helvetica, sans-serif; font-size: 18px; color: #ffffff">
-										<a href="<?php echo $video1['link']; ?>?utm_source=slgt&utm_medium=email&utm_term=ALCImages&utm_content=ALCBody&utm_campaign=<?php echo $utm; ?>" 
+										<a href="<?php echo $video1['link']; ?>?utm_source=slgt&utm_medium=email&guid=##GUID##&utm_term=ALCImages&utm_content=ALCBody&utm_campaign=<?php echo $utm; ?>" 
 											 linkname="<?php echo $video1['title_linkname']; ?>" style="text-decoration: none; color: #ffffff; font-weight: bold; font-size:18px" target="_blank">
 											<?php echo $video1['title']; ?><br />
 											<font style="color: #00b6ed"><span style="display:block; padding-top:5px; padding-bottom:5px;">Watch Now</span></font></a>
@@ -88,6 +90,10 @@
 						</table>
 					</td>
 				</tr>
+				
+				<!-- End Of Main Video -->
+				
+				<!-- Two Videos Section -->
 				
 				<tr>
 					<td align="center" bgcolor="#202020">
@@ -105,7 +111,7 @@
 															<tbody>
 																<tr>
 																	<td>
-																		<a href="<?php echo $video2['link']; ?>?utm_source=slgt&utm_medium=email&utm_term=ALCImages&utm_content=ALCBody&utm_campaign=<?php echo $utm; ?>" 
+																		<a href="<?php echo $video2['link']; ?>?utm_source=slgt&utm_medium=email&guid=##GUID##&utm_term=ALCImages&utm_content=ALCBody&utm_campaign=<?php echo $utm; ?>" 
 																			 linkname="<?php echo $video2['linkname']; ?>" target="_blank">
 																			<img alt="<?php echo $video2['alt']; ?>" border="0" height="auto" width="320"
 																					 src="image_library/org_1/<?php echo $video2['image']; ?>" style="display:block; width:100%; height:auto;"  /></a>
@@ -124,7 +130,7 @@
 																	<td align="center" class="article-title" style="font-family: Arial, Helvetica, sans-serif; font-size: 17px; color: #ffffff">
 																		<br class="mobno" />
 																		<strong>
-																			<a href="<?php echo $video2['link']; ?>?utm_source=slgt&utm_medium=email&utm_term=ALCImages&utm_content=ALCBody&utm_campaign=<?php echo $utm; ?>" 
+																			<a href="<?php echo $video2['link']; ?>?utm_source=slgt&utm_medium=email&guid=##GUID##&utm_term=ALCImages&utm_content=ALCBody&utm_campaign=<?php echo $utm; ?>" 
 																				 linkname="<?php echo $video2['title_linkname']; ?>" style="text-decoration: none; color: #ffffff; font-weight: bold; font-size:17px" 
 																				 target="_blank"><?php echo $video2['title']; ?><br /><br class="mobno" />
 																				<font style="color: #00b6ed"><span style="display:block; padding-top:5px; padding-bottom:5px;">Watch Now</span></font>
@@ -151,7 +157,7 @@
 															<tbody>
 																<tr>
 																	<td>
-																		<a href="<?php echo $video3['link']; ?>?utm_source=slgt&utm_medium=email&utm_term=ALCImages&utm_content=ALCBody&utm_campaign=<?php echo $utm; ?>" 
+																		<a href="<?php echo $video3['link']; ?>?utm_source=slgt&utm_medium=email&guid=##GUID##&utm_term=ALCImages&utm_content=ALCBody&utm_campaign=<?php echo $utm; ?>" 
 																			 linkname="<?php echo $video3['linkname']; ?>" target="_blank">
 																			<img alt="<?php echo $video3['alt']; ?>" border="0" height="auto" width="320" 
 																					 src="image_library/org_1/<?php echo $video3['image']; ?>" style="display:block; width:100%; height:auto;"/></a>
@@ -170,7 +176,7 @@
 																	<td align="center" class="article-title" style="font-family: Arial, Helvetica, sans-serif; font-size: 17px; color: #ffffff">
 																		<br class="mobno" />
 																		<strong>
-																			<a href="<?php echo $video3['link']; ?>?utm_source=slgt&utm_medium=email&utm_term=ALCImages&utm_content=ALCBody&utm_campaign=<?php echo $utm; ?>" 
+																			<a href="<?php echo $video3['link']; ?>?utm_source=slgt&utm_medium=email&guid=##GUID##&utm_term=ALCImages&utm_content=ALCBody&utm_campaign=<?php echo $utm; ?>" 
 																				 linkname="<?php echo $video3['title_linkname']; ?>" style="text-decoration: none; color: #ffffff; font-weight: bold; font-size:17px" 
 																				 target="_blank"><?php echo $video3['title']; ?><br />
 																				<font style="color: #00b6ed"><span style="display:block; padding-top:5px; padding-bottom:5px;">Watch Now</span></font>
@@ -191,6 +197,8 @@
 						</table>
 					</td>
 				</tr>
+				
+				<!-- End of Two Videos Section -->
 				
 			</tbody>
 		</table>
