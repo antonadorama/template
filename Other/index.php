@@ -1,5 +1,7 @@
 <?php 
 
+  include_once("Other/WaterproofGear/index.php");  
+
   //include_once("Other/le062117/index.php");  
 
   //include_once("Other/StreetFair_EXT/index.php");
@@ -8,7 +10,7 @@
   
   //include_once("Other/le061317/index.php");
 
-  include_once("Other/NewTemplate2Columns/index.php");
+  //include_once("Other/NewTemplate2Columns/index.php");
 
   //include_once("Other/StreetFairTopPicks/index.php");  
 
