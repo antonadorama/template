@@ -16,7 +16,7 @@
 		<meta name="format-detection" content="email=no">
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
-		<?php include_once("ContentBlock/blocks/style_5.php"); ?>		
+		<?php include_once("TradeIn/blocks/style_5.php"); ?>		
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -31,21 +31,25 @@
 			<table align="center" bgcolor="#e3e3e3" border="0" cellpadding="0" cellspacing="0" class="wrap640" width="640">
 				<tbody>
 					
-					<?php //include_once("Other/blocks/send_button.php"); ?>
+					<?php //include_once("TradeIn/blocks/send_button.php"); ?>
 					
-					<?php $utm = "EmailCAThankYou"; ?>
+					<?php $utm = "Email_TradeIn_Zeiss_062617"; ?>
 					
-					<?php $ttl = "ContentBlock"; ?>
+					<?php $ttl = "Time to trade up your old Zeiss gear & get up to 70% credit towards latest Zeiss CP.3!"; ?>
 					
-					<?php include_once("ContentBlock/blocks/header.php"); ?>					
-		
-					<!-- Placeholder -->
+					<?php include_once("TradeIn/blocks/header.php"); ?>
 					
+					<!-- Main Banner--->
+					<?php include_once("TradeIn/ZeissCP3/p_1.php"); ?>
+	
+					<?php include_once("TradeIn/ZeissCP3/p_2.php"); ?>
 					
-					<?php //include_once("ContentBlock/nonvip.php"); ?>
+									
+					<!-- Json Goes Here--->
 
-														
-					<?php include_once("ContentBlock/blocks/footer.php"); ?>
+          <!-- End Json --->
+					
+					<?php include_once("TradeIn/blocks/footer.php"); ?>
 					
 				</tbody>
 			</table>
@@ -54,7 +58,7 @@
 	</tbody>
 </table>
 </div>
-	<div style="display:none !important; padding:0 !important;">
+<div style="display:none !important; padding:0 !important;">
 <img src="http://svopn.adorama.com/?sv_cid=2620_03922&sv_emopen=true&sv_svemi=##GUID##" height="1" width="1" style="display:none !important;"/>
 </div>
 </body>

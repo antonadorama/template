@@ -1,4 +1,6 @@
-<?php include_once("TradeIn/Apple/index.php"); ?>
+<?php include_once("TradeIn/ZeissCP3/index.php"); ?>
+
+<?php //include_once("TradeIn/Apple/index.php"); ?>
 
 <?php //include_once("TradeIn/ProfotoB1X/index.php"); ?>
 

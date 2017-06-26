@@ -16,7 +16,7 @@
 		<meta name="format-detection" content="email=no">
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
-		<?php include_once("ContentBlock/blocks/style_5.php"); ?>		
+		<?php include_once("Other/blocks/style_5.php"); ?>		
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -35,17 +35,14 @@
 					
 					<?php $utm = "EmailCAThankYou"; ?>
 					
-					<?php $ttl = "ContentBlock"; ?>
+					<?php $ttl = "Thank You for your Customer Appreciation Purchase! More Details Available Inside!"; ?>
 					
-					<?php include_once("ContentBlock/blocks/header.php"); ?>					
+					<?php include_once("Other/blocks/header.php"); ?>					
 		
-					<!-- Placeholder -->
-					
-					
-					<?php //include_once("ContentBlock/nonvip.php"); ?>
+					<?php include_once("Other/ThankYouCA/p_1.php"); ?>
 
 														
-					<?php include_once("ContentBlock/blocks/footer.php"); ?>
+					<?php include_once("Other/blocks/footer.php"); ?>
 					
 				</tbody>
 			</table>
