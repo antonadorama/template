@@ -38,14 +38,17 @@
 					<?php $ttl = "Grab Beach and Waterproof Essentials + 46% OFF Nikon Coolpix TODAY ONLY!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>					
-		
+			
+						<!-- Solor Eclipse -->
+					
 					<?php include_once("Other/WaterproofGear/p_1.php"); ?>
 					<?php include_once("Other/WaterproofGear/p_11.php"); ?>
 					<?php include_once("Other/WaterproofGear/p_2.php"); ?>
 					<?php include_once("Other/WaterproofGear/p_3.php"); ?>
-					<?php include_once("Other/WaterproofGear/p_4.php"); ?>
-					<?php include_once("Other/WaterproofGear/p_5.php"); ?>
-					<?php include_once("Other/WaterproofGear/p_6.php"); ?>
+					<?php //include_once("Other/WaterproofGear/p_4.php"); ?>
+					<?php //include_once("Other/WaterproofGear/p_5.php"); ?>
+					<?php //include_once("Other/WaterproofGear/p_6.php"); ?>
+					
 					<!-- Solor Eclipse -->
 					<?php //include_once("Other/WaterproofGear/p_7.php"); ?>
 					<!-- End of Solor Eclipse -->

@@ -11,7 +11,7 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/g/VIP360-NEW" target="_blank" linkname="Vip_New">
+                    <a href="https://www.adorama.com/specials/l/?sel=Filter-By_Free-Shipping&emailprice=t&utm_source=slgt&utm_medium=email&guid=##GUID##&utm_term=Vip360&utm_content=Body&utm_campaign=vip360" target="_blank" linkname="Vip_New">
                     <img src="http://tp.adorama.com/img/org_1/1707/VIP360.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" 
                          class="mobile-full" alt="VIP New" hspace="0" border="0" vspace="0" width="640">
                     </a>
@@ -40,7 +40,7 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/g/VIP360-NEW" target="_blank" linkname="M_VIP_New">
+                    <a href="https://www.adorama.com/specials/l/?sel=Filter-By_Free-Shipping&emailprice=t&utm_source=slgt&utm_medium=email&guid=##GUID##&utm_term=Vip360&utm_content=Body&utm_campaign=vip360" target="_blank" linkname="M_VIP_New">
                     <img src="http://tp.adorama.com/img/org_1/1707/VIP360-Mobile.jpg" 
                          style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" 
                          class="mobile-full" alt="M_VIP_New" hspace="0" border="0" vspace="0" width="640">

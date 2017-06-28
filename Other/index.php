@@ -1,8 +1,8 @@
 <?php 
 
-   include_once("Other/ThankYouCA/index.php");
+  //include_once("Other/ThankYouCA/index.php");
 
-//include_once("Other/WaterproofGear/index.php");  
+include_once("Other/WaterproofGear/index.php");  
 
   //include_once("Other/le062117/index.php");  
 
