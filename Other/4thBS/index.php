@@ -33,24 +33,27 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "EmailColumnTemplate"; ?>
+					<?php $utm = "Email_4thJuly_BS_070417"; ?>
 					
-					<?php $ttl = "Multie Column Template Full Width"; ?>
+					<?php $ttl = "Enjoy up to 60% off our best-sellers + catch our 48 hour deals! Shop now!"; ?>
 					
-					<?php include_once("Other/blocks/header.php"); ?>					
+					<?php include_once("Other/blocks/header.php"); ?>
+
 		
-					<?php include_once("Other/NewTemplate2Columns/p_1.php"); ?>
-														
-					<?php include_once("Other/NewTemplate2Columns/p_2.php"); ?>
+					<?php include_once("Other/4thBS/p_1.php"); ?>
+					<?php include_once("Other/4thBS/p_2.php"); ?>
+					<?php include_once("Other/4thBS/p_3.php"); ?>
+					<?php include_once("Other/4thBS/p_4.php"); ?>
+					<?php include_once("Other/4thBS/p_5.php"); ?>
+					<?php //include_once("Other/4thBS/p_6.php"); ?>
+					<?php include_once("Other/4thBS12/p_1.php"); ?>
+					<?php include_once("Other/4thBS/p_7.php"); ?>
 					
-					<?php include_once("Other/NewTemplate2Columns/p_3.php"); ?>
+	
+						<!-- VIP -->
 					
-					<?php include_once("Other/NewTemplate2Columns/devider.php"); ?>
-					
-					<?php include_once("Other/NewTemplate2Columns/p_4.php"); ?>
-					
-					<?php //include_once("Other/NewTemplate2Columns/event.php"); ?>
-					
+					<!-- End of VIP -->
+								
 					<?php include_once("Other/blocks/footer.php"); ?>
 					
 				</tbody>

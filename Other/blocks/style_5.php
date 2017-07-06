@@ -321,6 +321,11 @@
 
     }
 
+    .clock_image img {
+      
+      width:100% !important;
+      
+    }
     
     .mobile-textcenter {
       text-align: center !important;

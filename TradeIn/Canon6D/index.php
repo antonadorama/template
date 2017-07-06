@@ -16,7 +16,7 @@
 		<meta name="format-detection" content="email=no">
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
-		<?php include_once("Other/blocks/style_5.php"); ?>		
+		<?php include_once("TradeIn/blocks/style_5.php"); ?>		
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -31,27 +31,25 @@
 			<table align="center" bgcolor="#e3e3e3" border="0" cellpadding="0" cellspacing="0" class="wrap640" width="640">
 				<tbody>
 					
-					<?php //include_once("Other/blocks/send_button.php"); ?>
+					<?php //include_once("TradeIn/blocks/send_button.php"); ?>
 					
-					<?php $utm = "EmailColumnTemplate"; ?>
+					<?php $utm = "Email_TradeIn_Canon6D_070617"; ?>
 					
-					<?php $ttl = "Multie Column Template Full Width"; ?>
+					<?php $ttl = "Time to trade up your old Canon gear & get up to 70% credit towards latest Canon 6D Mark II!"; ?>
 					
-					<?php include_once("Other/blocks/header.php"); ?>					
-		
-					<?php include_once("Other/NewTemplate2Columns/p_1.php"); ?>
-														
-					<?php include_once("Other/NewTemplate2Columns/p_2.php"); ?>
+					<?php include_once("TradeIn/blocks/header.php"); ?>
 					
-					<?php include_once("Other/NewTemplate2Columns/p_3.php"); ?>
+					<!-- Main Banner--->
+					<?php include_once("TradeIn/Canon6D/p_1.php"); ?>
+	
+					<?php include_once("TradeIn/Canon6D/p_2.php"); ?>
 					
-					<?php include_once("Other/NewTemplate2Columns/devider.php"); ?>
+									
+					<!-- Json Goes Here--->
+
+          <!-- End Json --->
 					
-					<?php include_once("Other/NewTemplate2Columns/p_4.php"); ?>
-					
-					<?php //include_once("Other/NewTemplate2Columns/event.php"); ?>
-					
-					<?php include_once("Other/blocks/footer.php"); ?>
+					<?php include_once("TradeIn/blocks/footer.php"); ?>
 					
 				</tbody>
 			</table>
@@ -60,7 +58,7 @@
 	</tbody>
 </table>
 </div>
-	<div style="display:none !important; padding:0 !important;">
+<div style="display:none !important; padding:0 !important;">
 <img src="http://svopn.adorama.com/?sv_cid=2620_03922&sv_emopen=true&sv_svemi=##GUID##" height="1" width="1" style="display:none !important;"/>
 </div>
 </body>

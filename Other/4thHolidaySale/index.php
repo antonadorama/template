@@ -33,24 +33,31 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "EmailColumnTemplate"; ?>
+					<?php //$utm = "Email_4thJuly_Holiday_Sale_070317"; ?>
 					
-					<?php $ttl = "Multie Column Template Full Width"; ?>
+					<?php //$utm = "Email_4thJuly_Holiday_Sale_sony_070317"; ?>
 					
-					<?php include_once("Other/blocks/header.php"); ?>					
+					<?php //$utm = "Email_4thJuly_Holiday_Sale_nikon_070317"; ?>
+					
+					<?php $utm = "Email_4thJuly_Holiday_Sale_canon_070317"; ?>
+					
+					<?php $ttl = "Enjoy up to 60% off exclusive new deals. Shop now!"; ?>
+					
+					<?php include_once("Other/blocks/header.php"); ?>
+					
+					<?php //include_once("Other/4thHolidaySale/p_5_sony.php"); ?>
+					
+					<?php //include_once("Other/4thHolidaySale/p_5_nikon.php"); ?>
+					
+					<?php include_once("Other/4thHolidaySale/p_5_canon.php"); ?>
+
 		
-					<?php include_once("Other/NewTemplate2Columns/p_1.php"); ?>
-														
-					<?php include_once("Other/NewTemplate2Columns/p_2.php"); ?>
+					<?php include_once("Other/4thHolidaySale/p_1.php"); ?>
+	
+						<!-- VIP -->
 					
-					<?php include_once("Other/NewTemplate2Columns/p_3.php"); ?>
-					
-					<?php include_once("Other/NewTemplate2Columns/devider.php"); ?>
-					
-					<?php include_once("Other/NewTemplate2Columns/p_4.php"); ?>
-					
-					<?php //include_once("Other/NewTemplate2Columns/event.php"); ?>
-					
+					<!-- End of VIP -->
+								
 					<?php include_once("Other/blocks/footer.php"); ?>
 					
 				</tbody>

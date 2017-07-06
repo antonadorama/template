@@ -33,24 +33,15 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "EmailColumnTemplate"; ?>
+					<?php $utm = "Email_VIP_360_Auto_Email"; ?>
 					
-					<?php $ttl = "Multie Column Template Full Width"; ?>
+					<?php $ttl = "Your VIP360 Membership is set to renew."; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>					
 		
-					<?php include_once("Other/NewTemplate2Columns/p_1.php"); ?>
+					<?php include_once("Other/Thanks360/p_1.php"); ?>
+
 														
-					<?php include_once("Other/NewTemplate2Columns/p_2.php"); ?>
-					
-					<?php include_once("Other/NewTemplate2Columns/p_3.php"); ?>
-					
-					<?php include_once("Other/NewTemplate2Columns/devider.php"); ?>
-					
-					<?php include_once("Other/NewTemplate2Columns/p_4.php"); ?>
-					
-					<?php //include_once("Other/NewTemplate2Columns/event.php"); ?>
-					
 					<?php include_once("Other/blocks/footer.php"); ?>
 					
 				</tbody>

@@ -1,8 +1,14 @@
 <?php 
 
+  
+
+  //include_once("Other/Thanks360/index.php");
+
   //include_once("Other/ThankYouCA/index.php");
 
-include_once("Other/WaterproofGear/index.php");  
+  //include_once("Other/CA_Code/index.php");
+
+  //include_once("Other/WaterproofGear/index.php");  
 
   //include_once("Other/le062117/index.php");  
 
@@ -71,5 +77,20 @@ include_once("Other/WaterproofGear/index.php");
   //include_once("Other/profoto/index.php");
 
   //include_once("Other/Wedding_051517/index.php"); 
+
+  //include_once("Other/4thBS12/index.php");
+
+ //include_once("Other/4thBS/index.php");
+
+
+  //include_once("Other/4th/index.php");
+
+//include_once("Other/4thHolidaySale/index.php");
+
+// include_once("Other/4thExt2/index.php");    
+
+// include_once("Other/4thExt1/index.php");  
+
+  //include_once("Other/4thJuly/index.php");
 
 ?>
