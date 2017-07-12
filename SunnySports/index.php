@@ -1,4 +1,6 @@
-<?php include_once("Travel/index.php"); ?>
+<?php include_once("TravelGear/index.php"); ?>
+
+<?php //include_once("Travel/index.php"); ?>
 
 <?php //include_once("Watersports/index.php"); ?>
 

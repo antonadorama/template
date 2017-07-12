@@ -1,3 +1,5 @@
+<!-- Banner Section -->
+
 <tr>
   <td>
     <table id="ko_imageBlock_5" style="background-color: #E3E3E3;" class="vb-outer" bgcolor="#E3E3E3" border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -11,10 +13,10 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/specials/l/?sel=brand_Canon&emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
-                       linkname="Canon_Banner">
-                    <img src="image_library/org_1/1782/adorama_6-30_banners_canon.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
-												 alt="Canon Banner" hspace="0" border="0" vspace="0" width="640">
+                    <a href="https://www.adorama.com/g/IndependenceDayBlowout?emailprice=t&utm_source=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" target="_blank" 
+                       linkname="Main_Banner_Link">
+                    <img src="image_library/org_1/1820/Blowout-Extended-Banner.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
+                         alt="Main Banner" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>
                 </tr>
@@ -28,3 +30,5 @@
   </table>
   </td>
 </tr>  
+
+<!-- End Banner Section -->

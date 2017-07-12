@@ -1,8 +1,12 @@
 <?php 
 
-  
+  include_once("Other/Flashpoint/index.php");
 
-  //include_once("Other/Thanks360/index.php");
+  //include_once("Other/4thHolidaySaleExt/index.php");
+
+ //include_once("Other/VIP360_renewal_ncc/index.php");
+
+ // include_once("Other/VIP360_renewal_cc/index.php");
 
   //include_once("Other/ThankYouCA/index.php");
 
