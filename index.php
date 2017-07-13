@@ -14,8 +14,6 @@
 
 	//include_once("StoreEvents/index.php");	
 
-
-
   //include("form.php");
 
   //include_once("setup.php");

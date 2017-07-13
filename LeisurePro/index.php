@@ -1,4 +1,6 @@
-<?php include_once("LeisurePro/TravelGear/index.php"); ?>
+<?php include_once("LeisurePro/TravelDealLC/index.php"); ?>
+
+<?php //include_once("LeisurePro/TravelGear/index.php"); ?>
 
 <?php //include_once("LeisurePro/Travel/index.php"); ?>
 
