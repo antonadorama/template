@@ -1,6 +1,8 @@
 <?php 
 
- include_once("Other/VIPSale0714/index.php");
+include_once("Other/ThankYouBD/index.php");
+
+ //include_once("Other/VIPSale0714/index.php");
 
  // include_once("Other/Flashpoint/index.php");
 
