@@ -43,20 +43,11 @@
 
 			<tr>
 				<td style="padding-top:2px; padding-left:10px; padding-bottom:2px; padding-right:10px;">
-         Just a friendly reminder: your <strong><a href="https://www.adorama.com/g/VIP360-NEW?emailprice=t&utm_campaign=<?php echo $utm;?>" 
-																												linkname="VIP360" style="color:#5e5e5e; text-decoration:none;">VIP360</a></strong> 
-					membership is set to auto-renew in 7 days. 
+Just a friendly reminder – your VIP360 membership is set to auto-renew in 7 days. 
+					We hope you’ve enjoyed being a VIP360 member this year and have taken advantage of all it has to offer, including:
 		     </td>
 			</tr>
 
-			
-						<tr>
-				<td style="padding-top:2px; padding-left:10px; padding-bottom:2px; padding-right:10px;">
-         We hope you’ve enjoyed being a <strong><a href="https://www.adorama.com/g/VIP360-NEW?emailprice=t&utm_campaign=<?php echo $utm;?>" 
-																												linkname="VIP360_2" style="color:#5e5e5e; text-decoration:none;">VIP360</a></strong> 
-					member this year and have taken advantage of all it has to offer, including:
-		     </td>
-			</tr>
 			
 			
 									<tr>
@@ -65,7 +56,7 @@
 					<ul>
 						<li>Free 2-Day Delivery on Qualified Items</li>
 						<li>1-Year Accidental Coverage</li>
-						<li>60-Day Returns with Free Return Shipping</li>
+						<li>60-Day Returns with <strong>FREE</strong> Return Shipping</li>
 						<li>Early Access to Sales</li>
 						<li>Free Metal Print from <strong><a href="https://www.adoramapix.com?emailprice=t&utm_campaign=<?php echo $utm;?>" 
 																												linkname="AdoramPix" style="color:#5e5e5e; text-decoration:none;">AdoramaPix</a></strong></li>
@@ -74,21 +65,13 @@
 		     </td>
 			</tr>
 			
-			
 
-						<tr>
-				<td style="padding-top:2px; padding-left:10px; padding-bottom:2px; padding-right:10px;">
-        If you need to update the default credit card for your membership, please contact our 
-					<strong><a href="mailto:reply@adorama.com?subject=VIP360 Renewal">Customer Service </a></strong>
-					department and they’d be glad to assist you.
-        </td>
-			</tr>
 			
 									<tr>
 				<td style="padding-top:2px; padding-left:10px; padding-bottom:2px; padding-right:10px;">
-         Thank you for being a valued Adorama <strong><a href="https://www.adorama.com/g/VIP360-NEW?emailprice=t&utm_campaign=<?php echo $utm;?>" 
-																												linkname="VIP360_3" style="color:#5e5e5e; text-decoration:none;">VIP360</a></strong> 
-					Member!
+         If you need to update your payment method for your membership, please contact our <strong><a href="mailto:reply@adorama.com?subject=VIP360 Membership" 
+																												linkname="VIP360_3" style="color:#5e5e5e; text-decoration:none;">Customer Service department</a></strong> 
+					 at 800.223.2500 and they’d be glad to assist you. Thank you for being a valued VIP360 member!
 		     </td>
 			</tr>
 

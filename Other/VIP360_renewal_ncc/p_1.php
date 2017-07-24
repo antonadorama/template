@@ -43,20 +43,18 @@
 
 			<tr>
 				<td style="padding-top:2px; padding-left:10px; padding-bottom:2px; padding-right:10px;">
-         We made it super easy for you to renew  your <strong><a href="https://www.adorama.com/g/VIP360-NEW?emailprice=t&utm_campaign=<?php echo $utm;?>" 
+         We made it super easy for you to auto-renew your <strong><a href="https://www.adorama.com/g/VIP360-NEW?emailprice=t&utm_campaign=<?php echo $utm;?>" 
 																												linkname="VIP360" style="color:#5e5e5e; text-decoration:none;">VIP360</a></strong> 
-					membership. Simply click <strong><a href="https://www.adorama.com/addviptocart?emailprice=t&utm_campaign=<?php echo $utm;?>" 
-																												linkname="Add To Cart" style="color:#5e5e5e; text-decoration:none;">here</a></strong>
-					, checkout with your preferred payment method and you’ll continue to receive exclusive VIP360 benefits!
+					membership! Simply click <strong><a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount#paymentmethods" 
+																												linkname="Renew" style="color:#5e5e5e; text-decoration:none;">here</a></strong>
+					to update your payment method, turn on AUTO-RENEW by the VIP360 settings, and you’ll be all set up to continue to receive exclusive VIP360 benefits!
 		     </td>
 			</tr>
 
 			
 						<tr>
 				<td style="padding-top:2px; padding-left:10px; padding-bottom:2px; padding-right:10px;">
-         We hope you’ve enjoyed being a <strong><a href="https://www.adorama.com/g/VIP360-NEW?emailprice=t&utm_campaign=<?php echo $utm;?>" 
-																												linkname="VIP360_2" style="color:#5e5e5e; text-decoration:none;">VIP360</a></strong> 
-					member this year and have taken advantage of all it has to offer, including:
+				We hope you’ve enjoyed being a VIP360 member this year and have taken advantage of all it has to offer, including:
 		     </td>
 			</tr>
 			
@@ -67,7 +65,7 @@
 					<ul>
 						<li>Free 2-Day Delivery on Qualified Items</li>
 						<li>1-Year Accidental Coverage</li>
-						<li>60-Day Returns with Free Return Shipping</li>
+						<li>60-Day Returns with FREE Return Shipping</li>
 						<li>Early Access to Sales</li>
 						<li>Free Metal Print from <strong><a href="https://www.adoramapix.com?emailprice=t&utm_campaign=<?php echo $utm;?>" 
 																												linkname="AdoramPix" style="color:#5e5e5e; text-decoration:none;">AdoramaPix</a></strong></li>
@@ -76,12 +74,11 @@
 		     </td>
 			</tr>
 			
-			
-
-			
-									<tr>
+			<tr>
 				<td style="padding-top:2px; padding-left:10px; padding-bottom:2px; padding-right:10px;">
-    Thank you for being a valued Adorama  VIP360 Member!
+         Start using your VIP360 benefits on these <strong><a href="https://www.adorama.com/specials/l/?sel=Filter-By_Free-Shipping&emailprice=t&utm_campaign=<?php echo $utm;?>" 
+																												linkname="VIP Deals" style="color:#5e5e5e; text-decoration:none;">exclusive VIP360 deals</a></strong>
+					 ! Thank you for being a valued Adorama VIP360 Member!
 		     </td>
 			</tr>
 

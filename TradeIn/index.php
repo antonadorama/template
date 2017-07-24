@@ -1,4 +1,6 @@
-<?php include_once("TradeIn/Canon6D/index.php"); ?>
+<?php include_once("TradeIn/SonyGM/index.php"); ?>
+
+<?php //include_once("TradeIn/Canon6D/index.php"); ?>
 
 <?php //include_once("TradeIn/ZeissCP3/index.php"); ?>
 
