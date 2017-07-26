@@ -1,10 +1,19 @@
 <?php 
 
+include_once("Other/ThankYou/index.php");
+
+   // include_once("Other/MidSummerCanonLC/index.php");
+  //include_once("Other/MidSummerSonyLC/index.php");
+  // include_once("Other/MidSummerNikonLC/index.php");
+  //include_once("Other/MidSummerLC/index.php");
+
+
+
   //include_once("Other/VIP360_Post_Renewal/index.php");
 
   //include_once("Other/VIP360_renewal_ncc/index.php");
 
-  include_once("Other/VIP360_renewal_cc/index.php");
+  //include_once("Other/VIP360_renewal_cc/index.php");
 
 
 
