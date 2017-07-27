@@ -29,16 +29,17 @@
 									<td height="5">&nbsp;</td>
 								</tr>
 								<tr>
-									<td class="aligncenter" style="text-align:left;">
-										<table bgcolor="#ffffff" border="0" cellpadding="2" cellspacing="2" class="aligncenter" width="210" >
+									<td class="" align="center" style="">
+										<table bgcolor="#ffffff" border="0" cellpadding="2" cellspacing="2" class="" width="210" >
 											<tbody>
 												<tr>
 													<td align="center" bgcolor="#53C42E"  
 															class="Btn" style="font-size: 15px; font-family: 'Open Sans', Arial, Helvetica, sans-serif; 
 																								 color: #000001; text-align: center; 
 																								 padding-top: 10px; padding-bottom: 10px; border-style: solid; border-width: 0px; border-color: #53C42E"
-														valign="middle"><a href="http://www.adorama.com/als.mvc/cartview?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Cart&utm_content=CartContentBox&utm_campaign=EmailCartAbandon&c=##cart_id##" 
-																							 linkname="Cart_CTA" style="text-decoration:none; color:#ffffff">VIEW YOUR CART</a></td>
+														valign="middle">
+														<a href="http://www.adorama.com/als.mvc/cartview?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Cart&utm_content=CartContentBox&utm_campaign=EmailCartAbandon&c=##cart_id##" 
+																							 linkname="Cart_CTA" style="text-decoration:none; color:#ffffff">TAKE ANOTHER LOOK</a></td>
 												</tr>
 											</tbody>
 										</table>

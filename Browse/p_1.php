@@ -5,10 +5,10 @@
 				<tr>
 					<td align="center" style="color: #006CB4; font-size: 32px; font-family: 'Open Sans', Arial, Helvetica, sans-serif; line-height:normal">
 						<a href="http://www.adorama.com/als.mvc/cartview?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Cart&utm_content=CartContentBox&utm_campaign=EmailCartAbandon&c=##cart_id##" 
-							 linkname="Cart_Title" style="text-decoration: none; color: #006CB4" target="_blank"><strong>Smile, it's still for sale...</strong></a></td>
+							 linkname="Cart_Title" style="text-decoration: none; color: #006CB4" target="_blank"><strong>Still Interested?</strong></a></td>
 				</tr>
 				<tr>
-					<td align="center" style="color: #999999; font-size: 24px; font-family: 'Open Sans', Arial, Helvetica, sans-serif">but not for long!</td>
+					<td align="center" style="color: #999999; font-size: 24px; font-family: 'Open Sans', Arial, Helvetica, sans-serif">We Took a Snapshot For You so Take Another Look!</td>
 				</tr>
 			</tbody>
 		</table>
