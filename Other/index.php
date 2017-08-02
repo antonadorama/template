@@ -1,6 +1,8 @@
 <?php 
 
-include_once("Other/ThankYou/index.php");
+include_once("Other/OneDay080117/index.php");
+
+//include_once("Other/ThankYou/index.php");
 
    // include_once("Other/MidSummerCanonLC/index.php");
   //include_once("Other/MidSummerSonyLC/index.php");

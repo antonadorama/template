@@ -157,7 +157,7 @@
               <table width="200" border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse: collapse">
                 <tr>
                   <td bgcolor="#1D7751" height="40" valign="middle" align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #ffffff; text-transform: uppercase">
-                    <a href="mailto:edu@adorama.com?Subject=I'm interested in knowing more about Adorama technical team" style="color: #ffffff; text-decoration: none"><strong>Learn More</strong></a></td>
+                    <a href="mailto:shawnb@adorama.com?Subject=I'm interested in knowing more about Adorama technical team" style="color: #ffffff; text-decoration: none"><strong>Learn More</strong></a></td>
                 </tr>
               </table>
             </td>
@@ -249,7 +249,7 @@
                                     <td class="padding40" align="center" colspan="2">
                                       <table width="200" border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse: collapse">
                                         <tr>
-                                          <td bgcolor="#1D7751" height="40" valign="middle" align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #ffffff; text-transform: uppercase"><a href="mailto:edu@adorama.com?Subject=I'm interested in knowing more about Adorama technical team" style="color: #ffffff; text-decoration: none"><strong>Learn More</strong></a></td>
+                                          <td bgcolor="#1D7751" height="40" valign="middle" align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #ffffff; text-transform: uppercase"><a href="mailto:shawnb@adorama.com?Subject=I'm interested in knowing more about Adorama technical team" style="color: #ffffff; text-decoration: none"><strong>Learn More</strong></a></td>
                                         </tr>
                                       </table>
                                     </td>
@@ -287,7 +287,7 @@
                           <br>
                           <a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=manage&utm_source=slgt&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=Email_ABS_BackToSchool#emailpref" style="color: #666666; text-decoration: none" linkname="Preferences"><strong>Manage Preferences</strong></a> | <a href="" style="color: #666666; text-decoration: none" linkname="Forward a Friend"><strong>Forward to a Friend</strong></a> | <a href="" style="color: #666666; text-decoration: none" linkname="Unsubscribe"><strong>Unsubscribe</strong></a>
                           <br>
-                          <br>Please add edu@adorama.com to your email address book or white list.
+                          <br>Please add shawnb@adorama.com to your email address book or white list.
                           <br>Products are subject to price change and availability. Not responsible for typographical errors.
                           <br>
                           <br>&copy; 2017 Adorama, Inc. All rights reserved. | Terms | Privacy
