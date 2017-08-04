@@ -31,7 +31,7 @@
 			<table align="center" bgcolor="#e3e3e3" border="0" cellpadding="0" cellspacing="0" class="wrap640" width="640">
 				<tbody>
 					
-					<?php include_once("Other/blocks/send_button.php"); ?>
+					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
 					<?php $utm = "Email_Browsr_Abandon"; ?>
 					
@@ -39,11 +39,11 @@
 					
 					<?php include_once("Browse/blocks/header.php"); ?>
 					
-					<?php //include_once("Browse/p_1.php"); ?>
+					<?php include_once("Browse/p_1.php"); ?>
           
-          <?php //include_once("Browse/p_2.php"); ?>
+          <?php include_once("Browse/p_2.php"); ?>
 					
-					<?php //include_once("Browse/3_3.php"); ?>
+					<?php include_once("Browse/3_3.php"); ?>
           
 
           

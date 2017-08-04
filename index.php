@@ -1,8 +1,8 @@
 <?php
 
-	//include_once("Browse/index.php");
+	include_once("Browse/index.php");
 
-	include_once("ABS/index.php");
+	//include_once("ABS/index.php");
 
 	//include_once("Other/index.php");	
 
