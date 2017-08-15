@@ -357,6 +357,11 @@
       max-width: none !important;
       height: auto !important;
     }
+     img.mobile-90 {
+      width: 90% !important;
+      max-width: none !important;
+      height: auto !important;
+    }
     img.mobile-full-2 {
       width: 70% !important;
       max-width: none !important;

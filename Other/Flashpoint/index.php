@@ -33,19 +33,24 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_FlashpointSale_071217"; ?>
+					<?php $utm = "Email_Flashpoint_eVOLV_081417"; ?>
 					
-					<?php $ttl = "Extended Savings of Up To 50% OFF on Monolights, Streaklights, Lighting & Kits!"; ?>
+					<?php $ttl = "Go To The Next Level of Strobe Lighting with This Flashpoint eVOLV 200 Twin Head Bracket Deal!"; ?>
 					
-					<?php include_once("Other/blocks/header.php"); ?>					
-		
-					<?php include_once("Other/Flashpoint/p_1.php"); ?>
-					<?php include_once("Other/Flashpoint/p_2.php"); ?>
-					<?php include_once("Other/Flashpoint/p_3.php"); ?>
-					<?php include_once("Other/Flashpoint/p_4.php"); ?>
+					<?php include_once("Other/blocks/header.php"); ?>
+					
+					<?php include_once("Other/Flashpoint/p_6.php"); ?>
+					
 					<?php include_once("Other/Flashpoint/p_5.php"); ?>
-														
+		
+					<?php //include_once("Other/Flashpoint/p_1.php"); ?>
 					
+					<?php include_once("Other/Flashpoint/p_2.php"); ?>
+					
+					<?php include_once("Other/Flashpoint/p_3.php"); ?>
+					
+					<?php include_once("Other/Flashpoint/p_4.php"); ?>
+														
 					<?php include_once("Other/blocks/footer.php"); ?>
 					
 				</tbody>

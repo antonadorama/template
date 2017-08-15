@@ -41,19 +41,21 @@
 					<?php include_once("ALC/blocks/preheader.php"); ?>
 					<?php include_once("ALC/blocks/header_alc.php"); ?>
 					
+					<?php include_once("ALC/alc062117/p_5.php"); ?>
+					
+					<?php include_once("ALC/alc062117/p_6.php"); ?>
+					
 					<!-- FLAG--->
 					<?php include_once("ALC/alc062117/p_1.php"); ?>
 					<!-- FLAG--->
 					
-					<?php //include_once("ALC/alc062117/p_2.php"); ?>
+					<?php include_once("ALC/alc062117/p_2.php"); ?>
 					
-					<?php //include_once("ALC/alc062117/p_3.php"); ?>
+					<?php include_once("ALC/alc062117/p_3.php"); ?>
 					
-					<?php //include_once("ALC/alc062117/p_4.php"); ?>
+					<?php include_once("ALC/alc062117/p_4.php"); ?>
 					
-					<?php //include_once("ALC/alc062117/p_5.php"); ?>
-					
-					<?php //include_once("ALC/alc062117/p_6.php"); ?>
+
 					
 					<?php include_once("ALC/blocks/footer.php"); ?>
 					

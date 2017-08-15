@@ -230,6 +230,9 @@
 								info@shop.adorama.com</a> to your email address book or white list.</p>
 							<p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">
 								Products are subject to price change and availability. Not responsible for typographical errors.</p>
+												<p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">
+								$150 Gift Card giveaway is only eligible for customers who have completed their purchase via this email. Must be a US resident 18 years or older to enter. 
+													See <a href="https://www.adorama.com/g/browsecontest?emailprice=t&utm_source=slgt&utm_medium=email&guid=##GUID##&utm_term=Terms&utm_content=Footer&utm_campaign=<?php echo $utm;?>" linkname="Browse_Contest" style="color: #A7A9AC; text-decoration:underline">website</a> for details.</p>
 							<p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">
 								&copy; 2017 Adorama Camera, Inc. All rights reserved. | 
 								<a href="https://www.adorama.com/help/termsAndConditions?emailprice=t&utm_source=slgt&utm_medium=email&guid=##GUID##&utm_term=Terms&utm_content=Footer&utm_campaign=<?php echo $utm;?>" linkname="Terms" style="color: #A7A9AC; text-decoration:underline">

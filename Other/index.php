@@ -1,6 +1,15 @@
 <?php 
 
-include_once("Other/OneDay080117/index.php");
+include_once("Other/nyip/index.php");
+
+
+//include_once("Other/C200Event/index.php");
+
+//include_once("Other/Flashpoint/index.php");
+
+//include_once("Other/AugustRebateLC/index.php");
+
+//include_once("Other/OneDay080117/index.php");
 
 //include_once("Other/ThankYou/index.php");
 

@@ -11,7 +11,7 @@
               <tbody>
                 <tr>
                   <td align="left" valign="top">
-                    <a href="" target="_blank"
+                    <a href="https://www.adorama.com/abs" target="_blank"
                        linkname="Image_ThankYou">
                     <img src="image_library/org_1/1933/ABS-logo_hex-010a19_small.png" style="border: 0px;border-radius: 0px;display: block;max-width: 140px;width: 100%;height: auto;" 
 												 class="mobile-full" alt="Thank You for Your Purchase!" hspace="0" border="0" vspace="0" width="140">
@@ -32,7 +32,7 @@
 
 <tr>
 	<td style="padding-top: 3px; padding-bottom: 3px;">
-		<table style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #8e97ab; text-align: justify; line-height: 18px;
+		<table style="font-size: 11px; font-family: Calibri, Arial, Helvetica, sans-serif; color: #000001; text-align: left; line-height: 18px;
                   width=95%; background-color:#ffffff;" bgcolor="#ffffff" cellpadding="10" cellspacing="10" class="smaller_font">
 			<tr>
 				<td style="padding-top:2px; padding-left:10px; padding-bottom:2px; padding-right:10px;">
@@ -43,7 +43,7 @@
 			</tr>
 			<tr>
 				<td style="padding-top:2px; padding-left:10px; padding-bottom:2px; padding-right:10px;">
-					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #8e97ab; text-align: left; line-height: 18px;
+					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 11px; font-family: Calibri, Arial, Helvetica, sans-serif; color: #000001; text-align: left; line-height: 18px;
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
 					
 					I hope your summer is going well. Our team here at Adorama have been busy, and I now have some exciting news to share with you. 
@@ -55,7 +55,7 @@
 			</tr>
 			<tr>
 				<td style="padding-top:2px; padding-left:10px; padding-bottom:2px; padding-right:10px;">
-					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #8e97ab; text-align: left; line-height: 18px;
+					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 11px; font-family: Calibri, Arial, Helvetica, sans-serif; color: #000001; text-align: left; line-height: 18px;
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
 
 					After listening long and hard to you, our valued customers, we identified the need for a new business-to-business division within Adorama that 
@@ -69,10 +69,10 @@
 			
 			<tr>
 				<td style="padding-top:2px; padding-left:10px; padding-bottom:2px; padding-right:10px;">
-					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #8e97ab; text-align: left; line-height: 18px;
+					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 11px; font-family: Calibri, Arial, Helvetica, sans-serif; color: #000001; text-align: left; line-height: 18px;
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
 
-						+How will this affect your shopping experience? +
+					<u>How will this affect your shopping experience?</u>
 					
 					<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
           
@@ -81,7 +81,7 @@
 			
 						<tr>
 				<td style="padding-top:2px; padding-left:10px; padding-bottom:2px; padding-right:10px;">
-					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #8e97ab; text-align: left; line-height: 18px;
+					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 11px; font-family: Calibri, Arial, Helvetica, sans-serif; color: #000001; text-align: left; line-height: 18px;
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
 
 						Positively, we are sure. Adorama Business Solutions is founded upon on three simple concepts that have you at the core:
@@ -94,12 +94,12 @@
 			
 												<tr>
 				<td style="padding-top:2px; padding-left:10px; padding-bottom:2px; padding-right:10px;">
-					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #8e97ab; text-align: left; line-height: 18px;
+					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 11px; font-family: Calibri, Arial, Helvetica, sans-serif; color: #000001; text-align: left; line-height: 18px;
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
 
 						
-							1 <strong>Consultation:</strong> Now, when you shop with Adorama Business Solutions you will be assigned a 
-								dedicated expert account manager who will make sure you get the right products for your organization or department’s specific needs.
+							1 <strong>Consultation:</strong> Now, when you shop with Adorama Business Solutions you will be assigned 
+					a dedicated equipment expert who will make sure you get the right products for your organization or department’s specific needs.
 
 						
 					
@@ -110,7 +110,7 @@
 			
 												<tr>
 				<td style="padding-top:2px; padding-left:10px; padding-bottom:2px; padding-right:10px;">
-					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #8e97ab; text-align: left; line-height: 18px;
+					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 11px; font-family: Calibri, Arial, Helvetica, sans-serif; color: #000001; text-align: left; line-height: 18px;
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
 
 						
@@ -128,7 +128,7 @@
 						
 									<tr>
 				<td style="padding-top:2px; padding-left:10px; padding-bottom:2px; padding-right:10px;">
-					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #8e97ab; text-align: left; line-height: 18px;
+					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 11px; font-family: Calibri, Arial, Helvetica, sans-serif; color: #000001; text-align: left; line-height: 18px;
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
 
 
@@ -144,7 +144,7 @@
 			
 									<tr>
 				<td style="padding-top:2px; padding-left:10px; padding-bottom:2px; padding-right:10px;">
-					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #8e97ab; text-align: left; line-height: 18px;
+					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 11px; font-family: Calibri, Arial, Helvetica, sans-serif; color: #000001; text-align: left; line-height: 18px;
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
 
 					<u>Want to know more?</u>
@@ -157,11 +157,12 @@
 			
 									<tr>
 				<td style="padding-top:2px; padding-left:10px; padding-bottom:2px; padding-right:10px;">
-					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #8e97ab; text-align: left; line-height: 18px;
+					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 11px; font-family: Calibri, Arial, Helvetica, sans-serif; color: #000001; text-align: left; line-height: 18px;
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
 
-						We have also launched a brand new web experience, which you can find at www.adorama.com/abs. 
-					Visit the site to learn more about how we can better serve you and to contact our expert account managers.
+						Visit     <a href="https://www.adorama.com/abs" target="_blank" style="text-decoration:none; color:#000001;"
+												 linkname="Adorama ABS"><u>www.adorama.com/abs</u> </a>a to learn more and to contact our equipment experts. 
+					Alternatively, simply reply directly to this email. I’d be happy to hear any feedback you may have.
 					
 					<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
           
@@ -170,7 +171,7 @@
 			
 												<tr>
 				<td style="padding-top:2px; padding-left:10px; padding-bottom:2px; padding-right:10px;">
-					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #8e97ab; text-align: left; line-height: 18px;
+					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 11px; font-family: Calibri, Arial, Helvetica, sans-serif; color: #000001; text-align: left; line-height: 18px;
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
 
 						Alternatively, simply reply directly to this email. I’d be happy to hear any feedback you may have.

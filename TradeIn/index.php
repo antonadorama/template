@@ -1,4 +1,8 @@
-<?php include_once("TradeIn/SonyGM/index.php"); ?>
+<?php include_once("TradeIn/SonyPXW_081417/index.php"); ?>
+
+<?php //include_once("TradeIn/BlackMagicUrsa0810/index.php"); ?>
+
+<?php //include_once("TradeIn/SonyGM/index.php"); ?>
 
 <?php //include_once("TradeIn/Canon6D/index.php"); ?>
 

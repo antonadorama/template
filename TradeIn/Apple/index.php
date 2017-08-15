@@ -40,7 +40,7 @@
 					<?php include_once("TradeIn/blocks/header.php"); ?>
 					
 					<!-- Main Banner--->
-					<?php include_once(
+					<?php include_once("TradeIn/Apple/p_1.php"); ?>
 	
 					<?php include_once("TradeIn/Apple/p_2.php"); ?>
 					

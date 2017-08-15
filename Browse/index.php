@@ -33,32 +33,29 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Browsr_Abandon"; ?>
+					<?php $utm = "Email_Browse_Abandon_Program"; ?>
 					
 					<?php $ttl = "We Took a Snapshot of the ##MANUFACTURER## Item You Had Your Eye On!"; ?>
 					
 					<?php include_once("Browse/blocks/header.php"); ?>
 					
-					<?php include_once("Browse/p_1.php"); ?>
+					<?php //include_once("Browse/p_1.php"); ?>
+					
+					<?php include_once("Browse/p_header_1.php"); ?>
           
           <?php include_once("Browse/p_2.php"); ?>
 					
-					<?php include_once("Browse/3_3.php"); ?>
+					<?php //include_once("Browse/3_3.php"); ?>
+					
+					<?php //include_once("Browse/p_6.php"); ?>					
+					
+					<?php include_once("Browse/p_4.php"); ?>	
           
-
-          
-         
+					<?php include_once("Browse/devider.php"); ?>
 					
-					<?php include_once("Browse/p_6.php"); ?>
+          <?php include_once("Browse/p_3.php"); ?>
 					
-					
-					<?php //include_once("Browse/p_4.php"); ?>	
-          
-					<?php //include_once("Browse/devider.php"); ?>
-					
-          <?php //include_once("Browse/p_3.php"); ?>
-					
-					 <?php //include_once("Browse/p_5.php"); ?>
+					 <?php include_once("Browse/p_5.php"); ?>
 	
 					<?php include_once("Browse/blocks/footer.php"); ?>
 					
