@@ -28,7 +28,7 @@
 				<tr>
 					<td align="center" class="headline-title" 
 							style="padding-top: 15px; padding-bottom: 15px; font-family: Arial, Helvetica, sans-serif; font-size: 26px; color: #163458">
-						<a href="<?php echo $article1['link']; ?>?utm_source=slgt&utm_medium=email&guid=##GUID##&utm_term=ALCImages&utm_content=ALCBody&utm_campaign=<?php echo $utm; ?>" 
+						<a href="<?php echo $article1['link']; ?>?utm_source=slgt&refby_slgt&utm_medium=email&guid=##GUID##&utm_term=ALCImages&utm_content=ALCBody&utm_campaign=<?php echo $utm; ?>" 
 							 linkname="<?php echo $article1['title_linkname']; ?>" 
 							 style="text-decoration: none; color: #163458; font-weight: bold; font-size:26px" target="_blank">
 							<?php echo $article1['title']; ?></a></td>
@@ -43,7 +43,7 @@
 								<tr>
 									<td align="center">
 									
-										<a href="<?php echo $article1['link']; ?>?utm_source=slgt&utm_medium=email&guid=##GUID##&utm_term=ALCImages&utm_content=ALCBody&utm_campaign=<?php echo $utm; ?>" 
+										<a href="<?php echo $article1['link']; ?>?utm_source=slgt&refby_slgt&utm_medium=email&guid=##GUID##&utm_term=ALCImages&utm_content=ALCBody&utm_campaign=<?php echo $utm; ?>" 
 											 linkname="<?php echo $article1['image_linkname']; ?>" target="_blank">
 											<img alt="<?php echo $article1['alt']; ?>" border="0" height="auto" width="640" style="width:100%; max-width:640px;"
 													 src="image_library/org_1/<?php echo $article1['image']; ?>" 
@@ -70,7 +70,7 @@
 
 												<tr>
 													<td align="center" class="Btn" style="font-family: Arial, Helvetica, sans-serif; font-size: 18px; color: #163458" valign="middle">
-														<a href="<?php echo $article1['link']; ?>?utm_source=slgt&utm_medium=email&guid=##GUID##&utm_term=ALCImages&utm_content=ALCBody&utm_campaign=<?php echo $utm; ?>" 
+														<a href="<?php echo $article1['link']; ?>?utm_source=slgt&refby_slgt&utm_medium=email&guid=##GUID##&utm_term=ALCImages&utm_content=ALCBody&utm_campaign=<?php echo $utm; ?>" 
 															 linkname="<?php echo $article1['see_more_linkname']; ?>" style="color: #163458; text-decoration: none" target="_blank">
 															<span><strong>See More</strong>
 															<img alt="<?php echo $article1['alt']; ?>" border="0" height="14" 

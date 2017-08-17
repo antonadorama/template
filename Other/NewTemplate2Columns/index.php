@@ -37,7 +37,9 @@
 					
 					<?php $ttl = "Multie Column Template Full Width"; ?>
 					
-					<?php include_once("Other/blocks/header.php"); ?>					
+					<?php include_once("Other/blocks/header.php"); ?>
+					
+					<?php include_once("Other/NewTemplate2Columns/countdown.php"); ?>
 		
 					<?php include_once("Other/NewTemplate2Columns/p_1.php"); ?>
 														

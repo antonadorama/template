@@ -13,28 +13,28 @@
                
               <tr>
                   <td>
-                    <a href="https://www.adorama.com/help/shippingAndDelivery?utm_source=slgt&utm_medium=email&guid=##GUID##&utm_term=Pix&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                    <a href="https://www.adorama.com/help/shippingAndDelivery?utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Pix&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          linkname="Free Shipping" target="_blank">
                     <img src="image_library/org_1/1422/Adorama-Welcome-Email-V2_30_01.jpg" 
                          alt="Free Shipping" width="100%" height="auto" border="0" style="display:inline;">
                     </a>
                   </td>
                   <td>
-                    <a href="https://www.adorama.com/help/shippingAndDelivery?utm_source=slgt&utm_medium=email&guid=##GUID##&utm_term=Pix&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                    <a href="https://www.adorama.com/help/shippingAndDelivery?utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Pix&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          linkname="Same Day Shipping" target="_blank">
                     <img src="image_library/org_1/1422/Adorama-Welcome-Email-V2_30_02.jpg" 
                          alt="Same Day Shipping" width="100%" height="auto" border="0" style="display:inline;">
                     </a>
                   </td>
                   <td>
-                    <a href="https://www.adorama.com/g/VIP-NEW?utm_source=slgt&utm_medium=email&guid=##GUID##&utm_term=Pix&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                    <a href="https://www.adorama.com/g/VIP-NEW?utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Pix&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          linkname="VIP 360" target="_blank">
                     <img src="image_library/org_1/1422/Adorama-Welcome-Email-V2_30_03.jpg" 
                          alt="Vip 360" width="100%" height="auto" border="0" style="display:inline;">
                     </a>
                   </td>
                   <td>
-                    <a href="https://www.adorama.com/help/paymentMethods?utm_source=slgt&utm_medium=email&guid=##GUID##&utm_term=Pix&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                    <a href="https://www.adorama.com/help/paymentMethods?utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Pix&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          linkname="FlexShopper" target="_blank">
                     <img src="image_library/org_1/1422/Adorama-Welcome-Email-V2_30_04.jpg" 
                          alt="FlexShopper" width="100%" height="auto" border="0" style="display:inline;">

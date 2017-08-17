@@ -1,6 +1,10 @@
 <?php 
 
-include_once("Other/nyip/index.php");
+include_once("Other/FlashSale_0817/index.php");
+
+//include_once("Other/NewTemplate2Columns/index.php");
+
+//include_once("Other/nyip/index.php");
 
 
 //include_once("Other/C200Event/index.php");

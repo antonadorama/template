@@ -43,8 +43,7 @@
 					
 					<?php include_once("ALC/alc062117/p_5.php"); ?>
 					
-					<?php include_once("ALC/alc062117/p_6.php"); ?>
-					
+				
 					<!-- FLAG--->
 					<?php include_once("ALC/alc062117/p_1.php"); ?>
 					<!-- FLAG--->

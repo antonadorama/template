@@ -34,7 +34,7 @@
                           <tr>
                             <td class="links-color" align="left" valign="top" width="100%">
                              <a linkname="Adorama_Tv"
-                                href="http://www.adorama.com/alc/category/AdoramaTv/?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                                href="http://www.adorama.com/alc/category/AdoramaTv/?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                                 target="_new" style="text-decoration: none;">                                 
                               <img src="https://www.adorama.com/images/Large/ica6dm2.jpg" 
                                    style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
@@ -127,7 +127,7 @@ style="background-color:#53C42E;color:#ffffff;display:inline-block;font-family:s
                             <td class="links-color" align="left" valign="top" width="100%">
                               
                                 <a linkname="Trade_"
-                                href="https://www.adorama.com/pages/usedQuote?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                                href="https://www.adorama.com/pages/usedQuote?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                                 target="_new" style="text-decoration: none;">    
                               
                               <img src="https://www.adorama.com/images/Large/icasl2k1.jpg" 
@@ -223,7 +223,7 @@ style="background-color:#53C42E;color:#ffffff;display:inline-block;font-family:s
                             <td class="links-color" align="left" valign="top" width="100%">
                               
                                                               <a linkname="Rent_"
-                                href="https://www.adorama.com/c/Video-Equipment?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                                href="https://www.adorama.com/c/Video-Equipment?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                                 target="_new" style="text-decoration: none;">    
                               
                               <img src="https://www.adorama.com/images/Large/ica6dm2k.jpg" 

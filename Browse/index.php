@@ -33,15 +33,20 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Browse_Abandon_Program"; ?>
+					<?php //$utm = "Email_Browse_Abandon_Program_I_v2"; ?>
+					<?php $utm = "Email_Browse_Abandon_Program_II_v2"; ?>
 					
-					<?php $ttl = "We Took a Snapshot of the ##MANUFACTURER## Item You Had Your Eye On!"; ?>
+					<?php //$ttl = "We Took a Snapshot of the ##MANUFACTURER## Item You Had Your Eye On!"; ?>
+					<?php //$ttl = "We Took a Selfie of the ##MANUFACTURER## Item You Had Your Eye On!"; ?>
+					
+					<?php //$ttl = "Don’t Miss Out on the ##MANUFACTURER## Item You Had Your Eye On! Come Back and Grab It!"; ?>
+					<?php $ttl = "Don’t Miss Out on ##MANUFACTURER## Item You Had Your Eye On!"; ?>
 					
 					<?php include_once("Browse/blocks/header.php"); ?>
 					
-					<?php //include_once("Browse/p_1.php"); ?>
-					
-					<?php include_once("Browse/p_header_1.php"); ?>
+				
+					<?php include_once("Browse/p_header_2.php"); ?>
+					<?php //include_once("Browse/p_header_3.php"); ?>
           
           <?php include_once("Browse/p_2.php"); ?>
 					

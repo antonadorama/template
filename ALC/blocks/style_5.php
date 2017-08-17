@@ -131,7 +131,7 @@
       padding:15px 0px !important;
     }
     *[class=menuwrapper] table {
-			padding: 0 10px !important;
+			padding: 0 0 !important;
 		}
 		*[class=trending] {
 			width: 25% !important;
@@ -140,7 +140,7 @@
 			width: 25% !important;
 		}
 		*[class=adorama_tv] {
-			width: 25% !important;
+			width: 30% !important;
 		}
 		*[class=events] {
 			display: none !important;
@@ -150,7 +150,7 @@
 		}
 		*[class=shop_alc] {
 			text-align: center !important;
-			width: 25% !important;
+			width: 20% !important;
 		}
     *[class=video] {
       display: none !important;
@@ -234,7 +234,7 @@
     *[class=fbottom] {
       float: left;
       display: block !important;
-      width: 30% !important;
+      width: 33% !important;
       height: auto !important;
       padding-top: 20px;
     }
@@ -495,7 +495,7 @@
     *[class=fbottom] {
       float: left;
       display: block !important;
-      width: 30% !important;
+      width: 33% !important;
       height: auto !important;
       padding-top: 20px;
     }
