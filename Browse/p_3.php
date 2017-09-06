@@ -3,6 +3,55 @@
 		<table border="0" cellpadding="0" cellspacing="0" class="wrap100" width="640" bgcolor="#ffffff">
 			<tbody>
 				<tr>
+					<td height="15">&nbsp;</td>
+				</tr>
+				<tr>
+					<td align="center">
+						<img alt="" border="0" class="mobno" height="auto" src="image_library/org_1/2153/adoramavalue.png" style="display: block; margin: auto" width="88%" /></td>
+				</tr>
+				<tr>
+					<td height="15">&nbsp;</td>
+				</tr>
+			</tbody>
+		</table>
+	</td>
+</tr>
+
+
+
+<tr>
+	<td>
+		<!--[if !mso]><!-->
+		<table align="center" border="0" cellpadding="0" cellspacing="0" class="fluid" style="display:none;" bgcolor="#ffffff">
+			<tbody>
+				<tr class="show" style="width:0; overflow:hidden; float:left; display:none; max-height:0px; mso-hide:all;">
+					<td class="cta">
+						<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+									<td><img alt="" border="0" class="wrap100" src="image_library/org_1/1904/wereheretohelp_border.jpg" style="display:block;" /></td>
+								</tr>
+								<tr>
+									<td align="center" style="font-size: 14px; font-family: 'Open Sans', Arial, Helvetica, sans-serif; color: #000001; 
+																						text-align: center; text-transform: uppercase; font-weight: bold; padding-top: 15px; padding-bottom:15px;">
+										EXPERIENCE ADORAMA VALUE</td>
+								</tr>
+							</tbody>
+						</table>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<!--<![endif]-->
+	</td>
+</tr>
+
+
+<tr>
+	<td>
+		<table border="0" cellpadding="0" cellspacing="0" class="wrap100" width="640" bgcolor="#ffffff">
+			<tbody>
+				<tr>
 					<td align="center" class="valueprop" style="width: 25%;  text-align: center" width="25%">
 						<a href="http://www.adorama.com/help/shippingAndDelivery?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=FreeShipping&utm_content=Value+Props&utm_campaign=<?php echo $utm;?>" linkname="Browse_FreeShipping" style="color: #A7A9AC; font-size: 11px; text-decoration: none;"
 							target="_blank"><img alt="Free Shipping" border="0" class="valuepropimg" src="image_library/org_1/1904/valueprops_fs.jpg" style="margin: 0 auto; display: block; padding: 0 0" /> </a>
@@ -48,6 +97,9 @@
 						<a href="http://www.adorama.com/help/paymentMethods?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=FlexShopper&utm_content=Value+Props&utm_campaign=<?php echo $utm;?>" linkname="Browse_FlexShopper" style="color: #A7A9AC; font-size: 11px; text-decoration: none;"
 							target="_blank"> </a>
 					</td>
+				</tr>
+				<tr>
+					<td height="15">&nbsp;</td>
 				</tr>
 			</tbody>
 		</table>

@@ -1,6 +1,6 @@
 <tr>
   <td>
-  <table id="ko_tripleArticleBlock_10" style="background-color: #E3E3E3;" class="vb-outer" bgcolor="#E3E3E3" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <table id="ko_tripleArticleBlock_10" style="background-color: #E3E3E3;" bgcolor="#E3E3E3" class="vb-outer" border="0" cellpadding="0" cellspacing="0" width="100%">
     <tbody>
       <tr>
         <td style="background-color: #e3e3e3;" class="vb-outer" align="center" bgcolor="#E3E3E3" valign="top">

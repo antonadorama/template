@@ -1,7 +1,7 @@
 <?php 
 
     $to = "antony@adorama.com"; 
-    $from = "antonadorama@gmail.com"; 
+    $from = "4antonspam@mail.ru"; 
     $first_name = "Anton";
     $last_name = "Yakuta";
     $subject = "Email Test";

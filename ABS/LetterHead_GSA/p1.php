@@ -93,7 +93,7 @@ Adorama offers government agencies:
 						<ul style="padding: 0; Margin: 0 0 0 40px;">
 							<li style="Margin: 0;">
 								
-					<strong>Easy procurement options</strong>  including e-quotes, net terms, POs, p-cards, checks and wire transfers. Purchase your way
+					<strong>Easy procurement options</strong>  including eBuy, GSA Advantage, e-quotes, net terms, POs, p-cards, checks and wire transfers. Purchase your way
 							
 					
 							</li>
@@ -183,6 +183,13 @@ Adorama Federal Government Sales Team
 						<tr>
 				<td style="padding-top:2px; padding-left:10px; padding-bottom:2px; padding-right:10px;">
           P: 888-209-5558
+        </td>
+			</tr>
+			
+									<tr>
+				<td style="padding-top:40px; padding-left:10px; padding-bottom:2px; padding-right:10px;">
+					To be removed from future emails from Adorama Government, please 
+					<span><a href="" target="_blank" linkname="Unsubscribe"><u><strong>unsubscribe here.</strong></u></a></span>
         </td>
 			</tr>
 			

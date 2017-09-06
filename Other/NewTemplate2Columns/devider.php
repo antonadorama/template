@@ -1,4 +1,4 @@
-<!-- Specer -->
+<!-- Spacer -->
 <tr>
   <td>
       <table cellspacing="0" cellpadding="0" border="0" width="100%" bgcolor="red" style="background-color:red">

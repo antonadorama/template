@@ -229,7 +229,10 @@
 								 linkname="AddUs" style="color: #A7A9AC; text-decoration:none">
 								info@shop.adorama.com</a> to your email address book or white list.</p>
 							<p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">
-								Products are subject to price change and availability. Not responsible for typographical errors.</p>
+								*$150 Gift Card contest is for email customers who've successfully completed their purchase via this email only. 
+								Drawing takes place every month; winners will be notified by email. 
+								**Free expedited 1 to 3 day shipping available on most orders greater than $49 and must be shipping within the contiguous 48 U.S. states. 
+								See product page for details. Products are subject to price change and availability. Not responsible for typographical errors.</p>
 							<p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">
 								&copy; 2017 Adorama Camera, Inc. All rights reserved. | 
 								<a href="https://www.adorama.com/help/termsAndConditions?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Terms&utm_content=Footer&utm_campaign=<?php echo $utm;?>" linkname="Terms" style="color: #A7A9AC; text-decoration:underline">

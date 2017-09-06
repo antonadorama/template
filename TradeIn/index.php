@@ -1,4 +1,10 @@
-<?php include_once("TradeIn/Apple_0817/index.php"); ?>
+<?php include_once("TradeIn/Olympus0902/index.php"); ?>
+
+<?php //include_once("TradeIn/NikonNPA/index.php"); ?>
+
+<?php //include_once("TradeIn/Fuji0823/index.php"); ?>
+
+<?php //include_once("TradeIn/Apple_0817/index.php"); ?>
 
 <?php //include_once("TradeIn/SonyPXW_081417/index.php"); ?>
 
