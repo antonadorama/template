@@ -54,7 +54,8 @@
 					<!-- Featured Products Header--->
 					<?php include_once("FirstTimeBuyers/1b/1b_7.php"); ?>
 					<!-- Featured Products --->
-					<?php include_once("FirstTimeBuyers/1b/1b_8.php"); ?>
+					<?php //include_once("FirstTimeBuyers/1b/1b_8.php"); ?>
+					<?php include_once("FirstTimeBuyers/1b/4products_block_cb.php"); ?>
 					
 					<?php include_once("FirstTimeBuyers/blocks/footer.php"); ?>
 					
@@ -64,6 +65,9 @@
 		</tr>
 	</tbody>
 </table>
+</div>
+<div style="display:none !important; padding:0 !important;">
+<img src="http://svopn.adorama.com/?sv_cid=2620_03922&sv_emopen=true&sv_svemi=##GUID##" height="1" width="1" style="display:none !important;"/>
 </div>	
 </body>
 </html>

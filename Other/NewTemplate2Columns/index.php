@@ -51,7 +51,9 @@
 					
 					<?php include_once("Other/NewTemplate2Columns/p_4.php"); ?>
 					
+					<!-- Flag -->
 					<?php //include_once("Other/NewTemplate2Columns/event.php"); ?>
+					<!-- Flag -->
 					
 					<?php include_once("Other/blocks/footer.php"); ?>
 					

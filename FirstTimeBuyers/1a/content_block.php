@@ -1,12 +1,12 @@
 <?php 
 
-  $utm = "EmailFTB-1A";
+  $utm = "EmailFTB-2A";
 
   $product = array(
   
-    'title' => 'Canon PIXMA Wireless Photo All-in-One Printer',
-    'sku' => 'ICAMG3620B',
-    'alt' => 'Canon PIXMA Wireless Photo All-in-One Printer'
+    'title' => 'Canon EF 24-70mm f/2.8L II USM',
+    'sku' => 'CA2470BG',
+    'alt' => 'Canon EF 24-70mm f/2.8L II USM'
   
   );
 
@@ -43,7 +43,7 @@
                   height="26" align="center" bgcolor="#114998"
                 valign="middle" width="auto">
                 <a href="https://www.adorama.com/<?php echo $product['sku'];?>.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
-                   linkname="View Details <?php echo $product['sku'];?>" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">VIEW DETAILS</a></td>
+                   linkname="View <?php echo $product['sku'];?>" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">VIEW</a></td>
             </tr>
           </tbody>
         </table>

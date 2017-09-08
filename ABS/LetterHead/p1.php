@@ -11,8 +11,8 @@
               <tbody>
                 <tr>
                   <td align="left" valign="top">
-                    <a href="https://www.adorama.com/abs" target="_blank"
-                       linkname="Image_ThankYou">
+                    <a href="https://www.adorama.com/abs?utm_source=slgt&refby=slgt&utm_medium=email&utm_content=Body&utm_campaign=Barry_Letter" target="_blank"
+                       linkname="ABS_Logo">
                     <img src="image_library/org_1/1933/ABS-logo_hex-010a19_small.png" style="border: 0px;border-radius: 0px;display: block;max-width: 140px;width: 100%;height: auto;" 
 												 class="mobile-full" alt="Thank You for Your Purchase!" hspace="0" border="0" vspace="0" width="140">
                     </a>
@@ -22,7 +22,11 @@
             </table>
           </div>
           
-          <!--[if (gte mso 9)|(lte ie 8)]></td></tr></table><![endif]--></td>
+          <!--[if (gte mso 9)|(lte ie 8)]></td></tr></table><![endif]-->
+				</td>
+									<td class="mobno" style="width: 470px; color: #A7A9AC; font-size: 14px; padding: 10px 0;" align="right">
+										 <a href="" linkname="View In Browser" style="color: #A7A9AC; text-decoration: underline" target="_blank">view in a browser</a>
+                  </td>
       </tr>
     </tbody>
   </table>
@@ -84,7 +88,7 @@
 					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 14px; font-family: Calibri, Arial, Helvetica, sans-serif; color: #000001; text-align: left; line-height: 18px;
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
 
-						Positively, we are sure. Adorama Business Solutions is founded upon on three simple concepts that have you at the core:
+						Positively, we are sure. Adorama Business Solutions is founded upon three simple concepts that have you at the core:
 					
 					<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
           
@@ -98,7 +102,7 @@
                   width=100%; background-color:#ffffff; padding-top:2px; padding-bottom:2px;"><tr><td><![endif]-->
 
 						
-							1 <strong>Consultation:</strong> : Now, when you shop with Adorama Business Solutions you will be assigned 
+							1 <strong>Consultation:</strong> Now, when you shop with Adorama Business Solutions you will be assigned 
 					a dedicated equipment expert so you get the right products for your organization or department’s specific needs.
 
 						
@@ -160,7 +164,7 @@
 					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 14px; font-family: Calibri, Arial, Helvetica, sans-serif; color: #000001; text-align: left; line-height: 18px;
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
 
-						Visit     <a href="https://www.adorama.com/abs" target="_blank" style="text-decoration:none; color:#000001;"
+						Visit     <a href="https://www.adorama.com/abs?utm_source=slgt&refby=slgt&utm_medium=email&utm_content=Body&utm_campaign=Barry_Letter" target="_blank" style="text-decoration:none; color:#000001;"
 												 linkname="Adorama ABS"><u>www.adorama.com/abs</u> </a> to learn more and to contact our equipment experts. 
 										
 					<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
@@ -202,6 +206,13 @@
 						<tr>
 				<td style="padding-top:2px; padding-left:10px; padding-bottom:0px; padding-right:10px;">
           Adorama
+        </td>
+			</tr>
+			
+												<tr>
+				<td style="padding-top:40px; padding-left:10px; padding-bottom:2px; padding-right:10px;">
+					To be removed from future emails from Adorama, please 
+					<span><a href="" target="_blank" linkname="Unsubscribe"><u><strong>unsubscribe here.</strong></u></a></span>
         </td>
 			</tr>
 			

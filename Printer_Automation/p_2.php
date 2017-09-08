@@ -18,7 +18,7 @@
                         <tbody>
                           <tr>
                             <td class="links-color" align="center" valign="top" width="100%">
-                              <a href="https://www.adorama.com/##SMFMT_LOWERCASE[\ink_item_number[BRTN250]]##.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>"
+                              <a href="https://www.adorama.com/##SMFMT_LOWERCASE[\ink_item_number[BRTN250]]##.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=PrinterAutomation&utm_content=Body&utm_campaign=<?php echo $utm;?>"
                                            linkname="Ink_Image"
                                            style="">                                  
                                       
@@ -68,11 +68,11 @@
                                   <!--[if mso]>
                                   <v:rect xmlns:v="urn:schemas-microsoft-com:vml" 
                                   xmlns:w="urn:schemas-microsoft-com:office:word" 
-                                  href="https://www.adorama.com/##SMFMT_LOWERCASE[\ink_item_number[BRTN250]]##.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" style="height:40px;v-text-anchor:middle;width:240px;" stroke="f" fillcolor="#00adef" linkname="mso_button">
+                                  href="https://www.adorama.com/##SMFMT_LOWERCASE[\ink_item_number[BRTN250]]##.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=PrinterAutomation&utm_content=Body&utm_campaign=<?php echo $utm;?>" style="height:40px;v-text-anchor:middle;width:240px;" stroke="f" fillcolor="#00adef" linkname="mso_button">
                                       <w:anchorlock/>
                                       <center>
                                     <![endif]-->
-                                        <a href="https://www.adorama.com/##SMFMT_LOWERCASE[\ink_item_number[BRTN250]]##.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>"
+                                        <a href="https://www.adorama.com/##SMFMT_LOWERCASE[\ink_item_number[BRTN250]]##.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=PrinterAutomation&utm_content=Body&utm_campaign=<?php echo $utm;?>"
                                            linkname="OrderInkButton"
                                            style="background-color:#00adef;color:#ffffff;display:inline-block;
                                                   font-family:sans-serif;font-size:20px;font-weight:bold;

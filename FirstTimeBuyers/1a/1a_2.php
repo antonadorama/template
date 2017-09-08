@@ -14,7 +14,7 @@
               </tr>
                 <tr>
                   <td style="text-align: center; font-size: 21px; font-family: 'Arvo', Helvetica, sans-serif; font-weight:400italic;color: #006E95; line-height:26px;" class="small-title" align="center">
-                  <a href="http://www.adorama.com/alc/?emailprice=t&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $utm;?>" target="_blank" linkname="alc_1">
+                  <a href="http://www.adorama.com/alc/?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=ALC&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" linkname="alc_1">
                     <img src="image_library/org_1/1076/adorama-learning-center-logo.png" alt="alc">
                    </a> 
                   </td>
@@ -32,7 +32,7 @@
                         <tr>
                           
                           <td  align="center" class="big-title">
-                            <a href="http://www.adorama.com/alc/?emailprice=t&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $utm;?>" target="_blank" 
+                            <a href="http://www.adorama.com/alc/?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=ALC&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
                                style="font-size: 31px; font-family: 'Montserrat', Helvetica, sans-serif; font-weight:700; color: #006E95; text-align: center; 
                                       letter-spacing:1px; line-height:42px; text-decoration:none;" linkname="alc_2">
                               <span>100&#39;s of How-to Tutorials, <span style="white-space:nowrap;">Gear Guides</span> and Video&#39;s to Get You Inspired</span></a></td>
