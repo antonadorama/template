@@ -12,7 +12,7 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="http://www.adoramarentals.com/?emailprice=t&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $utm;?>" linkname="Adorama" target="_blank">
+                    <a href="http://www.adoramarentals.com/?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=ARC&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="Adorama" target="_blank">
                     <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-5-4-feature-arc-pro.jpg" 
                          style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" 
                          class="mobile-full" alt="Adorama" hspace="0" border="0" vspace="0" width="640" height="auto">

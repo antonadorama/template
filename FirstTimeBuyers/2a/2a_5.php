@@ -30,7 +30,7 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a  linkname="Mirrorless"  href="https://www.adorama.com/l/Cameras/Mirrorless-Cameras?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
+                                      <a  linkname="Mirrorless"  href="https://www.adorama.com/l/Cameras/Mirrorless-Cameras?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Mirrorless&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
                                         <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-1-cameras-mirrorless.jpg" style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" alt="" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>
                                   <tr>
@@ -81,7 +81,7 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a  linkname="MediumFormatCameras"   href="https://www.adorama.com/l/Cameras/Medium-Format-Cameras?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
+                                      <a  linkname="MediumFormatCameras"   href="https://www.adorama.com/l/Cameras/Medium-Format-Cameras?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=MediumFormat&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
                                       <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-1-cameras-medium.jpg" style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" alt="" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>
                                   <tr>
@@ -130,7 +130,7 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a  linkname="SpecialityCameras"   href="https://www.adorama.com/l/Cameras/Specialty-Cameras?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
+                                      <a  linkname="SpecialityCameras"   href="https://www.adorama.com/l/Cameras/Specialty-Cameras?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=SpecialtyCameras&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
                                       <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-1-cameras-specialty.jpg" 
                                            style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" alt="" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>

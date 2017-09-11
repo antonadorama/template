@@ -16,7 +16,8 @@
 		<meta name="format-detection" content="email=no">
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
-		<?php include_once("FirstTimeBuyers/blocks/style_2b.php"); ?>		
+		<?php //include_once("FirstTimeBuyers/blocks/style_2b.php"); ?>
+		<?php include_once("FirstTimeBuyers/blocks/style_5.php"); ?>
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -47,10 +48,12 @@
 					<?php include_once("FirstTimeBuyers/4/4_7.php"); ?>
 
 					<!-- Featured Products 1 Row--->
-					<?php include_once("FirstTimeBuyers/4/4_8_1.php"); ?>
+					<?php // include_once("FirstTimeBuyers/4/4_8_1.php"); ?>
+					<?php include_once("FirstTimeBuyers/4/4_8_1_d.php"); ?>
 					
 					<!-- Featured Products 2 Row--->
-					<?php include_once("FirstTimeBuyers/4/4_8_2.php"); ?>	
+					<?php // include_once("FirstTimeBuyers/4/4_8_2.php"); ?>
+					<?php include_once("FirstTimeBuyers/4/4_8_2_d.php"); ?>
 					          
 					<!-- Learn More--->					
 				  <?php include_once("FirstTimeBuyers/4/4_2.php"); ?>
@@ -68,6 +71,9 @@
 		</tr>
 	</tbody>
 </table>
-</div>	
+</div>
+<div style="display:none !important; padding:0 !important;">
+<img src="http://svopn.adorama.com/?sv_cid=2620_03922&sv_emopen=true&sv_svemi=##GUID##" height="1" width="1" style="display:none !important;"/>
+</div>
 </body>
 </html>

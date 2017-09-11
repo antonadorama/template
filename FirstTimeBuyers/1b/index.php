@@ -16,7 +16,8 @@
 		<meta name="format-detection" content="email=no">
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
-		<?php include_once("FirstTimeBuyers/blocks/style_2b.php"); ?>		
+		<?php //include_once("FirstTimeBuyers/blocks/style_2b.php"); ?>
+		<?php include_once("FirstTimeBuyers/blocks/style_5.php"); ?>
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>

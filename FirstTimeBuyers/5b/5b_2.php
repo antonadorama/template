@@ -65,7 +65,7 @@
                           <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #FFFFFF; 
                                      font-weight: normal; padding:14px 24px; background-color: #114998; border-radius: 0px; letter-spacing:1px;" 
                               height="26" align="center" bgcolor="#114998" valign="middle" width="auto">
-                            <a  linkname="CamerasBody"   href="https://www.adorama.com/pages/usedQuote?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="Cameras" target="_new" style="text-decoration: none; color: #FFFFFF; font-weight: bold;">
+                            <a  linkname="CamerasBody"   href="https://www.adorama.com/pages/usedQuote?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Trade&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="Cameras" target="_new" style="text-decoration: none; color: #FFFFFF; font-weight: bold;">
                               GET A QUOTE</a></td>
                         </tr>
                       </tbody>

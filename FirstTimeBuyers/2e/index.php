@@ -16,7 +16,7 @@
 		<meta name="format-detection" content="email=no">
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
-		<?php include_once("FirstTimeBuyers/blocks/style_2b.php"); ?>		
+		<?php include_once("FirstTimeBuyers/blocks/style_5.php"); ?>		
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -54,7 +54,8 @@
 					<!-- Products Header--->
 					<?php include_once("FirstTimeBuyers/2e/2e_7.php"); ?>
 					<!-- Featured Products --->
-					<?php include_once("FirstTimeBuyers/2e/2e_8.php"); ?>		
+					<?php //include_once("FirstTimeBuyers/2e/2e_8.php"); ?>
+					<?php include_once("FirstTimeBuyers/2e/4products_block_cb.php"); ?>
 					
 					<?php include_once("FirstTimeBuyers/blocks/footer.php"); ?>
 					
@@ -64,6 +65,9 @@
 		</tr>
 	</tbody>
 </table>
+</div>
+<div style="display:none !important; padding:0 !important;">
+<img src="http://svopn.adorama.com/?sv_cid=2620_03922&sv_emopen=true&sv_svemi=##GUID##" height="1" width="1" style="display:none !important;"/>
 </div>	
 </body>
 </html>

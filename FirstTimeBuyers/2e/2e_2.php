@@ -64,7 +64,7 @@
                           <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #FFFFFF; 
                                      font-weight: normal; padding:14px 24px; background-color: #114998; border-radius: 0px; letter-spacing:1px;" 
                               height="26" align="center" bgcolor="#114998" valign="middle" width="auto">
-                            <a  href="https://www.adorama.com/specials?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="LearnMore" target="_new"                               
+                            <a  href="https://www.adorama.com/specials?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Specials&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="LearnMore" target="_new"                               
                                style="text-decoration: none; color: #FFFFFF; font-weight: bold;">
                               SHOP ELECTRONICS</a></td>
                         </tr>

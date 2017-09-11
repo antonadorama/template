@@ -11,7 +11,7 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="http://www.adorama.com/alc/?emailprice=t&utm_source=slgt&utm_medium=email&utm_campaign=<?php echo $utm;?>" target="_blank" linkname="alc_4">
+                    <a href="http://www.adorama.com/alc/?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=ALC&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" linkname="alc_4">
                     <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-1-1-feature-alc.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" alt="" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>
