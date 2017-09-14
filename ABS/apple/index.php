@@ -138,12 +138,15 @@
                             
                             <tr>
                               <td align="center" valign="top">
-                                <a href="mailto:govsales@adorama.com?Subject=I'm interested in Apple products" target="_blank" linkname="Get_A_Qoute">
+                                <a href="mailto:federal@adorama.com?Subject=I'm interested in Apple products" target="_blank" linkname="Get_A_Qoute">
                     <img src="image_library/org_1/2246/eMail_Postcard-ABS-AppleGovReseller-v3-2_02.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
                          alt="Get A Quote" hspace="0" border="0" vspace="0" width="640">
                     </a>
                               </td>
                             </tr>
+                            
+                            <?php include_once("ABS/blocks/footer.php"); ?>
+                            
                           </tbody>
                         </table>
                       </div>

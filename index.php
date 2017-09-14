@@ -1,5 +1,9 @@
 <?php
 
+//	include_once("ABS/index.php");
+
+ include_once("Other/index.php");	
+
 // include_once("Welcome/index.php"); 
 
  // include_once("FirstTimeBuyers/index.php");  
@@ -12,9 +16,6 @@
 
 //include_once("Browse/index.php");
 
-	include_once("ABS/index.php");
-
-	 //include_once("Other/index.php");	
 
 	//include_once("ContentBlock/index.php");
 

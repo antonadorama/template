@@ -1,8 +1,10 @@
 <?php 
 
+include_once("Other/TripodSale/index.php");
+
 // include_once("Other/Refurb090917/index.php");
 
- include_once("Other/Profoto/index.php");
+// include_once("Other/Profoto/index.php");
 
 //include_once("Other/ProAudio/index.php");
 

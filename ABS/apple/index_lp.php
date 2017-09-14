@@ -144,6 +144,8 @@
                     </a>
                               </td>
                             </tr>
+                            
+                            <?php include_once("ABS/blocks/footer.php"); ?>
                           </tbody>
                         </table>
                       </div>
