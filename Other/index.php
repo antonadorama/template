@@ -1,6 +1,10 @@
 <?php 
 
-include_once("Other/TripodSale/index.php");
+include_once("Other/ProfotoNPA/index.php");
+
+ //include_once("Other/D850Acc/index.php");
+
+// include_once("Other/TripodSale/index.php");
 
 // include_once("Other/Refurb090917/index.php");
 
