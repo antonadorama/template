@@ -15,7 +15,7 @@
                   <td align="center" valign="top">
                     <a href="https://www.youtube.com/watch?v=B64X5KRrLAA" target="_blank" 
                        linkname="Cloudy_Day_Portraits">
-                    <img src="image_library/org_1/2325/Profoto-A1-NPA-Email_04.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
+                    <img src="image_library/org_1/2325/Profoto-A1-NPA-Email_04_07.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
                          alt="Cloudy Day Portraits" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>

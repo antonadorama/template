@@ -39,14 +39,16 @@
 					
 					<?php include_once("Other/blocks/header.php"); ?>					
 				
-					<?php include_once("Other/ProfotoNPA/p_1.php"); ?>	
+					<?php include_once("Other/ProfotoNPA/p_1_1.php"); ?>
+					<?php include_once("Other/ProfotoNPA/p_1_2.php"); ?>
+					<?php include_once("Other/ProfotoNPA/p_1_3.php"); ?>
 					
-						<?php include_once("Other/ProfotoNPA/p_2.php"); ?>
+					<?php include_once("Other/ProfotoNPA/p_2.php"); ?>
 					
-						<?php include_once("Other/ProfotoNPA/p_3.php"); ?>
+					<?php include_once("Other/ProfotoNPA/p_3.php"); ?>
 					
-						<?php include_once("Other/ProfotoNPA/p_4.php"); ?>
-						<?php include_once("Other/ProfotoNPA/p_5.php"); ?>
+					<?php include_once("Other/ProfotoNPA/p_4.php"); ?>
+					<?php include_once("Other/ProfotoNPA/p_5.php"); ?>
 
 					<?php include_once("Other/blocks/footer.php"); ?>
 					

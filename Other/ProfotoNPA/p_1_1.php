@@ -13,10 +13,10 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/alc/profoto-a1-studio-lighting-in-the-palm-of-your-hand?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" target="_blank" 
-                       linkname="ALC">
-                    <img src="image_library/org_1/2325/Profoto-A1-NPA-Email_04_08.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
-                         alt="ALC" hspace="0" border="0" vspace="0" width="640">
+                    <a href="https://www.adorama.com/g/profoto-a1?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" target="_blank" 
+                       linkname="Main_Banner_Link">
+                    <img src="image_library/org_1/2325/Profoto-A1-NPA-Email_04_01.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
+                         alt="Main Banner" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>
                 </tr>
