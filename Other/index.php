@@ -1,6 +1,13 @@
 <?php 
 
-include_once("Other/ProfotoNPA/index.php");
+include_once("Other/nyip_102317/index.php");
+
+
+// include_once("Other/AlmostBest/index.php");
+
+// include_once("Other/CustoraVIP/index.php");
+
+// include_once("Other/ProfotoNPA/index.php");
 
  //include_once("Other/D850Acc/index.php");
 
