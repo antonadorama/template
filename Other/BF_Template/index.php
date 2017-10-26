@@ -33,15 +33,18 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_VIP_360_Renewal_CC"; ?>
+					<?php $utm = "Holiday_Template"; ?>
 					
-					<?php $ttl = "Your VIP360 Membership is set to renew."; ?>
+					<?php $ttl = "Holiday Template"; ?>
 					
-					<?php include_once("Other/blocks/header.php"); ?>					
-		
-					<?php include_once("Other/VIP360_renewal_cc/p_1.php"); ?>
+					<?php include_once("Other/blocks/header.php"); ?>
+					
+					<?php include_once("Other/BF_Template/p_1.php"); ?>
 
-														
+					<!-- Flag -->
+					<?php //include_once("Other/NewTemplate2Columns/event.php"); ?>
+					<!-- Flag -->
+					
 					<?php include_once("Other/blocks/footer.php"); ?>
 					
 				</tbody>

@@ -33,15 +33,23 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_VIP_360_Renewal_CC"; ?>
+					<?php $utm = "Email_Financing_Pre_Approval_Letter"; ?>
 					
-					<?php $ttl = "Your VIP360 Membership is set to renew."; ?>
+					<?php $ttl = "Pre Approval Letter"; ?>
 					
-					<?php include_once("Other/blocks/header.php"); ?>					
-		
-					<?php include_once("Other/VIP360_renewal_cc/p_1.php"); ?>
+					<?php include_once("Other/blocks/header.php"); ?>
+						
+					<?php include_once("Financing/PreApproval/p_1.php"); ?>
+					
+					<?php include_once("Financing/PreApproval/p_2.php"); ?>
+					
+					<?php include("Financing/PreApproval/p_3.php"); ?>
+					
+					<?php include("Financing/PreApproval/p_3.php"); ?>
+					
+					<?php include("Financing/PreApproval/p_3.php"); ?>
 
-														
+					
 					<?php include_once("Other/blocks/footer.php"); ?>
 					
 				</tbody>

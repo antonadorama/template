@@ -39,7 +39,7 @@
 					
 					<?php include_once("Other/blocks/header.php"); ?>					
 		
-					<?php include_once("Other/VIP360_renewal_cc/p_1.php"); ?>
+					<?php include_once("Other/VIP360_renewal_ncc_v2/p_1.php"); ?>
 
 														
 					<?php include_once("Other/blocks/footer.php"); ?>
