@@ -1,6 +1,12 @@
 <?php
 
-include_once("ABS/apple/index_lp.php");
+include_once("ABS/Sony_NPA/index_corp.php");
+
+// include_once("ABS/Sony_NPA/index_gov.php");
+
+// include_once("ABS/Sony_NPA/index_edu.php");
+
+ // include_once("ABS/apple/index_lp.php");
 
  //include_once("ABS/apple/index.php");
 

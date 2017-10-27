@@ -43,11 +43,13 @@
 					
 					<?php include_once("Financing/PreApproval/p_2.php"); ?>
 					
-					<?php include("Financing/PreApproval/p_3.php"); ?>
+					<?php include("Financing/PreApproval/p_3_1.php"); ?>
 					
-					<?php include("Financing/PreApproval/p_3.php"); ?>
+					<?php include("Financing/PreApproval/p_3_2.php"); ?>
 					
-					<?php include("Financing/PreApproval/p_3.php"); ?>
+					<?php include("Financing/PreApproval/p_3_3.php"); ?>
+					
+					<?php include_once("Financing/PreApproval/p_4.php"); ?>
 
 					
 					<?php include_once("Other/blocks/footer.php"); ?>
