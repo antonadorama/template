@@ -16,7 +16,8 @@
 		<meta name="format-detection" content="email=no">
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
-		<?php include_once("Other/blocks/style_5.php"); ?>		
+		<?php include_once("Financing/blocks/style_5_f.php"); ?>		
+		
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -31,19 +32,19 @@
 			<table align="center" bgcolor="#e3e3e3" border="0" cellpadding="0" cellspacing="0" class="wrap640" width="640">
 				<tbody>
 					
-					<?php //include_once("Other/blocks/send_button.php"); ?>
+					<?php // include_once("Other/blocks/send_button.php"); ?>
 					
 					<?php $utm = "Email_Financing_Pre_Approval_Letter"; ?>
 					
 					<?php $ttl = "Pre Approval Letter"; ?>
 					
-					<?php include_once("Other/blocks/header.php"); ?>
+					<?php include_once("Financing/blocks/header.php"); ?>
 						
 					<?php include_once("Financing/PreApproval/p_1.php"); ?>
 					
-					<?php include_once("Financing/PreApproval/p_2.php"); ?>
+					<?php  include_once("Financing/PreApproval/p_2.php"); ?>
 					
-					<?php include("Financing/PreApproval/p_3_1.php"); ?>
+					<?php  include("Financing/PreApproval/p_3_1.php"); ?>
 					
 					<?php include("Financing/PreApproval/p_3_2.php"); ?>
 					
@@ -52,7 +53,7 @@
 					<?php include_once("Financing/PreApproval/p_4.php"); ?>
 
 					
-					<?php include_once("Other/blocks/footer.php"); ?>
+					<?php include_once("Financing/blocks/footer.php"); ?>
 					
 				</tbody>
 			</table>

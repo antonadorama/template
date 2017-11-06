@@ -13,13 +13,13 @@
               <tbody>
                 <tr>
                   <td>
-                      <a href="https://www.adorama.com/?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
+                      <a href="https://www.adorama.com/?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          linkname="Left Side Image" target="_blank">
                         <img src="image_library/org_1/1499/left.jpg" alt="Left Side Image" width="100%" height="auto" border="0" style="display:inline;">
                       </a>
                   </td>
                   <td>
-                    <a href="https://www.adorama.com/?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
+                    <a href="https://www.adorama.com/?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                        linkname="Right Side Image" target="_blank">
                       <img src="image_library/org_1/1499/right.jpg" alt="Right Side Image" width="100%" height="auto" border="0" style="display:inline;">
                     </a>

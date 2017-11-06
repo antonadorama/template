@@ -13,21 +13,21 @@
 
                 <tr>
                   <td>
-                    <a href="https://www.adorama.com/g/NAB2017ShowSpecials_Cameras?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
+                    <a href="https://www.adorama.com/g/NAB2017ShowSpecials_Cameras?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          linkname="Cameras And Lenses" target="_blank">
                       <img src="image_library/org_1/1426/nab_early_access_02.jpg" 
                            alt="Cameras And Lenses" width="100%" height="auto" border="0" style="display:inline;">
                     </a>
                   </td>
                   <td>
-                    <a href="https://www.adorama.com/g/NAB2017ShowSpecials_ProVideo?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
+                    <a href="https://www.adorama.com/g/NAB2017ShowSpecials_ProVideo?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          linkname="Pro Video" target="_blank">
                         <img src="image_library/org_1/1426/nab_early_access_03.jpg" 
                              alt="Pro Video" width="100%" height="auto" border="0" style="display:inline;">
                     </a>
                   </td>
                   <td>
-                    <a href="https://www.adorama.com/g/NAB2017ShowSpecials_ProAudio?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
+                    <a href="https://www.adorama.com/g/NAB2017ShowSpecials_ProAudio?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          linkname="Pro Audio" target="_blank">
                         <img src="image_library/org_1/1426/nab_early_access_04.jpg" 
                              alt="Pro Audio" width="100%" height="auto" border="0" style="display:inline;">

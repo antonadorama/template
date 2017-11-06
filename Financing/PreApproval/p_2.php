@@ -10,8 +10,8 @@
               <tbody>
               <tr>
                   <td style="font-weight:bold; background-color: #ffffff; font-size: 2em; font-family: Arial, Helvetica, sans-serif; 
-                             color: #006bb3; text-align: left; padding-top:25px; padding-left:30px;" 
-                      align="left" bgcolor="#ffffff" class="name-topmargin">
+                             color: #006bb3; text-align: left; padding-top:20px; padding-left:40px;" 
+                      align="left" bgcolor="#ffffff" class="fin_header">
                     You're Pre-Approved For <br> An Adorama Credit Card Account!</td>
               </tr>
               <tr>
@@ -24,8 +24,9 @@
                          class="vb-container fullpad" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="640">
               <tbody>
                 <tr>
-                  <td style="text-align: left; font-size: 16px; font-family: Arial, Helvetica, sans-serif; color: #3d3d3d; line-height:26px; " 
-                      class="long-text links-color" align="center">
+                  <td style="text-align: left; font-size: 16px; font-family: Arial, Helvetica, sans-serif; color: #3d3d3d; 
+                             padding-top:5px; padding-bottom:5px; line-height:26px; padding-left:15px; padding-right:10px;" 
+                      class="" align="center">
                     Take advantage of exclusive benefits just for our account members:</td>
                 </tr>
               </tbody>

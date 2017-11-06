@@ -1,6 +1,12 @@
 <?php 
 
-include_once("Other/OctoberRebates/index.php");
+ // include_once("Other/Forensics_110317/index.php");
+
+// include_once("Other/CanonCoupon/index.php");
+
+// include_once("Other/ProVideo_110117/index.php");
+
+// include_once("Other/OctoberRebates/index.php");
 
 
 // include_once("Other/VIP360_renewal_ncc_v2/index.php");
@@ -33,7 +39,7 @@ include_once("Other/OctoberRebates/index.php");
 
 //include_once("Other/FlashSale_0817/index.php");
 
-//include_once("Other/NewTemplate2Columns/index.php");
+ include_once("Other/NewTemplate2Columns/index.php");
 
 //include_once("Other/nyip/index.php");
 

@@ -15,8 +15,12 @@
                   <td align="center" valign="top">
                     <a href="https://www.adorama.com/?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" target="_blank" 
                        linkname="Main_Banner_Link">
-                    <img src="image_library/org_1/2565/eMail-Finance_01-PreApproval_02.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
+               
+                <img src="image_library/org_1/2619/eMail-Finance_01-PreApproval_02.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
                          alt="Main Banner" hspace="0" border="0" vspace="0" width="640">
+
+                      
+                      
                     </a>
                   </td>
                 </tr>

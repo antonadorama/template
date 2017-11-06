@@ -12,13 +12,13 @@
               <!--[if (gte mso 9)|(lte ie 8)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="640"><tr><![endif]-->
               <!--[if (gte mso 9)|(lte ie 8)]><td align="left" valign="top" width="124"><![endif]-->
               <div style="display: inline-block; max-width: 124px; vertical-align: top; width: 100%;" class="mobile-full">
-                <table style="border-collapse: separate;width: 100%; max-width:124px;" class="" align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
+                <table style="border-collapse: separate;width: 100%;" class="" align="left" border="0" cellpadding="0" cellspacing="0" width="124">
                   <tbody>
                     <tr>
                       <td class="" align="left" valign="top" width="100%">
 
-                        <img src="image_library/org_1/2565/bullet_circle.jpg" style="border: 0px;vertical-align: top;max-width:124px;width: 100%;height: auto;" 
-                             class="" alt="" hspace="0" border="0" vspace="0" width="100%" />
+                        <img src="image_library/org_1/2619/bullet_circle.jpg" style="border: 0px;vertical-align: top;width: 100%;height: auto;" 
+                             class="" alt="" hspace="0" border="0" vspace="0" width="124" />
 
                       </td>
                     </tr>
@@ -29,8 +29,8 @@
           <td>
               <!--[if (gte mso 9)|(lte ie 8)]></td><![endif]-->
               <!--[if (gte mso 9)|(lte ie 8)]><td align="left" valign="top" width="516"><![endif]-->
-              <div style="display: inline-block; max-width: 516px; vertical-align: middle; " class="mobile-full">
-                <table style="border-collapse: separate;" class="vb-content mobile-full" align="left" border="0" cellpadding="0" cellspacing="0" width="">
+              <div style="display: inline-block; max-width: 516px; vertical-align: middle; width:100%; " class="mobile-full">
+                <table style="border-collapse: separate;" class="vb-content mobile-full" align="left" border="0" cellpadding="0" cellspacing="0" width="516">
                   <tbody>
                     <tr>
                       <td class="" style="font-size: 20px; font-family: 'Montserrat', Helvetica, sans-serif; font-weight:600; color: #006bb0; text-align: left; padding-bottom:5px;">
@@ -55,3 +55,5 @@
     <!--[if (gte mso 9)|(lte ie 8)]></td></tr></table><![endif]-->
   </td>
 </tr>
+
+              

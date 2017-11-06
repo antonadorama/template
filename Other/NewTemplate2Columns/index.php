@@ -51,6 +51,8 @@
 					
 					<?php include_once("Other/NewTemplate2Columns/p_4.php"); ?>
 					
+					<?php include_once("Other/NewTemplate2Columns/valueprops.php"); ?>
+					
 					<!-- Flag -->
 					<?php //include_once("Other/NewTemplate2Columns/event.php"); ?>
 					<!-- Flag -->
