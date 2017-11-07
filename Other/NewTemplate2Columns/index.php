@@ -40,6 +40,8 @@
 					<?php include_once("Other/blocks/header.php"); ?>
 					
 					<?php include_once("Other/NewTemplate2Columns/countdown.php"); ?>
+					
+					<?php include_once("Other/NewTemplate2Columns/countdown_split.php"); ?>
 		
 					<?php include_once("Other/NewTemplate2Columns/p_1.php"); ?>
 														
@@ -50,6 +52,8 @@
 					<?php include_once("Other/NewTemplate2Columns/devider.php"); ?>
 					
 					<?php include_once("Other/NewTemplate2Columns/p_4.php"); ?>
+					
+					<?php include_once("Other/NewTemplate2Columns/p_5.php"); ?>
 					
 					<?php include_once("Other/NewTemplate2Columns/valueprops.php"); ?>
 					

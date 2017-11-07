@@ -1,5 +1,20 @@
 <?php 
 
+// include_once("Other/NewTemplate2Columns/index.php");
+
+
+// include_once("Other/HolidayLaunchHigh/index.php");
+
+//  include_once("Other/HolidayLaunchMedium/index.php");
+
+ include_once("Other/HolidayLaunchDefault/index.php");
+
+// include_once("Other/HolidayLaunch/index.php"); //low
+
+
+
+//include_once("Other/CanonCoupon_110717/index.php");
+
  // include_once("Other/Forensics_110317/index.php");
 
 // include_once("Other/CanonCoupon/index.php");
@@ -39,7 +54,7 @@
 
 //include_once("Other/FlashSale_0817/index.php");
 
- include_once("Other/NewTemplate2Columns/index.php");
+
 
 //include_once("Other/nyip/index.php");
 
