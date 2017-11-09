@@ -13,10 +13,10 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/g/Fujifilm-Forensics?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" target="_blank" 
-                       linkname="Main_Banner_Link">
-                    <img src="image_library/org_1/2645/eMail_Postcard-Foresnics-Fujifilm_XT1R_01.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
-                         alt="Main Banner" hspace="0" border="0" vspace="0" width="640">
+                    <a href="https://www.adoramapix.com/?utm_source=Newsletter&utm_medium=Email&utm_campaign=10_off_Sitewide_ADO&utm_content=ADO_banner_send" target="_blank" 
+                       linkname="Adoramapix">
+                    <img src="image_library/org_1/2671/adoramapix.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
+                         alt="Adoramapix" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>
                 </tr>

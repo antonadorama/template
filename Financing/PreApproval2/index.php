@@ -16,7 +16,8 @@
 		<meta name="format-detection" content="email=no">
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
-		<?php include_once("Other/blocks/style_5.php"); ?>		
+		<?php include_once("Financing/blocks/style_5_f.php"); ?>		
+		
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -31,40 +32,32 @@
 			<table align="center" bgcolor="#e3e3e3" border="0" cellpadding="0" cellspacing="0" class="wrap640" width="640">
 				<tbody>
 					
-					<?php //include_once("Other/blocks/send_button.php"); ?>
+					<?php // include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "EmailColumnTemplate"; ?>
+					<?php $utm = "Email_InvitationToApply_Letter"; ?>
 					
-					<?php $ttl = "Multie Column Template Full Width"; ?>
+					<?php $ttl = "Holiday Offer: Enjoy Exclusive Benefits as an Adorama Credit Card Account Holder!"; ?>
 					
-					<?php include_once("Other/blocks/header.php"); ?>
+					<?php include_once("Financing/blocks/header.php"); ?>
+						
+					<?php include_once("Financing/PreApproval2/p_1.php"); ?>
 					
-					<?php include_once("Other/NewTemplate2Columns/countdown.php"); ?>
+					<?php  include_once("Financing/PreApproval2/p_2.php"); ?>
 					
-					<?php include_once("Other/NewTemplate2Columns/countdown_split.php"); ?>
-		
-					<?php include_once("Other/NewTemplate2Columns/p_1.php"); ?>
-														
-					<?php include_once("Other/NewTemplate2Columns/p_2.php"); ?>
+					<?php  include("Financing/PreApproval2/p_3_1.php"); ?>
 					
-					<?php include_once("Other/NewTemplate2Columns/p_3.php"); ?>
+					<?php include("Financing/PreApproval2/p_3_2.php"); ?>
 					
-					<?php include_once("Other/NewTemplate2Columns/devider.php"); ?>
+					<?php include("Financing/PreApproval2/p_3_3.php"); ?>
 					
-					<?php include_once("Other/NewTemplate2Columns/p_4.php"); ?>
-					
-					<?php include_once("Other/NewTemplate2Columns/p_5.php"); ?>
-					
-					<?php include_once("Other/NewTemplate2Columns/valueprops.php"); ?>
+					<?php include_once("Financing/PreApproval2/button.php"); ?>
 					
 					
-				
+					<?php include_once("Financing/PreApproval2/p_5.php"); ?>
+
+					<?php include_once("Financing/PreApproval2/p_4.php"); ?>
 					
-					<!-- Flag -->
-					<?php //include_once("Other/NewTemplate2Columns/event.php"); ?>
-					<!-- Flag -->
-					
-					<?php include_once("Other/blocks/footer.php"); ?>
+					<?php include_once("Financing/blocks/footer_note.php"); ?>
 					
 				</tbody>
 			</table>

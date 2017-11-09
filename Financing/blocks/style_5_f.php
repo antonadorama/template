@@ -374,6 +374,159 @@
       line-height: 20px !important;
       padding: 10px;
     }
+     .big-title {
+      font-size: 21px !important;
+      line-height: 28px !important;
+      padding: 0 15px;
+    }
+    .small-title {
+      font-size: 16px !important;
+      line-height: 20px !important;
+      padding: 10px;
+    }
     .list-title {
       font-size: 21px !important;
+    }
+    /* adorama header and footer */
+    *[class=wrap770] {
+      width: 100% !important;
+      height: auto !important;
+    }
+    *[class=mobno] {
+      display: none !important;
+    }
+    *[class=logobrowser] {
+      display: block !important;
+      width: 100% !important;
+      height: auto !important;
+      padding-bottom: 0 !important;
+      text-align: center !important;
+    }
+    *[class=socialtop] {
+      padding: 15px 10px !important;
+    }
+    *[class=socialtopblock] {
+      display: block !important;
+      text-align: center !important;
+      width: 100% !important;
+      height: auto !important;
+    }
+    *[class=offer] {
+      display: none !important;
+    }
+    *[class=logomenu] {
+      background: #FFFFFF !important;
+    }
+    *[class=logo-wrapper] {
+      display: block !important;
+      padding: 30px 0 0 0 !important;
+      text-align: center !important;
+      width: 100% !important;
+      height: auto !important;
+    }
+    *[class=logo-wrapper] img {
+      margin: 0 auto !important;
+    }
+    *[class=video] {
+      display: none !important;
+    }
+    *[class=audio] {
+      display: none !important;
+    }
+    *[class=shop] {
+      width: auto !important;
+    }
+    *[class=cameras] {
+      width: auto !important;
+    }
+    *[class=lenses] {
+      width: auto !important;
+    }
+    *[class=deals] {
+      text-align: center !important;
+      width: auto !important;
+    }
+    *[class=menuimage] {
+      float: left !important;
+      display: block !important;
+      width: 33.333% !important;
+      text-align: center !important;
+      height: 150px;
+    }
+    *[class=block-a] {
+      width: 100% !important;
+      padding-bottom: 0 !important;
+    }
+    *[class=block-b-left] {
+      display: block !important;
+      padding-bottom: 20px !important;
+      width: 100% !important;
+      height: auto !important;
+    }
+    *[class=block-c-right] {
+      display: block;
+      width: 100% !important;
+      height: auto !important;
+    }
+    *[class=blockimages] {
+      width: 100% !important;
+      padding: 30px 0 10px 0 !important;
+    }
+    *[class=menubottomleft] {
+      display: block !important;
+      padding: 20px 0 !important;
+      width: 100% !important;
+      height: auto !important;
+    }
+    *[class=menubottomright] {
+      display: block !important;
+      padding: 20px 0 !important;
+      border-top: none !important;
+      width: 100% !important;
+      height: auto !important;
+    }
+    *[class=bottomlinksbright] {
+      display: block !important;
+      border-right: 0 !important;
+      width: 100% !important;
+      height: auto !important;
+      border-bottom: 1px solid #FFFFFF !important;
+    }
+    *[class=bottomlinksbrightno] {
+      display: block !important;
+      width: 100% !important;
+      height: auto !important;
+    }
+    *[class=flogo] {
+      float: left;
+      display: block !important;
+      width: 100% !important;
+      height: auto !important;
+    }
+    *[class=fbottomhidden] {
+      display: none !important;
+    }
+    *[class=fbottom] {
+      float: left;
+      display: block !important;
+      width: 30% !important;
+      height: auto !important;
+      padding-top: 20px;
+    }
+  }
   
+  @media screen and (device-width: 320px) and (device-height: 480px),
+  screen and (device-width: 320px) and (device-height: 568px) {
+    table[class=iosfix] {
+      position: absolute;
+      right: 0%;
+      top: 0%;
+    }
+    table[class=smaller_font] {
+      font-size: 12px !important;
+    }
+    td[class=menuwrapper] {
+      padding: 20px 0 10px 0 !important;
+    }
+  }
+</style>

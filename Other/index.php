@@ -1,5 +1,8 @@
 <?php 
 
+
+ include_once("Other/HolidayTemplate/index.php");
+
 // include_once("Other/NewTemplate2Columns/index.php");
 
 
@@ -7,7 +10,7 @@
 
 //  include_once("Other/HolidayLaunchMedium/index.php");
 
- include_once("Other/HolidayLaunchDefault/index.php");
+// include_once("Other/HolidayLaunchDefault/index.php");
 
 // include_once("Other/HolidayLaunch/index.php"); //low
 
@@ -26,7 +29,7 @@
 
 // include_once("Other/VIP360_renewal_ncc_v2/index.php");
 
-//include_once("Other/BF_Template/index.php");
+
 
 
 // include_once("Other/nyip_102317/index.php");

@@ -16,7 +16,8 @@
 		<meta name="format-detection" content="email=no">
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
-		<?php include_once("Other/blocks/style_5.php"); ?>		
+		<?php // include_once("Other/blocks/style_5.php"); ?>		
+		<?php include_once("FirstTimeBuyers/blocks/style_5.php"); ?>	
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -33,35 +34,47 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "EmailColumnTemplate"; ?>
+					<?php $utm = "Holiday_Template"; ?>
 					
-					<?php $ttl = "Multie Column Template Full Width"; ?>
+					<?php $ttl = "Holiday Template"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
-					<?php include_once("Other/NewTemplate2Columns/countdown.php"); ?>
+						<?php include_once("Other/HolidayTemplate/countdown_split.php"); ?>	
 					
-					<?php include_once("Other/NewTemplate2Columns/countdown_split.php"); ?>
-		
-					<?php include_once("Other/NewTemplate2Columns/p_1.php"); ?>
-														
-					<?php include_once("Other/NewTemplate2Columns/p_2.php"); ?>
+					<?php include_once("Other/HolidayTemplate/p_1.php"); ?>
 					
-					<?php include_once("Other/NewTemplate2Columns/p_3.php"); ?>
+					<?php include_once("Other/HolidayTemplate/p_2.php"); ?>
 					
-					<?php include_once("Other/NewTemplate2Columns/devider.php"); ?>
+					<?php include_once("Other/HolidayTemplate/4valueprops.php"); ?>
 					
-					<?php include_once("Other/NewTemplate2Columns/p_4.php"); ?>
-					
-					<?php include_once("Other/NewTemplate2Columns/p_5.php"); ?>
-					
-					<?php include_once("Other/NewTemplate2Columns/valueprops.php"); ?>
 					
 					
 				
 					
+					<?php include_once("Other/HolidayTemplate/p_8.php"); ?>
+					
+					<?php include_once("Other/HolidayTemplate/p_9.php"); ?>
+					
+					
+						<?php include_once("Other/HolidayTemplate/4products_block.php"); ?>
+					
+					
+					
+					
+					<?php include_once("Other/HolidayTemplate/p_10.php"); ?>
+					
+								<?php include_once("Other/HolidayTemplate/4products_block_clone.php"); ?>
+					
+					<?php include_once("Other/HolidayTemplate/p_11.php"); ?>
+					
+						
+					
+					
+					<?php include_once("Other/HolidayTemplate/valueprops.php"); ?>
+
 					<!-- Flag -->
-					<?php //include_once("Other/NewTemplate2Columns/event.php"); ?>
+					<?php //include_once("Other/NewTemplate2Columns/Template/event.php"); ?>
 					<!-- Flag -->
 					
 					<?php include_once("Other/blocks/footer.php"); ?>
