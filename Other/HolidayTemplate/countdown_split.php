@@ -15,7 +15,7 @@
                         <tbody>
                           <tr>
                             <td align="center" class="clock_image">
-                              <span style="color:#ffffff;"><strong>TIME LEFT</strong></span>
+                              <span style="color:#ffffff; font-size:1.5em;"><strong>TIME'S RUNNING OUT ON THESE DEALS ></strong></span>
                             </td>
                           </tr>
                         </tbody>

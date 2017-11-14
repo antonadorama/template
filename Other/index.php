@@ -1,5 +1,9 @@
 <?php 
 
+// include_once("Other/PhotoPlus/index.php");
+
+//include_once("Other/CanonCoupon_111317/index.php");
+
 
  include_once("Other/HolidayTemplate/index.php");
 

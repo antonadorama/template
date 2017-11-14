@@ -16,8 +16,7 @@
 		<meta name="format-detection" content="email=no">
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
-		<?php // include_once("Other/blocks/style_5.php"); ?>		
-		<?php include_once("FirstTimeBuyers/blocks/style_5.php"); ?>	
+		<?php include_once("Other/blocks/style_5.php"); ?>		
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -34,54 +33,15 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Holiday_Template"; ?>
+					<?php $utm = "Email_PhotoPlus2017_111317"; ?>
 					
-					<?php $ttl = "Holiday Template"; ?>
+					<?php $ttl = "Preview: We're Thrilled to Announce our Contest Winner!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
-						<?php include_once("Other/HolidayTemplate/countdown_split.php"); ?>	
-					
-					<?php include_once("Other/HolidayTemplate/p_1.php"); ?>
-					
-					<?php // include_once("Other/HolidayTemplate/p_2.php"); ?>
-					
-					<?php include_once("Other/HolidayTemplate/4valueprops.php"); ?>
-					
-					
-					
-				
-					
-					<?php include_once("Other/HolidayTemplate/p_8.php"); ?>
-					
-					<?php include_once("Other/HolidayTemplate/p_9.php"); ?>
-					
-					
-						<?php include_once("Other/HolidayTemplate/4products_block_white.php"); ?>
-					
-						<?php // include_once("Other/HolidayTemplate/4products_block.php"); ?>
-					
-					
-					
-					
-					<?php include_once("Other/HolidayTemplate/p_10.php"); ?>
-					
-					
-					<?php include_once("Other/HolidayTemplate/devider.php"); ?>
-							
-					
-					<?php include_once("Other/HolidayTemplate/p_11.php"); ?>
-					
-						
-					
-					
-					<?php //include_once("Other/HolidayTemplate/valueprops.php"); ?>
+					<?php include_once("Other/PhotoPlus/p_1.php"); ?>			
 
-					<!-- Flag -->
-					<?php //include_once("Other/NewTemplate2Columns/Template/event.php"); ?>
-					<!-- Flag -->
-					
-					<?php include_once("Other/blocks/holiday_footer.php"); ?>
+					<?php include_once("Other/blocks/footer.php"); ?>
 					
 				</tbody>
 			</table>

@@ -16,8 +16,7 @@
 		<meta name="format-detection" content="email=no">
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
-		<?php // include_once("Other/blocks/style_5.php"); ?>		
-		<?php include_once("FirstTimeBuyers/blocks/style_5.php"); ?>	
+		<?php include_once("Other/blocks/style_5.php"); ?>		
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -34,54 +33,44 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Holiday_Template"; ?>
+					<?php $utm = "Email_CanonCoupon_Resend_111317"; ?>
 					
-					<?php $ttl = "Holiday Template"; ?>
+					<?php $ttl = "Grab the Lowest Prices of the Year on Canon Zoom, Telephoto, Wide Angle Lenses & More!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
-						<?php include_once("Other/HolidayTemplate/countdown_split.php"); ?>	
+					<?php include_once("Other/CanonCoupon_111317/p_1.php"); ?>
 					
-					<?php include_once("Other/HolidayTemplate/p_1.php"); ?>
+					<?php include_once("Other/CanonCoupon_111317/p_2.php"); ?>
 					
-					<?php // include_once("Other/HolidayTemplate/p_2.php"); ?>
+					<?php include_once("Other/CanonCoupon_111317/p_3.php"); ?>
 					
-					<?php include_once("Other/HolidayTemplate/4valueprops.php"); ?>
+					<?php include_once("Other/CanonCoupon_111317/p_4.php"); ?>
 					
+					<?php include_once("Other/CanonCoupon_111317/p_5.php"); ?>
 					
+					<?php include_once("Other/CanonCoupon_111317/p_6.php"); ?>
 					
-				
+					<?php include_once("Other/CanonCoupon_111317/p_7.php"); ?>
 					
-					<?php include_once("Other/HolidayTemplate/p_8.php"); ?>
+					<?php include_once("Other/CanonCoupon_111317/p_8.php"); ?>
 					
-					<?php include_once("Other/HolidayTemplate/p_9.php"); ?>
+					<?php include_once("Other/CanonCoupon_111317/p_9.php"); ?>
 					
+					<?php include_once("Other/CanonCoupon_111317/p_10.php"); ?>
 					
-						<?php include_once("Other/HolidayTemplate/4products_block_white.php"); ?>
+					<?php include_once("Other/CanonCoupon_111317/p_11.php"); ?>
 					
-						<?php // include_once("Other/HolidayTemplate/4products_block.php"); ?>
+					<?php include_once("Other/CanonCoupon_111317/p_12.php"); ?>
 					
+					<?php include_once("Other/CanonCoupon_111317/p_13.php"); ?>
 					
+					<?php include_once("Other/CanonCoupon_111317/p_14.php"); ?>
 					
+					<?php include_once("Other/CanonCoupon_111317/p_15.php"); ?>
 					
-					<?php include_once("Other/HolidayTemplate/p_10.php"); ?>
-					
-					
-					<?php include_once("Other/HolidayTemplate/devider.php"); ?>
-							
-					
-					<?php include_once("Other/HolidayTemplate/p_11.php"); ?>
-					
-						
-					
-					
-					<?php //include_once("Other/HolidayTemplate/valueprops.php"); ?>
-
-					<!-- Flag -->
-					<?php //include_once("Other/NewTemplate2Columns/Template/event.php"); ?>
-					<!-- Flag -->
-					
-					<?php include_once("Other/blocks/holiday_footer.php"); ?>
+														
+					<?php include_once("Other/blocks/footer.php"); ?>
 					
 				</tbody>
 			</table>
