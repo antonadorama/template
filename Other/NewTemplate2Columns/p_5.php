@@ -13,38 +13,38 @@
                
               <tr>
                   <td>
-                    <a href="https://www.adorama.com/?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
-                         linkname="Free Shipping" target="_blank">
+                    <a href="https://www.adorama.com/g/holiday-gifts-under-50?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                         linkname="GiftsUnder50" target="_blank">
                     <img src="image_library/org_1/2671/Holiday_Launch_Email_Default_10.jpg" 
-                         alt="Free Shipping" width="100%" height="auto" border="0" style="display:inline;">
+                         alt="Gifts Under 50" width="100%" height="auto" border="0" style="display:inline;">
                     </a>
                   </td>
                   <td>
-                    <a href="https://www.adorama.com/?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
-                         linkname="Same Day Shipping" target="_blank">
+                    <a href="https://www.adorama.com/g/holiday-gifts-under-100?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                         linkname="GiftsUnder100" target="_blank">
                     <img src="image_library/org_1/2671/Holiday_Launch_Email_Default_11.jpg" 
-                         alt="Same Day Shipping" width="100%" height="auto" border="0" style="display:inline;">
+                         alt="Gifts Under 100" width="100%" height="auto" border="0" style="display:inline;">
                     </a>
                   </td>
                   <td>
-                    <a href="https://www.adorama.com/?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
-                         linkname="VIP 360" target="_blank">
+                    <a href="https://www.adorama.com/g/holiday-gifts-under-200?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                         linkname="GiftsUnder200" target="_blank">
                     <img src="image_library/org_1/2671/Holiday_Launch_Email_Default_12.jpg" 
-                         alt="Vip 360" width="100%" height="auto" border="0" style="display:inline;">
+                         alt="Gifts Under 200" width="100%" height="auto" border="0" style="display:inline;">
                     </a>
                   </td>
                   <td>
-                    <a href="https://www.adorama.com/?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
-                         linkname="FlexShopper" target="_blank">
+                    <a href="https://www.adorama.com/g/holiday-gifts-under-500?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                         linkname="GiftsUnder500" target="_blank">
                     <img src="image_library/org_1/2671/Holiday_Launch_Email_Default_13.jpg" 
-                         alt="FlexShopper" width="100%" height="auto" border="0" style="display:inline;">
+                         alt="Gifts Under 500" width="100%" height="auto" border="0" style="display:inline;">
                     </a>
                   </td>
                   <td>
-                    <a href="https://www.adorama.com/?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
-                         linkname="FlexShopper" target="_blank">
+                    <a href="https://www.adorama.com/g/holiday-gifts-over-500?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                         linkname="GiftsOver500" target="_blank">
                     <img src="image_library/org_1/2671/Holiday_Launch_Email_Default_14.jpg" 
-                         alt="FlexShopper" width="100%" height="auto" border="0" style="display:inline;">
+                         alt="Gifts Over 500" width="100%" height="auto" border="0" style="display:inline;">
                     </a>
                   </td>
                 </tr>

@@ -1,4 +1,4 @@
- 
+<!-- Best Sellers --> 
 <tr>
   <td>
 
@@ -41,8 +41,9 @@
 											<tbody>
 												<tr height="115">
 													<td align="center">
-														<a href="https://www.adorama.com/PKAAM6914A.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>">
-																	<img src="http://www.adorama.com/images/Large/PKAAM6914A.jpg" style="margin: 0 auto; display: block" class="product_img" width="115" height="115" border="0" alt="">
+														<a linkname="SB1WirelessSoundbar" href="https://www.adorama.com/PKAAM6914A.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>">
+																	<img src="http://www.adorama.com/images/Large/PKAAM6914A.jpg" style="margin: 0 auto; display: block" class="product_img" width="115" height="115" border="0" 
+																			 alt="SB1 350W Wireless Multi Room Soundbar and Subwoofer">
 																	</a>
 													</td>
 												</tr>
@@ -76,8 +77,9 @@
 											<tbody>
 												<tr height="115">
 													<td align="center">
-														<a href="https://www.adorama.com/ACMEF2AMA.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>">
-																			<img src="http://www.adorama.com/images/Large/ACMEF2AMA.jpg" style="margin: 0 auto; display: block" class="product_img" width="115" height="115" border="0" alt="">
+														<a linkname="BluetoothAirpods" href="https://www.adorama.com/ACMEF2AMA.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>">
+																			<img src="http://www.adorama.com/images/Large/ACMEF2AMA.jpg" style="margin: 0 auto; display: block" class="product_img" width="115" height="115" border="0" 
+																					 alt="Wireless Bluetooth AirPods">
 																			</a>
 													</td>
 												</tr>
@@ -95,8 +97,8 @@
 																	<td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #4d2a64; 
 																						 font-weight: normal; padding:8px 10px; border:1px solid #4d2a64" height="26" align="center" bgcolor="#ffffff"
 																	 valign="middle" width="auto">
-																		<a href="https://www.adorama.com/PKAAM6914A.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
-																			 linkname="SB1 350W Wireless Multi Room Soundbar and Subwoofer" target="_new" style="text-decoration: none; color: #4d2a64; font-weight: bold;">VIEW ></a></td>
+																		<a href="https://www.adorama.com/ACMEF2AMA.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
+																			 linkname="WirelessBluetoothAirPods" target="_new" style="text-decoration: none; color: #4d2a64; font-weight: bold;">VIEW ></a></td>
 																</tr>
 															</tbody>
 														</table>
@@ -120,8 +122,9 @@
 											<tbody>
 												<tr height="115">
 													<td align="center">
-														<a href="https://www.adorama.com/ACTV4K32.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>">
-																					<img src="http://www.adorama.com/images/Large/ACTV4K32.jpg" style="margin: 0 auto; display: block" class="product_img" width="115" height="115" border="0" alt="">
+														<a linkname="AppleTV" href="https://www.adorama.com/ACTV4K32.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>">
+																					<img src="http://www.adorama.com/images/Large/ACTV4K32.jpg" style="margin: 0 auto; display: block" class="product_img" width="115" height="115" border="0" 
+																							 alt="APPLE TV 4K 32GB">
 																					</a>
 													</td>
 												</tr>
@@ -139,8 +142,8 @@
 																	<td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #4d2a64; 
 																						 font-weight: normal; padding:8px 10px; border:1px solid #4d2a64" height="26" align="center" bgcolor="#ffffff"
 																	 valign="middle" width="auto">
-																		<a href="https://www.adorama.com/PKAAM6914A.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
-																			 linkname="SB1 350W Wireless Multi Room Soundbar and Subwoofer" target="_new" style="text-decoration: none; color: #4d2a64; font-weight: bold;">VIEW ></a></td>
+																		<a href="https://www.adorama.com/ACTV4K32.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
+																			 linkname="APPLE_TV_4K_32GB" target="_new" style="text-decoration: none; color: #4d2a64; font-weight: bold;">VIEW ></a></td>
 																</tr>
 															</tbody>
 														</table>
@@ -156,8 +159,9 @@
 											<tbody>
 												<tr height="115">
 													<td align="center">
-														<a href="https://www.adorama.com/BOQC25B.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>">
-																							<img src="http://www.adorama.com/images/Large/BOQC25B.jpg" style="margin: 0 auto; display: block" class="product_img" width="115" height="115" border="0" alt="">
+														<a linkname="QuietComfort25" href="https://www.adorama.com/BOQC25B.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>">
+																							<img src="http://www.adorama.com/images/Large/BOQC25B.jpg" style="margin: 0 auto; display: block" class="product_img" width="115" height="115" border="0" 
+																									 alt="QuietComfort 25 Acoustic Noise Cancelling Headphones">
 																							</a>
 													</td>
 												</tr>
@@ -175,8 +179,8 @@
 																	<td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #4d2a64; 
 																						 font-weight: normal; padding:8px 10px; border:1px solid #4d2a64" height="26" align="center" bgcolor="#ffffff"
 																	 valign="middle" width="auto">
-																		<a href="https://www.adorama.com/PKAAM6914A.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
-																			 linkname="SB1 350W Wireless Multi Room Soundbar and Subwoofer" target="_new" style="text-decoration: none; color: #4d2a64; font-weight: bold;">VIEW ></a></td>
+																		<a href="https://www.adorama.com/BOQC25B.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
+																			 linkname="QuietComfort25AcousticNoiseCancellingHeadphones" target="_new" style="text-decoration: none; color: #4d2a64; font-weight: bold;">VIEW ></a></td>
 																</tr>
 															</tbody>
 														</table>
@@ -195,3 +199,5 @@
 		</table>
 	</td>
 </tr>
+
+<!-- End of Best Sellers --> 

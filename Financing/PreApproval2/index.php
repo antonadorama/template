@@ -34,7 +34,7 @@
 					
 					<?php // include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Finanicing_InvitationToApply"; ?>
+					<?php $utm = "EmailFinancingInvitation111517"; ?>
 					
 					<?php $ttl = "Holiday Offer: Enjoy Exclusive Benefits as an Adorama Credit Card Account Holder!"; ?>
 					

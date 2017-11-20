@@ -1,3 +1,5 @@
+<!-- Holiday Value --> 
+
 <tr>
   <td>
     <table id="ko_titleBlock_7" style="background-color: #ffffff;" class="vb-outer" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -42,14 +44,18 @@
 
 												<tr>
 													<td align="center" valign="middle" height="80">
-														<a href="#">
-																	<img src="image_library/org_1/2558/creditcard_g.png" style="margin: 0 auto; display: block" class="product_img" width="81" height="81" border="0" alt="">
+														<a linkname="AdoramaCredit" href="https://www.adorama.com/g/adorama-credit?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>">
+																	<img src="image_library/org_1/2558/creditcard_g.png" style="margin: 0 auto; display: block" class="product_img" width="81" height="81" border="0" 
+																			 alt="Get Up To 12 Months Special Financing">
 																	</a>
 													</td>
 												</tr>
 																								<tr>
 													<td align="center" valign="top" height="40" class="title" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #114998">
-														<font color="#4d2a64"><strong>Adorama Credit Card</strong></font>
+														
+															<a linkname="Adorama_Credit" href="https://www.adorama.com/g/adorama-credit?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>">
+																<font color="#4d2a64"><strong>Get Up To 12 Months Special Financing*</strong></font>
+															</a>
 													</td>
 												</tr>
 											</tbody>
@@ -63,14 +69,18 @@
 
 												<tr>
 													<td align="center" valign="middle" height="80">
-														<a href="#">
-																			<img src="image_library/org_1/2558/expedited_g.png" style="margin: 0 auto; display: block" class="product_img" width="81" height="81" border="0" alt="">
+														<a linkname="ExpeditedShipping" href="https://www.adorama.com/g/holiday-shipping-options?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>">
+																			<img src="image_library/org_1/2558/expedited_g.png" style="margin: 0 auto; display: block" class="product_img" width="81" height="81" border="0" 
+																					 alt="Free Expedited shipping On Most Orders">
 																			</a>
 													</td>
 												</tr>
 																								<tr>
 													<td align="center" valign="top" height="40" class="title" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #114998">
-														<font color="#4d2a64"><strong>Free Expedited Shipping On Most Orders</strong></font>
+														
+															<a linkname="Expedited_Shipping" href="https://www.adorama.com/g/holiday-shipping-options?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>">
+																<font color="#4d2a64"><strong>	Free Expedited shipping On Most Orders</strong></font>
+															</a>
 													</td>
 												</tr>
 
@@ -95,14 +105,19 @@
 		
 												<tr>
 													<td align="center" valign="middle" height="80">
-														<a href="#">
-																					<img src="image_library/org_1/2558/giftcard_g.png" style="margin: 0 auto; display: block" class="product_img" width="81" height="81" border="0" alt="">
+														<a linkname="GiftCard" href="https://www.adorama.com/SendGiftCert?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>">
+																					<img src="image_library/org_1/2558/giftcard_g.png" style="margin: 0 auto; display: block" class="product_img" width="81" height="81" border="0" 
+																							 alt="Get a Gift Card, an Instant Gift">
 																					</a>
 													</td>
 												</tr>
 																																				<tr>
 													<td align="center" valign="top" height="40" class="title" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #114998">
-														<font color="#4d2a64"><strong>Get a Gift Card</strong></font>
+														
+															<a linkname="Gift_Card" href="https://www.adorama.com/SendGiftCert?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>">
+																<font color="#4d2a64"><strong>Get a Gift Card, an Instant Gift! </strong></font>
+															</a>
+															
 													</td>
 												</tr>
 
@@ -118,14 +133,18 @@
 										
 												<tr>
 													<td align="center" valign="middle" height="80">
-														<a href="#">
-																							<img src="image_library/org_1/2558/vip_g.png" style="margin: 0 auto; display: block" class="product_img" width="81" height="81" border="0" alt="">
+														<a linkname="BecomeVIP" href="https://www.adorama.com/g/vip-new?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>">
+																							<img src="image_library/org_1/2558/vip_g.png" style="margin: 0 auto; display: block" class="product_img" width="81" height="81" border="0" 
+																									 alt="Become a VIP and Get Deals First">
 																							</a>
 													</td>
 												</tr>
 																																				<tr>
 													<td align="center" valign="top" height="40" class="title" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #114998">
-														<font color="#4d2a64"><strong>Become a VIP<br><br></strong></font>
+														
+														<a linkname="Become_VIP" href="https://www.adorama.com/g/vip-new?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>">
+															<font color="#4d2a64"><strong>Become a VIP and Get Deals First!</strong></font>
+														</a>
 													</td>
 												</tr>
 
@@ -142,3 +161,5 @@
 		</table>
 	</td>
 </tr>
+
+<!-- End of Holiday Value --> 

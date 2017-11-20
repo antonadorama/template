@@ -1,13 +1,10 @@
 <?php 
 
-// include_once("Other/PhotoPlus/index.php");
-
-//include_once("Other/CanonCoupon_111317/index.php");
 
 
- include_once("Other/HolidayTemplate/index.php");
+// include_once("Other/HolidayTemplate/index.php");
 
-// include_once("Other/NewTemplate2Columns/index.php");
+ //include_once("Other/NewTemplate2Columns/index.php");
 
 
 // include_once("Other/HolidayLaunchHigh/index.php");
@@ -18,6 +15,15 @@
 
 // include_once("Other/HolidayLaunch/index.php"); //low
 
+include_once("Other/CanonCoupon_112017/index.php");
+
+// include_once("Other/PhotoPlus/index.php");
+
+// include_once("Other/CanonCoupon_111317/index.php");
+
+// include_once("Other/ThirdPartyTemplate/index.php");
+
+// include_once("Other/OneDaySaleVIP_111717/index.php");
 
 
 //include_once("Other/CanonCoupon_110717/index.php");

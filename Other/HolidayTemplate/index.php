@@ -16,7 +16,7 @@
 		<meta name="format-detection" content="email=no">
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
-		<?php // include_once("Other/blocks/style_5.php"); ?>		
+		<?php //include_once("Other/blocks/style_5.php"); ?>		
 		<?php include_once("FirstTimeBuyers/blocks/style_5.php"); ?>	
 		
 	<!--[if gte mso 15]>
@@ -42,35 +42,55 @@
 					
 						<?php include_once("Other/HolidayTemplate/countdown_split.php"); ?>	
 					
-					<?php include_once("Other/HolidayTemplate/p_1.php"); ?>
+					<?php include_once("Other/HolidayTemplate/countdown_split_banner.php"); ?>
+					
+					<?php //include_once("Other/HolidayTemplate/p_1.php"); ?>
 					
 					<?php // include_once("Other/HolidayTemplate/p_2.php"); ?>
+							
+					<?php include_once("Other/NewTemplate2Columns/p_1.php"); ?>
+														
+					<?php include_once("Other/NewTemplate2Columns/p_2.php"); ?>
 					
-					<?php include_once("Other/HolidayTemplate/4valueprops.php"); ?>
+					<?php include_once("Other/NewTemplate2Columns/p_3.php"); ?>
+					
+					<?php include_once("Other/NewTemplate2Columns/devider.php"); ?>
+					
+					<?php include_once("Other/NewTemplate2Columns/p_4.php"); ?>
+					
+					<?php include_once("Other/NewTemplate2Columns/p_5.php"); ?>
 					
 					
-					
+							<?php include_once("Other/HolidayTemplate/4products_block_white.php"); ?>
 				
 					
-					<?php include_once("Other/HolidayTemplate/p_8.php"); ?>
+					<?php // include_once("Other/HolidayTemplate/p_10.php"); ?>
 					
-					<?php include_once("Other/HolidayTemplate/p_9.php"); ?>
+					<?php include_once("Other/HolidayLaunchHigh/p_7.php"); ?>
+			
+					
+						<?php include_once("Other/HolidayTemplate/4valueprops.php"); ?>
+				
+					
+					<?php //include_once("Other/HolidayTemplate/p_8.php"); ?>
+					
+					<?php //include_once("Other/HolidayTemplate/p_9.php"); ?>
 					
 					
-						<?php include_once("Other/HolidayTemplate/4products_block_white.php"); ?>
+						
 					
 						<?php // include_once("Other/HolidayTemplate/4products_block.php"); ?>
 					
 					
 					
 					
-					<?php include_once("Other/HolidayTemplate/p_10.php"); ?>
 					
 					
-					<?php include_once("Other/HolidayTemplate/devider.php"); ?>
+					
+					<?php //include_once("Other/HolidayTemplate/devider.php"); ?>
 							
 					
-					<?php include_once("Other/HolidayTemplate/p_11.php"); ?>
+					<?php //include_once("Other/HolidayTemplate/p_11.php"); ?>
 					
 						
 					

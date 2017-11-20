@@ -73,7 +73,7 @@
 					<!-- End Header -->
 
 					<!--[if (gte mso 9)|(lte ie 8)]><tr><td><table align="center" border="0" cellspacing="0" cellpadding="0" width="640"><tr><td><![endif]-->
-					<!--[if (gte mso 9)|(lte ie 8)]>	<img src="http://php-project-antonadorama658454.codeanyapp.com/image_library/global/lines640.jpg" alt="lines" width="100%" height="auto"><![endif]-->
+					<!--[if (gte mso 9)|(lte ie 8)]>	<img src="https://www.adorama.com/col/images/email/lines640.jpg" alt="lines" width="100%" height="auto"><![endif]-->
 					<!--[if (gte mso 9)|(lte ie 8)]></td></tr></table></td></tr><![endif]-->
 
 
