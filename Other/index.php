@@ -1,5 +1,8 @@
 <?php 
 
+ include_once("Other/CyberMonday/index.php");
+
+// include_once("Other/Barry/index.php");
 
 
 // include_once("Other/HolidayTemplate/index.php");
@@ -15,7 +18,10 @@
 
 // include_once("Other/HolidayLaunch/index.php"); //low
 
-include_once("Other/CanonCoupon_112017/index.php");
+// include_once("Other/CanonCoupon_112017/index.php");
+
+
+//include_once("Other/LeicaNPA/index.php");
 
 // include_once("Other/PhotoPlus/index.php");
 

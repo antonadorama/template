@@ -1,4 +1,4 @@
-<!-- Spotlight -->
+<!-- Banner Section -->
 
 <tr>
   <td>
@@ -13,10 +13,10 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://img.kickdyn.com/clickrb.ashx?c=5593.KAkteBDtdiqgkYooKf1&guid=##GUID##" target="_blank" 
-                       linkname="Spotlight">
-                    <img src="https://img.kickdyn.com/5593/KAkteBDtdiqgkYooKf1/imgrb.png" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
-                         alt="Spotlight" hspace="0" border="0" vspace="0" width="640">
+                    <a href="https://www.adorama.com/alc/leica-cl-compact-digital-camera?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
+                       linkname="ALCLeica">
+                    <img src="image_library/org_1/2777/NPA-Leica-CL-18mm-Email_09.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
+                         alt="ALC LEICA" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>
                 </tr>
@@ -31,4 +31,4 @@
   </td>
 </tr>  
 
-<!-- Spotlight -->
+<!-- End Banner Section -->

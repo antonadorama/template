@@ -1,6 +1,8 @@
 <?php
 
-include_once("ABS/Sony_NPA/index_corp.php");
+include_once("ABS/Thanksgiving/index.php");
+
+// include_once("ABS/Sony_NPA/index_corp.php");
 
 // include_once("ABS/Sony_NPA/index_gov.php");
 
