@@ -14,9 +14,9 @@
                 <tr>
                   <td align="center" valign="top">
                     <a href="https://www.adorama.com/black-friday-cyber-monday/l/?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
-                       linkname="ShopAllCategories">
-                    <img src="image_library/org_1/2790/ShopDealsByCategory_10_2.png" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
-                         alt="Shop All Categories" hspace="0" border="0" vspace="0" width="640">
+                       linkname="HeaderBanner">
+                    <img src="image_library/org_1/2810/CyberMonday-Header-9AM.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
+                         alt="Header Banner" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>
                 </tr>

@@ -34,53 +34,54 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_CyberMonday_12AM_Finanicng_112717"; ?>
+					<?php $utm = "Email_CyberMonday_9AM_Canon_112717"; ?>
 					
-					<?php $ttl = "Use Your Special Financing on EXCLUSIVE 24 Hour Online Deals Sitewide!"; ?>
+					<?php $ttl = "Fresh New Deals Have Been Added to our Cyber Monday One-Day Savings Event!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>					
 		
-					<?php include_once("Other/CyberMonday/Default/h_1.php"); ?>
-					
-					<?php include_once("Other/CyberMonday/Default/f_1.php"); ?>
+					<?php include_once("Other/CyberMonday9/Default/h_1.php"); ?>
 					
 					<?php include_once("Other/CyberMonday/Default/countdown_split_banner.php"); ?>
 					
-					<?php include_once("Other/CyberMonday/Default/m_1.php"); ?>
+					<?php include_once("Other/CyberMonday/Canon/m_1.php"); ?>
 					
 					
 					<?php //include_once("Other/CyberMonday/Default/c_1.php"); ?> <!-- Shop All Accessories-->						
-					<?php //include_once("Other/CyberMonday/Default/c_6.php"); ?> <!-- Shop All Drones-->
-					<?php //include_once("Other/CyberMonday/Default/c_9.php"); ?> <!-- Shop All Printer-->		
-				
+					<?php //include_once("Other/CyberMonday/Default/c_2.php"); ?> <!-- Shop All ActionCam-->
+					<?php //include_once("Other/CyberMonday/Default/c_11.php"); ?> <!-- Shop All ProVideo-->					
+								
 					
-					
-				
-					
-					
-					
-					
-					
-					<?php include_once("Other/CyberMonday/Default/p_1.php"); ?> <!-- D7200-->
-					<?php include_once("Other/CyberMonday/Default/p_2.php"); ?> <!-- EOS 6D Mark-->
+					<!-- Camera-Canon --><?php include_once("Other/CyberMonday9/Default/p_10.php"); ?>
+					<!-- Camera-Nikon --><?php include_once("Other/CyberMonday9/Default/p_6.php"); ?>
 					<?php include_once("Other/CyberMonday/Default/c_4.php"); ?> <!-- Shop All Cameras-->
-					<?php include_once("Other/CyberMonday/Default/p_3.php"); ?> <!-- EFS Wide Angle Lense-->
+					
+					<!-- Lens-Sony --><?php include_once("Other/CyberMonday9/Default/p_9.php"); ?>
 					<?php include_once("Other/CyberMonday/Default/c_7.php"); ?> <!-- Shop All Lens-->
-					<?php include_once("Other/CyberMonday/Default/p_4.php"); ?> <!-- Mac Book Pro-->
-						<?php include_once("Other/CyberMonday/Default/c_5.php"); ?> <!-- Shop All Computers-->
-					<?php include_once("Other/CyberMonday/Default/p_5.php"); ?> <!-- Go Pro Hero 6-->
-						<?php include_once("Other/CyberMonday/Default/c_2.php"); ?> <!-- Shop All ActionCam-->
-					<?php include_once("Other/CyberMonday/Default/p_6.php"); ?> <!-- Pelican Case-->
-						<?php include_once("Other/CyberMonday/Default/c_3.php"); ?> <!-- Shop All Bags-->
-					<?php include_once("Other/CyberMonday/Default/p_7.php"); ?> <!-- Multimedia Monitors-->
-					<?php include_once("Other/CyberMonday/Default/c_10.php"); ?> <!-- Shop All ProAudio-->
-					<?php include_once("Other/CyberMonday/Default/p_8.php"); ?> <!-- RAID Hard Drive-->
-					<?php include_once("Other/CyberMonday/Default/c_12.php"); ?> <!-- Shop All Storage-->
-					<?php include_once("Other/CyberMonday/Default/p_9.php"); ?> <!-- Sony PXW Recorder-->
-					<?php include_once("Other/CyberMonday/Default/c_11.php"); ?> <!-- Shop All ProVideo-->					
-					<?php include_once("Other/CyberMonday/Default/p_11.php"); ?> <!-- Flashpoint Kit-->
+					
+					<!-- Computer-Apple --><?php include_once("Other/CyberMonday9/Default/p_7.php"); ?>
+					<?php include_once("Other/CyberMonday/Default/c_5.php"); ?> <!-- Shop All Computers-->
+					
+					<!-- Printer-Canon --><?php include_once("Other/CyberMonday9/Default/p_1.php"); ?>
+					<?php include_once("Other/CyberMonday/Default/c_9.php"); ?> <!-- Shop All Printer-->
+					
+					<!-- Lighting-Litepanels --><?php include_once("Other/CyberMonday9/Default/p_11.php"); ?>
 					<?php include_once("Other/CyberMonday/Default/c_8.php"); ?> <!-- Shop All Lighting-->					
-					<?php include_once("Other/CyberMonday/Default/p_10.php"); ?> <!-- Turbo Label Writer-->
+					
+					<!-- Drone-DJI --><?php include_once("Other/CyberMonday9/Default/p_8.php"); ?>
+					<?php include_once("Other/CyberMonday/Default/c_6.php"); ?> <!-- Shop All Drones-->
+					
+					<!-- ProAudio-Tascam --><?php include_once("Other/CyberMonday9/Default/p_4.php"); ?>
+					<?php include_once("Other/CyberMonday/Default/c_10.php"); ?> <!-- Shop All ProAudio-->
+					
+					<!-- Storage-Sandisk --><?php include_once("Other/CyberMonday9/Default/p_3.php"); ?>
+					<?php include_once("Other/CyberMonday/Default/c_12.php"); ?> <!-- Shop All Storage-->
+					
+					<!-- Bags-Pelican --><?php include_once("Other/CyberMonday9/Default/p_5.php"); ?>
+					<?php include_once("Other/CyberMonday/Default/c_3.php"); ?> <!-- Shop All Bags-->
+					
+					<!-- SmartHome-Nest --><?php include_once("Other/CyberMonday9/Default/p_2.php"); ?>
+
 					
 					<?php include_once("Other/CyberMonday/Default/c_14.php"); ?> <!-- ShopByCategories-->
 					<?php include_once("Other/CyberMonday/Default/c_14_1.php"); ?>
