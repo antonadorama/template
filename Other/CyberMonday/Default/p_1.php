@@ -15,7 +15,7 @@
                   <td align="center" valign="top">
                     <a href="https://www.adorama.com/inkd7200k2a.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
                        linkname="D7200">
-                    <img src="image_library/org_1/2790/adorama_cybermondayproduct_featurebanner_01.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
+                    <img src="https://www.adorama.com/col/images/email/2790/adorama_cybermondayproduct_featurebanner_01.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
                          alt="D7200" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>

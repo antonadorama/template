@@ -61,8 +61,10 @@
 					<?php include_once("Other/NewTemplate2Columns/p_5.php"); ?>
 					
 					
-							<?php include_once("Other/HolidayTemplate/4products_block_white.php"); ?>
+							<?php //include_once("Other/HolidayTemplate/4products_block_white.php"); ?>
 				
+					
+					<?php include_once("Other/HolidayTemplate/4products_block_white_2.php"); ?>
 					
 					<?php // include_once("Other/HolidayTemplate/p_10.php"); ?>
 					
@@ -100,6 +102,8 @@
 					<!-- Flag -->
 					<?php //include_once("Other/NewTemplate2Columns/Template/event.php"); ?>
 					<!-- Flag -->
+					
+					<?php include_once("Other/HolidayTemplate/spotlight.php"); ?>
 					
 					<?php include_once("Other/blocks/holiday_footer.php"); ?>
 					

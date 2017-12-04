@@ -36,7 +36,7 @@
 					
 					<?php $utm = "Email_CyberMonday_12AM_Default_112717"; ?>
 					
-					<?php $ttl = "Shop EXCLUSIVE 24 Hour Sitewide Savings on Hundreds of Items!"; ?>
+					<?php $ttl = "STARTS NOW: Grab ONE DAY Cyber Monday Deals on Apple, GoPro, Flashpoint & Hundreds More! Shop Now!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>					
 		
@@ -66,6 +66,10 @@
 					<?php include_once("Other/CyberMonday/Default/c_7.php"); ?> <!-- Shop All Lens-->
 					<?php include_once("Other/CyberMonday/Default/p_4.php"); ?> <!-- Mac Book Pro-->
 						<?php include_once("Other/CyberMonday/Default/c_5.php"); ?> <!-- Shop All Computers-->
+					
+					<?php include_once("Other/CyberMonday/Default/p_12.php"); ?> <!-- DJI Drone-->
+					<?php include_once("Other/CyberMonday/Default/c_6.php"); ?> <!-- Shop All Drones-->
+					
 					<?php include_once("Other/CyberMonday/Default/p_5.php"); ?> <!-- Go Pro Hero 6-->
 						<?php include_once("Other/CyberMonday/Default/c_2.php"); ?> <!-- Shop All ActionCam-->
 					<?php include_once("Other/CyberMonday/Default/p_6.php"); ?> <!-- Pelican Case-->

@@ -30,7 +30,7 @@
 										<tbody>
 											<tr>
 												<td class="logobrowser" style="width: 95%; color: #A7A9AC; font-size: 14px; padding: 5px 0;">
-													<span class="offer"><span class="line_hide"> | </span></span> <a href="#" linkname="View In Browser" style="color: #A7A9AC; text-decoration: underline" target="_blank">view in a browser</a></td>
+													<span class="offer"><span class="line_hide"><?php echo $ttl; ?> | </span></span> <a href="#" linkname="View In Browser" style="color: #A7A9AC; text-decoration: underline" target="_blank">view in a browser</a></td>
 											</tr>
 										</tbody>
 									</table>

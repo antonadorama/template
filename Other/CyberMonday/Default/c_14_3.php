@@ -15,13 +15,13 @@
                   <td>
                       <a href="https://www.adorama.com/black-friday-cyber-monday/l/Video-Equipment?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          linkname="ProVideo" target="_blank">
-                        <img src="image_library/org_1/2790/ShopDealsByCategory_06.png" alt="Pro Video" width="100%" height="auto" border="0" style="display:inline;">
+                        <img src="https://www.adorama.com/col/images/email/2790/ShopDealsByCategory_06.png" alt="Pro Video" width="100%" height="auto" border="0" style="display:inline;">
                       </a>
                   </td>
                   <td>
                     <a href="https://www.adorama.com/black-friday-cyber-monday/l/Professional-Audio?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                        linkname="ProAudio" target="_blank">
-                      <img src="image_library/org_1/2790/ShopDealsByCategory_07.png" alt="Pro Audio" width="100%" height="auto" border="0" style="display:inline;">
+                      <img src="https://www.adorama.com/col/images/email/2790/ShopDealsByCategory_07.png" alt="Pro Audio" width="100%" height="auto" border="0" style="display:inline;">
                     </a>
                   </td>
                 </tr>

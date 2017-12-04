@@ -13,9 +13,9 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/net200577.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
+                    <a href="https://www.adorama.com/nenc3100us.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
                        linkname="SmartHomeNest">
-                    <img src="image_library/org_1/2810/DoorBusterDeal-SmartHome-Nest.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
+                    <img src="https://www.adorama.com/col/images/email/2810/Cyber-Monday-9am-Nest-Revision.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
                          alt="SmartHome Nest" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>

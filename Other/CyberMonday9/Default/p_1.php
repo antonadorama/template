@@ -15,7 +15,7 @@
                   <td align="center" valign="top">
                     <a href="https://www.adorama.com/icad570.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
                        linkname="Printer Canon">
-                    <img src="image_library/org_1/2810/DoorBusterDeal-Printer-Canon.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
+                    <img src="https://www.adorama.com/col/images/email/2810/DoorBusterDeal-Printer-Canon.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
                          alt="Printer Canon" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>

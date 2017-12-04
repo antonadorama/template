@@ -15,13 +15,13 @@
                   <td>
                       <a href="https://www.adorama.com/black-friday-cyber-monday/l/Cameras?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          linkname="Cameras" target="_blank">
-                        <img src="image_library/org_1/2790/ShopDealsByCategory_02.png" alt="Cameras" width="100%" height="auto" border="0" style="display:inline;">
+                        <img src="https://www.adorama.com/col/images/email/2790/ShopDealsByCategory_02.png" alt="Cameras" width="100%" height="auto" border="0" style="display:inline;">
                       </a>
                   </td>
                   <td>
                     <a href="https://www.adorama.com/black-friday-cyber-monday/l/Lenses?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                        linkname="Lenses" target="_blank">
-                      <img src="image_library/org_1/2790/ShopDealsByCategory_03.png" alt="Lenses" width="100%" height="auto" border="0" style="display:inline;">
+                      <img src="https://www.adorama.com/col/images/email/2790/ShopDealsByCategory_03.png" alt="Lenses" width="100%" height="auto" border="0" style="display:inline;">
                     </a>
                   </td>
                 </tr>

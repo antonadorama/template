@@ -13,9 +13,9 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/black-friday-cyber-monday/l/?sel=brand_Apple&emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
+                    <a href="https://www.adorama.com/black-friday-cyber-monday/l/Apple~Computers?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
                        linkname="Main_Banner_Link">
-                    <img src="image_library/org_1/2790/ExclusiveDeals-Apple.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
+                    <img src="https://www.adorama.com/col/images/email/2790/ExclusiveDeals-Apple.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
                          alt="Main Banner" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>

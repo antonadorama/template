@@ -26,7 +26,7 @@
                                   <tbody>
                                     <tr>
                                       <td align="center" class="clock_image">
- <a href="https://www.adorama.com/black-friday-cyber-monday/l/?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
+ <a href="https://www.adorama.com/g/cyber-monday-deals?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
     target="_blank" linkname="Countdown">
          <img src="image_library/org_1/2558/countdown_banner_02.jpg" style="display: block; width:100%; max-width:290px;" alt="Countdown" width="100%"/>
  </a>
@@ -56,7 +56,7 @@
                                   <tbody>
                                     <tr>
                                       <td align="center" class="clock_image">
- <a href="https://www.adorama.com/black-friday-cyber-monday/l/?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
+ <a href="https://www.adorama.com/g/cyber-monday-deals?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
     target="_blank" linkname="Countdown">
          <img src="http://gen.sendtric.com/countdown/i5jl6o9u6m" style="display: block; width:100%; max-width:350px;" alt="Countdown" width="350"/>
  </a>

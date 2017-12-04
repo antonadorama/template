@@ -36,7 +36,7 @@
 					
 					<?php $utm = "Email_CyberMonday_9AM_Apple_112717"; ?>
 					
-					<?php $ttl = "Fresh New Deals Have Been Added to our Cyber Monday One-Day Savings Event!"; ?>
+					<?php $ttl = "EXCLUSIVE: We've Added New ONE DAY Deals Inside on Nikon, Sony, DJI, Sandisk, Nest & More! "; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>					
 		

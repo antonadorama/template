@@ -15,13 +15,13 @@
                   <td>
                       <a href="https://www.adorama.com/black-friday-cyber-monday/l/Office-Equipment?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          linkname="Office" target="_blank">
-                        <img src="image_library/org_1/2790/ShopDealsByCategory_08.png" alt="Office" width="100%" height="auto" border="0" style="display:inline;">
+                        <img src="https://www.adorama.com/col/images/email/2790/ShopDealsByCategory_08.png" alt="Office" width="100%" height="auto" border="0" style="display:inline;">
                       </a>
                   </td>
                   <td>
                     <a href="https://www.adorama.com/black-friday-cyber-monday/l/Bags-and-Cases?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                        linkname="Bags" target="_blank">
-                      <img src="image_library/org_1/2790/ShopDealsByCategory_09.png" alt="Bags" width="100%" height="auto" border="0" style="display:inline;">
+                      <img src="https://www.adorama.com/col/images/email/2790/ShopDealsByCategory_09.png" alt="Bags" width="100%" height="auto" border="0" style="display:inline;">
                     </a>
                   </td>
                 </tr>
