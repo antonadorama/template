@@ -1,16 +1,28 @@
 <?php 
 
-include_once("Other/BfBestsellers/index.php");
+include_once("Other/FlashFriday/index.php");
+
+//include_once("Other/Canon4K/index.php");
+
+// include_once("Other/GiftBundle_120617/index.php");
+
+// include_once("Other/GiftBundle/index.php");
+
+// include_once("Other/XANPA/index.php");
+
+//include_once("Other/BOGOCode/index.php");
+
+// include_once("Other/BfBestsellers/index.php");
 
 // include_once("Other/Forensics_113017/index.php");
 
-// include_once("Other/HolidayTemplate/index.php");
+ // include_once("Other/HolidayTemplate/index.php");
 
 // include_once("Other/CyberMonday9/index.php");
 
 // include_once("Other/CyberMonday/index.php");
 
-// include_once("Other/Barry/index.php");
+ // include_once("Other/Barry/index.php");
 
 
 

@@ -16,7 +16,6 @@
 		<meta name="format-detection" content="email=no">
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
-		<?php //include_once("Other/blocks/style_5.php"); ?>		
 		<?php include_once("FirstTimeBuyers/blocks/style_5.php"); ?>	
 		
 	<!--[if gte mso 15]>
@@ -32,80 +31,40 @@
 			<table align="center" bgcolor="#e3e3e3" border="0" cellpadding="0" cellspacing="0" class="wrap640" width="640">
 				<tbody>
 					
-					<?php //include_once("Other/blocks/send_button.php"); ?>
+					<?php //include_once("TradeIn/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Holiday_Template"; ?>
+					<?php $utm = "Email_GiftBundles_120617"; ?>
 					
-					<?php $ttl = "Holiday Template"; ?>
+					<?php $ttl = "TTL"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
-					<?php include_once("Other/HolidayTemplate/christmas_countdown.php"); ?>	
+					<!-- Main Banner--->
+					<?php include_once("Other/GiftBundle_120617/p_1.php"); ?>
+					<?php include_once("Other/GiftBundle_120617/p_2.php"); ?>
+					<?php include_once("Other/GiftBundle_120617/p_12.php"); ?> 
+					<?php include_once("Other/GiftBundle_120617/p_3.php"); ?> 
+						<?php include_once("Other/GiftBundle_120617/p_13.php"); ?>
+					<?php include_once("Other/GiftBundle_120617/p_4.php"); ?>
+					<?php include_once("Other/GiftBundle_120617/p_14.php"); ?>
+					<?php include_once("Other/GiftBundle_120617/p_5.php"); ?>
+					<?php include_once("Other/GiftBundle_120617/p_15.php"); ?>
+					<?php include_once("Other/GiftBundle_120617/p_6.php"); ?> 
+					<?php include_once("Other/GiftBundle_120617/p_7.php"); ?> 
+						<?php include_once("Other/GiftBundle_120617/p_17.php"); ?> 
+  
+					<?php include_once("Other/GiftBundle/p_2.php"); ?> 
+					<?php include_once("Other/GiftBundle/p_3.php"); ?>
+					<?php include_once("Other/GiftBundle/p_3_2.php"); ?> 
 					
-						<?php// include_once("Other/HolidayTemplate/countdown_split.php"); ?>	
-					
-					<?php// include_once("Other/HolidayTemplate/countdown_split_banner.php"); ?>
-					
-					<?php //include_once("Other/HolidayTemplate/p_1.php"); ?>
-					
-					<?php // include_once("Other/HolidayTemplate/p_2.php"); ?>
-							
-					<?php include_once("Other/NewTemplate2Columns/p_1.php"); ?>
-														
-					<?php include_once("Other/NewTemplate2Columns/p_2.php"); ?>
-					
-					<?php include_once("Other/NewTemplate2Columns/p_3.php"); ?>
-					
-					<?php include_once("Other/NewTemplate2Columns/devider.php"); ?>
-					
-					<?php include_once("Other/NewTemplate2Columns/p_4.php"); ?>
-					
-					<?php include_once("Other/NewTemplate2Columns/p_5.php"); ?>
-					
-					
-							<?php //include_once("Other/HolidayTemplate/4products_block_white.php"); ?>
-				
+					<?php include_once("Other/GiftBundle/p_4.php"); ?>  
+					<?php include_once("Other/GiftBundle/p_5.php"); ?> 
 					
 					<?php include_once("Other/HolidayTemplate/4products_block_white_2.php"); ?>
-					
-					<?php // include_once("Other/HolidayTemplate/p_10.php"); ?>
-					
 					<?php include_once("Other/HolidayLaunchHigh/p_7.php"); ?>
-			
+					<?php include_once("Other/HolidayTemplate/4valueprops.php"); ?>
 					
-						<?php include_once("Other/HolidayTemplate/4valueprops.php"); ?>
-				
-					
-					<?php //include_once("Other/HolidayTemplate/p_8.php"); ?>
-					
-					<?php //include_once("Other/HolidayTemplate/p_9.php"); ?>
-					
-					
-						
-					
-						<?php // include_once("Other/HolidayTemplate/4products_block.php"); ?>
-					
-					
-					
-					
-					
-					
-					
-					<?php //include_once("Other/HolidayTemplate/devider.php"); ?>
-							
-					
-					<?php //include_once("Other/HolidayTemplate/p_11.php"); ?>
-					
-						
-					
-					
-					<?php //include_once("Other/HolidayTemplate/valueprops.php"); ?>
-
-					<!-- Flag -->
-					<?php //include_once("Other/NewTemplate2Columns/Template/event.php"); ?>
-					<!-- Flag -->
-					
-					<?php include_once("Other/HolidayTemplate/spotlight.php"); ?>
+			      
 					
 					<?php include_once("Other/blocks/holiday_footer.php"); ?>
 					
@@ -116,7 +75,7 @@
 	</tbody>
 </table>
 </div>
-	<div style="display:none !important; padding:0 !important;">
+		<div style="display:none !important; padding:0 !important;">
 <img src="http://svopn.adorama.com/?sv_cid=2620_03922&sv_emopen=true&sv_svemi=##GUID##" height="1" width="1" style="display:none !important;"/>
 </div>
 </body>

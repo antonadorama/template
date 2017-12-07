@@ -1,5 +1,6 @@
-<?php include_once("TradeIn/GX10_113017/index.php"); ?>
+<?php include_once("TradeIn/Ricoh_120717/index.php"); ?>
 
+<?php //include_once("TradeIn/GX10_113017/index.php"); ?>
 
 <?php //include_once("TradeIn/Olympus0902/index.php"); ?>
 
