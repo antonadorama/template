@@ -34,29 +34,32 @@
 					
 					<?php //include_once("TradeIn/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_FlashFriday_120817"; ?>
+					<?php $utm = "Email_AppleSale_121117"; ?>
 					
-					<?php $ttl = "FLASH FRIDAY Deals | Up To 40% OFF Flashpoint XPLOR, eVOLV and Glow Lighting!"; ?>
+					<?php $ttl = "Shop the Lowest Prices of the Season on Apple iPad, Macbook and iMac Gifts!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
 					<!-- Main Banner--->
-					<?php //include_once("Other/FlashFriday/p_1_1.php"); ?>
-					<?php include_once("Other/FlashFriday/p_1.php"); ?>
-					<?php include_once("Other/FlashFriday/p_2.php"); ?>
-					<?php include_once("Other/FlashFriday/p_3.php"); ?>
-					<?php include_once("Other/FlashFriday/p_4.php"); ?>
 					
+					<?php include_once("Other/AppleSale/p_1.php"); ?>
+					<?php include_once("Other/AppleSale/p_2.php"); ?>
+					<?php include_once("Other/AppleSale/p_3.php"); ?>
+					<?php include_once("Other/AppleSale/p_4.php"); ?>
+					<?php include_once("Other/AppleSale/p_5.php"); ?>
+					<?php include_once("Other/AppleSale/p_6.php"); ?>
+					<?php include_once("Other/AppleSale/p_7.php"); ?>
+					<?php include_once("Other/AppleSale/p_8.php"); ?>
 					
-					<?php // include_once("Other/GiftBundle_120617/p_1.php"); ?>
+				
 					
-					<?php include_once("Other/FlashFriday/4products_block_white_2.php"); ?>
+					<?php include_once("Other/HolidayTemplate/4products_block_white_3.php"); ?>
 					
 										
 					<?php include_once("Other/HolidayTemplate/spotlight.php"); ?>
 			
 					
-						<?php include_once("Other/HolidayTemplate/4valueprops.php"); ?>
+						<?php include_once("Other/HolidayTemplate/4valueprops_2.php"); ?>
 					
 			      
 					

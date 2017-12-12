@@ -6,6 +6,7 @@
 	<title>Adorama.com | Experts in Photo, Pro Video and Pro Audio</title>
 </head>
 <body style="min-width: 100%; padding: 0; margin: 0; -webkit-text-size-adjust: none; background-color: #e3e3e3;">
+
 	<p style="display:none;">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<meta name="apple-mobile-web-app-capable" content="yes">
@@ -16,8 +17,7 @@
 		<meta name="format-detection" content="email=no">
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
-		<?php //include_once("Other/blocks/style_5.php"); ?>		
-		<?php include_once("FirstTimeBuyers/blocks/style_5.php"); ?>
+		<?php include_once("Other/blocks/style_5.php"); ?>		
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -32,35 +32,26 @@
 			<table align="center" bgcolor="#e3e3e3" border="0" cellpadding="0" cellspacing="0" class="wrap640" width="640">
 				<tbody>
 					
-					<?php //include_once("TradeIn/blocks/send_button.php"); ?>
+					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_FlashFriday_120817"; ?>
+					<?php $utm = "Email_Forensics_121817"; ?>
 					
-					<?php $ttl = "FLASH FRIDAY Deals | Up To 40% OFF Flashpoint XPLOR, eVOLV and Glow Lighting!"; ?>
+					<?php $ttl = "Keep your hands warm and equipment dry"; ?>
 					
-					<?php include_once("Other/blocks/header.php"); ?>
+					<?php // include_once("Other/blocks/header.php"); ?>
+					<?php include_once("ABS/blocks/header.php"); ?>
 					
-					<!-- Main Banner--->
-					<?php //include_once("Other/FlashFriday/p_1_1.php"); ?>
-					<?php include_once("Other/FlashFriday/p_1.php"); ?>
-					<?php include_once("Other/FlashFriday/p_2.php"); ?>
-					<?php include_once("Other/FlashFriday/p_3.php"); ?>
-					<?php include_once("Other/FlashFriday/p_4.php"); ?>
+					<?php include_once("Other/Forensics_121817/p_1.php"); ?>
+					
+					<?php include_once("Other/Forensics_121817/p_2.php"); ?>
+					
+					<?php include_once("Other/Forensics_121817/p_3.php"); ?>			
 					
 					
-					<?php // include_once("Other/GiftBundle_120617/p_1.php"); ?>
+														
+					<?php // include_once("Other/blocks/footer.php"); ?>
 					
-					<?php include_once("Other/FlashFriday/4products_block_white_2.php"); ?>
-					
-										
-					<?php include_once("Other/HolidayTemplate/spotlight.php"); ?>
-			
-					
-						<?php include_once("Other/HolidayTemplate/4valueprops.php"); ?>
-					
-			      
-					
-					<?php include_once("Other/blocks/holiday_footer.php"); ?>
+					<?php include_once("ABS/blocks/footer.php"); ?>
 					
 				</tbody>
 			</table>
@@ -68,6 +59,9 @@
 		</tr>
 	</tbody>
 </table>
-</div>	
+</div>
+	<div style="display:none !important; padding:0 !important;">
+<img src="http://svopn.adorama.com/?sv_cid=2620_03922&sv_emopen=true&sv_svemi=##GUID##" height="1" width="1" style="display:none !important;"/>
+</div>
 </body>
 </html>

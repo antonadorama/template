@@ -1,6 +1,12 @@
 <?php 
 
-include_once("Other/FlashFriday/index.php");
+ include_once("Other/XANPAABS/index.php");
+
+// include_once("Other/Forensics_121817/index.php");
+
+// include_once("Other/AppleSale/index.php");
+
+// include_once("Other/FlashFriday/index.php");
 
 //include_once("Other/Canon4K/index.php");
 

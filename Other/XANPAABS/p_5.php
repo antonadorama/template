@@ -13,10 +13,10 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/FPLFX600BFFK.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
-                       linkname="FPLFX600BFFK">
-                    <img src="image_library/org_1/2900/adorama_12-7_spotlightdeal_01_3.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
-                         alt="FPLFX600BFFK" hspace="0" border="0" vspace="0" width="640">
+                    <a href="https://www.adorama.com/alc/canon-unveils-3-portable-proprosumer-camcorders?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" target="_blank" 
+                       linkname="ALC">
+                    <img src="image_library/org_1/2937/eMail_Postcard-ABS_NPA-Canon_Camcorders_05.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
+                         alt="ALC" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>
                 </tr>

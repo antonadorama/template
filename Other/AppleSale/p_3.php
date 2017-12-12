@@ -13,10 +13,10 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/FPLFX600BFFK.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
-                       linkname="FPLFX600BFFK">
-                    <img src="image_library/org_1/2900/adorama_12-7_spotlightdeal_01_3.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
-                         alt="FPLFX600BFFK" hspace="0" border="0" vspace="0" width="640">
+                    <a href="https://www.adorama.com/ACMJVE2LLA1.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
+                       linkname="ACMJVE2LLA1">
+                    <img src="image_library/org_1/2927/adorama_applesaleemail_product_1.gif" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
+                         alt="ACMJVE2LLA1" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>
                 </tr>
