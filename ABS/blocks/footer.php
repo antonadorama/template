@@ -16,7 +16,7 @@
                         <td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px; color: #666666; font-weight: normal">
                           <br> Email sent to: ##email_address##
                           <br>
-                          <a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=manage&utm_source=slgt&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=ABS#emailpref" style="color: #666666; text-decoration: none" linkname="Preferences"><strong>Manage Preferences</strong></a>                          | <a href="" style="color: #666666; text-decoration: none" linkname="Forward a Friend"><strong>Forward to a Friend</strong></a> | <a href="" style="color: #666666; text-decoration: none" linkname="Unsubscribe"><strong>Unsubscribe</strong></a>
+                          <a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=manage&utm_source=slgt&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=<?php echo $utm;?>#emailpref" style="color: #666666; text-decoration: none" linkname="Preferences"><strong>Manage Preferences</strong></a>                          | <a href="" style="color: #666666; text-decoration: none" linkname="Forward a Friend"><strong>Forward to a Friend</strong></a> | <a href="" style="color: #666666; text-decoration: none" linkname="Unsubscribe"><strong>Unsubscribe</strong></a>
                           <br>
                          
                           <br>Products are subject to price change and availability. Not responsible for typographical errors.

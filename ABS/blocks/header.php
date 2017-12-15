@@ -53,7 +53,7 @@
 																	<td align="left" valign="top" class="tocenter">
 																																																		<!--[if (gte mso 9)|(lte ie 8)]>
 															<table align="left" border="0" cellspacing="0" cellpadding="0" width="170"><tr><td align="center" valign="top"><![endif]-->
-																		<a href="https://www.adorama.com/abs?guid=##GUID##&utm_source=slgt&refby=slgt&utm_medium=email&utm_term=ContactForm&utm_content=Body&utm_campaign=ABS_Sony_NPA_gov" linkname="Header" target="_blank">
+																		<a href="https://www.adorama.com/abs?guid=##GUID##&utm_source=slgt&refby=slgt&utm_medium=email&utm_term=ContactForm&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="Header" target="_blank">
 
 																			<img alt="Header" border="0" class="mobile-image" hspace="0" 
 																					 src="image_library/org_1/2574/Adorama-Business-Solutions-Logo-small.jpg" 

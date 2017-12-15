@@ -41,7 +41,7 @@
 											<tbody>
 												<tr height="115">
 													<td align="center">
-														<a linkname="SB1WirelessSoundbar" href="https://www.adorama.com/isoa7r3.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>">
+														<a linkname="Sonya7RIIIMirrorlessDigitalCameraBody " href="https://www.adorama.com/isoa7r3.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>">
 																	<img src="http://www.adorama.com/images/Large/isoa7r3.jpg" style="margin: 0 auto; display: block" class="product_img" width="115" height="115" border="0" 
 																			 alt="Sony a7R III Mirrorless Digital Camera Body ">
 																	</a>
@@ -77,7 +77,7 @@
 											<tbody>
 												<tr height="115">
 													<td align="center">
-														<a linkname="BluetoothAirpods" href="https://www.adorama.com/INKD750G.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>">
+														<a linkname="NikonD750DSLR" href="https://www.adorama.com/INKD750G.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>">
 																			<img src="http://www.adorama.com/images/Large/INKD750G.jpg" style="margin: 0 auto; display: block" class="product_img" width="115" height="115" border="0" 
 																					 alt="Nikon D750 DSLR ">
 																			</a>
@@ -122,7 +122,7 @@
 											<tbody>
 												<tr height="115">
 													<td align="center">
-														<a linkname="AppleTV" href="https://www.adorama.com/fplfx600tb.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>">
+														<a linkname="FlashpointXPLOR600HSS" href="https://www.adorama.com/fplfx600tb.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>">
 																					<img src="http://www.adorama.com/images/Large/fplfx600tb.jpg" style="margin: 0 auto; display: block" class="product_img" width="115" height="115" border="0" 
 																							 alt="Flashpoint XPLOR 600 HSS">
 																					</a>
@@ -159,7 +159,7 @@
 											<tbody>
 												<tr height="115">
 													<td align="center">
-														<a linkname="QuietComfort25" href="https://www.adorama.com/ICA5DM4Z.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>">
+														<a linkname="CanonEOS5DMarkIV" href="https://www.adorama.com/ICA5DM4Z.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>">
 																							<img src="http://www.adorama.com/images/Large/ICA5DM4Z.jpg" style="margin: 0 auto; display: block" class="product_img" width="115" height="115" border="0" 
 																									 alt="Canon EOS 5D Mark IV">
 																							</a>

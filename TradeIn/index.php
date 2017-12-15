@@ -1,4 +1,8 @@
-<?php include_once("TradeIn/Ricoh_120717/index.php"); ?>
+<?php include_once("TradeIn/Sony_121417/index.php"); ?>
+
+<?php //include_once("TradeIn/Trade_121317/index.php"); ?>
+
+<?php //include_once("TradeIn/Ricoh_120717/index.php"); ?>
 
 <?php //include_once("TradeIn/GX10_113017/index.php"); ?>
 
