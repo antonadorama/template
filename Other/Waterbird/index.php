@@ -34,9 +34,9 @@
 					
 					<?php //include_once("TradeIn/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Waterbird_121517"; ?>
+					<?php $utm = "Email_Waterbird_121817"; ?>
 					
-					<?php $ttl = "TTL"; ?>
+					<?php $ttl = "Don't miss out on this new arrival and more! Shop now!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
@@ -48,7 +48,7 @@
 					
 					<?php include_once("Other/Waterbird/p_3.php"); ?>
 					
-					<?php include_once("Other/Waterbird/p_4.php"); ?>
+					<?php // include_once("Other/Waterbird/p_4.php"); ?>
 					
 					<?php include_once("Other/Waterbird/p_5.php"); ?>
 					

@@ -1,6 +1,6 @@
 <?php 
 
-include_once("Other/Waterbird/index.php");
+// include_once("Other/Waterbird/index.php");
 
 // include_once("Other/FlashFriday_121517/index.php");
 
@@ -57,7 +57,7 @@ include_once("Other/Waterbird/index.php");
 
 // include_once("Other/PhotoPlus/index.php");
 
-// include_once("Other/CanonCoupon_111317/index.php");
+ include_once("Other/CanonCoupon_111317/index.php");
 
 // include_once("Other/ThirdPartyTemplate/index.php");
 

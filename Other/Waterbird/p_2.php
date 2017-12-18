@@ -15,7 +15,7 @@
                   <td align="center" valign="top">
                     <a href="https://www.adorama.com/wbms150pro.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
                        linkname="wbms150pro">
-                    <img src="image_library/org_1/2963/Waterbird-Launch-Product-Email-12-13-17_02.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
+                    <img src="image_library/org_1/2963/Waterbird-Launch-Product-Email-12-18-17_02.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
                          alt="wbms150pro" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>
