@@ -1,5 +1,15 @@
 <?php 
 
+include_once("Other/FlashFriday_122217/index.php");
+
+// include_once("Other/CanonCouponDecProducts/index.php");
+
+// include_once("Other/CanonCouponDecPostcard/index.php");
+
+// include_once("Other/iMacNPA/index.php");
+
+// include_once("Other/WinterWriteoff/index.php");
+
 // include_once("Other/Waterbird/index.php");
 
 // include_once("Other/FlashFriday_121517/index.php");
@@ -57,7 +67,7 @@
 
 // include_once("Other/PhotoPlus/index.php");
 
- include_once("Other/CanonCoupon_111317/index.php");
+// include_once("Other/CanonCoupon_111317/index.php");
 
 // include_once("Other/ThirdPartyTemplate/index.php");
 

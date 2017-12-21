@@ -10,6 +10,8 @@
     font-family: Arial, Helvetica, sans-serif;
   }
   
+  table {border-spacing: 0;}
+  
   div,
   p,
   a,
@@ -63,6 +65,11 @@
        }
   
   @media screen and (max-device-width: 480px),  screen and (max-width: 480px) {
+    
+    td[class=vb-outer] {
+      height:auto !important;           
+    }
+    
     
     td[class=deals],td[class=shop],td[class=cameras],td[class=lenses]{
       
