@@ -36,7 +36,7 @@
 					
 					<?php $utm = "Email_FlashFriday_122217"; ?>
 					
-					<?php $ttl = "TTL"; ?>
+					<?php $ttl = "Grab Exclusive One Day Deals on Studio & Tripod Best-Sellers!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
@@ -44,15 +44,15 @@
 					<?php //include_once("Other/FlashFriday/p_1_1.php"); ?>
 					<?php include_once("Other/FlashFriday_122217/p_1.php"); ?>
 					
-					<?php include("Other/FlashFriday_122217/cupon_code.php"); ?>
+					<?php //include("Other/FlashFriday_122217/cupon_code.php"); ?>
 					
 					<?php include_once("Other/FlashFriday_122217/p_2.php"); ?>
 					
-					<?php include("Other/FlashFriday_122217/cupon_code.php"); ?>
+					<?php //include("Other/FlashFriday_122217/cupon_code.php"); ?>
 					
 					<?php include_once("Other/FlashFriday_122217/p_3.php"); ?>
 					
-					<?php include("Other/FlashFriday_122217/cupon_code.php"); ?>
+					<?php //include("Other/FlashFriday_122217/cupon_code.php"); ?>
 					
 					<?php include_once("Other/FlashFriday_121517/p_4.php"); ?>
 					
@@ -76,6 +76,9 @@
 		</tr>
 	</tbody>
 </table>
-</div>	
+</div>
+	<div style="display:none !important; padding:0 !important;">
+<img src="http://svopn.adorama.com/?sv_cid=2620_03922&sv_emopen=true&sv_svemi=##GUID##" height="1" width="1" style="display:none !important;"/>
+</div>
 </body>
 </html>

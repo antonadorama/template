@@ -1,4 +1,6 @@
-<?php include_once("TradeIn/Sony_121417/index.php"); ?>
+<?php include_once("TradeIn/LeicaLC/index.php"); ?>
+
+<?php //include_once("TradeIn/Sony_121417/index.php"); ?>
 
 <?php //include_once("TradeIn/Trade_121317/index.php"); ?>
 

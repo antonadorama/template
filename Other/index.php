@@ -1,8 +1,16 @@
 <?php 
 
-include_once("Other/FlashFriday_122217/index.php");
+include_once("Other/JanuaryRebates/index.php");
 
-// include_once("Other/CanonCouponDecProducts/index.php");
+// include_once("Other/OutletSale/index.php");
+
+// include_once("Other/PostHolidayTemplate/index.php");
+
+// include_once("Other/AppleSale_122617/index.php");
+
+// include_once("Other/FlashFriday_122217/index.php");
+
+// include_once("Other/CanonCouponDecProducts/index.php");  
 
 // include_once("Other/CanonCouponDecPostcard/index.php");
 
