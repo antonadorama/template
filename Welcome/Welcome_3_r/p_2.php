@@ -15,7 +15,7 @@
                   <td>
                       <a href="https://www.adorama.com/g/VIP-NEW?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
                          linkname="Upgrade_to_VIP" target="_blank">
-                        <img src="image_library/org_1/2531/Welcome-Email-3_02.jpg" alt="Upgrade to VIP" width="100%" height="auto" border="0" style="display:inline;">
+                        <img src="image_library/org_1/3076/Welcome-Email-3_02_v2.jpg" alt="Upgrade to VIP" width="100%" height="auto" border="0" style="display:inline;">
                       </a>
                   </td>
                   <td>

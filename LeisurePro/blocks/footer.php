@@ -10,7 +10,7 @@
 								<tr>
 									<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #A7A9AC" valign="top" width="33%">
 										<br />
-										<a href="http://www.leisurepro.com/c-4918/underwater-cameras?refby=SLGT&emailprice=t&utm_source=SLGT&utm_medium=email&utm_term=underwater-cameras&utm_content=Footer&utm_campaign=<?php echo $utm; ?>" linkname="UnderwaterCamerasIcon" style="color: #A7A9AC; text-decoration:none" target="_blank">
+										<a href="http://www.leisurepro.com/c-4918/underwater-cameras?refby=slgt&emailprice=t&utm_source=slgt&utm_medium=email&utm_term=underwater-cameras&utm_content=Footer&utm_campaign=<?php echo $utm; ?>" linkname="UnderwaterCamerasIcon" style="color: #A7A9AC; text-decoration:none" target="_blank">
 											<img alt="" border="0" height="65" src="http://www.leisurepro.com/image/email/20160607-subnav_01.png" style="margin: 0 auto; display: block" width="65" />
 											<br />
 												UNDERWATER CAMERAS
@@ -20,7 +20,7 @@
 									</td>
 									<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #A7A9AC" valign="top" width="33%">
 										<br />
-										<a href="http://www.leisurepro.com/c/wetsuits?refby=SLGT&emailprice=t&utm_source=SLGT&utm_medium=email&utm_term=wetsuits&utm_content=Footer&utm_campaign=<?php echo $utm; ?>" linkname="WetsuitsIcon" style="color: #A7A9AC; text-decoration:none" target="_blank">
+										<a href="http://www.leisurepro.com/c/wetsuits?refby=slgt&emailprice=t&utm_source=slgt&utm_medium=email&utm_term=wetsuits&utm_content=Footer&utm_campaign=<?php echo $utm; ?>" linkname="WetsuitsIcon" style="color: #A7A9AC; text-decoration:none" target="_blank">
 											<img alt="" border="0" height="65" src="http://www.leisurepro.com/image/email/20160607-subnav_02.png" style="margin: 0 auto; display: block;" width="65" />
 											<br />
 												WETSUITS
@@ -30,7 +30,7 @@
 									</td>
 									<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #A7A9AC" valign="top" width="33%">
 										<br />
-										<a href="http://www.leisurepro.com/c-967/spearguns?refby=SLGT&emailprice=t&utm_source=SLGT&utm_medium=email&utm_term=Spearguns&utm_content=Footer&utm_campaign=<?php echo $utm; ?>" linkname="SpeargunsIcon" style="color: #A7A9AC; text-decoration:none" target="_blank">
+										<a href="http://www.leisurepro.com/c-967/spearguns?refby=slgt&emailprice=t&utm_source=slgt&utm_medium=email&utm_term=Spearguns&utm_content=Footer&utm_campaign=<?php echo $utm; ?>" linkname="SpeargunsIcon" style="color: #A7A9AC; text-decoration:none" target="_blank">
 											<img alt="" border="0" height="65" src="http://www.leisurepro.com/image/email/20160607-subnav_03.png" style="margin: 0 auto; display: block;" width="65" />
 											<br />
 												SPEARGUNS
@@ -48,7 +48,7 @@
 								<tr>
 									<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #A7A9AC" valign="top" width="33%">
 										<br />
-										<a href="http://www.leisurepro.com/c/snorkeling?refby=SLGT&emailprice=t&utm_source=SLGT&utm_medium=email&utm_term=SnorkelingGear&utm_content=Footer&utm_campaign=<?php echo $utm; ?>" linkname="SnorkelingIcon" style="color: #A7A9AC; text-decoration:none" target="_blank">
+										<a href="http://www.leisurepro.com/c/snorkeling?refby=slgt&emailprice=t&utm_source=slgt&utm_medium=email&utm_term=SnorkelingGear&utm_content=Footer&utm_campaign=<?php echo $utm; ?>" linkname="SnorkelingIcon" style="color: #A7A9AC; text-decoration:none" target="_blank">
 											<img alt="" border="0" height="65" src="http://www.leisurepro.com/image/email/20160607-subnav_04.png" style="margin: 0 auto; display: block;" width="65" />
 											<br />
 												SNORKEL GEAR
@@ -58,7 +58,7 @@
 									</td>
 									<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #A7A9AC" valign="top" width="33%">
 										<br />
-										<a href="http://www.leisurepro.com/c/swim?refby=SLGT&emailprice=t&utm_source=SLGT&utm_medium=email&utm_term=SwimmingGear&utm_content=Footer&utm_campaign=<?php echo $utm; ?>" linkname="SwimmingIcon" style="color: #A7A9AC; text-decoration:none" target="_blank">
+										<a href="http://www.leisurepro.com/c/swim?refby=slgt&emailprice=t&utm_source=slgt&utm_medium=email&utm_term=SwimmingGear&utm_content=Footer&utm_campaign=<?php echo $utm; ?>" linkname="SwimmingIcon" style="color: #A7A9AC; text-decoration:none" target="_blank">
 											<img alt="" border="0" height="65" src="http://www.leisurepro.com/image/email/20160607-subnav_05.png" style="margin: 0 auto; display: block;" width="65" />
 											<br />
 												SWIMMING GEAR
@@ -68,7 +68,7 @@
 									</td>
 									<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #A7A9AC" valign="top" width="33%">
 										<br />
-										<a href="http://www.leisurepro.com/c/watersports?refby=SLGT&emailprice=t&utm_source=SLGT&utm_medium=email&utm_term=Watersports&utm_content=Footer&utm_campaign=<?php echo $utm; ?>" linkname="WatersportsIcon" style="color: #A7A9AC; text-decoration:none" target="_blank">
+										<a href="http://www.leisurepro.com/c/watersports?refby=slgt&emailprice=t&utm_source=slgt&utm_medium=email&utm_term=Watersports&utm_content=Footer&utm_campaign=<?php echo $utm; ?>" linkname="WatersportsIcon" style="color: #A7A9AC; text-decoration:none" target="_blank">
 											<img alt="" border="0" height="65" src="http://www.leisurepro.com/image/email/20160607-subnav_06.png" style="margin: 0 auto; display: block;" width="65" />
 											<br />
 												WATERSPORT

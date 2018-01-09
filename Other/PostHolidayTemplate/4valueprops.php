@@ -1,4 +1,4 @@
-<!-- Holiday Value --> 
+<!-- Post Holiday Value --> 
 
 <tr>
   <td>
@@ -162,4 +162,4 @@
 	</td>
 </tr>
 
-<!-- End of Holiday Value --> 
+<!-- End of Post Holiday Value --> 

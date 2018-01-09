@@ -122,15 +122,15 @@
 											<tbody>
 												<tr height="115">
 													<td align="center">
-														<a linkname="Bestseller3" href="https://www.adorama.com/ACMK482LA.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Bestseller3&utm_content=Header&utm_campaign=<?php echo $utm;?>">
-																					<img src="http://www.adorama.com/images/Large/ACMK482LA.jpg" style="margin: 0 auto; display: block" class="product_img" width="115" height="115" border="0" 
-																							 alt="Apple 27 iMac with Retina 5K Display">
+														<a linkname="Bestseller3" href="https://www.adorama.com/EV08GP45173.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Bestseller3&utm_content=Header&utm_campaign=<?php echo $utm;?>">
+																					<img src="http://www.adorama.com/images/Large/EV08GP45173.jpg" style="margin: 0 auto; display: block" class="product_img" width="115" height="115" border="0" 
+																							 alt="EVGA GeForce GTX 1070 8GB Black Edition SC Gaming Graphics Card">
 																					</a>
 													</td>
 												</tr>
 												<tr height="75">
 													<td align="center" class="title" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #1385B4">
-														<font color="#1385B4">Apple 27 iMac with Retina 5K Display</font>
+														<font color="#1385B4">GeForce GTX 1070 8GB Gaming Graphics Card</font>
 													</td>
 												</tr>
 
@@ -142,7 +142,7 @@
 																	<td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #1385B4; 
 																						 font-weight: normal; padding:8px 10px; border:1px solid #1385B4" height="26" align="center" bgcolor="#ffffff"
 																	 valign="middle" width="auto">
-																		<a href="https://www.adorama.com/ACMK482LA.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Bestseller3&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
+																		<a href="https://www.adorama.com/EV08GP45173.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Bestseller3&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
 																			 linkname="Bestseller3_View" target="_new" style="text-decoration: none; color: #1385B4; font-weight: bold;">VIEW ></a></td>
 																</tr>
 															</tbody>
