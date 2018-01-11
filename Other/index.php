@@ -1,6 +1,8 @@
 <?php 
 
-include_once("Other/CategoryBrowse/index.php");
+// include_once("Other/CategoryBrowse/index.php");
+
+include_once("Other/48HoursSale24Left/index.php");
 
 // include_once("Other/48HoursSale/index.php");
 
