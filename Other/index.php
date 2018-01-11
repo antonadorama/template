@@ -1,6 +1,12 @@
 <?php 
 
-include_once("Other/nyip_010918/index.php");
+include_once("Other/CategoryBrowse/index.php");
+
+// include_once("Other/48HoursSale/index.php");
+
+// include_once("Other/SnapshotTemplate/index.php");
+
+// include_once("Other/nyip_010918/index.php");
 
  // include_once("Other/JanuaryRebates/index.php");
 

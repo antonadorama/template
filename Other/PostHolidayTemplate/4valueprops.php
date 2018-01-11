@@ -79,7 +79,7 @@
 													<td align="center" valign="top" height="40" class="title" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #114998">
 														
 															<a linkname="Expedited_Shipping" href="https://www.adorama.com/g/holiday-shipping-options?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=ValuePropFreeShipping&utm_content=Body&utm_campaign=<?php echo $utm;?>">
-																<font color="#333333"><strong>	Free Expedited shipping On Most Orders</strong></font>
+																<font color="#333333"><strong>	Free Expedited Shipping On Most Orders</strong></font>
 															</a>
 													</td>
 												</tr>
