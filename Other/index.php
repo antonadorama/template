@@ -1,12 +1,23 @@
 <?php 
 
+// include_once("Other/SuperSale/index.php");
+
+// include_once("Other/TradeEmail_012318/index.php");
+
+// include_once("Other/PostHolidayTemplate/index.php");
+
+
 // include_once("Other/CategoryBrowse/index.php");
 
-include_once("Other/48HoursSale24Left/index.php");
+// include_once("Other/Forensics_012218/index.php");
+
+// include_once("Other/WeekendDeals/index.php");
+
+// include_once("Other/48HoursSale24Left/index.php");
 
 // include_once("Other/48HoursSale/index.php");
 
-// include_once("Other/SnapshotTemplate/index.php");
+ include_once("Other/SnapshotTemplate/index.php");
 
 // include_once("Other/nyip_010918/index.php");
 
@@ -14,7 +25,7 @@ include_once("Other/48HoursSale24Left/index.php");
 
 // include_once("Other/OutletSale/index.php");
 
-// include_once("Other/PostHolidayTemplate/index.php");
+
 
 // include_once("Other/AppleSale_122617/index.php");
 

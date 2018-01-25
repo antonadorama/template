@@ -40,36 +40,30 @@
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
-					<?php include_once("Other/HolidayTemplate/countdown_split.php"); ?>	
+					<?php include_once("Other/PostHolidayTemplate/countdown_split.php"); ?>	
 					
-					<?php include_once("Other/HolidayTemplate/countdown_split_banner.php"); ?>
-					
-					<?php //include_once("Other/CanonCouponDecProducts/p_1.php"); ?>
-
-					<?php //include_once("Other/CanonCouponDecProducts/p_2.php"); ?>
-					
-					<?php //include_once("Other/CanonCouponDecProducts/p_3.php"); ?>
-					
-					<?php include_once("Other/CanonCoupon_112017/p_2.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/countdown_split_banner.php"); ?>
+								
+					<?php include_once("Other/PostHolidayTemplate/coupon.php"); ?>
 											
-					<?php include_once("Other/NewTemplate2Columns/p_1.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/p_1.php"); ?>
 														
-					<?php include_once("Other/NewTemplate2Columns/p_2.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/p_2.php"); ?>
 					
-					<?php include_once("Other/NewTemplate2Columns/p_3.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/p_3.php"); ?>
 					
-					<?php include_once("Other/NewTemplate2Columns/devider.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/devider.php"); ?>
 					
-					<?php include_once("Other/NewTemplate2Columns/p_4.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/p_4.php"); ?>
 					
-					<?php include_once("Other/NewTemplate2Columns/p_5.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/p_5.php"); ?>
 					
 								
 					
-					<?php include_once("Other/PostHolidayTemplate/4products_block_white_3.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>
 					
 					
-									<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>
 			
 					
 						<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>

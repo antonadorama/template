@@ -41,7 +41,7 @@
 											<tbody>
 												<tr height="115">
 													<td align="center">
-														<a linkname="Bestseller1" href="https://www.adorama.com/isoa7r3.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Bestseller1&utm_content=Header&utm_campaign=<?php echo $utm;?>">
+														<a linkname="Bestseller1" href="https://www.adorama.com/isoa7r3.html?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Bestseller1&utm_content=Header&utm_campaign=<?php echo $utm;?>">
 																	<img src="http://www.adorama.com/images/Large/isoa7r3.jpg" style="margin: 0 auto; display: block" class="product_img" width="115" height="115" border="0" 
 																			 alt="Sony a7R III Mirrorless Digital Camera Body">
 																	</a>
@@ -60,7 +60,7 @@
 																	<td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #1385B4; 
 																						 font-weight: normal; padding:8px 10px; border:1px solid #1385B4" height="26" align="center" bgcolor="#ffffff"
 																	 valign="middle" width="auto">
-																		<a href="https://www.adorama.com/isoa7r3.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Bestseller1&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
+																		<a href="https://www.adorama.com/isoa7r3.html?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Bestseller1&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
 																			 linkname="Bestseller1_View" target="_new" style="text-decoration: none; color: #1385B4; font-weight: bold;">VIEW ></a></td>
 																</tr>
 															</tbody>
@@ -77,7 +77,7 @@
 											<tbody>
 												<tr height="115">
 													<td align="center">
-														<a linkname="Bestseller2" href="https://www.adorama.com/ACMLH12LLA.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Bestseller2&utm_content=Header&utm_campaign=<?php echo $utm;?>">
+														<a linkname="Bestseller2" href="https://www.adorama.com/ACMLH12LLA.html?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Bestseller2&utm_content=Header&utm_campaign=<?php echo $utm;?>">
 																			<img src="http://www.adorama.com/images/Large/ACMLH12LLA.jpg" style="margin: 0 auto; display: block" class="product_img" width="115" height="115" border="0" 
 																					 alt="Apple 13.3 MacBook Pro with Touch Bar">
 																			</a>
@@ -97,7 +97,7 @@
 																	<td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #1385B4; 
 																						 font-weight: normal; padding:8px 10px; border:1px solid #1385B4" height="26" align="center" bgcolor="#ffffff"
 																	 valign="middle" width="auto">
-																		<a href="https://www.adorama.com/ACMLH12LLA.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Bestseller2&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
+																		<a href="https://www.adorama.com/ACMLH12LLA.html?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Bestseller2&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
 																			 linkname="Bestseller2_View" target="_new" style="text-decoration: none; color: #1385B4; font-weight: bold;">VIEW ></a></td>
 																</tr>
 															</tbody>
@@ -122,7 +122,7 @@
 											<tbody>
 												<tr height="115">
 													<td align="center">
-														<a linkname="Bestseller3" href="https://www.adorama.com/EV08GP45173.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Bestseller3&utm_content=Header&utm_campaign=<?php echo $utm;?>">
+														<a linkname="Bestseller3" href="https://www.adorama.com/EV08GP45173.html?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Bestseller3&utm_content=Header&utm_campaign=<?php echo $utm;?>">
 																					<img src="http://www.adorama.com/images/Large/EV08GP45173.jpg" style="margin: 0 auto; display: block" class="product_img" width="115" height="115" border="0" 
 																							 alt="EVGA GeForce GTX 1070 8GB Black Edition SC Gaming Graphics Card">
 																					</a>
@@ -142,7 +142,7 @@
 																	<td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #1385B4; 
 																						 font-weight: normal; padding:8px 10px; border:1px solid #1385B4" height="26" align="center" bgcolor="#ffffff"
 																	 valign="middle" width="auto">
-																		<a href="https://www.adorama.com/EV08GP45173.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Bestseller3&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
+																		<a href="https://www.adorama.com/EV08GP45173.html?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Bestseller3&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
 																			 linkname="Bestseller3_View" target="_new" style="text-decoration: none; color: #1385B4; font-weight: bold;">VIEW ></a></td>
 																</tr>
 															</tbody>
@@ -159,7 +159,7 @@
 											<tbody>
 												<tr height="115">
 													<td align="center">
-														<a linkname="Bestseller4" href="https://www.adorama.com/inkd850.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Bestseller4&utm_content=Header&utm_campaign=<?php echo $utm;?>">
+														<a linkname="Bestseller4" href="https://www.adorama.com/inkd850.html?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Bestseller4&utm_content=Header&utm_campaign=<?php echo $utm;?>">
 																							<img src="http://www.adorama.com/images/Large/inkd850.jpg" style="margin: 0 auto; display: block" class="product_img" width="115" height="115" border="0" 
 																									 alt="Nikon D850 DSLR Camera Body">
 																							</a>
@@ -179,7 +179,7 @@
 																	<td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #1385B4; 
 																						 font-weight: normal; padding:8px 10px; border:1px solid #1385B4" height="26" align="center" bgcolor="#ffffff"
 																	 valign="middle" width="auto">
-																		<a href="https://www.adorama.com/inkd850.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Bestseller4&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
+																		<a href="https://www.adorama.com/inkd850.html?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Bestseller4&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
 																			 linkname="Bestseller4_View" target="_new" style="text-decoration: none; color: #1385B4; font-weight: bold;">VIEW ></a></td>
 																</tr>
 															</tbody>

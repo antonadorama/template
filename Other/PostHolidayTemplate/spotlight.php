@@ -13,7 +13,7 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://img.kickdyn.com/clickrb.ashx?c=5888.aSatQJSAxiB6g8X6z22S&utm_campaign=<?php echo $utm;?>&guid=##GUID##" target="_blank" 
+                    <a href="https://img.kickdyn.com/clickrb.ashx?c=5888.aSatQJSAxiB6g8X6z22S&utm_campaign=<?php echo $utm;?>&email=##email_address##&guid=##GUID##" target="_blank" 
                        linkname="ContentBanner">
                     <img src="https://img.kickdyn.com/5888/aSatQJSAxiB6g8X6z22S/imgrb.png" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
                          alt="Content Banner" hspace="0" border="0" vspace="0" width="640">

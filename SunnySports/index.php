@@ -1,4 +1,4 @@
-<?php include_once("LastChance_010218/index.php"); ?>
+<?php // include_once("LastChance_010218/index.php"); ?>
 
 <?php // include_once("Stuffers_122217/index.php"); ?>
 
@@ -8,7 +8,7 @@
 
 <?php //include_once("Travel/index.php"); ?>
 
-<?php //include_once("Watersports/index.php"); ?>
+<?php include_once("Watersports/index.php"); ?>
 
 <?php //include_once("FD/index.php"); ?>
 

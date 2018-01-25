@@ -13,9 +13,9 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://img.kickdyn.com/clickrb.ashx?c=5900.B2kJ4FRp35Yr4dQejHnC&utm_campaign=<?php echo $utm;?>&guid=##GUID##" target="_blank" 
+                    <a href="https://img.kickdyn.com/clickrb.ashx?c=5900.B2kJ4FRp35Yr4dQejHnC&utm_campaign=<?php echo $utm;?>&email=##email_address##&guid=##GUID##" target="_blank" 
                        linkname="SnapshotDealFooter">
-                    <img src="https://img.kickdyn.com/5898/ZjYjKQDWxZdBcz2QnhI/imgrb.png" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
+                    <img src="https://img.kickdyn.com/5900/B2kJ4FRp35Yr4dQejHnC/imgrb.png" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
                          alt="Snapshot Deal Footer" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>

@@ -70,6 +70,12 @@
       height:auto !important;           
     }
     
+    *[class=mobile-padding-reduce] {
+      
+      padding-top:0px !important;
+      padding-bottom: 10px !important;
+      
+    }
     
     td[class=deals],td[class=shop],td[class=cameras],td[class=lenses]{
       

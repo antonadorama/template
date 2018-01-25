@@ -1,5 +1,5 @@
 
-<?php  include_once("LeisurePro/Letter/index.php"); ?>
+<?php // include_once("LeisurePro/Letter/index.php"); ?>
 
 <?php //include_once("LeisurePro/LastChance_010218/index.php"); ?>
 
@@ -9,7 +9,7 @@
 
 <?php // include_once("LeisurePro/Shark/index.php"); ?>
 
-<?php //include_once("LeisurePro/TravelDealLC/index.php"); ?>
+<?php include_once("LeisurePro/TravelDealLC/index.php"); ?>
 
 <?php //include_once("LeisurePro/TravelGear/index.php"); ?>
 

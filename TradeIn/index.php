@@ -1,4 +1,6 @@
-<?php include_once("TradeIn/TradeEmail_010818/index.php"); ?>
+<?php include_once("TradeIn/TradeNPA/index.php"); ?>
+
+<?php // include_once("TradeIn/TradeEmail_010818/index.php"); ?>
 
 <?php // include_once("TradeIn/LeicaLC/index.php"); ?>
 

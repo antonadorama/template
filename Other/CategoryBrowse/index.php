@@ -70,7 +70,7 @@
 					
 					<?php include_once("Other/CategoryBrowse/p_15.php"); ?>
 					
-					<?php include_once("Other/PostHolidayTemplate/4products_block_white_3.php"); ?>
+					<?php include_once("Other/CategoryBrowse/4products_block_white_3.php"); ?>
 										
 					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>
 			

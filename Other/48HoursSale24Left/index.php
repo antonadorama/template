@@ -34,7 +34,7 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_48HoursSale24Left_011119"; ?>
+					<?php $utm = "Email_48HoursSale24Left_011118"; ?>
 					
 					<?php $ttl = "Today is the deadline to save BIG on our best products!"; ?>
 					
