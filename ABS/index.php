@@ -1,6 +1,8 @@
 <?php
 
-include_once("ABS/Thanksgiving/index.php");
+include_once("ABS/AdoramaAccess/index.php");
+
+// include_once("ABS/Thanksgiving/index.php");
 
 // include_once("ABS/Sony_NPA/index_corp.php");
 
@@ -12,7 +14,7 @@ include_once("ABS/Thanksgiving/index.php");
 
  //include_once("ABS/apple/index.php");
 
-//  include_once("ABS/LetterHead/index.php");
+ // include_once("ABS/LetterHead/index.php");
 
  
 

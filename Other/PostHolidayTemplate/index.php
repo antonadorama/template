@@ -60,6 +60,8 @@
 					
 								
 					
+					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
+					
 					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>
 					
 					

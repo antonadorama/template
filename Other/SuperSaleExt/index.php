@@ -34,38 +34,30 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_013018"; ?>
+					<?php //$utm = "Email_SuperSale_4Products_012518"; ?>
+					<?php $utm = "Email_SuperSale_Ext_012718"; ?>
 					
-					<?php $ttl = "Get 25% off this must-have LaCie Porsche Design External Mobile Drive now!"; ?>
+					<?php $ttl = "We have extended this great offer. Shop now!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
-					<?php include_once("Other/SnapshotTemplate/snapshot_header.php"); ?>
+					<?php include_once("Other/SuperSaleExt/p_1.php"); ?>
 					
-					<?php //include_once("Other/SnapshotTemplate/p_1.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate/devider.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate/countdown_split.php"); ?>
-					
-					
-					
-					<?php include_once("Other/SnapshotTemplate/snapshot.php"); ?>						
-					
-					<?php include_once("Other/SnapshotTemplate/snapshot_footer.php"); ?>
-					
-					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>
-					
-					
-									<?php include_once("Other/SnapshotTemplate/spotlight.php"); ?>
-			
-					
-						<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
-				
+					<?php include_once("Other/SuperSaleExt/p_3.php"); ?>
 
-					
+					<?php include_once("Other/SuperSaleExt/p_2.php"); ?>
 
+
+
+					<?php include_once("Other/SuperSale/p_16.php"); ?>
+					<?php include_once("Other/SuperSale/p_17.php"); ?>					
 					
+					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>					
+					
+					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>			
+					
+					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
+
 					<?php include_once("Other/blocks/holiday_footer.php"); ?>
 					
 				</tbody>

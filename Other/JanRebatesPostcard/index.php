@@ -34,37 +34,22 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_013018"; ?>
+					<?php $utm = "Email_JanuaryRebates_Sony_012918"; ?>
 					
-					<?php $ttl = "Get 25% off this must-have LaCie Porsche Design External Mobile Drive now!"; ?>
+					<?php $ttl = "Check out This Months Rebates Now!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate/snapshot_header.php"); ?>
-					
-					<?php //include_once("Other/SnapshotTemplate/p_1.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate/devider.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate/countdown_split.php"); ?>
-					
-					
-					
-					<?php include_once("Other/SnapshotTemplate/snapshot.php"); ?>						
-					
-					<?php include_once("Other/SnapshotTemplate/snapshot_footer.php"); ?>
-					
-					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>
-					
-					
-									<?php include_once("Other/SnapshotTemplate/spotlight.php"); ?>
-			
-					
-						<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
-				
+	
+					<?php //include_once("Other/JanRebatesPostcard/p_1.php"); ?> <!-- Canon -->
+					<?php //include_once("Other/JanRebatesPostcard/p_2.php"); ?> <!-- Nikon -->
+					<?php include_once("Other/JanRebatesPostcard/p_3.php"); ?> <!-- Sony -->
 
+					<?php include_once("Other/JanRebatesPostcard/devider.php"); ?>
 					
-
+					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>					
+					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>					
+					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>	
+					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
 					
 					<?php include_once("Other/blocks/holiday_footer.php"); ?>
 					

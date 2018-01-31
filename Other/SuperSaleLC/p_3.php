@@ -13,10 +13,10 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/g/NAMM_2018?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
-                       linkname="NAMMSpecials">
-                    <img src="image_library/org_1/3137/eMail_FeatureBanner-NAMM_01.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;line-height:0 !important; font-size:0 !important;" class="mobile-full" 
-                         alt="NAMM Specials" hspace="0" border="0" vspace="0" width="640">
+                    <a href="https://www.adorama.com/g/Home_Theater_Package?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
+                       linkname="HomeTheaterPackage">
+                    <img src="image_library/org_1/3153/FeatureBanner_HomeTheatre_012618.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;line-height:0 !important; font-size:0 !important;" class="mobile-full" 
+                         alt="Home Theater Package" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>
                 </tr>

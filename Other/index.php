@@ -1,11 +1,20 @@
 <?php 
 
+include_once("Other/JanRebatesLC/index.php");
+
+// include_once("Other/JanRebatesPostcard/index.php");
+
+// include_once("Other/JanRebates/index.php");
+
+// include_once("Other/SuperSaleExt/index.php");
+
+// include_once("Other/SuperSaleLC/index.php");
+
 // include_once("Other/SuperSale/index.php");
 
 // include_once("Other/TradeEmail_012318/index.php");
 
 // include_once("Other/PostHolidayTemplate/index.php");
-
 
 // include_once("Other/CategoryBrowse/index.php");
 
@@ -17,7 +26,7 @@
 
 // include_once("Other/48HoursSale/index.php");
 
- include_once("Other/SnapshotTemplate/index.php");
+// include_once("Other/SnapshotTemplate/index.php");
 
 // include_once("Other/nyip_010918/index.php");
 

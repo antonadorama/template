@@ -34,37 +34,23 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_013018"; ?>
+					<?php $utm = "Email_JanuaryRebatesLC_013018"; ?>
 					
-					<?php $ttl = "Get 25% off this must-have LaCie Porsche Design External Mobile Drive now!"; ?>
+					<?php $ttl = "Last chance to catch this month's rebates! Hurry, shop now!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate/snapshot_header.php"); ?>
-					
-					<?php //include_once("Other/SnapshotTemplate/p_1.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate/devider.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate/countdown_split.php"); ?>
+	
+					<?php include_once("Other/JanRebatesLC/p_1.php"); ?>
+					<?php include_once("Other/JanRebatesLC/p_2.php"); ?>
+					<?php include_once("Other/JanRebatesLC/p_3.php"); ?>
+					<?php include_once("Other/JanRebatesLC/p_4.php"); ?>
+					<?php include_once("Other/JanRebates/p_5.php"); ?>
 					
 					
-					
-					<?php include_once("Other/SnapshotTemplate/snapshot.php"); ?>						
-					
-					<?php include_once("Other/SnapshotTemplate/snapshot_footer.php"); ?>
-					
-					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>
-					
-					
-									<?php include_once("Other/SnapshotTemplate/spotlight.php"); ?>
-			
-					
-						<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
-				
-
-					
-
+					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>					
+					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>					
+					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>	
+					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
 					
 					<?php include_once("Other/blocks/holiday_footer.php"); ?>
 					
