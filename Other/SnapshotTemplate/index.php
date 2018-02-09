@@ -34,9 +34,9 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_013018"; ?>
+					<?php $utm = "Email_Snapshot_020618"; ?>
 					
-					<?php $ttl = "Get 25% off this must-have LaCie Porsche Design External Mobile Drive now!"; ?>
+					<?php $ttl = "TTL"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
@@ -54,10 +54,12 @@
 					
 					<?php include_once("Other/SnapshotTemplate/snapshot_footer.php"); ?>
 					
+					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
+					
 					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>
 					
 					
-									<?php include_once("Other/SnapshotTemplate/spotlight.php"); ?>
+					<?php include_once("Other/SnapshotTemplate/spotlight.php"); ?>
 			
 					
 						<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>

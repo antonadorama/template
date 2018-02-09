@@ -1,6 +1,10 @@
 <?php 
 
-include_once("Other/JanRebatesLC/index.php");
+//include_once("Other/TradeEmail_020718/index.php");
+
+// include_once("Other/FiveStars/index.php");
+
+// include_once("Other/JanRebatesLC/index.php");
 
 // include_once("Other/JanRebatesPostcard/index.php");
 
@@ -14,7 +18,7 @@ include_once("Other/JanRebatesLC/index.php");
 
 // include_once("Other/TradeEmail_012318/index.php");
 
-// include_once("Other/PostHolidayTemplate/index.php");
+ include_once("Other/PostHolidayTemplate/index.php");
 
 // include_once("Other/CategoryBrowse/index.php");
 

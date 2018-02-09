@@ -16,7 +16,8 @@
 		<meta name="format-detection" content="email=no">
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
-		<?php include_once("Browse/blocks/style_5.php"); ?>		
+		<?php include_once("Browse/blocks/style_5.php"); ?>
+		<?php //include_once("FirstTimeBuyers/blocks/style_5.php"); ?>	
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -54,15 +55,30 @@
 					
 					<?php //include_once("Browse/p_6.php"); ?>					
 					
-					<?php include_once("Browse/p_4.php"); ?>	
+					<?php //include_once("Browse/p_4.php"); ?>	
           
-					<?php include_once("Browse/devider.php"); ?>
+					<?php //include_once("Browse/devider.php"); ?>
 					
-          <?php include_once("Browse/p_3.php"); ?>
+          <?php //include_once("Browse/p_3.php"); ?>
 					
 					 <?php include_once("Browse/p_5.php"); ?>
+					
+										
+					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
+					
+					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>
+					
+					
+					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>
+			
+					
+						<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
+					
 	
-					<?php include_once("Browse/blocks/footer.php"); ?>
+					
+					<?php include_once("Other/blocks/holiday_footer.php"); ?>
+					
+					<?php //include_once("Browse/blocks/footer.php"); ?>
 					
 				</tbody>
 			</table>

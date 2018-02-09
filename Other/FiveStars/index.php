@@ -32,48 +32,49 @@
 			<table align="center" bgcolor="#e3e3e3" border="0" cellpadding="0" cellspacing="0" class="wrap640" width="640">
 				<tbody>
 					
-					<?php include_once("Other/blocks/send_button.php"); ?>
+					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "PostHolidayTemplate"; ?>
+					<?php $utm = "Email_FiveStarsLC_6Products_020818"; ?>
 					
-					<?php $ttl = "Post-Holiday Template"; ?>
+					<?php //$ttl = "See our Gold Winning Favorites On Sale Now!"; ?>
 					
-					<?php include_once("Other/blocks/header.php"); ?>
+					<?php $ttl = "See our Gold Winning Favorites On Sale Now!"; ?>
 					
-					<?php include_once("Other/PostHolidayTemplate/countdown_split.php"); ?>	
+					<?php include_once("Other/blocks/header.php"); ?>				
+										
+					<?php //include_once("Other/FiveStars/p_1.php"); ?>
+					<?php //include_once("Other/FiveStars/countdown.php"); ?>
 					
-					<?php include_once("Other/PostHolidayTemplate/countdown_split_banner.php"); ?>
-								
-					<?php include_once("Other/PostHolidayTemplate/coupon.php"); ?>
-											
-					<?php include_once("Other/PostHolidayTemplate/p_1.php"); ?>
-														
-					<?php include_once("Other/PostHolidayTemplate/p_2.php"); ?>
+					<?php include_once("Other/FiveStars/p_1_2.php"); ?>
+					<?php include_once("Other/FiveStars/countdownlc.php"); ?>
+										
+					<?php include_once("Other/FiveStars/p_2.php"); ?><!-- -->
+					<?php //include_once("Other/FiveStars/p_3.php"); ?>	<!--6 Nikon -->
+					<?php include_once("Other/FiveStars/p_4.php"); ?>	<!-- -->
+					<?php //include_once("Other/FiveStars/p_5.php"); ?>	<!--Pentax -->
+					<?php include_once("Other/FiveStars/p_6.php"); ?>	<!-- -->
+					<?php //include_once("Other/FiveStars/p_7.php"); ?>	<!-- Lenovo -->
+					<?php include_once("Other/FiveStars/p_8.php"); ?><!-- -->
+					<?php //include_once("Other/FiveStars/p_9.php"); ?><!--6 DJI -->
+					<?php include_once("Other/FiveStars/p_10.php"); ?><!-- -->
+					<?php //include_once("Other/FiveStars/p_11.php"); ?>	<!-- Bower -->
+					<?php //include_once("Other/FiveStars/p_12.php"); ?><!-- HP-->
+					<?php include_once("Other/FiveStars/p_13.php"); ?><!-- -->
 					
-					<?php include_once("Other/PostHolidayTemplate/p_3.php"); ?>
-					
-					<?php include_once("Other/PostHolidayTemplate/devider.php"); ?>
-					
-					<?php include_once("Other/PostHolidayTemplate/p_4.php"); ?>
-					
-					<?php include_once("Other/PostHolidayTemplate/p_5.php"); ?>
-					
+					<?php include_once("Other/FiveStars/p_14.php"); ?>
+					<?php include_once("Other/FiveStars/p_15.php"); ?>
+					<?php include_once("Other/FiveStars/p_16.php"); ?>
 								
 					
 					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
 					
 					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>
 					
-					
 					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>
 			
+					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
 					
-						<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
-				
-
-					
-
-					
+		
 					<?php include_once("Other/blocks/holiday_footer.php"); ?>
 					
 				</tbody>

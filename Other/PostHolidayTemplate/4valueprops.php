@@ -45,7 +45,7 @@
 												<tr>
 													<td align="center" valign="middle" height="80">
 														<a linkname="AdoramaCredit" href="https://www.adorama.com/g/adorama-credit?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=ValuePropFinancing&utm_content=Body&utm_campaign=<?php echo $utm;?>">
-																	<img src="image_library/org_1/3043/Adorama-Credit-Card.png" style="margin: 0 auto; display: block" class="product_img" width="81" height="81" border="0" 
+																	<img src="https://www.adorama.com/col/images/email/Value/Adorama-Credit-Card.png" style="margin: 0 auto; display: block" class="product_img" width="81" height="81" border="0" 
 																			 alt="Get Up To 12 Months Special Financing">
 																	</a>
 													</td>
@@ -70,7 +70,7 @@
 												<tr>
 													<td align="center" valign="middle" height="80">
 														<a linkname="ExpeditedShipping" href="https://www.adorama.com/help/shippingAndDelivery?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=ValuePropFreeShipping&utm_content=Body&utm_campaign=<?php echo $utm;?>">
-																			<img src="image_library/org_1/3043/Expedited-Shipping.png" style="margin: 0 auto; display: block" class="product_img" width="81" height="81" border="0" 
+																			<img src="https://www.adorama.com/col/images/email/Value/Expedited-Shipping.png" style="margin: 0 auto; display: block" class="product_img" width="81" height="81" border="0" 
 																					 alt="Free Expedited shipping On Most Orders">
 																			</a>
 													</td>
@@ -106,7 +106,7 @@
 												<tr>
 													<td align="center" valign="middle" height="80">
 														<a linkname="FreeInstorePickup" href="https://www.adorama.com/g/nyc-store?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=ValuePropFreePickup&utm_content=Body&utm_campaign=<?php echo $utm;?>">
-																					<img src="image_library/org_1/3043/In-Store-Pick-Up.png" style="margin: 0 auto; display: block" class="product_img" width="81" height="81" border="0" 
+																					<img src="https://www.adorama.com/col/images/email/Value/In-Store-Pick-Up.png" style="margin: 0 auto; display: block" class="product_img" width="81" height="81" border="0" 
 																							 alt="Free In-Store Pickup">
 																					</a>
 													</td>
@@ -134,7 +134,7 @@
 												<tr>
 													<td align="center" valign="middle" height="80">
 														<a linkname="BecomeVIP" href="https://www.adorama.com/g/vip-new?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=ValuePropBecomeVIP&utm_content=Body&utm_campaign=<?php echo $utm;?>">
-																							<img src="image_library/org_1/3043/Upgrade-to-VIP.png" style="margin: 0 auto; display: block" class="product_img" width="81" height="81" border="0" 
+																							<img src="https://www.adorama.com/col/images/email/Value/Upgrade-to-VIP.png" style="margin: 0 auto; display: block" class="product_img" width="81" height="81" border="0" 
 																									 alt="Become a VIP and Get Deals First">
 																							</a>
 													</td>

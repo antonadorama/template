@@ -32,33 +32,18 @@
 			<table align="center" bgcolor="#e3e3e3" border="0" cellpadding="0" cellspacing="0" class="wrap640" width="640">
 				<tbody>
 					
-					<?php include_once("Other/blocks/send_button.php"); ?>
+					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "PostHolidayTemplate"; ?>
+					<?php $utm = "Email_SonyTrade_020918"; ?>
 					
-					<?php $ttl = "Post-Holiday Template"; ?>
+					<?php $ttl = "Catch this SONY trade up event now!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
-					
-					<?php include_once("Other/PostHolidayTemplate/countdown_split.php"); ?>	
-					
-					<?php include_once("Other/PostHolidayTemplate/countdown_split_banner.php"); ?>
-								
-					<?php include_once("Other/PostHolidayTemplate/coupon.php"); ?>
+
 											
-					<?php include_once("Other/PostHolidayTemplate/p_1.php"); ?>
-														
-					<?php include_once("Other/PostHolidayTemplate/p_2.php"); ?>
-					
-					<?php include_once("Other/PostHolidayTemplate/p_3.php"); ?>
-					
-					<?php include_once("Other/PostHolidayTemplate/devider.php"); ?>
-					
-					<?php include_once("Other/PostHolidayTemplate/p_4.php"); ?>
-					
-					<?php include_once("Other/PostHolidayTemplate/p_5.php"); ?>
-					
-								
+					<?php include_once("TradeIn/SonyTrade020818/p_1.php"); ?>
+					<?php include_once("TradeIn/SonyTrade020818/p_2.php"); ?>
+					<?php include_once("TradeIn/SonyTrade020818/p_3.php"); ?>							
 					
 					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
 					

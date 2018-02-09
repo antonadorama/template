@@ -4,7 +4,7 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Adoram Business Solution</title>
+	<title>Adorama Business Solution</title>
 	<style type="text/css">
 		body {
 			-ms-text-size-adjust: 100%;
@@ -114,6 +114,9 @@
 			*[class=br_on_mob]{
 				display:inline !important;				
 			}
+			* [class=MobileTextCenter]{
+				text-align:center !important;
+			}
 		}
 	</style>
 </head>
@@ -131,9 +134,16 @@
 									<table cellpadding="0" cellspacing="0" width="100%">
 										<tbody>
 											<tr>
-												<td class="logobrowser" style="width: 95%; color: #A7A9AC; font-size: 14px; padding: 5px 5px;">
-                          <span class="offer">Preheader<span class="line_hide">&#32;|&#32;</span></span>
-                          <a href="#" linkname="View In Browser" style="color: #A7A9AC; text-decoration: underline;" target="_blank">view in a browser</a></td>
+												<td>
+													<span class="offer" align="left" style="color: #A7A9AC; font-size: 14px; padding:5px;">Post-Purchase Technical Support Plans</span>
+												</td>
+												<td>
+													
+												</td>
+												<td class="" style="color: #A7A9AC; font-size: 14px;  padding:5px;" align="right">
+                          <a href="#" linkname="View In Browser" style="color: #A7A9AC; text-decoration: underline;" target="_blank">
+														view in a browser</a>
+												</td>
 											</tr>
 										</tbody>
 									</table>
@@ -158,8 +168,8 @@
 																	<td valign="top">
 																																																		<!--[if (gte mso 9)|(lte ie 8)]>
 															<table align="left" border="0" cellspacing="0" cellpadding="0" width="170"><tr><td align="center" valign="top"><![endif]-->
-																		<a href="https://www.adorama.com/abs?&utm_source=slgt&refby=slgt&utm_medium=email&utm_term=AdoramaAccess&utm_content=Body&utm_campaign=Email_AdoramaAccess_020218" 
-																			 linkname="Header" target="_blank">
+																		<a href="https://www.adorama.com/g/abs-access" 
+																			 target="_blank">
 
 																			<img alt="Header" border="0" class="mobile-full" hspace="0" 
 																					 src="https://www.adorama.com/col/images/email/ABS/ABSAccess_01.jpg" 
@@ -204,8 +214,8 @@
 																	<td valign="top">
 																																																		<!--[if (gte mso 9)|(lte ie 8)]>
 															<table align="left" border="0" cellspacing="0" cellpadding="0" width="170"><tr><td align="center" valign="top"><![endif]-->
-																		<a href="https://www.adorama.com/abs?&utm_source=slgt&refby=slgt&utm_medium=email&utm_term=AdoramaAccess&utm_content=Body&utm_campaign=Email_AdoramaAccess_020218" 
-																			 linkname="Header" target="_blank">
+																		<a href="https://www.adorama.com/g/abs-access" 
+																			  target="_blank">
 
 																			<img alt="Header" border="0" class="mobile-full" hspace="0" 
 																					 src="https://www.adorama.com/col/images/email/ABS/ABSAccess_03.jpg" 
