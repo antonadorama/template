@@ -14,7 +14,7 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/##browse_item_number##.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" target="_blank" 
+                    <a href="https://www.adorama.com/##browse_item_number##.html?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" target="_blank" 
                        linkname="Header">
                     <img src="image_library/org_1/1904/Option-2_dont-miss.png" style="border: 0px;border-radius: 0px;display: block;max-width: 400px;width: 100%;height: auto;" class="mobile-90" 
                          alt="header" hspace="0" border="0" vspace="0" width="400">

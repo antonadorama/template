@@ -47,15 +47,24 @@
           
           <?php include_once("Browse/cart_body.php"); ?>
 				
-          <?php include_once("Browse/p_3.php"); ?>
+          <?php //include_once("Browse/p_3.php"); ?>
           
-					<?php include_once("Browse/devider.php"); ?>
+					<?php //include_once("Browse/devider.php"); ?>
           
-					<?php include_once("Browse/p_4.php"); ?>     
+					<?php //include_once("Browse/p_4.php"); ?>     
 								
          
 					
 					 <?php include_once("Browse/p_5_cart.php"); ?>
+					
+					<?php include_once("Browse/4citerecs.php"); ?>
+										
+					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
+						
+									
+					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>
+								
+					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
 	
 					<?php include_once("Browse/blocks/footer_cart.php"); ?>
 					

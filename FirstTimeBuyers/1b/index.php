@@ -53,12 +53,18 @@
 					<!-- Directions --->
 					<?php include_once("FirstTimeBuyers/1b/1b_6.php"); ?>
 					<!-- Featured Products Header--->
-					<?php include_once("FirstTimeBuyers/1b/1b_7.php"); ?>
+					<?php //include_once("FirstTimeBuyers/1b/1b_7.php"); ?>
 					<!-- Featured Products --->
 					<?php //include_once("FirstTimeBuyers/1b/1b_8.php"); ?>
-					<?php include_once("FirstTimeBuyers/1b/4products_block_cb.php"); ?>
+					<?php //include_once("FirstTimeBuyers/1b/4products_block_cb.php"); ?>
 					
-					<?php include_once("FirstTimeBuyers/blocks/footer.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>					
+					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>										
+					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>								
+					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
+					
+					
+					<?php include_once("Other/blocks/holiday_footer.php"); ?>
 					
 				</tbody>
 			</table>

@@ -30,7 +30,7 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a  linkname="SLRLenses"  href="https://www.adorama.com/l/Lenses/SLR-Lenses?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=SLRLenses&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
+                                      <a  linkname="SLRLenses"  href="https://www.adorama.com/l/Lenses/SLR-Lenses?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=SLRLenses&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
                                         <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-2-lenses-slr.jpg" style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" alt="" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>
                                   <tr>
@@ -81,7 +81,7 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a  linkname="MirrorlessLenses"   href="https://www.adorama.com/l/Lenses/Mirrorless-Lenses?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=MirrorlessLenses&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
+                                      <a  linkname="MirrorlessLenses"   href="https://www.adorama.com/l/Lenses/Mirrorless-Lenses?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=MirrorlessLenses&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
                                       <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-2-lenses-mirrorless.jpg" style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" alt="" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>
                                   <tr>
@@ -131,7 +131,7 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a  linkname="MediumFormatLenses"   href="https://www.adorama.com/l/Lenses/Medium-Format-Lenses?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=MediumFormatLenses&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
+                                      <a  linkname="MediumFormatLenses"   href="https://www.adorama.com/l/Lenses/Medium-Format-Lenses?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=MediumFormatLenses&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
                                       <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-2-lenses-medium.jpg" 
                                            style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" alt="" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>

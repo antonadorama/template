@@ -16,8 +16,11 @@
 		<meta name="format-detection" content="email=no">
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
+		<!-- Flag -->
 		<?php include_once("Browse/blocks/style_5.php"); ?>
-		<?php //include_once("FirstTimeBuyers/blocks/style_5.php"); ?>	
+		<?php //include_once("FirstTimeBuyers/blocks/style_5.php"); ?>
+		<?php include_once("Browse/blocks/style_recsfix.php"); ?>
+		<!-- Flag -->
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -34,8 +37,8 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php //$utm = "Email_Browse_Abandon_Program_I_v2"; ?>
-					<?php $utm = "Email_Browse_Abandon_Program_II_v2"; ?>
+					<?php $utm = "Email_Browse_Abandon_Program_I_v3"; ?>
+					<?php //$utm = "Email_Browse_Abandon_Program_II_v3"; ?>
 					
 					<?php //$ttl = "We Took a Snapshot of the ##MANUFACTURER## Item You Had Your Eye On!"; ?>
 					<?php //$ttl = "We Took a Selfie of the ##MANUFACTURER## Item You Had Your Eye On!"; ?>
@@ -43,13 +46,17 @@
 					<?php //$ttl = "Don’t Miss Out on the ##MANUFACTURER## Item You Had Your Eye On! Come Back and Grab It!"; ?>
 					<?php $ttl = "Don’t Miss Out on ##MANUFACTURER## Item You Had Your Eye On!"; ?>
 					
-					<?php include_once("Browse/blocks/header.php"); ?>
+					<?php include_once("Other/blocks/header.php"); ?>
 					
 				
-					<?php include_once("Browse/p_header_2.php"); ?>
-					<?php //include_once("Browse/p_header_3.php"); ?>
+					<?php //include_once("Browse/p_header_2.php"); ?>
+					<?php include_once("Browse/p_header_3.php"); ?>
+					
+					
           
           <?php include_once("Browse/p_2.php"); ?>
+					
+					
 					
 					<?php //include_once("Browse/3_3.php"); ?>
 					
@@ -63,22 +70,22 @@
 					
 					 <?php include_once("Browse/p_5.php"); ?>
 					
+					
+					<?php include_once("Browse/4citerecs.php"); ?>
 										
 					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
 					
-					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>
 					
-					
+										
 					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>
-			
-					
-						<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
+								
+					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
 					
 	
 					
-					<?php include_once("Other/blocks/holiday_footer.php"); ?>
+					<?php //include_once("Other/blocks/holiday_footer.php"); ?>
 					
-					<?php //include_once("Browse/blocks/footer.php"); ?>
+					<?php include_once("Browse/blocks/footer.php"); ?>
 					
 				</tbody>
 			</table>
@@ -87,7 +94,7 @@
 	</tbody>
 </table>
 </div>
-	<div style="display:none !important; padding:0 !important;">
+<div style="display:none !important; padding:0 !important;">
 <img src="http://svopn.adorama.com/?sv_cid=2620_03922&sv_emopen=true&sv_svemi=##GUID##" height="1" width="1" style="display:none !important;"/>
 </div>
 </body>

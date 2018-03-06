@@ -79,7 +79,7 @@
 							<tbody>
 								<tr>
 									<td align="center" class="breakcol" valign="top" width="30%">
-										<a href="http://www.adorama.com/help/contactus?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=EmailUs&utm_content=Header&utm_campaign=<?php echo $utm;?>" linkname="Email Us" style="color:#000000">
+										<a href="http://www.adorama.com/help/contactus?refby=slgt&email=##email_address##&utm_source=slgt&utm_medium=email&utm_term=EmailUs&utm_content=Header&utm_campaign=<?php echo $utm;?>" linkname="Email Us" style="color:#000000">
 											<img alt="" border="0" src="image_library/org_1/1904/emailus.png" style="display: block; margin: 0 auto; padding-bottom:10px;" /></a>
 									</td>
 									<td align="center" class="breakcol" valign="middle" width="70%">
@@ -88,7 +88,7 @@
 												<tr>
 													<td class="CSBoxcopy" style="font-size: 14px; font-family: 'Open Sans', Arial, Helvetica, sans-serif; color: #000001; 
 																											 text-align: center" valign="middle">
-														<a href="http://www.adorama.com/help/contactus?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=EmailUs&utm_content=Header&utm_campaign=<?php echo $utm;?>" linkname="Email Us" style="color:#000000">
+														<a href="http://www.adorama.com/help/contactus?refby=slgt&email=##email_address##&utm_source=slgt&utm_medium=email&utm_term=EmailUs&utm_content=Header&utm_campaign=<?php echo $utm;?>" linkname="Email Us" style="color:#000000">
 															<strong>EMAIL US</strong></a></td>
 												</tr>
 											</tbody>
@@ -103,7 +103,7 @@
 							<tbody>
 								<tr>
 									<td align="center" class="breakcol" valign="top" width="30%">
-										<a href="http://www.adorama.com/help?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=LiveChat&utm_content=Header&utm_campaign=<?php echo $utm;?>" linkname="Live Chat" style="color:#000000">
+										<a href="http://www.adorama.com/help?refby=slgt&email=##email_address##&utm_source=slgt&utm_medium=email&utm_term=LiveChat&utm_content=Header&utm_campaign=<?php echo $utm;?>" linkname="Live Chat" style="color:#000000">
 											<img alt="" border="0" src="image_library/org_1/1904/livechat.png" style="display: block; margin: 0 auto; padding-bottom:10px;" /></a>
 									</td>
 									<td align="center" class="breakcol" valign="middle" width="70%">
@@ -112,7 +112,7 @@
 												<tr>
 													<td class="CSBoxcopy" style="font-size: 14px; font-family: 'Open Sans', Arial, Helvetica, sans-serif; color: #000001; 
 																											 text-align: center" valign="middle">
-														<a href="http://www.adorama.com/help?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=LiveChat&utm_content=Header&utm_campaign=<?php echo $utm;?>" linkname="Live Chat" style="color:#000000">
+														<a href="http://www.adorama.com/help?refby=slgt&email=##email_address##&utm_source=slgt&utm_medium=email&utm_term=LiveChat&utm_content=Header&utm_campaign=<?php echo $utm;?>" linkname="Live Chat" style="color:#000000">
 															<strong>LIVE CHAT</strong></a></td>
 												</tr>
 											</tbody>

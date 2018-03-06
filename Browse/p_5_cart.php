@@ -4,7 +4,7 @@
 			<tbody>
 				<tr>
 					<td>
-						<a href="http://www.adorama.com/##sku_1##.html?emailprice=t&utm_source=slgt&refby_slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" linkname="GiftCard_MSO" target="_blank">
+						<a href="http://www.adorama.com/##sku_1##.html?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" linkname="GiftCard_MSO" target="_blank">
 							<img alt="Complete Your Order for a Chance to Win an Adorama $150 Gift Card!" border="0" height="120" src="image_library/org_1/1904/20160922_giftcard.jpg" style="display:block;" width="640" /></a>
 					</td>
 				</tr>
@@ -24,7 +24,7 @@
 							<tbody>
 								<tr>
 									<td>
-										<a href="http://www.adorama.com/##sku_1##.html?emailprice=t&utm_source=slgt&refby_slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" linkname="GiftCard" target="_blank">
+										<a href="http://www.adorama.com/##sku_1##.html?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" linkname="GiftCard" target="_blank">
 											<img alt="Complete Your Order for a Chance to Win an Adorama $150 Gift Card!" border="0" class="wrap100" src="image_library/org_1/1904/20160922_giftcard_m.jpg" style="display:block;" /></a>
 									</td>
 								</tr>

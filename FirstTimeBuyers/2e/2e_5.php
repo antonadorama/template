@@ -30,7 +30,7 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a  linkname="Entertainment"  href="https://www.adorama.com/l/TVs-and-Home-Entertainment?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=HomeEntertainment&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
+                                      <a  linkname="Entertainment"  href="https://www.adorama.com/l/TVs-and-Home-Entertainment?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=HomeEntertainment&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
                                         <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-5-general-tv.jpg" style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
                                              alt="Entertainment" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>
@@ -82,7 +82,7 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a  linkname="Office_Center"   href="https://www.adorama.com/l/Office-Equipment/Printers-and-Scanners?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Printers&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
+                                      <a  linkname="Office_Center"   href="https://www.adorama.com/l/Office-Equipment/Printers-and-Scanners?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Printers&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
                                       <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-5-general-Office.jpg" style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
                                            alt="Office Center" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>
@@ -132,7 +132,7 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a  linkname="Storage"   href="https://www.adorama.com/l/Computers/Memory-and-Data-Storage?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Memory&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
+                                      <a  linkname="Storage"   href="https://www.adorama.com/l/Computers/Memory-and-Data-Storage?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Memory&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
                                       <img src="http://www.adorama.com/col/images/email/ssgmz75e500.jpg" 
                                            style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
                                            alt="Storage" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>

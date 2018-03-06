@@ -52,7 +52,7 @@
 					
 					<?php include_once("FirstTimeBuyers/1a/1a_5.php"); ?>
 					
-					<?php include_once("FirstTimeBuyers/1a/1a_6.php"); ?>
+					
 					
 					<?php //include_once("FirstTimeBuyers/1a/1a_8.php"); ?>
 					
@@ -60,9 +60,20 @@
 					
 					<?php //include_once("FirstTimeBuyers/1a/4products_block.php"); ?>
 					
-					<?php include_once("FirstTimeBuyers/1a/4products_block_cb.php"); ?>
+					<!-- cb -->
+					<?php // include_once("FirstTimeBuyers/1a/1a_6.php"); ?>
+					<?php // include_once("FirstTimeBuyers/1a/4products_block_cb.php"); ?>
+					<!-- end cb -->
 					
-					<?php include_once("FirstTimeBuyers/blocks/footer.php"); ?>
+
+										
+					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>					
+					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>										
+					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>								
+					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
+					
+					
+					<?php include_once("Other/blocks/holiday_footer.php"); ?>
 					
 					
 				</tbody>

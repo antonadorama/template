@@ -4,7 +4,7 @@
       <tbody>
         <tr>
           <td align="center" style="color: #006CB4; font-size: 26px; font-family: 'Open Sans', Arial, Helvetica, sans-serif; line-height:normal">
-            <a href="http://www.adorama.com/als.mvc/cartview?refby=slgt&utm_source=slgt&utm_medium=email&utm_term=Cart&utm_campaign=<?php echo $utm;?>&c=##cart_id##" 
+            <a href="http://www.adorama.com/als.mvc/cartview?refby=slgt&email=##email_address##&utm_source=slgt&utm_medium=email&utm_term=Cart&utm_campaign=<?php echo $utm;?>&c=##cart_id##" 
                linkname="Cart_Title" style="text-decoration: none; color: #006CB4"
               target="_blank"><strong>Smile, Your Deals are Still Here!</strong></a></td>
         </tr>

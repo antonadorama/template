@@ -32,12 +32,12 @@
 															<tbody>
 																<tr>
 																	<td align="center">
-																		<a href="https://www.adorama.com/specials/l/Cameras?refby=slgt&utm_source=slgt&refby=slgt&utm_medium=email&amp;utm_term=cameras&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Camera_Icon" style="color: #2B3B48; text-decoration:none; display:block"
+																		<a href="https://www.adorama.com/specials/l/Cameras?refby=slgt&email=##email_address##&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&amp;utm_term=cameras&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Camera_Icon" style="color: #2B3B48; text-decoration:none; display:block"
 																			target="_blank"><img alt="Cameras" border="0" class="navMenu" height="75" src="image_library/org_1/1904/icon_cameras.png" style="margin: 0 auto; display: block" width="75"></a>
 																	</td>
 																</tr>
 																<tr>
-																	<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #2B3B48"><a href="https://www.adorama.com/specials/l/Cameras?refby=slgt&utm_source=slgt&refby=slgt&utm_medium=email&amp;utm_term=cameras&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Camera_Text" style="color: #2B3B48; text-decoration:none; display:block"
+																	<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #2B3B48"><a href="https://www.adorama.com/specials/l/Cameras?refby=slgt&email=##email_address##&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&amp;utm_term=cameras&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Camera_Text" style="color: #2B3B48; text-decoration:none; display:block"
 																			target="_blank"><strong>Cameras »</strong></a></td>
 																</tr>
 															</tbody>
@@ -48,12 +48,12 @@
 															<tbody>
 																<tr>
 																	<td align="center">
-																		<a href="https://www.adorama.com/specials/l/Lenses?refby=slgt&utm_source=slgt&refby=slgt&utm_medium=email&amp;utm_term=lenses&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Lenses_Icon" style="color: #2B3B48; text-decoration:none; display:block"
+																		<a href="https://www.adorama.com/specials/l/Lenses?refby=slgt&email=##email_address##&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&amp;utm_term=lenses&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Lenses_Icon" style="color: #2B3B48; text-decoration:none; display:block"
 																			target="_blank"><img alt="Lenses" border="0" class="navMenu" height="75" src="image_library/org_1/1904/icon_lenses.png" style="margin: 0 auto; display: block" width="75"></a>
 																	</td>
 																</tr>
 																<tr>
-																	<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #2B3B48"><a href="https://www.adorama.com/specials/l/Lenses?refby=slgt&utm_source=slgt&refby=slgt&utm_medium=email&amp;utm_term=lenses&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Lenses_Text" style="color: #2B3B48; text-decoration:none; display:block"
+																	<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #2B3B48"><a href="https://www.adorama.com/specials/l/Lenses?refby=slgt&email=##email_address##&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&amp;utm_term=lenses&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Lenses_Text" style="color: #2B3B48; text-decoration:none; display:block"
 																			target="_blank"><strong>Lenses »</strong></a></td>
 																</tr>
 															</tbody>
@@ -66,12 +66,12 @@
 															<tbody>
 																<tr>
 																	<td align="center">
-																		<a href="https://www.adorama.com/specials/l/Video-Equipment?refby=slgt&utm_source=slgt&refby=slgt&utm_medium=email&amp;utm_term=provideo&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_ProVideo_Icon" style="color: #2B3B48; text-decoration:none; display:block"
+																		<a href="https://www.adorama.com/specials/l/Video-Equipment?refby=slgt&email=##email_address##&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&amp;utm_term=provideo&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_ProVideo_Icon" style="color: #2B3B48; text-decoration:none; display:block"
 																			target="_blank"><img alt="Pro Video" border="0" class="navMenu" height="75" src="image_library/org_1/1904/icon_lenses.png" style="margin: 0 auto; display: block" width="75"></a>
 																	</td>
 																</tr>
 																<tr>
-																	<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #2B3B48"><a href="https://www.adorama.com/specials/l/Video-Equipment?refby=slgt&utm_source=slgt&refby=slgt&utm_medium=email&amp;utm_term=provideo&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_ProVideo_Text" style="color: #2B3B48; text-decoration:none; display:block"
+																	<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #2B3B48"><a href="https://www.adorama.com/specials/l/Video-Equipment?refby=slgt&email=##email_address##&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&amp;utm_term=provideo&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_ProVideo_Text" style="color: #2B3B48; text-decoration:none; display:block"
 																			target="_blank"><strong>Pro Video »</strong></a></td>
 																</tr>
 															</tbody>
@@ -82,12 +82,12 @@
 															<tbody>
 																<tr>
 																	<td align="center">
-																		<a href="https://www.adorama.com/specials/l/Drones-and-Action-Cams?refby=slgt&utm_source=slgt&refby=slgt&utm_medium=email&amp;utm_term=drones&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Drones_Icon" style="color: #2B3B48; text-decoration:none; display:block"
+																		<a href="https://www.adorama.com/specials/l/Drones-and-Action-Cams?refby=slgt&email=##email_address##&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&amp;utm_term=drones&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Drones_Icon" style="color: #2B3B48; text-decoration:none; display:block"
 																			target="_blank"><img alt="Drones and Action Cams" border="0" class="navMenu" height="75" src="image_library/org_1/1904/icon_drones.png" style="margin: 0 auto; display: block" width="75"></a>
 																	</td>
 																</tr>
 																<tr>
-																	<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #2B3B48"><a href="https://www.adorama.com/specials/l/Drones-and-Action-Cams?refby=slgt&utm_source=slgt&refby=slgt&utm_medium=email&amp;utm_term=drones&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Drones_Text" style="color: #2B3B48; text-decoration:none; display:block"
+																	<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #2B3B48"><a href="https://www.adorama.com/specials/l/Drones-and-Action-Cams?refby=slgt&email=##email_address##&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&amp;utm_term=drones&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Drones_Text" style="color: #2B3B48; text-decoration:none; display:block"
 																			target="_blank"><strong>Drones »</strong></a></td>
 																</tr>
 															</tbody>
@@ -106,12 +106,12 @@
 															<tbody>
 																<tr>
 																	<td align="center">
-																		<a href="https://www.adorama.com/specials/l/Professional-Audio?refby=slgt&utm_source=slgt&refby=slgt&utm_medium=email&amp;utm_term=proaudio&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_ProAudio_Icon" style="color: #2B3B48; text-decoration:none; display:block"
+																		<a href="https://www.adorama.com/specials/l/Professional-Audio?refby=slgt&email=##email_address##&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&amp;utm_term=proaudio&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_ProAudio_Icon" style="color: #2B3B48; text-decoration:none; display:block"
 																			target="_blank"><img alt="Pro Audio" border="0" class="navMenu" height="75" src="image_library/org_1/1904/icon_proaudio.png" style="margin: 0 auto; display: block" width="75"></a>
 																	</td>
 																</tr>
 																<tr>
-																	<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #2B3B48"><a href="https://www.adorama.com/specials/l/Professional-Audio?refby=slgt&utm_source=slgt&refby=slgt&utm_medium=email&amp;utm_term=proaudio&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_ProAudio_Text" style="color: #2B3B48; text-decoration:none; display:block"
+																	<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #2B3B48"><a href="https://www.adorama.com/specials/l/Professional-Audio?refby=slgt&email=##email_address##&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&amp;utm_term=proaudio&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_ProAudio_Text" style="color: #2B3B48; text-decoration:none; display:block"
 																			target="_blank"><strong>Pro Audio »</strong></a></td>
 																</tr>
 															</tbody>
@@ -122,12 +122,12 @@
 															<tbody>
 																<tr>
 																	<td align="center">
-																		<a href="https://www.adorama.com/specials/l/Lighting-and-Studio?refby=slgt&utm_source=slgt&refby=slgt&utm_medium=email&amp;utm_term=studio&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Studio_Icon" style="color: #2B3B48; text-decoration:none; display:block"
+																		<a href="https://www.adorama.com/specials/l/Lighting-and-Studio?refby=slgt&email=##email_address##&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&amp;utm_term=studio&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Studio_Icon" style="color: #2B3B48; text-decoration:none; display:block"
 																			target="_blank"><img alt="Studio and Lighting" border="0" class="navMenu" height="75" src="image_library/org_1/1904/icon_lighting.png" style="margin: 0 auto; display: block" width="75"></a>
 																	</td>
 																</tr>
 																<tr>
-																	<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #2B3B48"><a href="https://www.adorama.com/specials/l/Lighting-and-Studio?refby=slgt&utm_source=slgt&refby=slgt&utm_medium=email&amp;utm_term=studio&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Studio_Text" style="color: #2B3B48; text-decoration:none; display:block"
+																	<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #2B3B48"><a href="https://www.adorama.com/specials/l/Lighting-and-Studio?refby=slgt&email=##email_address##&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&amp;utm_term=studio&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Studio_Text" style="color: #2B3B48; text-decoration:none; display:block"
 																			target="_blank"><strong>Studio &amp; Lighting »</strong></a></td>
 																</tr>
 															</tbody>
@@ -140,12 +140,12 @@
 															<tbody>
 																<tr>
 																	<td align="center">
-																		<a href="https://www.adorama.com/specials/l/Computers?refby=slgt&utm_source=slgt&refby=slgt&utm_medium=email&amp;utm_term=computers&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Computers_Icon" style="color: #2B3B48; text-decoration:none; display:block"
+																		<a href="https://www.adorama.com/specials/l/Computers?refby=slgt&email=##email_address##&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&amp;utm_term=computers&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Computers_Icon" style="color: #2B3B48; text-decoration:none; display:block"
 																			target="_blank"><img alt="Computers" border="0" class="navMenu" height="75" src="image_library/org_1/1904/icon_computers.png" style="margin: 0 auto; display: block" width="75"></a>
 																	</td>
 																</tr>
 																<tr>
-																	<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #2B3B48"><a href="https://www.adorama.com/specials/l/Computers?refby=slgt&utm_source=slgt&refby=slgt&utm_medium=email&amp;utm_term=computers&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Computers_Text" style="color: #2B3B48; text-decoration:none; display:block"
+																	<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #2B3B48"><a href="https://www.adorama.com/specials/l/Computers?refby=slgt&email=##email_address##&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&amp;utm_term=computers&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Computers_Text" style="color: #2B3B48; text-decoration:none; display:block"
 																			target="_blank"><strong>Computers »</strong></a></td>
 																</tr>
 															</tbody>
@@ -156,12 +156,12 @@
 															<tbody>
 																<tr>
 																	<td align="center">
-																		<a href="https://www.adorama.com/specials/l/TVs-and-Home-Entertainment?refby=slgt&utm_source=slgt&refby=slgt&utm_medium=email&amp;utm_term=hometheater&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_HomeTheater_Icon"
+																		<a href="https://www.adorama.com/specials/l/TVs-and-Home-Entertainment?refby=slgt&email=##email_address##&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&amp;utm_term=hometheater&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_HomeTheater_Icon"
 																			style="color: #2B3B48; text-decoration:none; display:block" target="_blank"><img alt="Home Theater" border="0" class="navMenu" height="75" src="image_library/org_1/1904/icon_hometheater.png" style="margin: 0 auto; display: block" width="75"></a>
 																	</td>
 																</tr>
 																<tr>
-																	<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #2B3B48"><a href="https://www.adorama.com/specials/l/TVs-and-Home-Entertainment?refby=slgt&utm_source=slgt&refby=slgt&utm_medium=email&amp;utm_term=hometheater&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_HomeTheater_Text"
+																	<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #2B3B48"><a href="https://www.adorama.com/specials/l/TVs-and-Home-Entertainment?refby=slgt&email=##email_address##&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&amp;utm_term=hometheater&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_HomeTheater_Text"
 																			style="color: #2B3B48; text-decoration:none; display:block" target="_blank"><strong>Home Theater »</strong></a></td>
 																</tr>
 															</tbody>
@@ -182,12 +182,12 @@
 															<tbody>
 																<tr>
 																	<td align="center">
-																		<a href="https://www.adorama.com/specials/l/Bags-and-Cases?refby=slgt&utm_source=slgt&refby=slgt&utm_medium=email&amp;utm_term=bags&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Bags_Icon" style="color: #2B3B48; text-decoration:none; display:block"
+																		<a href="https://www.adorama.com/specials/l/Bags-and-Cases?refby=slgt&email=##email_address##&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&amp;utm_term=bags&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Bags_Icon" style="color: #2B3B48; text-decoration:none; display:block"
 																			target="_blank"><img alt="Bags and Cases" border="0" class="navMenu" height="75" src="image_library/org_1/1904/icon_bags.png" style="margin: 0 auto; display: block" width="75"></a>
 																	</td>
 																</tr>
 																<tr>
-																	<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #2B3B48"><a href="https://www.adorama.com/specials/l/Bags-and-Cases?refby=slgt&utm_source=slgt&refby=slgt&utm_medium=email&amp;utm_term=bags&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Bags_Text" style="color: #2B3B48; text-decoration:none; display:block"
+																	<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #2B3B48"><a href="https://www.adorama.com/specials/l/Bags-and-Cases?refby=slgt&email=##email_address##&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&amp;utm_term=bags&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Bags_Text" style="color: #2B3B48; text-decoration:none; display:block"
 																			target="_blank"><strong>Bags &amp; Cases »</strong></a></td>
 																</tr>
 															</tbody>
@@ -198,12 +198,12 @@
 															<tbody>
 																<tr>
 																	<td align="center">
-																		<a href="https://www.adorama.com/specials/l/Computers/Memory-and-Data-Storage?refby=slgt&utm_source=slgt&refby=slgt&utm_medium=email&amp;utm_term=memory&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Memory_Icon"
+																		<a href="https://www.adorama.com/specials/l/Computers/Memory-and-Data-Storage?refby=slgt&email=##email_address##&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&amp;utm_term=memory&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Memory_Icon"
 																			style="color: #2B3B48; text-decoration:none; display:block" target="_blank"><img alt="Memory and Storage" border="0" class="navMenu" height="75" src="image_library/org_1/1904/icon_memory.png" style="margin: 0 auto; display: block" width="75"></a>
 																	</td>
 																</tr>
 																<tr>
-																	<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #2B3B48"><a href="https://www.adorama.com/specials/l/Computers/Memory-and-Data-Storage?refby=slgt&utm_source=slgt&refby=slgt&utm_medium=email&amp;utm_term=memory&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Memory_Text"
+																	<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #2B3B48"><a href="https://www.adorama.com/specials/l/Computers/Memory-and-Data-Storage?refby=slgt&email=##email_address##&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&amp;utm_term=memory&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Memory_Text"
 																			style="color: #2B3B48; text-decoration:none; display:block" target="_blank"><strong>Memory Cards »</strong></a></td>
 																</tr>
 															</tbody>
@@ -216,12 +216,12 @@
 															<tbody>
 																<tr>
 																	<td align="center">
-																		<a href="https://www.adorama.com/specials/l/Tripods-and-Supports?refby=slgt&utm_source=slgt&refby=slgt&utm_medium=email&amp;utm_term=tripods&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Tripods_Icon" style="color: #2B3B48; text-decoration:none; display:block"
+																		<a href="https://www.adorama.com/specials/l/Tripods-and-Supports?refby=slgt&email=##email_address##&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&amp;utm_term=tripods&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Tripods_Icon" style="color: #2B3B48; text-decoration:none; display:block"
 																			target="_blank"><img alt="Tripods and Support" border="0" class="navMenu" height="75" src="image_library/org_1/1904/icon_tripods.png" style="margin: 0 auto; display: block" width="75"></a>
 																	</td>
 																</tr>
 																<tr>
-																	<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #2B3B48"><a href="https://www.adorama.com/specials/l/Tripods-and-Supports?refby=slgt&utm_source=slgt&refby=slgt&utm_medium=email&amp;utm_term=tripods&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Tripods_Text" style="color: #2B3B48; text-decoration:none; display:block"
+																	<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #2B3B48"><a href="https://www.adorama.com/specials/l/Tripods-and-Supports?refby=slgt&email=##email_address##&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&amp;utm_term=tripods&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Tripods_Text" style="color: #2B3B48; text-decoration:none; display:block"
 																			target="_blank"><strong>Tripods »</strong></a></td>
 																</tr>
 															</tbody>
@@ -232,12 +232,12 @@
 															<tbody>
 																<tr>
 																	<td align="center">
-																		<a href="https://www.adorama.com/specials/l/Batteries-and-Power?refby=slgt&utm_source=slgt&refby=slgt&utm_medium=email&amp;utm_term=batteries&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Batteries_Icon" style="color: #2B3B48; text-decoration:none; display:block"
+																		<a href="https://www.adorama.com/specials/l/Batteries-and-Power?refby=slgt&email=##email_address##&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&amp;utm_term=batteries&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Batteries_Icon" style="color: #2B3B48; text-decoration:none; display:block"
 																			target="_blank"><img alt="Batteries and Power" border="0" class="navMenu" height="75" src="image_library/org_1/1904/icon_batteries.png" style="margin: 0 auto; display: block" width="75"></a>
 																	</td>
 																</tr>
 																<tr>
-																	<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #2B3B48"><a href="https://www.adorama.com/specials/l/Batteries-and-Power?refby=slgt&utm_source=slgt&refby=slgt&utm_medium=email&amp;utm_term=batteries&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Batteries_Text" style="color: #2B3B48; text-decoration:none; display:block"
+																	<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #2B3B48"><a href="https://www.adorama.com/specials/l/Batteries-and-Power?refby=slgt&email=##email_address##&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&amp;utm_term=batteries&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Batteries_Text" style="color: #2B3B48; text-decoration:none; display:block"
 																			target="_blank"><strong>Batteries &amp; Power »</strong></a></td>
 																</tr>
 															</tbody>
@@ -256,12 +256,12 @@
 															<tbody>
 																<tr>
 																	<td align="center">
-																		<a href="https://www.adorama.com/specials/l/TVs-and-Home-Entertainment/Portable-Electronics?refby=slgt&utm_source=slgt&refby=slgt&utm_medium=email&amp;utm_term=mobile&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Mobile_Icon"
+																		<a href="https://www.adorama.com/specials/l/TVs-and-Home-Entertainment/Portable-Electronics?refby=slgt&email=##email_address##&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&amp;utm_term=mobile&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Mobile_Icon"
 																			style="color: #2B3B48; text-decoration:none; display:block" target="_blank"><img alt="Tablets and Mobile" border="0" class="navMenu" height="75" src="image_library/org_1/1904/icon_tablets.png" style="margin: 0 auto; display: block" width="75"></a>
 																	</td>
 																</tr>
 																<tr>
-																	<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #2B3B48"><a href="https://www.adorama.com/specials/l/TVs-and-Home-Entertainment/Portable-Electronics?refby=slgt&utm_source=slgt&refby=slgt&utm_medium=email&amp;utm_term=mobile&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Mobile_Text"
+																	<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #2B3B48"><a href="https://www.adorama.com/specials/l/TVs-and-Home-Entertainment/Portable-Electronics?refby=slgt&email=##email_address##&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&amp;utm_term=mobile&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Mobile_Text"
 																			style="color: #2B3B48; text-decoration:none; display:block" target="_blank"><strong>Tablets &amp; Mobile »</strong></a></td>
 																</tr>
 															</tbody>
@@ -272,12 +272,12 @@
 															<tbody>
 																<tr>
 																	<td align="center">
-																		<a href="https://www.adorama.com/specials/l/Printers-and-Scanners?refby=slgt&utm_source=slgt&refby=slgt&utm_medium=email&amp;utm_term=printers&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Printers_Icon" style="color: #2B3B48; text-decoration:none; display:block"
+																		<a href="https://www.adorama.com/specials/l/Printers-and-Scanners?refby=slgt&email=##email_address##&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&amp;utm_term=printers&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Printers_Icon" style="color: #2B3B48; text-decoration:none; display:block"
 																			target="_blank"><img alt="Printers and Scanners" border="0" class="navMenu" height="75" src="image_library/org_1/1904/icon_printers.png" style="margin: 0 auto; display: block" width="75"></a>
 																	</td>
 																</tr>
 																<tr>
-																	<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #2B3B48"><a href="https://www.adorama.com/specials/l/Printers-and-Scanners?refby=slgt&utm_source=slgt&refby=slgt&utm_medium=email&amp;utm_term=printers&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Printers_Text" style="color: #2B3B48; text-decoration:none; display:block"
+																	<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #2B3B48"><a href="https://www.adorama.com/specials/l/Printers-and-Scanners?refby=slgt&email=##email_address##&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&amp;utm_term=printers&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Printers_Text" style="color: #2B3B48; text-decoration:none; display:block"
 																			target="_blank"><strong>Printers &amp; Office »</strong></a></td>
 																</tr>
 															</tbody>
@@ -290,12 +290,12 @@
 															<tbody>
 																<tr>
 																	<td align="center">
-																		<a href="https://www.adorama.com/specials/l/Lens-Filters?refby=slgt&utm_source=slgt&refby=slgt&utm_medium=email&amp;utm_term=filters&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Filters_Icon" style="color: #2B3B48; text-decoration:none; display:block"
+																		<a href="https://www.adorama.com/specials/l/Lens-Filters?refby=slgt&email=##email_address##&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&amp;utm_term=filters&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Filters_Icon" style="color: #2B3B48; text-decoration:none; display:block"
 																			target="_blank"><img alt="Lens Filters" border="0" class="navMenu" height="75" src="image_library/org_1/1904/icon_filters.png" style="margin: 0 auto; display: block" width="75"></a>
 																	</td>
 																</tr>
 																<tr>
-																	<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #2B3B48"><a href="https://www.adorama.com/specials/l/Lens-Filters?refby=slgt&utm_source=slgt&refby=slgt&utm_medium=email&amp;utm_term=filters&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Filters_Text" style="color: #2B3B48; text-decoration:none; display:block"
+																	<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #2B3B48"><a href="https://www.adorama.com/specials/l/Lens-Filters?refby=slgt&email=##email_address##&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&amp;utm_term=filters&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Filters_Text" style="color: #2B3B48; text-decoration:none; display:block"
 																			target="_blank"><strong>Lens Filters »</strong></a></td>
 																</tr>
 															</tbody>
@@ -306,12 +306,12 @@
 															<tbody>
 																<tr>
 																	<td align="center">
-																		<a href="https://www.adorama.com/specials/l/Binoculars-and-Scopes?refby=slgt&utm_source=slgt&refby=slgt&utm_medium=email&amp;utm_term=binoculars&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Binoculars_Icon" style="color: #2B3B48; text-decoration:none; display:block"
+																		<a href="https://www.adorama.com/specials/l/Binoculars-and-Scopes?refby=slgt&email=##email_address##&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&amp;utm_term=binoculars&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Binoculars_Icon" style="color: #2B3B48; text-decoration:none; display:block"
 																			target="_blank"><img alt="Binoculars" border="0" class="navMenu" height="75" src="image_library/org_1/1904/icon_binoculars.png" style="margin: 0 auto; display: block" width="75"></a>
 																	</td>
 																</tr>
 																<tr>
-																	<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #2B3B48"><a href="https://www.adorama.com/specials/l/Binoculars-and-Scopes?refby=slgt&utm_source=slgt&refby=slgt&utm_medium=email&amp;utm_term=binoculars&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Binoculars_Text" style="color: #2B3B48; text-decoration:none; display:block"
+																	<td align="center" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #2B3B48"><a href="https://www.adorama.com/specials/l/Binoculars-and-Scopes?refby=slgt&email=##email_address##&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&amp;utm_term=binoculars&amp;utm_content=main&amp;utm_campaign=EmailWelcomeIV" linkname="Specials_Binoculars_Text" style="color: #2B3B48; text-decoration:none; display:block"
 																			target="_blank"><strong>Binoculars »</strong></a></td>
 																</tr>
 															</tbody>

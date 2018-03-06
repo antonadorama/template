@@ -30,7 +30,7 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a  linkname="ProAudio"  href="https://www.adorama.com/l/Video-Equipment/Audio-for-Video?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=AudioForVideo&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
+                                      <a  linkname="ProAudio"  href="https://www.adorama.com/l/Video-Equipment/Audio-for-Video?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=AudioForVideo&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
                                         <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-3-video-audio.jpg" style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
                                              alt="Audio" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>
@@ -82,7 +82,7 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a  linkname="VideoLighting"   href="https://www.adorama.com/l/Video-Equipment/Video-Lighting?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=VideoLighting&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
+                                      <a  linkname="VideoLighting"   href="https://www.adorama.com/l/Video-Equipment/Video-Lighting?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=VideoLighting&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
                                       <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-3-video-lighting.jpg" style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
                                            alt="Video Lighting" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>
@@ -132,7 +132,7 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a  linkname="Monitors"   href="https://www.adorama.com/l/Video-Equipment/Monitors-and-Viewfinders?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=ViewFinder&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
+                                      <a  linkname="Monitors"   href="https://www.adorama.com/l/Video-Equipment/Monitors-and-Viewfinders?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=ViewFinder&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
                                       <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-3-video-monitors.jpg" 
                                            style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
                                            alt="Monitors" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>

@@ -1,5 +1,9 @@
 <?php 
 
+ // include_once("Other/BestFeb/index.php");
+
+  include_once("Other/SnapshotTemplate/index.php");
+
 //include_once("Other/TradeEmail_020718/index.php");
 
 // include_once("Other/FiveStars/index.php");
@@ -18,7 +22,7 @@
 
 // include_once("Other/TradeEmail_012318/index.php");
 
- include_once("Other/PostHolidayTemplate/index.php");
+// include_once("Other/PostHolidayTemplate/index.php");
 
 // include_once("Other/CategoryBrowse/index.php");
 
@@ -30,7 +34,7 @@
 
 // include_once("Other/48HoursSale/index.php");
 
-// include_once("Other/SnapshotTemplate/index.php");
+
 
 // include_once("Other/nyip_010918/index.php");
 

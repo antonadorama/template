@@ -1,4 +1,6 @@
-<?php include_once("TradeIn/SonyTrade020818/index.php"); ?>
+<?php include_once("TradeIn/Nikkor180400/index.php"); ?>
+
+<?php // include_once("TradeIn/SonyTrade020818/index.php"); ?>
 
 <?php // include_once("TradeIn/NikonD850/index.php"); ?>
 

@@ -34,9 +34,9 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_020618"; ?>
+					<?php $utm = "Email_Snapshot_030218"; ?>
 					
-					<?php $ttl = "TTL"; ?>
+					<?php $ttl = "Catch 57% Off Demo Touch Screen Label Makers!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					

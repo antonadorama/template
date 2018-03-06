@@ -30,7 +30,7 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a  linkname="Audio_for_Video"  href="https://www.adorama.com/l/Professional-Audio/Audio-for-Video?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=AudioForVideo&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
+                                      <a  linkname="Audio_for_Video"  href="https://www.adorama.com/l/Professional-Audio/Audio-for-Video?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=AudioForVideo&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
                                         <img src="http://www.adorama.com/col/images/email/49281.jpg" style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
                                              alt="Audio for Video" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>
@@ -82,7 +82,7 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a  linkname="Microphones"   href="https://www.adorama.com/l/Professional-Audio/Microphones-and-Accessories/Microphones?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Microphones&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
+                                      <a  linkname="Microphones"   href="https://www.adorama.com/l/Professional-Audio/Microphones-and-Accessories/Microphones?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Microphones&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
                                       <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-4-audio-Microphones.jpg" style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
                                            alt="Microphones" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
                                   </tr>
@@ -133,7 +133,7 @@
                                 <tbody>
                                   <tr>
                                     <td class="links-color" align="left" valign="top" width="100%">
-                                      <a  linkname="Headphones"   href="https://www.adorama.com/l/Professional-Audio/Headphones-and-Earphones?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Headphones&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
+                                      <a  linkname="Headphones"   href="https://www.adorama.com/l/Professional-Audio/Headphones-and-Earphones?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Headphones&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank">
                                       <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-2-4-audio-Headphones.jpg" 
                                            style="border: 0px;display: block;vertical-align: top;max-width: 180px;width: 100%;height: auto;" class="mobile-full" 
                                            alt="Headphones" height="180" hspace="0" border="0" vspace="0" width="180" /></a></td>
