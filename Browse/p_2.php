@@ -1,16 +1,21 @@
 <tr>
 	<td>
-		<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="breakcol_b" width="640">
+		<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="breakcol_b" width="100%">
 			<tbody>
 				<tr>
-					<td align="center" class="breakcol_b" width="50%">
+					<td align="center" class="breakcol_b">
+												<!--[if (gte mso 9)|(lte ie 8)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="320">
+						<tr><td align="center" valign="top" style="width:320px; height:280px;"><![endif]-->
 						<a href="http://www.adorama.com/##browse_item_number##.html?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" 
 							 linkname="Browsed_Item_Image" target="_blank">
 							<img alt="Browsed Item Image" border="0" height="280" width="280"
 									 src="https://www.adorama.com/images/Large/##browse_item_number##.jpg" 
 									 style="" /></a>
+						<!--[if (gte mso 9)|(lte ie 8)]></td></tr></table><![endif]-->
 					</td>
-					<td align="center" class="breakcol_b" valign="top" width="50%">
+					<td align="center" class="breakcol_b" valign="top" >
+												<!--[if (gte mso 9)|(lte ie 8)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="320">
+						<tr><td align="center" valign="top" style="width:320px;height:280px;"><![endif]-->
 						<table align="center" bgcolor="#ffffff" border="0" cellpadding="2" cellspacing="2" class="" width="98%">
 							<tbody>
 								<tr>
@@ -47,6 +52,8 @@
 								</tr>
 							</tbody>
 						</table>
+					
+					<!--[if (gte mso 9)|(lte ie 8)]></td></tr></table><![endif]-->
 					</td>
 				</tr>
 			</tbody>

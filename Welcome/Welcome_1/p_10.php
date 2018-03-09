@@ -12,30 +12,30 @@
 
                 
                 <tr>
-                  <td><a href="https://www.adorama.com/l/Cameras?emailprice=t&utm_source=slgt&refby=slgt&guid=##GUID##&utm_medium=email&utm_term=Cameras&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                  <td><a href="https://www.adorama.com/l/Cameras?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&guid=##GUID##&utm_medium=email&utm_term=Cameras&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          linkname="Cameras" target="_blank">
                     <img src="image_library/org_1/1422/Adorama-Welcome-Email-V2_10.jpg" alt="Cameras" width="100%" height="auto" border="0" style="display:inline;"></a></td>
-                  <td><a href="https://www.adorama.com/l/Lenses?emailprice=t&utm_source=slgt&refby=slgt&guid=##GUID##&utm_medium=email&utm_term=Lenses&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                  <td><a href="https://www.adorama.com/l/Lenses?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&guid=##GUID##&utm_medium=email&utm_term=Lenses&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          linkname="Lenses" target="_blank">
                     <img src="image_library/org_1/1422/Adorama-Welcome-Email-V2_11.jpg" alt="Lenses" width="100%" height="auto" border="0" style="display:inline;"></a></td>
-                  <td><a href="https://www.adorama.com/l/Video-Equipment?emailprice=t&utm_source=slgt&refby=slgt&guid=##GUID##&utm_medium=email&utm_term=ProVideo&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                  <td><a href="https://www.adorama.com/l/Video-Equipment?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&guid=##GUID##&utm_medium=email&utm_term=ProVideo&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          linkname="Pro Video" target="_blank">
                     <img src="image_library/org_1/1422/Adorama-Welcome-Email-V2_12.jpg" alt="Pro Video" width="100%" height="auto" border="0" style="display:inline;"></a></td>
-                  <td><a href="https://www.adorama.com/l/Professional-Audio?emailprice=t&utm_source=slgt&refby=slgt&guid=##GUID##&utm_medium=email&utm_term=ProAudio&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                  <td><a href="https://www.adorama.com/l/Professional-Audio?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&guid=##GUID##&utm_medium=email&utm_term=ProAudio&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          linkname="Pro Audio" target="_blank">
                     <img src="image_library/org_1/1422/Adorama-Welcome-Email-V2_13.jpg" alt="Pro Audio" width="100%" height="auto" border="0" style="display:inline;"></a></td>
                 </tr>
                 <tr>
-                  <td><a href="https://www.adorama.com/l/Video-Equipment/Drones-and-Accessories/Drones?emailprice=t&utm_source=slgt&refby=slgt&guid=##GUID##&utm_medium=email&utm_term=Drones&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                  <td><a href="https://www.adorama.com/l/Video-Equipment/Drones-and-Accessories/Drones?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&guid=##GUID##&utm_medium=email&utm_term=Drones&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          linkname="Drones" target="_blank">
                     <img src="image_library/org_1/1422/Adorama-Welcome-Email-V2_14.jpg" alt="Drones" width="100%" height="auto" border="0" style="display:inline;"></a></td>
-                  <td><a href="https://www.adorama.com/l/Lighting-and-Studio?emailprice=t&utm_source=slgt&refby=slgt&guid=##GUID##&utm_medium=email&utm_term=Studio&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                  <td><a href="https://www.adorama.com/l/Lighting-and-Studio?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&guid=##GUID##&utm_medium=email&utm_term=Studio&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          linkname="Studio" target="_blank">
                     <img src="image_library/org_1/1422/Adorama-Welcome-Email-V2_15.jpg" alt="Studio" width="100%" height="auto" border="0" style="display:inline;"></a></td>
-                  <td><a href="https://www.adorama.com/l/Computers?emailprice=t&utm_source=slgt&refby=slgt&guid=##GUID##&utm_medium=email&utm_term=Computers&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                  <td><a href="https://www.adorama.com/l/Computers?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&guid=##GUID##&utm_medium=email&utm_term=Computers&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          linkname="Computers" target="_blank">
                     <img src="image_library/org_1/1422/Adorama-Welcome-Email-V2_16.jpg" alt="Computers" width="100%" height="auto" border="0" style="display:inline;"></a></td>
-                  <td><a href="https://www.adorama.com/l/TVs-and-Home-Entertainment?emailprice=t&utm_source=slgt&refby=slgt&guid=##GUID##&utm_medium=email&utm_term=HomeEntertainment&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                  <td><a href="https://www.adorama.com/l/TVs-and-Home-Entertainment?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&guid=##GUID##&utm_medium=email&utm_term=HomeEntertainment&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          linkname="Home Entertianment" target="_blank">
                     <img src="image_library/org_1/1422/Adorama-Welcome-Email-V2_17.jpg" alt="Home Entertainment" width="100%" height="auto" border="0" style="display:inline;"></a></td>
                 </tr>

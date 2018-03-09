@@ -1,9 +1,17 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="https://www.w3.org/1999/xhtml">
+<html xmlns="https://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office">
 <head>
 	<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Arvo:400italic' rel='stylesheet' type='text/css'>
 	<title>Adorama.com | Experts in Photo, Pro Video and Pro Audio</title>
+	<!--[if gte mso 9]>
+	<xml>
+    <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+	</xml>
+	<![endif]-->
 </head>
 <body style="min-width: 100%; padding: 0; margin: 0; -webkit-text-size-adjust: none; background-color: #e3e3e3;">
 	<p style="display:none;">
@@ -37,20 +45,20 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Browse_Abandon_Program_I_v3"; ?>
-					<?php //$utm = "Email_Browse_Abandon_Program_II_v3"; ?>
+					<?php //$utm = "Email_Browse_Abandon_Program_I_v3"; ?>
+					<?php $utm = "Email_Browse_Abandon_Program_II_v3"; ?>
 					
 					<?php //$ttl = "We Took a Snapshot of the ##MANUFACTURER## Item You Had Your Eye On!"; ?>
 					<?php //$ttl = "We Took a Selfie of the ##MANUFACTURER## Item You Had Your Eye On!"; ?>
 					
-					<?php //$ttl = "Don’t Miss Out on the ##MANUFACTURER## Item You Had Your Eye On! Come Back and Grab It!"; ?>
-					<?php $ttl = "Don’t Miss Out on ##MANUFACTURER## Item You Had Your Eye On!"; ?>
+					<?php $ttl = "Don’t Miss Out on the ##MANUFACTURER## Item You Had Your Eye On! Come Back and Grab It!"; ?>
+					<?php //$ttl = "Don’t Miss Out on ##MANUFACTURER## Item You Had Your Eye On!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
 				
-					<?php //include_once("Browse/p_header_2.php"); ?>
-					<?php include_once("Browse/p_header_3.php"); ?>
+					<?php include_once("Browse/p_header_2.php"); ?>
+					<?php //include_once("Browse/p_header_3.php"); ?>
 					
 					
           

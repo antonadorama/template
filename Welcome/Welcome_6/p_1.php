@@ -13,7 +13,7 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/overstock?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" target="_blank" 
+                    <a href="https://www.adorama.com/overstock?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" target="_blank" 
                        linkname="Overstock_Image">
                     <img src="image_library/org_1/2252/Warehouse-Blowout-Sale-R-D.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
                          alt="Shop our Semi-Annual Warehouse Clearance Event!" hspace="0" border="0" vspace="0" width="640">

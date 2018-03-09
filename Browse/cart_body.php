@@ -1,16 +1,21 @@
 <tr>
 	<td>
-		<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="breakcol_b" width="640">
+		<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="breakcol_b" width="100%">
 			<tbody>
 				<tr>
-					<td align="center" class="breakcol_b" width="50%">
+					<td align="center" class="breakcol_b" >
+						<!--[if (gte mso 9)|(lte ie 8)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="320">
+						<tr><td align="center" valign="top" style="width:320px; height:280px;"><![endif]-->
 						<a href="http://www.adorama.com/als.mvc/cartview?refby=slgt&email=##email_address##&utm_source=slgt&utm_medium=email&utm_term=Cart&utm_content=CartContentBox&utm_campaign=<?php echo $utm;?>&c=##cart_id##" 
 							 linkname="Cart_Product_Name" target="_blank">
 							<img alt="We Save Your Cart for You!" border="0" height="280" width="280"
 									 src="http://www.adorama.com/images/Large/##sku_1##.jpg" 
 									 style="" /></a>
+						<!--[if (gte mso 9)|(lte ie 8)]></td></tr></table><![endif]-->
 					</td>
-					<td align="center" class="breakcol_b" valign="top" width="50%">
+					<td align="center" class="breakcol_b" valign="top" >
+						<!--[if (gte mso 9)|(lte ie 8)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="320">
+						<tr><td align="center" valign="top" style="width:320px;height:280px;"><![endif]-->
 						<table align="center" bgcolor="#ffffff" border="0" cellpadding="2" cellspacing="2" class="" width="98%">
 							<tbody>
 								<tr>
@@ -47,6 +52,8 @@
 								</tr>
 							</tbody>
 						</table>
+					
+					<!--[if (gte mso 9)|(lte ie 8)]></td></tr></table><![endif]-->
 					</td>
 				</tr>
 			</tbody>

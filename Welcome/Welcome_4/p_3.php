@@ -30,7 +30,7 @@
             <table align="center" border="0" cellpadding="0" cellspacing="0" class="" width="33.3%">
               <tbody>
                 <tr>
-                  <td align="center" style="padding-top: 10px; padding-bottom: 10px"><a href="http://www.adorama.com/alc?refby=slgt&utm_source=slgt&guid=##GUID##&utm_medium=email&utm_term=ALC&utm_content=body&utm_campaign=<?php echo $utm;?>" linkname="VP_SameDayShipping" target="_blank"><img alt="" border="0" src="image_library/org_1/2249/icon_samedayshipping.png" style="display:block; margin:auto" /></a></td>
+                  <td align="center" style="padding-top: 10px; padding-bottom: 10px"><a href="http://www.adorama.com/alc?refby=slgt&email=##email_address##&utm_source=slgt&guid=##GUID##&utm_medium=email&utm_term=ALC&utm_content=body&utm_campaign=<?php echo $utm;?>" linkname="VP_SameDayShipping" target="_blank"><img alt="" border="0" src="image_library/org_1/2249/icon_samedayshipping.png" style="display:block; margin:auto" /></a></td>
                 </tr>
                 <tr>
                   <td style="font-size: 18px; font-family: Arial, Helvetica, sans-serif; color: #2B3B48; text-align: center; line-height: normal" valign="middle"><strong>Same Day Shipping</strong></td>
@@ -46,7 +46,7 @@
             <table align="center" border="0" cellpadding="0" cellspacing="0" class="" width="33.3%">
               <tbody>
                 <tr>
-                  <td align="center" style="padding-top: 10px; padding-bottom: 10px"><a href="http://www.adorama.com/pages/Rent-to-Buy?refby=slgt&utm_source=slgt&guid=##GUID##&utm_medium=email&utm_term=renttobuy&utm_content=body&utm_campaign=<?php echo $utm;?>" linkname="VP_RentToBuy" target="_blank"><img alt="" border="0" src="image_library/org_1/2249/icon_renttobuy.png" style="display:block; margin:auto" /></a></td>
+                  <td align="center" style="padding-top: 10px; padding-bottom: 10px"><a href="http://www.adorama.com/pages/Rent-to-Buy?refby=slgt&email=##email_address##&utm_source=slgt&guid=##GUID##&utm_medium=email&utm_term=renttobuy&utm_content=body&utm_campaign=<?php echo $utm;?>" linkname="VP_RentToBuy" target="_blank"><img alt="" border="0" src="image_library/org_1/2249/icon_renttobuy.png" style="display:block; margin:auto" /></a></td>
                 </tr>
                 <tr>
                   <td style="font-size: 18px; font-family: Arial, Helvetica, sans-serif; color: #2B3B48; text-align: center; line-height: normal" valign="middle"><strong>Rent To Buy</strong></td>
@@ -62,7 +62,7 @@
             <table align="center" border="0" cellpadding="0" cellspacing="0" class="" width="33.3%">
               <tbody>
                 <tr>
-                  <td align="center" style="padding-top: 10px; padding-bottom: 10px"><a href="http://www.adorama.com/vip?refby=slgt&utm_source=slgt&guid=##GUID##&utm_medium=email&utm_term=vip&utm_content=body&utm_campaign=<?php echo $utm;?>" linkname="VP_JoinVIP" target="_blank"><img alt="" border="0" src="image_library/org_1/2249/icon_vipblue.png" style="display:block; margin:auto" /></a></td>
+                  <td align="center" style="padding-top: 10px; padding-bottom: 10px"><a href="http://www.adorama.com/vip?refby=slgt&email=##email_address##&utm_source=slgt&guid=##GUID##&utm_medium=email&utm_term=vip&utm_content=body&utm_campaign=<?php echo $utm;?>" linkname="VP_JoinVIP" target="_blank"><img alt="" border="0" src="image_library/org_1/2249/icon_vipblue.png" style="display:block; margin:auto" /></a></td>
                 </tr>
                 <tr>
                   <td style="font-size: 18px; font-family: Arial, Helvetica, sans-serif; color: #2B3B48; text-align: center; line-height: normal" valign="middle"><strong>VIP Exclusives</strong></td>

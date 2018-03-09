@@ -36,7 +36,7 @@
                           <tr>
                             <td class="links-color" align="left" valign="top" width="100%">
                                                               <a linkname="Adorama_Pix"
-                                href="https://www.adoramapix.com/app/home?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=AdoramaPix&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                                href="https://www.adoramapix.com/app/home?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=AdoramaPix&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                                 target="_new" style="text-decoration: none;">    
                               <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-3-1-brands-pix.jpg" 
                                    style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
@@ -79,7 +79,7 @@
                                   <td class="mobile-textcenter" 
                                       style="font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-align: left; color: #114998; font-weight: normal; 
                                              background-color: #ffffff; border-radius: 0px;" height="26" align="left" bgcolor="#ffffff" valign="middle">
-                                    <a href="https://www.adoramapix.com/app/home?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=AdoramaPix&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                                    <a href="https://www.adoramapix.com/app/home?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=AdoramaPix&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                                        target="_new" style="text-decoration: none; color: #114998; font-weight: bold;" linkname="AdoramaPix">
                                       START PRINTING <i class="fa fa-caret-right"></i></a></td>
                                 </tr>
@@ -121,7 +121,7 @@
                             <td class="links-color" align="left" valign="top" width="100%">
                               
                                 <a linkname="Trade_"
-                                href="https://www.adorama.com/pages/usedQuote?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Trade&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                                href="https://www.adorama.com/pages/usedQuote?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Trade&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                                 target="_new" style="text-decoration: none;">    
                               
                               <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-3-1-brands-used.jpg" 
@@ -167,7 +167,7 @@
                               <tr>
                                 <td class="mobile-textcenter" style="font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-align: left; color: #114998; font-weight: normal; background-color: #ffffff; border-radius: 0px;" 
                                     height="26" align="left" bgcolor="#ffffff" valign="middle">
-                                  <a linkname="Trade" href="https://www.adorama.com/pages/usedQuote?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Trade&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">
+                                  <a linkname="Trade" href="https://www.adorama.com/pages/usedQuote?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Trade&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">
                                     GET A QUOTE <i class="fa fa-caret-right"></i>
                                   </a>
                                 </td>
@@ -210,7 +210,7 @@
                           <tr>
                             <td class="links-color" align="left" valign="top" width="100%">
                                                               <a linkname="Rent_"
-                                href="http://www.adoramarentals.com/?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Rent&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                                href="http://www.adoramarentals.com/?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Rent&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                                 target="_new" style="text-decoration: none;">    
                               <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-3-1-brands-arc.jpg" 
                                    style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
@@ -252,7 +252,7 @@
                                 <td class="mobile-textcenter" 
                                     style="font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-align: left; color: #114998; font-weight: normal; background-color: #ffffff; border-radius: 0px;" 
                                     height="26" align="left" bgcolor="#ffffff" valign="middle">
-                                  <a linkname="Rent" href="http://www.adoramarentals.com/?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Rent&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">
+                                  <a linkname="Rent" href="http://www.adoramarentals.com/?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Rent&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">
                                     START RENTING <i class="fa fa-caret-right"></i></a></td>
                               </tr>
                               <tbody>
@@ -293,7 +293,7 @@
                             <td class="links-color" align="left" valign="top" width="100%">
                               
                                                               <a linkname="AdoramaPro_"
-                                href="https://www.adorama.com/c/Video-Equipment?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=AdoramaPro&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                                href="https://www.adorama.com/c/Video-Equipment?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=AdoramaPro&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                                 target="_new" style="text-decoration: none;">    
                               
                               <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-3-1-brands-pro.jpg" 
@@ -339,7 +339,7 @@
                               <tr>
                                 <td class="mobile-textcenter" style="font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-align: left; color: #114998; font-weight: normal; background-color: #ffffff; border-radius: 0px;" 
                                     height="26" align="left" bgcolor="#ffffff" valign="middle">
-                                  <a linkname="AdoramaPro" href="https://www.adorama.com/c/Video-Equipment?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=AdoramaPro&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">
+                                  <a linkname="AdoramaPro" href="https://www.adorama.com/c/Video-Equipment?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=AdoramaPro&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">
                                     SHOP PRO GEAR<i class="fa fa-caret-right"></i></a></td>
                               </tr>
                               <tbody>
@@ -378,7 +378,7 @@
                           <tr>
                             <td class="links-color" align="left" valign="top" width="100%">
                              <a linkname="Adorama_Tv"
-                                href="http://www.adorama.com/alc/category/AdoramaTv/?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=AdoramaTv&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                                href="http://www.adorama.com/alc/category/AdoramaTv/?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=AdoramaTv&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                                 target="_new" style="text-decoration: none;">                                 
                               <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-3-1-brands-alc.jpg" 
                                    style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
@@ -420,7 +420,7 @@
                                 <td class="mobile-textcenter" style="font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-align: left; 
                                                                      color: #114998; font-weight: normal; background-color: #ffffff; border-radius: 0px;" 
                                     height="26" align="left" bgcolor="#ffffff" valign="middle">
-                                  <a linkname="AdoramaTv" href="http://www.adorama.com/alc/category/AdoramaTv/?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=AdoramaTv&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">
+                                  <a linkname="AdoramaTv" href="http://www.adorama.com/alc/category/AdoramaTv/?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=AdoramaTv&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">
                                     WATCH NOW <i class="fa fa-caret-right"></i></a></td>
                               </tr>
                               <tbody>

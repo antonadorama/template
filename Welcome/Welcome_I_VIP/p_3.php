@@ -13,7 +13,7 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/specials?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" target="_blank" 
+                    <a href="https://www.adorama.com/specials?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" target="_blank" 
                        linkname="D_VIPWelcome">
                     <img src="image_library/org_1/2291/adorama_welcome_adoramavip_savemore.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
                          alt="Save More!" hspace="0" border="0" vspace="0" width="640">

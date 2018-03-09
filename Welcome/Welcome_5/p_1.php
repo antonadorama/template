@@ -13,7 +13,7 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/rebates?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" target="_blank" 
+                    <a href="https://www.adorama.com/rebates?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" target="_blank" 
                        linkname="Rebates_Image">
                     <img src="image_library/org_1/2250/Rebates_Expiring.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
                          alt="Grab Exclusive Limited-Time Rebates on Hundreds of Items Before They Expire!" hspace="0" border="0" vspace="0" width="640">

@@ -11,7 +11,7 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=manage&utm_source=slgt&refby=slgt&utm_medium=email&utm_term=Preferences&utm_content=Body&utm_campaign=<?php echo $utm;?>#emailpref" target="_blank" 
+                    <a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=manage&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&utm_term=Preferences&utm_content=Body&utm_campaign=<?php echo $utm;?>#emailpref" target="_blank" 
                        linkname="Welcome_Email_1_Focus_On_You">
                     <img src="image_library/org_1/1422/Adorama-Welcome-Email-V2_06.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" alt="Welcome Email 1 Focus On You" hspace="0" border="0" vspace="0" width="640">
                     </a>

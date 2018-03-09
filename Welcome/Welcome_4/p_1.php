@@ -13,7 +13,7 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="http://www.adorama.com/specials?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" target="_blank" 
+                    <a href="http://www.adorama.com/specials?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Header&utm_campaign=<?php echo $utm;?>" target="_blank" 
                        linkname="Specials_Image">
                     <img src="image_library/org_1/2249/Welcome4_Specials_Hero.gif" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
                          alt="Shop this Month's Best Deals on TV's, Computers, Tablets, Cameras, Lenses and More!" hspace="0" border="0" vspace="0" width="640">

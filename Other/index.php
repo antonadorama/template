@@ -1,8 +1,10 @@
 <?php 
 
+// include_once("Other/CategoryBrowse/index.php");
+
  // include_once("Other/BestFeb/index.php");
 
-  include_once("Other/SnapshotTemplate/index.php");
+   include_once("Other/SnapshotTemplate/index.php");
 
 //include_once("Other/TradeEmail_020718/index.php");
 
@@ -24,7 +26,7 @@
 
 // include_once("Other/PostHolidayTemplate/index.php");
 
-// include_once("Other/CategoryBrowse/index.php");
+
 
 // include_once("Other/Forensics_012218/index.php");
 

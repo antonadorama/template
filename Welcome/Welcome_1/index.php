@@ -1,9 +1,17 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="https://www.w3.org/1999/xhtml">
+<html xmlns="https://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office">
 <head>
 	<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Arvo:400italic' rel='stylesheet' type='text/css'>
 	<title>Adorama.com | Experts in Photo, Pro Video and Pro Audio</title>
+	<!--[if gte mso 9]>
+	<xml>
+    <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+	</xml>
+	<![endif]-->
 </head>
 <body style="min-width: 100%; padding: 0; margin: 0; -webkit-text-size-adjust: none; background-color: #e3e3e3;">
 	<p style="display:none;">
@@ -16,7 +24,8 @@
 		<meta name="format-detection" content="email=no">
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
-		<?php include_once("Welcome/blocks/style_5.php"); ?>		
+		<?php include_once("Welcome/blocks/style_5.php"); ?>
+		<?php include_once("Browse/blocks/style_recsfix.php"); ?>
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -52,15 +61,20 @@
 					<?php include_once("Welcome/Welcome_1/p_10.php"); ?>					
 					
 					
-					<?php include_once("Welcome/Welcome_1/bestsellers.php"); ?>
+					<?php //include_once("Welcome/Welcome_1/bestsellers.php"); ?>
 					
-					<?php include_once("Welcome/Welcome_1/4products_block_cb.php"); ?>
+					<?php //include_once("Welcome/Welcome_1/4products_block_cb.php"); ?>
 					
-					<?php include_once("Welcome/Welcome_1/p_11.php"); ?>
+					<?php //include_once("Welcome/Welcome_1/p_11.php"); ?>
 					
-					<?php //include_once("Welcome/Welcome_1/p_12.php"); ?>          
+					<?php //include_once("Welcome/Welcome_1/p_12.php"); ?>       
 			
-					<?php include_once("Welcome/blocks/footer.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>					
+					<?php include_once("Other/blocks/holiday_footer.php"); ?>
+					
 					
 				</tbody>
 			</table>
