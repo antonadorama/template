@@ -1,9 +1,9 @@
 <tr>
   <td>
-    <table id="ko_tripleArticleBlock_9" style="background-color: #E3E3E3;" class="vb-outer" bgcolor="#E3E3E3" border="0" cellpadding="0" cellspacing="0" width="100%">
+    <table id="ko_tripleArticleBlock_9" style="background-color: #ffffff;" class="vb-outer" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="100%">
     <tbody>
       <tr>
-        <td style="background-color: #e3e3e3;" class="vb-outer" align="center" bgcolor="#E3E3E3" valign="top">
+        <td style="background-color: #ffffff;" class="vb-outer" align="center" bgcolor="#ffffff" valign="top">
 
           <!--[if (gte mso 9)|(lte ie 8)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="640"><tr><td align="center" valign="top"><![endif]-->
           
@@ -26,7 +26,7 @@
                         <tbody>
                           <tr>
                             <td class="links-color" style="padding-bottom: 9px;" align="left" valign="top" width="100%">
-                              <a href="https://www.adorama.com/pages/Rent-to-Buy?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=ARC&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="RentToBuy" target="_blank" >
+                              <a href="https://www.adorama.com/pages/Rent-to-Buy?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=ARC&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="RentToBuy" target="_blank" >
                               <img src="image_library/org_1/1126/adorama-rb-Image-5-4-arc-100back-blue.jpg" 
                                    style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
                                    class="mobile-full" alt="Rent To Buy" hspace="0" border="0" vspace="0" width="208">
@@ -72,7 +72,7 @@
                         <tbody>
                           <tr>
                             <td class="links-color" style="padding-bottom: 9px;" align="left" valign="top" width="100%">
-                              <a href="https://www.adoramarentals.com/Catalog.aspx/?op=Education&Func=studentregister&emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=ARC&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="ARCEDU" target="_blank" >
+                              <a href="https://www.adoramarentals.com/Catalog.aspx/?op=Education&Func=studentregister&emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=ARC&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="ARCEDU" target="_blank" >
                               <img src="image_library/org_1/1126/adorama-rb-Image-5-4-arc-rewards-blue.jpg" 
                                    style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" class="mobile-full" 
                                    alt="ARC EDU" hspace="0" border="0" vspace="0" width="208">
@@ -119,7 +119,7 @@
                         <tbody>
                           <tr>
                             <td class="links-color" style="padding-bottom: 9px;" align="left" valign="top" width="100%">
-                              <a href="http://www.adoramarentals.com/i/location?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Location&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="Location" target="_blank" >
+                              <a href="http://www.adoramarentals.com/i/location?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Location&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="Location" target="_blank" >
                               <img src="image_library/org_1/1126/adorama-rb-Image-5-4-arc-location-blue.jpg" 
                                    style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
                                    class="mobile-full" hspace="0" border="0" vspace="0" width="208" alt="Location">
@@ -179,7 +179,7 @@
                                                font-weight: normal; background-color: #ffffff; border-radius: 0px;" height="26" 
                                         align="center" bgcolor="#ffffff" valign="middle" width="auto">
                                       <!--[if (gte mso 9)|(lte ie 8)]><font size="2"><![endif]-->
-                                      <a linkname="Rent_To_Buy" href="https://www.adorama.com/pages/Rent-to-Buy?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=ARC&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">                                        
+                                      <a linkname="Rent_To_Buy" href="https://www.adorama.com/pages/Rent-to-Buy?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=ARC&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">                                        
                                         LEARN MORE                                        
                                         <i class="fa fa-caret-right"></i> </a>
                                       <!--[if (gte mso 9)|(lte ie 8)]></font><![endif]-->
@@ -207,7 +207,7 @@
                                              color: #114998; font-weight: normal; padding-left: 18px; padding-right: 18px; background-color: #ffffff; border-radius: 0px;" 
                                       height="26" align="center" bgcolor="#ffffff" valign="middle">
                                     <!--[if (gte mso 9)|(lte ie 8)]><font size="2"><![endif]-->
-                                    <a linkname="ARC_EDU" href="https://www.adoramarentals.com/Catalog.aspx/?op=Education&Func=studentregister&emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=ARC&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">
+                                    <a linkname="ARC_EDU" href="https://www.adoramarentals.com/Catalog.aspx/?op=Education&Func=studentregister&emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=ARC&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">
                                       LEARN MORE <i class="fa fa-caret-right"></i> </a>
                                     <!--[if (gte mso 9)|(lte ie 8)]></font><![endif]-->
                                   </td>
@@ -233,7 +233,7 @@
                                              font-weight: normal; padding-left: 18px; padding-right: 18px; background-color: #ffffff; border-radius: 0px;" 
                                       height="26" align="center" bgcolor="#ffffff" valign="middle">
                                     <!--[if (gte mso 9)|(lte ie 8)]><font size="2"><![endif]-->
-                                    <a linkname="Location" href="http://www.adoramarentals.com/i/location?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Location&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">
+                                    <a linkname="Location" href="http://www.adoramarentals.com/i/location?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Location&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">
                                       GET DIRECTIONS 
                                       <i class="fa fa-caret-right"></i>
                                     </a>

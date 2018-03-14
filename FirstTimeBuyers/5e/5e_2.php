@@ -1,6 +1,6 @@
 <tr>
   <td>
-   <table id="ko_imageBlock_5" style="background-color: #E3E3E3;" class="vb-outer" bgcolor="#E3E3E3" border="0" cellpadding="0" cellspacing="0" width="100%">
+   <table id="ko_imageBlock_5" style="background-color: #EAF3F7;" class="vb-outer" bgcolor="#EAF3F7" border="0" cellpadding="0" cellspacing="0" width="100%">
     <tbody>
       <tr>
         <td class="vb-outer" align="center" valign="top" style="">
@@ -48,7 +48,7 @@
 
 <tr>
   <td>
-      <table id="ko_imageBlock_5" style="background-color: #E3E3E3;" class="vb-outer" bgcolor="#E3E3E3" border="0" cellpadding="0" cellspacing="0" width="100%">
+      <table id="ko_imageBlock_5" style="background-color: #EAF3F7;" class="vb-outer" bgcolor="#EAF3F7" border="0" cellpadding="0" cellspacing="0" width="100%">
     <tbody>
       <tr>
         <td class="vb-outer" align="center" valign="top" style="">
@@ -65,7 +65,7 @@
                           <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #FFFFFF; 
                                      font-weight: normal; padding:14px 24px; background-color: #114998; border-radius: 0px; letter-spacing:1px;" 
                               height="26" align="center" bgcolor="#114998" valign="middle" width="auto">
-                            <a href="http://www.adorama.com/pro?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=AdoramaPro&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="AdoramaPro" target="_new" style="text-decoration: none; color: #FFFFFF; font-weight: bold;">
+                            <a href="http://www.adorama.com/pro?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=AdoramaPro&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="AdoramaPro" target="_new" style="text-decoration: none; color: #FFFFFF; font-weight: bold;">
                               LEARN MORE</a></td>
                         </tr>
                       </tbody>

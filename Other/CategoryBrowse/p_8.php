@@ -13,13 +13,13 @@
               <tbody>
                 <tr>
                   <td>
-                      <a href="https://www.adorama.com/rebates?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                      <a href="https://www.adorama.com/rebates?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          linkname="Rebates" target="_blank">
                         <img src="image_library/org_1/3079/Category-Browse-Email_12.jpg" alt="Rebates" width="100%" height="auto" border="0" style="display:inline;">
                       </a>
                   </td>
                   <td>
-                    <a href="https://www.adorama.com/g/Clearance_Specials?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                    <a href="https://www.adorama.com/g/Clearance_Specials?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                        linkname="Clearance" target="_blank">
                       <img src="image_library/org_1/3079/Category-Browse-Email_13.jpg" alt="Clearance" width="100%" height="auto" border="0" style="display:inline;">
                     </a>

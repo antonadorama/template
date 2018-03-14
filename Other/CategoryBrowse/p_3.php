@@ -13,13 +13,13 @@
               <tbody>
                 <tr>
                   <td>
-                      <a href="https://www.adorama.com/?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                      <a href="##second_level_category_url##?sel=Price-Range_-dollar-250-to-dollar-500&emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          linkname="DollarIcon" target="_blank">
                         <img src="image_library/org_1/3079/Category-Browse-Email_03.jpg" alt="Dollar Icon" width="100%" height="auto" border="0" style="display:inline;">
                       </a>
                   </td>
                   <td>
-                    <a href="https://www.adorama.com/?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                    <a href="##second_level_category_url##?sel=Ratings-and-Reviews_4-and-up&emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                        linkname="StarIcon" target="_blank">
                       <img src="image_library/org_1/3079/Category-Browse-Email_04.jpg" alt="Star Icon" width="100%" height="auto" border="0" style="display:inline;">
                     </a>

@@ -1,9 +1,17 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="https://www.w3.org/1999/xhtml">
+<html xmlns="https://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office">
 <head>
 	<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Arvo:400italic' rel='stylesheet' type='text/css'>
 	<title>Adorama.com | Experts in Photo, Pro Video and Pro Audio</title>
+	<!--[if gte mso 9]>
+	<xml>
+    <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+	</xml>
+	<![endif]-->
 </head>
 <body style="min-width: 100%; padding: 0; margin: 0; -webkit-text-size-adjust: none; background-color: #e3e3e3;">
 	<p style="display:none;">
@@ -60,12 +68,18 @@
 					<!-- Directions --->
 					<?php include_once("FirstTimeBuyers/6/6_6.php"); ?>
 					<!-- Featured Products Header--->
-					<?php include_once("FirstTimeBuyers/6/6_7.php"); ?>
+					<?php //include_once("FirstTimeBuyers/6/6_7.php"); ?>
 					<!-- Featured Products --->
 					<?php //include_once("FirstTimeBuyers/6/6_8.php"); ?>
-					<?php include_once("FirstTimeBuyers/6/4products_block_cb.php"); ?>
+					<?php //include_once("FirstTimeBuyers/6/4products_block_cb.php"); ?>
 					
-					<?php include_once("FirstTimeBuyers/blocks/footer.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>					
+					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>										
+					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>								
+					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
+					
+					
+					<?php include_once("Other/blocks/holiday_footer.php"); ?>
 					
 				</tbody>
 			</table>

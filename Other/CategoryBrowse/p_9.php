@@ -13,13 +13,13 @@
               <tbody>
                 <tr>
                   <td>
-                      <a href="https://www.adorama.com/refurbished/l/?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                      <a href="https://www.adorama.com/refurbished/l/?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          linkname="Refurbished" target="_blank">
                         <img src="image_library/org_1/3079/Category-Browse-Email_14.jpg" alt="Refurbished" width="100%" height="auto" border="0" style="display:inline;">
                       </a>
                   </td>
                   <td>
-                    <a href="https://www.adorama.com/overstock?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                    <a href="https://www.adorama.com/overstock?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                        linkname="Overstock" target="_blank">
                       <img src="image_library/org_1/3079/Category-Browse-Email_15.jpg" alt="Overstock" width="100%" height="auto" border="0" style="display:inline;">
                     </a>

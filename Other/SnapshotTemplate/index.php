@@ -42,9 +42,9 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_030918"; ?>
+					<?php $utm = "Email_Snapshot_031318"; ?>
 					
-					<?php $ttl = "Grab this FLIR FX Wireless HD Security Camera on SALE now!"; ?>
+					<?php $ttl = "Don't Miss Our Deal on our Full HD LCD On-Camera Monitor!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					

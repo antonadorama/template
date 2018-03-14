@@ -1,10 +1,10 @@
 <?php 
 
-// include_once("Other/CategoryBrowse/index.php");
+ include_once("Other/CategoryBrowse/index.php");
 
  // include_once("Other/BestFeb/index.php");
 
-   include_once("Other/SnapshotTemplate/index.php");
+  // include_once("Other/SnapshotTemplate/index.php");
 
 //include_once("Other/TradeEmail_020718/index.php");
 

@@ -1,9 +1,9 @@
 <tr>
   <td>
-  <table id="ko_titleBlock_7" style="background-color: #E3E3E3;" class="vb-outer" bgcolor="#E3E3E3" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <table id="ko_titleBlock_7" style="background-color: #006E95;" class="vb-outer" bgcolor="#006E95" border="0" cellpadding="0" cellspacing="0" width="100%">
     <tbody>
       <tr>
-        <td style="background-color: #e3e3e3;" class="vb-outer" align="center" bgcolor="#E3E3E3" valign="top">
+        <td style="background-color: #006E95;" class="vb-outer" align="center" bgcolor="#006E95" valign="top">
           <!--[if (gte mso 9)|(lte ie 8)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="640">
           <tr><td align="center" valign="top"><![endif]-->
           

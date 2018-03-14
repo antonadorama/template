@@ -1,6 +1,6 @@
   <tr>
     <td>
-  <table id="ko_imageBlock_5" style="background-color: #E3E3E3;" class="vb-outer" bgcolor="#E3E3E3" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <table id="ko_imageBlock_5" style="background-color: #ECF6F8;" class="vb-outer" bgcolor="#ECF6F8" border="0" cellpadding="0" cellspacing="0" width="100%">
     <tbody>
       <tr>
         <td class="vb-outer" align="center" valign="top" style="">
@@ -58,7 +58,7 @@
 <tr>
   <td>
 
-<table id="ko_imageBlock_5" style="background-color: #E3E3E3;" class="vb-outer" bgcolor="#E3E3E3" border="0" cellpadding="0" cellspacing="0" width="100%">
+<table id="ko_imageBlock_5" style="background-color: #ECF6F8;" class="vb-outer" bgcolor="#ECF6F8" border="0" cellpadding="0" cellspacing="0" width="100%">
     <tbody>
       <tr>
         <td class="vb-outer" align="center" valign="top" style="">

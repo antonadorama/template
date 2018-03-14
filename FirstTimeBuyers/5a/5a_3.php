@@ -1,7 +1,7 @@
 <tr>
   <td>
 
-<table id="ko_imageBlock_5" style="background-color: #E3E3E3;" class="vb-outer" bgcolor="#E3E3E3" border="0" cellpadding="0" cellspacing="0" width="100%">
+<table id="ko_imageBlock_5" style="background-color: #ECF6F8;" class="vb-outer" bgcolor="#ECF6F8" border="0" cellpadding="0" cellspacing="0" width="100%">
     <tbody>
       <tr>
         <td class="vb-outer" align="center" valign="top" style="">
@@ -15,7 +15,7 @@
                       <tbody>
                         <tr>
                           <td style="font-size: 14px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #FFFFFF; font-weight: normal; padding:14px 24px; background-color: #114998; border-radius: 0px; letter-spacing:1px;" height="26" align="center" bgcolor="#114998" valign="middle" width="auto">
-                            <a linkname="alc_3"  href="http://www.adorama.com/alc/?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=ALC&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #FFFFFF; font-weight: bold;">
+                            <a linkname="alc_3"  href="http://www.adorama.com/alc/?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=ALC&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #FFFFFF; font-weight: bold;">
                               <span style="width:100%; height:100%;display:block;">LEARN MORE</span></a></td>
                         </tr>
                       </tbody>

@@ -1,6 +1,6 @@
 <tr>
   <td>
-    <table id="ko_imageBlock_5" style="background-color: #E3E3E3;" class="vb-outer" bgcolor="#E3E3E3" border="0" cellpadding="0" cellspacing="0" width="100%">
+    <table id="ko_imageBlock_5" style="background-color: #ECF6F8;" class="vb-outer" bgcolor="#ECF6F8" border="0" cellpadding="0" cellspacing="0" width="100%">
     <tbody>
       <tr>
         <td class="vb-outer" align="center" valign="top" style="">
@@ -11,7 +11,7 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="http://www.adorama.com/alc/events/?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=ALC&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" linkname="Events">
+                    <a href="http://www.adorama.com/alc/events/?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=ALC&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" linkname="Events">
                     <img src="http://www.adorama.com/col/images/email/adorama-rb-Image-1-2-feature-events.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" alt="" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>

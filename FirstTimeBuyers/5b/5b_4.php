@@ -1,9 +1,9 @@
 <tr>
   <td>
-    <table id="ko_tripleArticleBlock_9" style="background-color: #E3E3E3;" class="vb-outer" bgcolor="#E3E3E3" border="0" cellpadding="0" cellspacing="0" width="100%">
+    <table id="ko_tripleArticleBlock_9" style="background-color: #ffffff;" class="vb-outer" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="100%">
     <tbody>
       <tr>
-        <td style="background-color: #e3e3e3;" class="vb-outer" align="center" bgcolor="#E3E3E3" valign="top">
+        <td style="background-color: #ffffff;" class="vb-outer" align="center" bgcolor="#ffffff" valign="top">
 
           <!--[if (gte mso 9)|(lte ie 8)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="640"><tr><td align="center" valign="top"><![endif]-->
           
@@ -26,7 +26,7 @@
                         <tbody>
                           <tr>
                             <td class="links-color" style="" align="left" valign="top" width="100%">
-                              <a href="https://www.adorama.com/l/Used/Clearance?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=PreOwnedDeals&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                              <a href="https://www.adorama.com/l/Used/Clearance?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=PreOwnedDeals&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                                  linkname="PreOwnedDeals" target="_blank" >
                               <img src="http://www.adorama.com/col/images/email/PreOwned_5B.jpg" 
                                    style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
@@ -74,7 +74,7 @@
                         <tbody>
                           <tr>
                             <td class="links-color" style="" align="left" valign="top" width="100%">
-                              <a href="https://www.adorama.com/l/Used/Open~Box?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=OpenBoxDiscounts&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                              <a href="https://www.adorama.com/l/Used/Open~Box?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=OpenBoxDiscounts&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                                  linkname="OpenBoxDiscounts" target="_blank" >
                               <img src="http://www.adorama.com/col/images/email/OpenBox_5B.jpg" 
                                    style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" class="mobile-full" 
@@ -122,7 +122,7 @@
                         <tbody>
                           <tr>
                             <td class="links-color" style="" align="left" valign="top" width="100%">
-                              <a href="https://www.adorama.com/l/Refurbished?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=RefurbishedGear&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                              <a href="https://www.adorama.com/l/Refurbished?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=RefurbishedGear&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                                  linkname="Refurbished_Gear" target="_blank" >
                               <img src="http://www.adorama.com/col/images/email/Refurbs_5B.jpg" 
                                    style="border: 0px;display: block;vertical-align: top;width: 100%;height: auto;" 
@@ -182,7 +182,7 @@
                                                font-weight: normal; background-color: #ffffff; border-radius: 0px;" height="26" 
                                         align="center" bgcolor="#ffffff" valign="middle" width="auto">
                                       <!--[if (gte mso 9)|(lte ie 8)]><font size="2"><![endif]-->
-                                      <a linkname="PreOwned_Deals" href="https://www.adorama.com/l/Used/Clearance?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=PreOwnedDeals&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">                                        
+                                      <a linkname="PreOwned_Deals" href="https://www.adorama.com/l/Used/Clearance?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=PreOwnedDeals&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">                                        
                                         SHOP PRE-OWNED                                        
                                         <i class="fa fa-caret-right"></i> </a>
                                       <!--[if (gte mso 9)|(lte ie 8)]></font><![endif]-->
@@ -210,7 +210,7 @@
                                              color: #114998; font-weight: normal; padding-left: 18px; padding-right: 18px; background-color: #ffffff; border-radius: 0px;" 
                                       height="26" align="center" bgcolor="#ffffff" valign="middle">
                                     <!--[if (gte mso 9)|(lte ie 8)]><font size="2"><![endif]-->
-                                    <a linkname="Shop_Open_Box" href="https://www.adorama.com/l/Used/Open~Box?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=ShopOpenBox&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">
+                                    <a linkname="Shop_Open_Box" href="https://www.adorama.com/l/Used/Open~Box?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=ShopOpenBox&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">
                                       SHOP OPEN BOX <i class="fa fa-caret-right"></i> </a>
                                     <!--[if (gte mso 9)|(lte ie 8)]></font><![endif]-->
                                   </td>
@@ -236,7 +236,7 @@
                                              font-weight: normal; padding-left: 18px; padding-right: 18px; background-color: #ffffff; border-radius: 0px;" 
                                       height="26" align="center" bgcolor="#ffffff" valign="middle">
                                     <!--[if (gte mso 9)|(lte ie 8)]><font size="2"><![endif]-->
-                                    <a linkname="Shop_Refurbs" href="https://www.adorama.com/l/Refurbished?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=ShopRefurbs&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">
+                                    <a linkname="Shop_Refurbs" href="https://www.adorama.com/l/Refurbished?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=ShopRefurbs&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_new" style="text-decoration: none; color: #114998; font-weight: bold;">
                                       SHOP REFURBS 
                                       <i class="fa fa-caret-right"></i>
                                     </a>
