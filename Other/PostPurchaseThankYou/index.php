@@ -25,7 +25,8 @@
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
 		<?php //include_once("Other/blocks/style_5.php"); ?>		
-		<?php include_once("FirstTimeBuyers/blocks/style_5.php"); ?>	
+		<?php include_once("FirstTimeBuyers/blocks/style_5.php"); ?>
+		
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -42,40 +43,20 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_032018"; ?>
+					<?php $utm = "Email_PostPurchaseThankYou_031918"; ?>
 					
-					<?php $ttl = "Nikon Digital Shoot & Point on Sale NOW!"; ?>
+					<?php $ttl = "Thank you for putting your trust in Adorama. Here's how we're showing appreciation for customers like you."; ?>
 					
-					<?php include_once("Other/blocks/header.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate/snapshot_header.php"); ?>
-					
-					<?php //include_once("Other/SnapshotTemplate/p_1.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate/devider.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate/countdown_split.php"); ?>
+					<?php include_once("Other/blocks/header.php"); ?>					
+		
+					<?php include_once("Other/PostPurchaseThankYou/p_1.php"); ?>
 					
 					
-					
-					<?php include_once("Other/SnapshotTemplate/snapshot.php"); ?>						
-					
-					<?php include_once("Other/SnapshotTemplate/snapshot_footer.php"); ?>
-					
-					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
-					
-					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>
-					
-					
-					<?php include_once("Other/SnapshotTemplate/spotlight.php"); ?>
-			
-					
-						<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>					
+					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>					
+					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>					
+					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>		
 				
-
-					
-
-					
 					<?php include_once("Other/blocks/holiday_footer.php"); ?>
 					
 				</tbody>

@@ -1,10 +1,16 @@
 <?php 
 
- include_once("Other/CategoryBrowse/index.php");
+include_once("Other/PostPurchaseThankYou/index.php");
+
+// include_once("Other/RedTrade/index.php");
+
+// include_once("Other/WPPI2018/index.php");
+
+// include_once("Other/CategoryBrowse/index.php");
 
  // include_once("Other/BestFeb/index.php");
 
-  // include_once("Other/SnapshotTemplate/index.php");
+ //  include_once("Other/SnapshotTemplate/index.php");
 
 //include_once("Other/TradeEmail_020718/index.php");
 
