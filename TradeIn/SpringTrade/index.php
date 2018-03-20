@@ -24,8 +24,8 @@
 		<meta name="format-detection" content="email=no">
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
-		<?php include_once("Other/blocks/style_5.php"); ?>
-		<?php include_once("Browse/blocks/style_recsfix.php"); ?>
+		<?php //include_once("Other/blocks/style_5.php"); ?>		
+		<?php include_once("FirstTimeBuyers/blocks/style_5.php"); ?>	
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -42,19 +42,22 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_VIP_360_Renewal_CC_v2"; ?>
+					<?php $utm = "Email_TradeSpring_032018"; ?>
 					
-					<?php $ttl = "Your VIP360 Membership is set to renew."; ?>
+					<?php $ttl = "Trade in your old gear for cash and spring forward into new gear!"; ?>
 					
-					<?php include_once("Other/blocks/header.php"); ?>					
-		
-					<?php include_once("Other/VIP360_renewal_ncc/p_1.php"); ?>
+					<?php include_once("Other/blocks/header.php"); ?>
+					
 
-														
+					<?php include_once("TradeIn/SpringTrade/p_1.php"); ?>
+
+					
+					
+					
 					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>					
-					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>					
+					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>						
 					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>					
-					<?php include_once("Other/VIP360_renewal_friendly/4valueprops.php"); ?>				
+					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>					
 
 					
 					<?php include_once("Other/blocks/holiday_footer.php"); ?>

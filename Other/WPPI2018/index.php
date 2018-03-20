@@ -42,7 +42,7 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_WPPIPostShow_031518"; ?>
+					<?php $utm = "Email_WPPIPostShow_032018"; ?>
 					
 					<?php $ttl = "And the winner of the Sony A7RII raffle is…"; ?>
 					
@@ -50,8 +50,10 @@
 					
 											
 					<?php include_once("Other/WPPI2018/p_1.php"); ?>
-														
-
+					
+					<?php include_once("Other/WPPI2018/p_2.php"); ?>
+					
+					<?php include_once("Other/WPPI2018/p_3.php"); ?>
 													
 					
 					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>

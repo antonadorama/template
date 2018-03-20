@@ -1,6 +1,10 @@
 <?php 
 
-include_once("Other/PostPurchaseThankYou/index.php");
+ // include_once("Other/VIP360_renewal_friendly/index.php");
+
+// include_once("Other/VIP360_renewal_ncc/index.php");
+
+ include_once("Other/PostPurchaseThankYou/index.php");
 
 // include_once("Other/RedTrade/index.php");
 
@@ -139,9 +143,6 @@ include_once("Other/PostPurchaseThankYou/index.php");
 // include_once("Other/OctoberRebates/index.php");
 
 
-// include_once("Other/VIP360_renewal_ncc_v2/index.php");
-
-
 
 
 // include_once("Other/nyip_102317/index.php");
@@ -190,12 +191,6 @@ include_once("Other/PostPurchaseThankYou/index.php");
   //include_once("Other/MidSummerLC/index.php");
 
 
-
-  //include_once("Other/VIP360_Post_Renewal/index.php");
-
-  //include_once("Other/VIP360_renewal_ncc/index.php");
-
-//include_once("Other/VIP360_renewal_cc/index.php");
 
 
 

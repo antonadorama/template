@@ -43,7 +43,7 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_PostPurchaseThankYou_031918"; ?>
+					<?php $utm = "Email_PostPurchaseThankYou"; ?>
 					
 					<?php $ttl = "Thank you for putting your trust in Adorama. Here's how we're showing appreciation for customers like you."; ?>
 					

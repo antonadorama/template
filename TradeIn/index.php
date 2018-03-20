@@ -1,4 +1,8 @@
-<?php include_once("TradeIn/Nikkor180400/index.php"); ?>
+<?php include_once("TradeIn/SpringTradeGeneric/index.php"); ?>
+
+<?php //include_once("TradeIn/SpringTrade/index.php"); ?>
+
+<?php // include_once("TradeIn/Nikkor180400/index.php"); ?>
 
 <?php // include_once("TradeIn/SonyTrade020818/index.php"); ?>
 

@@ -90,10 +90,10 @@ Discover even more about what makes Adorama special:
 				<td style="padding-top:5px; padding-left:30px; padding-bottom:5px; padding-right:15px;">
 					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #5e5e5e; text-align: left; line-height: 18px;
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
-					<span style="padding-right:10px;">&#9679;</span>&#32;<strong>VIP360 Membership</strong>&#32;- Get free two-day delivery + 60 day extended returns as a 
+					<span style="padding-right:10px;">&#9679;</span>&#32;<strong>VIP360 Membership</strong>&#32;-&#32;
 				 	
-									<a href="#?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>"
-										 linkname="VIP360Program" style="color:#5e5e5e; text-decoration:none;"><u>VIP360 Member</u></a>.
+									<a href="https://www.adorama.com/g/VIP-NEW?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>"
+										 linkname="VIP360Program" style="color:#5e5e5e; text-decoration:none;">Get free two-day delivery + 60 day extended returns as a VIP360 Member</a>.
 			   
 							<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
           
@@ -105,10 +105,12 @@ Discover even more about what makes Adorama special:
 					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #5e5e5e; text-align: left; line-height: 18px;
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
 					<span style="padding-right:10px;">&#9679;</span>&#32;<strong>
-														<a href="#?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>"
+
+															Adorama Learning Center</strong>&#32;-&#32;
+																	<a href="https://www.adorama.com/alc/?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>"
 										 linkname="ALC" style="color:#5e5e5e; text-decoration:none;">
-															Adorama Learning Center</a></strong>&#32;-  Get the most out of your gear with our expert tips, videos and trends
-				 	
+			Get the most out of your gear with our expert tips, videos and trends
+			</a>
 						<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
           
 				</td>
@@ -119,10 +121,13 @@ Discover even more about what makes Adorama special:
 					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #5e5e5e; text-align: left; line-height: 18px;
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
 					<span style="padding-right:10px;">&#9679;</span>&#32;<strong>
-														<a href="#?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>"
-										 linkname="AdoramaPix" style="color:#5e5e5e; text-decoration:none;">
-															AdoramaPix</a></strong>&#32;- Bring your creativity to live at our professional photo lab	
 
+															AdoramaPix</strong>&#32;-&#32;
+					
+																			<a href="https://www.adoramapix.com/?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>"
+										 linkname="AdoramaPix" style="color:#5e5e5e; text-decoration:none;">
+					Bring your creativity to life at our professional photo lab	
+</a>
 
 							<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
           

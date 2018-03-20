@@ -13,7 +13,7 @@
                   <td style="font-weight:bold; background-color: #ff7e61; font-size: 30px; font-family: Arial, Helvetica, sans-serif; 
                              color: #ffffff; text-align:center; padding-top:20px;padding-bottom:20px;" 
                       align="center" bgcolor="#ff7e61" class="" valign="middle">
-                     JOHN SMITH
+                     ##SMFMT_UPPERCASE[\first_name[Dear]]## ##SMFMT_UPPERCASE[\last_name[Customer]]##
               </tr>
 
               </tbody>
