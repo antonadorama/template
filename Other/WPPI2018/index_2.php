@@ -42,18 +42,18 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_WPPIPostShowRetraction_032318"; ?>
+					<?php $utm = "Email_WPPIPostShow_032018"; ?>
 					
-					<?php $ttl = "Sorry, there was only ONE winner for the Sony A7RIII WPPI Contest! But we still appreciate your business!"; ?>
+					<?php $ttl = "And the winner of the Sony A7RII raffle is…"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
-					
-					<?php include_once("Other/WPPI2018/coupon.php"); ?>
 											
 					<?php include_once("Other/WPPI2018/p_1.php"); ?>
 					
-
+					<?php include_once("Other/WPPI2018/p_2.php"); ?>
+					
+					<?php include_once("Other/WPPI2018/p_3.php"); ?>
 													
 					
 					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>

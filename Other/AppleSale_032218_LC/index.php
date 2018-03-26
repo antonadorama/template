@@ -42,19 +42,22 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_WPPIPostShowRetraction_032318"; ?>
+					<?php $utm = "Email_48HoursAppleSaleLC_032318"; ?>
 					
-					<?php $ttl = "Sorry, there was only ONE winner for the Sony A7RIII WPPI Contest! But we still appreciate your business!"; ?>
+					<?php $ttl = "Last chance for up to 32% OFF Apple products - Hurry, shop now!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
+					<?php include_once("Other/AppleSale_032218/countdown.php"); ?>	
 					
-					<?php include_once("Other/WPPI2018/coupon.php"); ?>
 											
-					<?php include_once("Other/WPPI2018/p_1.php"); ?>
-					
-
-													
+					<?php include_once("Other/AppleSale_032218_LC/p_1.php"); ?>
+					<?php include_once("Other/AppleSale_032218/p_2.php"); ?>									
+ 					<?php include_once("Other/AppleSale_032218/p_3.php"); ?>
+					<?php include_once("Other/AppleSale_032218/p_4.php"); ?>
+					<?php include_once("Other/AppleSale_032218/p_5.php"); ?>
+					<?php include_once("Other/AppleSale_032218/p_6.php"); ?>	
+					<?php include_once("Other/AppleSale_032218/p_7.php"); ?>
 					
 					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
 					

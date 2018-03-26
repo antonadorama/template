@@ -42,9 +42,9 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_032018"; ?>
+					<?php $utm = "Email_Snapshot_032718"; ?>
 					
-					<?php $ttl = "Nikon Digital Shoot & Point on Sale NOW!"; ?>
+					<?php $ttl = "Save 33% on the Glyph Technologies Studio S4000 4TB External Hard Drive - Refurbished. Shop now!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					

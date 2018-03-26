@@ -25,7 +25,8 @@
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
 		<?php //include_once("Other/blocks/style_5.php"); ?>		
-		<?php include_once("FirstTimeBuyers/blocks/style_5.php"); ?>	
+		<?php include_once("FirstTimeBuyers/blocks/style_5.php"); ?>
+		
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -42,34 +43,20 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_WPPIPostShowRetraction_032318"; ?>
+					<?php $utm = "EmailConcierge"; ?>
 					
-					<?php $ttl = "Sorry, there was only ONE winner for the Sony A7RIII WPPI Contest! But we still appreciate your business!"; ?>
+					<?php $ttl = "Hi, I'm here to help you get the most out of your recent purchase! How can I help?"; ?>
 					
-					<?php include_once("Other/blocks/header.php"); ?>
-					
-					
-					<?php include_once("Other/WPPI2018/coupon.php"); ?>
-											
-					<?php include_once("Other/WPPI2018/p_1.php"); ?>
-					
-
-													
-					
-					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
-					
-					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>
+					<?php include_once("Other/blocks/header.php"); ?>					
+		
+					<?php include_once("Other/Concierge2018/p_1.php"); ?>
 					
 					
-					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>
-			
-					
-						<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>					
+					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>					
+					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>					
+					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>		
 				
-
-					
-
-					
 					<?php include_once("Other/blocks/holiday_footer.php"); ?>
 					
 				</tbody>
