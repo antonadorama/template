@@ -45,7 +45,7 @@
 					
 					<?php $utm = "EmailConcierge"; ?>
 					
-					<?php $ttl = "Hi, I'm here to help you get the most out of your recent purchase! How can I help?"; ?>
+					<?php $ttl = "Your Recent Camera/Lens Purchase Earned You 90 Days of FREE Imaging Concierge Services!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>					
 		

@@ -1,6 +1,12 @@
 <?php 
 
-include_once("Other/Concierge2018/index.php");
+include_once("Other/SnapshotTemplate/index.php");
+
+// include_once("Other/48HoursSale_041018_24left/index.php");
+
+//  include_once("Other/48HoursSale_041018/index.php");
+
+// include_once("Other/Concierge2018/index.php");
 
 // include_once("Other/AppleSale_032218_LC/index.php");
 
@@ -20,7 +26,7 @@ include_once("Other/Concierge2018/index.php");
 
  // include_once("Other/BestFeb/index.php");
 
- //  include_once("Other/SnapshotTemplate/index.php");
+ //  
 
 //include_once("Other/TradeEmail_020718/index.php");
 

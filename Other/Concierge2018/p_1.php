@@ -11,9 +11,9 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank"
-                       linkname="Image_ThankYou">
-                    <img src="image_library/org_1/3400/Letter-Header.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" alt="Thank You for Your Purchase!" hspace="0" border="0" vspace="0" width="640">
+                    <a href="https://www.adorama.com/l/Cameras/Camera-Accessories?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank"
+                       linkname="Image_AbbyHeader">
+                    <img src="image_library/org_1/3432/Letter-Header.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" alt="Thank You for Your Purchase!" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>
                 </tr>
@@ -46,9 +46,9 @@
 										<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #5e5e5e; text-align: left; line-height: 18px;
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
          My name is Abby and first let me thank you personally for purchasing your camera/lens from 
-															<strong><a href="https://www.adorama.com/?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>"
+															<strong><u><a href="https://www.adorama.com/l/Cameras/Camera-Accessories?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>"
 										 linkname="Adorama" style="color:#5e5e5e; text-decoration:none;">
-					Adorama</strong></a>! For the next 90 days I'll be your personal imaging concierge! If you’re anything like us, you are a little obsessed with honing your photography skills. 
+					Adorama</u></strong></a>! For the next 90 days I'll be your personal imaging concierge! If you’re anything like us, you are a little obsessed with honing your photography skills. 
 					And as your concierge I want to do whatever I can to help you take even better photos.
 					<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
         </td>
@@ -59,8 +59,8 @@
 										<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #5e5e5e; text-align: left; line-height: 18px;
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
 Feel free to drop me an email at 
-					<strong><a href="mailto:corporate@adorama.com?Subject=Ask Abby"
-										 linkname="EmailAbby" style="color:#5e5e5e; text-decoration:none;">abby-expert@adorama.com</a></strong>
+					<strong><u><a href="mailto:abby-expert@adorama.com?Subject=Question about my camera/lens"
+												linkname="EmailAbby" style="color:#5e5e5e; text-decoration:none;">abby-expert@adorama.com</a></u></strong>
 					and ask me anything you would 
 					like to know about your new camera/lens or about taking better photos in general. I can answer questions like:
 					<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
@@ -125,12 +125,16 @@ Feel free to drop me an email at
 										<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #5e5e5e; text-align: left; line-height: 18px;
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
          Once you familiarize yourself with your new camera, check out our award-winning 
-															<strong><a href="https://www.adorama.com/alc/?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>"
+															<strong><u><a href="https://www.adorama.com/alc/?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>"
 										 linkname="ALC" style="color:#5e5e5e; text-decoration:none;">
-					Adorama Learning Center</strong></a> for tips, tricks and how-to guides. You can also watch tutorials, web series and videos on
-																				<strong><a href="https://www.adorama.com/alc/category/AdoramaTv/?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>"
+																Adorama Learning Center</u></strong></a> for tips, tricks and how-to guides. You can also watch tutorials, web series and videos on
+																				<strong><u><a href="https://www.adorama.com/alc/category/AdoramaTv/?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>"
 										 linkname="AdoramaTV" style="color:#5e5e5e; text-decoration:none;">
-					AdoramaTV</strong></a>  to help you take your photography to the next level.
+																					AdoramaTV</u></strong></a>  to help you take your photography to the next level.
+					Finally, accessorize your new purchase with these 
+																				<strong><u><a href="https://www.adorama.com/l/Cameras/Camera-Accessories?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>"
+										 linkname="TopAccessoryDeals" style="color:#5e5e5e; text-decoration:none;">
+																top accessory deals</u></strong>.
 					<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
         </td>
 			</tr>
@@ -139,11 +143,7 @@ Feel free to drop me an email at
 				<td style="padding-top:5px; padding-left:30px; padding-bottom:5px; padding-right:15px;">
 										<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #5e5e5e; text-align: left; line-height: 18px;
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
-         Between my expertise and the combined knowledge available at the 
-															<strong><a href="https://www.adorama.com/alc/?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>"
-										 linkname="ALC2" style="color:#5e5e5e; text-decoration:none;">
-					Adorama Learning Center</strong></a>, we can help you maximize your purchase and achieve your photography goals. 
-					<strong>Best of all, my concierge service is FREE for 90 days</strong>, just for being a valued Adorama customer.
+         With all these services, you’ll be able to maximize your purchase and achieve your photography goals.<strong> Best of all, my concierge service is FREE for 90 days</strong>, just for being a valued Adorama customer.
 					<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
         </td>
 			</tr>

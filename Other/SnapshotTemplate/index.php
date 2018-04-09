@@ -42,9 +42,9 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_032718"; ?>
+					<?php $utm = "Email_Snapshot_041018"; ?>
 					
-					<?php $ttl = "Save 33% on the Glyph Technologies Studio S4000 4TB External Hard Drive - Refurbished. Shop now!"; ?>
+					<?php $ttl = "Get 21% OFF this must-have Vanguard Adaptor 46 Camera Backpack. Shop now!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
@@ -68,12 +68,9 @@
 					
 					
 					<?php include_once("Other/SnapshotTemplate/spotlight.php"); ?>
-			
-					
-						<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
-				
-
-					
+								
+					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
+								
 
 					
 					<?php include_once("Other/blocks/holiday_footer.php"); ?>

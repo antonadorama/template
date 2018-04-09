@@ -13,15 +13,15 @@
               <tbody>
                 <tr>
                   <td>
-                      <a href="https://www.adorama.com/ss3o65ba.html?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=Email_April_Fools_VIP_Preview_033018" 
-                         linkname="Soloshot65" target="_blank">
-                        <img src="image_library/org_1/3444/eMail_FeatureBanner-Soloshot_01.jpg" alt="Soloshot 65" width="100%" height="auto" border="0" style="display:inline;">
+                      <a href="https://www.adorama.com/g/NAB2018-ShowSpecials?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                         linkname="ShowSpecials" target="_blank">
+                        <img src="image_library/org_1/3452/NAB-2018-Feature-Email-Day-4_01.jpg" alt="Show Specials" width="100%" height="auto" border="0" style="display:inline;">
                       </a>
                   </td>
                   <td>
-                    <a href="https://www.adorama.com/ss3o25b.html?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=Email_April_Fools_VIP_Preview_033018" 
-                       linkname="Soloshot25" target="_blank">
-                      <img src="image_library/org_1/3444/eMail_FeatureBanner-Soloshot_02.jpg" alt="Soloshot 65" width="100%" height="auto" border="0" style="display:inline;">
+                    <a href="https://www.adorama.com/g/NAB-2018-New-Announcements?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                       linkname="NewAnnouncements" target="_blank">
+                      <img src="image_library/org_1/3452/NAB-2018-Feature-Email-Day-4_02.jpg" alt="New Announcements" width="100%" height="auto" border="0" style="display:inline;">
                     </a>
                   </td>
                 </tr>

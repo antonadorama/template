@@ -1,4 +1,6 @@
-<?php include_once("TradeIn/SpringTradeGeneric/index.php"); ?>
+<?php include_once("TradeIn/Trade_040918/index.php"); ?>
+
+<?php // include_once("TradeIn/SpringTradeGeneric/index.php"); ?>
 
 <?php //include_once("TradeIn/SpringTrade/index.php"); ?>
 
