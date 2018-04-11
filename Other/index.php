@@ -1,6 +1,10 @@
 <?php 
 
-include_once("Other/SnapshotTemplate/index.php");
+include_once("Other/VipSaleLC/index.php");
+
+// include_once("Other/VipSale/index.php");
+
+// include_once("Other/SnapshotTemplate/index.php");
 
 // include_once("Other/48HoursSale_041018_24left/index.php");
 
