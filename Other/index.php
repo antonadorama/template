@@ -1,6 +1,8 @@
 <?php 
 
-include_once("Other/VipSaleLC/index.php");
+include_once("Other/NAB_Contest/index.php");
+
+// include_once("Other/VipSaleLC/index.php");
 
 // include_once("Other/VipSale/index.php");
 
