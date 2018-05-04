@@ -42,35 +42,22 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_050418"; ?>
+					<?php $utm = "Email_Trade_SonyFS5II_050218"; ?>
 					
-					<?php $ttl = "The early bird gets the drone on sale! Catch 20% off the XTIM Bionic Bird Ready-to-Fly Drone Deluxe Pack now!"; ?>
+					<?php $ttl = "Time to trade up your old Sony Gear & get up to 70% credit towards the next generation version!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
-					<?php include_once("Other/SnapshotTemplate/snapshot_header.php"); ?>
-					
-					<?php //include_once("Other/SnapshotTemplate/p_1.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate/devider.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate/countdown_split.php"); ?>
+
+					<?php include_once("TradeIn/Sony_050218/p_1.php"); ?>
+          <?php include_once("TradeIn/Sony_050218/p_2.php"); ?>
 					
 					
 					
-					<?php include_once("Other/SnapshotTemplate/snapshot.php"); ?>						
-					
-					<?php include_once("Other/SnapshotTemplate/snapshot_footer.php"); ?>
-					
-					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
-					
-					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>
-					
-					
-					<?php include_once("Other/SnapshotTemplate/spotlight.php"); ?>
-								
-					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
-								
+					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>					
+					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>						
+					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>					
+					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>					
 
 					
 					<?php include_once("Other/blocks/holiday_footer.php"); ?>

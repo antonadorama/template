@@ -54,7 +54,8 @@
           
           <?php include_once("Browse/devider.php"); ?>
           
-          <?php include_once("Browse/cart_body.php"); ?>
+          <?php //include_once("Browse/cart_body.php"); ?>
+          <?php include_once("Browse/finance_cart_body.php"); ?>
 				
           <?php //include_once("Browse/p_3.php"); ?>
           
@@ -76,7 +77,8 @@
 								
 					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
 	
-					<?php include_once("Browse/blocks/footer_cart.php"); ?>
+					<?php //include_once("Browse/blocks/footer_cart.php"); ?>
+          <?php include_once("Browse/blocks/finance_footer_cart.php"); ?>
 					
 				</tbody>
 			</table>

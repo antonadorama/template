@@ -1,4 +1,6 @@
-<?php  include_once("Welcome/Welcome_II_VIP/index.php"); ?>
+<?php  include_once("Welcome/Welcome_2_r/index.php"); ?>
+
+<?php  // include_once("Welcome/Welcome_II_VIP/index.php"); ?>
 
 <?php  // include_once("Welcome/Welcome_I_VIP/index.php"); ?>
 
