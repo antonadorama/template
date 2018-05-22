@@ -51,7 +51,7 @@
 											style="font-size: 10px; font-family: 'Open Sans', Arial, Helvetica, sans-serif; color: #000001; 
 														 text-align: center; line-height: 14px; padding-top: 10px; padding-bottom: 10px;" valign="top" >
 										<font color="#000001">
-                      <strong>Special Financing Options available**</strong></font>
+                      <strong>Special Financing Options available*</strong></font>
 									</td>
 								</tr>
 											</tbody>

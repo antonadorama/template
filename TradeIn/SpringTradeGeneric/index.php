@@ -42,7 +42,7 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_TradeGeneric_032018"; ?>
+					<?php $utm = "Email_Trade_051018"; ?>
 					
 					<?php $ttl = "Trade in your old gear for cash and spring forward into new gear!"; ?>
 					

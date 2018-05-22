@@ -9,7 +9,7 @@
               <table align="center" bgcolor="#ECF6F8" border="0" cellpadding="0" cellspacing="0" class="vb-container fullwidth" style="border-collapse: separate;padding-left: 0;padding-right: 0;width: 100%;max-width: 640px;background-color: #ECF6F8;" width="640">
                 <tbody>
                   <tr>
-                    <td align="center" valign="top"><a href="https://www.adorama.com/g/VIP-NEW?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_content=Body&utm_campaign=Email_VIP_360_Renewal_CC" linkname="Image_ThankYou" target="_blank"><img alt="Thank You for Your Purchase!" border="0" class="mobile-full" hspace="0" src="image_library/org_1/3406/VIP-logo-xl.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" vspace="0" width="640" /> </a></td>
+                    <td align="center" valign="top"><a href="https://www.adorama.com/g/VIP-NEW?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="Image_ThankYou" target="_blank"><img alt="Thank You for Your Purchase!" border="0" class="mobile-full" hspace="0" src="image_library/org_1/3406/VIP-logo-xl.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" vspace="0" width="640" /> </a></td>
                   </tr>
                 </tbody>
               </table>

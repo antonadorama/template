@@ -65,7 +65,7 @@
 								
          
 					
-					 <?php include_once("Browse/p_5_cart.php"); ?>
+					 <?php include_once("Browse/finance_p_5_cart.php"); ?>
 					
 					<?php include_once("Browse/4citerecs.php"); ?>
 										
@@ -75,10 +75,10 @@
 										
 					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>
 								
-					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
+					<?php include_once("Browse/finance_4valueprops.php"); ?>
 	
 					<?php //include_once("Browse/blocks/footer_cart.php"); ?>
-          <?php include_once("Browse/blocks/finance_footer_cart.php"); ?>
+          <?php include_once("Browse/blocks/finance_footer_cart_2.php"); ?>
 					
 				</tbody>
 			</table>

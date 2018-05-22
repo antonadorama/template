@@ -206,8 +206,10 @@
 							<a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=manage&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=<?php echo $utm;?>#emailpref" 
 								 linkname="MyEmail" style="color: #A7A9AC; font-size: 14px; text-decoration:none">
               ##email##</a> 
-							<br /> 
-					 
+							</p> 
+             <p style="padding: 0 30px; text-align: center; margin: 2px; color: #A7A9AC;">
+             This email may be considered promotional or advertising. If you wish to be removed from this email list, you can unsubscribe below. 
+             </p>      
 							<a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=manage&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=<?php echo $utm;?>#emailpref" 
 								 linkname="Preferences" style="color: #A7A9AC; font-size: 14px; text-decoration:none; white-space:nowrap">
               <b>Manage Preferences</b></a> &nbsp; | &nbsp; 
@@ -215,40 +217,35 @@
                 <b>Forward to a Friend</b></a> &nbsp; | &nbsp;
               <a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=unsubscribe&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&utm_term=Unsubscribe&utm_content=Footer&utm_campaign=<?php echo $utm;?>#emailpref" 
 								 linkname="Unsubscribe" style="color: #A7A9AC; font-size: 14px; text-decoration:none">
-                <b>Unsubscribe</b></a></p>
-						</td>						
+                <b>Unsubscribe</b></a>
+            </td>						
 					</tr>
 					<!-- End Preference Center -->
 					
-					<!-- Terms -->
+          <!-- Terms -->
 					<tr>
-						<td class="bottomfinal">
+						<td class="bottomfinal" style="margin: 0px;">
 						<p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">
 							Please add 
 							<a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=manage&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=<?php echo $utm;?>#emailpref" 
 								 linkname="AddUs" style="color: #A7A9AC; text-decoration:none">
 								info@shop.adorama.com</a> to your email address book or white list.</p>
-							<p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">
-							*$150 Gift Card contest is for email customers who've successfully completed their purchase via this email only. Drawing takes place every month; winners will be notified by email.
-							<span><a href="https://www.adorama.com/g/browsecontest?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Terms&utm_content=Footer&utm_campaign=<?php echo $utm;?>" 
-											 linkname="Gift Details" style="color: #A7A9AC; font-size: 14px; text-decoration:none">Click here for details.</a></span>
-							</p>
-							
 	<p style="padding: 0 30px; text-align: center; margin: 2px; color: #A7A9AC;">
 		*Promotional financing available with Adorama Credit Card Accounts offered by Comenity Capital Bank, which determines qualifications for credit and promotional eligibility. 
 															Minimum purchase required and varies by plan, starting at $500. Minimum monthly payments are required. Subject to credit approval.</p>
 		<p style="padding: 0 30px; text-align: center; margin: 2px; color: #A7A9AC;">
       **If you make the estimated monthly payment displayed for your purchase (as low as) and have no other balance on your account, you can pay the balance within the promotional period and avoid interest charges. The required minimum payment due on your monthly billing statement will be less. If you pay only the required minimum payment shown on your billing statement, you will have to pay accrued interest from the date of purchase at the standard purchase APR of 29.99%. The payment shown was calculated using the following assumptions: payments are made each period; no debt cancellation or suspension agreement applies to the Account; no taxes or ancillary charges are or will be added to the Account; goods or services are delivered on a single date; and you are not currently and will not become delinquent on the Account; purchase will be paid in full before the end of the promotional period.
 </p>						
-              <p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">
-								*Free expedited 1 to 3 day shipping available on most orders greater than $49 and must be shipping within the contiguous 48 U.S. states. 
-								See product page for details. Products are subject to price change and availability. Not responsible for typographical errors.</p>
+
 							<p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">
 								&copy; 2018 Adorama Camera, Inc. All rights reserved. | 
 								<a href="https://www.adorama.com/help/termsAndConditions?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Terms&utm_content=Footer&utm_campaign=<?php echo $utm;?>" linkname="Terms" style="color: #A7A9AC; text-decoration:underline">
 									Terms</a> | 
 								<a href="https://www.adorama.com/privacy?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Terms&utm_content=Footer&utm_campaign=<?php echo $utm;?>" linkname="Privacy" style="color: #A7A9AC; text-decoration: underline">
 									Privacy</a></p>
+              <p style="padding: 0 30px; text-align: center; margin: 2px; color: #A7A9AC;">
+              The Adorama Credit Card account is issued by Comenity Capital Bank.
+              </p>
 						</td>
 					</tr>
 					<!-- End Terms -->

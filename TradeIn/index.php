@@ -1,4 +1,8 @@
-<?php include_once("TradeIn/Sony_050218/index.php"); ?>
+<?php  include_once("TradeIn/Canon5D/index.php"); ?>
+
+<?php // include_once("TradeIn/TradeProgram/index.php"); ?>
+
+<?php // include_once("TradeIn/Sony_050218/index.php"); ?>
 
 <?php // include_once("TradeIn/Trade_040918/index.php"); ?>
 

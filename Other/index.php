@@ -1,6 +1,22 @@
 <?php 
 
-include_once("Other/NewMayRebates/index.php");
+include_once("Other/GDPR/index.php");
+
+// include_once("Other/Snooze/index.php");
+
+// include_once("Other/ReEngage3/index.php");
+
+// include_once("Other/ReEngage2/index.php");
+
+// include_once("Other/ReEngage1/index.php");
+
+// include_once("Other/AppleSale_051718_LC/index.php");
+
+// include_once("Other/AppleSale_051718/index.php");
+
+// include_once("Other/MotherDayRecap/index.php");
+
+// include_once("Other/NewMayRebates/index.php");
 
 // include_once("Other/PostHolidayTemplate/index.php");
 
@@ -12,7 +28,7 @@ include_once("Other/NewMayRebates/index.php");
 
 // include_once("Other/VipSale/index.php");
 
-// include_once("Other/SnapshotTemplate/index.php");
+//  include_once("Other/SnapshotTemplate/index.php");
 
 // include_once("Other/48HoursSale_041018_24left/index.php");
 
@@ -24,7 +40,7 @@ include_once("Other/NewMayRebates/index.php");
 
 // include_once("Other/AppleSale_032218/index.php");
 
- // include_once("Other/VIP360_renewal_friendly/index.php");
+//  include_once("Other/VIP360_renewal_friendly/index.php");
 
 // include_once("Other/VIP360_renewal_ncc/index.php");
 

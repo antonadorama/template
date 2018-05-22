@@ -60,7 +60,8 @@
 					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>					
 
 					
-					<?php include_once("Other/blocks/holiday_footer.php"); ?>
+					<?php //include_once("Other/blocks/holiday_footer.php"); ?>
+           <?php include_once("Browse/blocks/finance_footer_cart.php"); ?>
 					
 				</tbody>
 			</table>

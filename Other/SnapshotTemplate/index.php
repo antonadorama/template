@@ -42,9 +42,9 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_050418"; ?>
+					<?php $utm = "Email_Snapshot_051818"; ?>
 					
-					<?php $ttl = "The early bird gets the drone on sale! Catch 20% off the XTIM Bionic Bird Ready-to-Fly Drone Deluxe Pack now!"; ?>
+					<?php $ttl = "Enjoy 40% OFF the Canon EOS Rebel T6 DSLR with EF-S 18-55mm f/3.5-5.6 IS II & EF 75-300mm F4-5.6 III Lenses. Shop now!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					

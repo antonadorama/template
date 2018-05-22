@@ -42,7 +42,7 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_VIP_360_Renewal_CC"; ?>
+					<?php $utm = "Email_VIP_360_Renewal_360_CC"; ?>
 					
 					<?php $ttl = "Your VIP360 Membership is set to renew."; ?>
 					

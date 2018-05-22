@@ -31,7 +31,7 @@
 					
 					<!-- Header -->
 					<tr>            
-						<td bgcolor="#FFFFFF" class="logomenu" style="color: #A7A9AC; font-size: 12px; background: url(http://php-project-antonadorama658454.codeanyapp.com/image_library/global/lines640.jpg) bottom center no-repeat #FFFFFF">
+						<td bgcolor="#FFFFFF" class="logomenu" style="color: #A7A9AC; font-size: 12px; background: url(https://www.adorama.com/col/images/email/lines640.jpg) bottom center no-repeat #FFFFFF">
 						<table border="0" cellpadding="0" cellspacing="0" class="wrap100" width="100%">
 							<tbody>
 								<tr>
@@ -73,7 +73,7 @@
 					<!-- End Header -->
 
 					<!--[if (gte mso 9)|(lte ie 8)]><tr><td><table align="center" border="0" cellspacing="0" cellpadding="0" width="640"><tr><td><![endif]-->
-					<!--[if (gte mso 9)|(lte ie 8)]>	<img src="http://php-project-antonadorama658454.codeanyapp.com/image_library/global/lines640.jpg" alt="lines" width="100%" height="auto"><![endif]-->
+					<!--[if (gte mso 9)|(lte ie 8)]>	<img src="https://www.adorama.com/col/images/email/lines640.jpg" alt="lines" width="100%" height="auto"><![endif]-->
 					<!--[if (gte mso 9)|(lte ie 8)]></td></tr></table></td></tr><![endif]-->
 
 
