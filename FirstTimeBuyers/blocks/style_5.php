@@ -44,7 +44,7 @@
   *[class=bottomfinal] {
     color: #A7A9AC;
     text-align: center;
-    font-size: 13px;
+    font-size: 11px;
   }
   
   a {

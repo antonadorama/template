@@ -43,9 +43,9 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_CategoryBrowse_033018"; ?>
+					<?php $utm = "Email_CategoryBrowse_060618"; ?>
 					
-					<?php $ttl = "Two Days Only for Month-End Savings on ##second_level_category##!"; ?>
+					<?php $ttl = "##second_level_category##! under $500, bestsellers and new kits and bundles just for you!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					

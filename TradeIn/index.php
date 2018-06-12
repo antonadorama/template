@@ -1,4 +1,8 @@
-<?php  include_once("TradeIn/Canon5D/index.php"); ?>
+<?php  include_once("TradeIn/CanonTrade/index.php"); ?>
+
+<?php  // include_once("TradeIn/TradeGeneric/index.php"); ?>
+
+<?php  //include_once("TradeIn/Canon5D/index.php"); ?>
 
 <?php // include_once("TradeIn/TradeProgram/index.php"); ?>
 

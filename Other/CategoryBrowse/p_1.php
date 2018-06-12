@@ -44,12 +44,12 @@
                     <tr>
                       <td class="mobile-textcenter big-title name-topmargin-mobile" style="font-size: 24px; padding-top:0px; padding-bottom:10px; font-family: Gotham, Helvetica, sans-serif; 
                                        font-weight:600; color: #dfebf2; text-align: left;">
-                        Limited Time Left!</td>
+                        See What's New!</td>
                     </tr>
                     <tr>
                       <td class="mobile-textcenter big-title name-topmargin-mobile" style="font-size: 22px; padding-top:10px; padding-bottom:10px; font-family: Gotham, Helvetica, sans-serif; 
                                        font-weight:300; color: #dfebf2; text-align: left;">
-                        Shop Month-End Deals on ##SECOND_LEVEL_CATEGORY##</td>
+                        Shop Fresh Deals on ##SECOND_LEVEL_CATEGORY##!</td>
                     </tr>
                     <!-- Mobile Only-->
                     <tr>
@@ -67,11 +67,11 @@
                                 height="26" align="left" bgcolor="#154760" valign="middle">
 
                               <div><!--[if mso]>
-  <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="##SECOND_LEVEL_CATEGORY_URL##?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" style="height:40px;v-text-anchor:middle;width:200px;" stroke="f" fillcolor="#ffffff">
+  <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="##SECOND_LEVEL_CATEGORY_URL##?sel=Filter-By_New-Condition-Only&emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" style="height:40px;v-text-anchor:middle;width:200px;" stroke="f" fillcolor="#ffffff">
     <w:anchorlock/>
     <center>
   <![endif]-->
-      <a href="##SECOND_LEVEL_CATEGORY_URL##?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="ShopNow" 
+      <a href="##SECOND_LEVEL_CATEGORY_URL##?sel=Filter-By_New-Condition-Only&emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="ShopNow" 
 style="background-color:#ffffff;color:#000000;display:inline-block;font-family:Gotham,sans-serif;font-size:22px;font-weight:600;line-height:40px;text-align:center;text-decoration:none;width:200px;-webkit-text-size-adjust:none;">SHOP NOW</a>
   <!--[if mso]>
     </center>
