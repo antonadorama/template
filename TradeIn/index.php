@@ -1,4 +1,6 @@
-<?php  include_once("TradeIn/CanonTrade/index.php"); ?>
+<?php  include_once("TradeIn/NikonTrade/index.php"); ?>
+
+<?php  // include_once("TradeIn/CanonTrade/index.php"); ?>
 
 <?php  // include_once("TradeIn/TradeGeneric/index.php"); ?>
 

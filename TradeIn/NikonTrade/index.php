@@ -25,8 +25,7 @@
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
 		<?php //include_once("Other/blocks/style_5.php"); ?>		
-		<?php include_once("FirstTimeBuyers/blocks/style_5.php"); ?>
-		<?php include_once("Browse/blocks/style_recsfix.php"); ?>
+		<?php include_once("FirstTimeBuyers/blocks/style_5.php"); ?>	
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -43,49 +42,25 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_CategoryBrowse_061318"; ?>
+					<?php $utm = "Email_NikonTrade_061518"; ?>
 					
-					<?php $ttl = "In case you've forgotten… We have ##second_level_category## we think you’ll love - more details inside!"; ?>
+					<?php $ttl = "Time to trade up your old Nikon Gear & get up to 70% credit towards the next generation version!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
-					<?php include_once("Other/CategoryBrowse/p_1_white.php"); ?>
+
+					<?php include_once("TradeIn/NikonTrade/p_1.php"); ?>
+          <?php include_once("TradeIn/NikonTrade/p_2.php"); ?>			
 					
-					<?php include_once("Other/CategoryBrowse/p_2_2.php"); ?>
 					
-					<?php include_once("Other/CategoryBrowse/p_3.php"); ?>
-					
-					<?php include_once("Other/CategoryBrowse/p_4.php"); ?> <!---->
-					
-					<?php include_once("Other/CategoryBrowse/p_5.php"); ?>
-					
-					<?php include_once("Other/CategoryBrowse/p_6.php"); ?> <!---->
-					
-					<?php include_once("Other/CategoryBrowse/p_7.php"); ?>
-					
-					<?php include_once("Other/CategoryBrowse/p_8.php"); ?>
-					
-					<?php include_once("Other/CategoryBrowse/p_9.php"); ?>
-					
-					<?php include_once("Other/CategoryBrowse/p_10.php"); ?>
-					
-					<?php include_once("Other/CategoryBrowse/p_11.php"); ?>
-					
-					<?php include_once("Other/CategoryBrowse/p_12.php"); ?>
-					
-					<?php include_once("Other/CategoryBrowse/p_13.php"); ?>
-					
-					<?php include_once("Other/CategoryBrowse/p_14.php"); ?>
-					
-					<?php include_once("Other/CategoryBrowse/p_15.php"); ?>
-					
-					<?php //include_once("Other/CategoryBrowse/4products_block_white_3.php"); ?>
-										
 					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>					
-					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>	
-					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>
-					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>							
+					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>						
+					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>					
+					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>					
+
+					
 					<?php include_once("Other/blocks/finance_footer.php"); ?>
+           <?php //include_once("Browse/blocks/finance_footer_cart.php"); ?>
 					
 				</tbody>
 			</table>

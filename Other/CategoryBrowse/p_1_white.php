@@ -1,9 +1,9 @@
 <tr>
-  <td style="background-color: #154760;" class="vb-outer" align="center" bgcolor="#154760" valign="top">
+  <td style="background-color: #ffffff; padding-bottom:20px;" class="vb-outer" align="center" bgcolor="#ffffff" valign="top">
     <!--[if (gte mso 9)|(lte ie 8)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="640"><tr><td align="center" valign="top"><![endif]-->
 
     <div class="oldwebkit" style="max-width: 640px;">
-      <table style="border-collapse: separate;border-spacing: 0px;width: 640px;max-width: 640px;background-color: #154760; padding-bottom:20px;" class="vb-row fullpad" bgcolor="#154760" border="0" cellpadding="0" cellspacing="0" width="640">
+      <table style="border-collapse: separate;border-spacing: 0px;width: 640px;max-width: 640px;background-color: #ffffff; padding-bottom:20px;" class="vb-row fullpad" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="640">
         <tbody>
 
 
@@ -43,17 +43,17 @@
                   <tbody>
                     <tr>
                       <td class="mobile-textcenter big-title name-topmargin-mobile" style="font-size: 24px; padding-top:0px; padding-bottom:10px; font-family: Gotham, Helvetica, sans-serif; 
-                                       font-weight:600; color: #dfebf2; text-align: left;">
-                        Limited Time Left!</td>
+                                       font-weight:600; color: #154760; text-align: left;">
+                        You'll Love These!</td>
                     </tr>
                     <tr>
                       <td class="mobile-textcenter big-title name-topmargin-mobile" style="font-size: 22px; padding-top:10px; padding-bottom:10px; font-family: Gotham, Helvetica, sans-serif; 
-                                       font-weight:300; color: #dfebf2; text-align: left;">
-                        Shop Month-End Deals on ##SECOND_LEVEL_CATEGORY##</td>
+                                       font-weight:300; color: #154760; text-align: left;">
+                        Discover Fresh Deals on ##SECOND_LEVEL_CATEGORY##!</td>
                     </tr>
                     <!-- Mobile Only-->
                     <tr>
-                      <td style="text-align: center; font-size: 14px; font-family: Arial, Helvetica, sans-serif; color: #000; padding: 0px;" align="center">
+                      <td style="text-align: center; font-size: 14px; font-family: Arial, Helvetica, sans-serif; color: #154760; padding: 0px;" align="center">
                         <span style="display:none;" class="mobile-show"></span>
                       </td>
                     </tr>
@@ -63,16 +63,16 @@
                         <table class="mobile-full" style="" align="left" border="0" cellpadding="0" cellspacing="0">
                           <tr>
                             <td class="mobile-textcenter" style="font-size: 12px; font-family: Arial, Helvetica, sans-serif; text-align: left; 
-                                                                     color: #114998; font-weight: normal; background-color: #154760; border-radius: 0px;" 
-                                height="26" align="left" bgcolor="#154760" valign="middle">
+                                                                     color: #114998; font-weight: normal; background-color: #ffffff; border-radius: 0px;" 
+                                height="26" align="left" bgcolor="#ffffff" valign="middle">
 
                               <div><!--[if mso]>
-  <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="##SECOND_LEVEL_CATEGORY_URL##?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" style="height:40px;v-text-anchor:middle;width:200px;" stroke="f" fillcolor="#ffffff">
+  <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="##SECOND_LEVEL_CATEGORY_URL##?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" style="height:40px;v-text-anchor:middle;width:200px;" stroke="f" strokecolor="#154760" fillcolor="#ffffff">
     <w:anchorlock/>
     <center>
   <![endif]-->
       <a href="##SECOND_LEVEL_CATEGORY_URL##?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" linkname="ShopNow" 
-style="background-color:#ffffff;color:#000000;display:inline-block;font-family:Gotham,sans-serif;font-size:22px;font-weight:600;line-height:40px;text-align:center;text-decoration:none;width:200px;-webkit-text-size-adjust:none;">SHOP NOW</a>
+style="border:2px solid #154760; background-color:#ffffff;color:#154760;display:inline-block;font-family:Gotham,sans-serif;font-size:22px;font-weight:600;line-height:40px;text-align:center;text-decoration:none;width:200px;-webkit-text-size-adjust:none;">SHOP NOW</a>
   <!--[if mso]>
     </center>
   </v:rect>

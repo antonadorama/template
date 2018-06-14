@@ -19,7 +19,7 @@
                              font-weight:300; color: #8ba6b4; text-align:center; padding-top:20px; border-collapse: collapse;
                              mso-line-height-rule: exactly; mso-margin-bottom-alt: 0; mso-margin-top-alt: 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" 
                       align="center" bgcolor="#154760" class="" valign="middle">
-                    <span><font color="#8ba6b4">SHOP LIMITED TIME DEALS ON </font></span>
+                    <span><font color="#8ba6b4">SHOP EXCLUSIVE DEALS BY CATEGORY ON </font></span>
                 </td>
               </tr>
                               <tr>

@@ -25,8 +25,7 @@
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
 		<?php //include_once("Other/blocks/style_5.php"); ?>		
-		<?php include_once("FirstTimeBuyers/blocks/style_5.php"); ?>
-		<?php include_once("Browse/blocks/style_recsfix.php"); ?>
+		<?php include_once("FirstTimeBuyers/blocks/style_5.php"); ?>	
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -42,49 +41,25 @@
 				<tbody>
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
+
+          <?php $utm = "Email_FlashSale24HoursLeft_061518"; ?>
+          <?php $ttl = "Savings up to 65% off, limited time only! Hurry before its over!"; ?>
+
+					<?php include_once("Other/blocks/header.php"); ?>	
+          
+          <?php include_once("Other/48FlashSale24Left/countdown.php"); ?>
+          
+          <?php include_once("Other/48FlashSale24Left/p_1.php"); ?>
+          <?php include_once("Other/48FlashSale24Left/p_2.php"); ?>
+          <?php include_once("Other/48FlashSale24Left/p_3.php"); ?>
+          <?php include_once("Other/48FlashSale24Left/p_4.php"); ?>
+          <?php include_once("Other/48FlashSale24Left/p_5.php"); ?>
+
+					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>							
+					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>						
+					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
 					
-					<?php $utm = "Email_CategoryBrowse_061318"; ?>
-					
-					<?php $ttl = "In case you've forgotten… We have ##second_level_category## we think you’ll love - more details inside!"; ?>
-					
-					<?php include_once("Other/blocks/header.php"); ?>
-					
-					<?php include_once("Other/CategoryBrowse/p_1_white.php"); ?>
-					
-					<?php include_once("Other/CategoryBrowse/p_2_2.php"); ?>
-					
-					<?php include_once("Other/CategoryBrowse/p_3.php"); ?>
-					
-					<?php include_once("Other/CategoryBrowse/p_4.php"); ?> <!---->
-					
-					<?php include_once("Other/CategoryBrowse/p_5.php"); ?>
-					
-					<?php include_once("Other/CategoryBrowse/p_6.php"); ?> <!---->
-					
-					<?php include_once("Other/CategoryBrowse/p_7.php"); ?>
-					
-					<?php include_once("Other/CategoryBrowse/p_8.php"); ?>
-					
-					<?php include_once("Other/CategoryBrowse/p_9.php"); ?>
-					
-					<?php include_once("Other/CategoryBrowse/p_10.php"); ?>
-					
-					<?php include_once("Other/CategoryBrowse/p_11.php"); ?>
-					
-					<?php include_once("Other/CategoryBrowse/p_12.php"); ?>
-					
-					<?php include_once("Other/CategoryBrowse/p_13.php"); ?>
-					
-					<?php include_once("Other/CategoryBrowse/p_14.php"); ?>
-					
-					<?php include_once("Other/CategoryBrowse/p_15.php"); ?>
-					
-					<?php //include_once("Other/CategoryBrowse/4products_block_white_3.php"); ?>
-										
-					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>					
-					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>	
-					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>
-					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>							
 					<?php include_once("Other/blocks/finance_footer.php"); ?>
 					
 				</tbody>
@@ -94,7 +69,7 @@
 	</tbody>
 </table>
 </div>
-	<div style="display:none !important; padding:0 !important;">
+<div style="display:none !important; padding:0 !important;">
 <img src="http://svopn.adorama.com/?sv_cid=2620_03922&sv_emopen=true&sv_svemi=##GUID##" height="1" width="1" style="display:none !important;"/>
 </div>
 </body>
