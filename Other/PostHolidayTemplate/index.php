@@ -48,23 +48,23 @@
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
-					<?php //include_once("Other/PostHolidayTemplate/countdown_split.php"); ?>	
+					<?php include_once("Other/PostHolidayTemplate/countdown_split.php"); ?>	
 					
-					<?php //include_once("Other/PostHolidayTemplate/countdown_split_banner.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/countdown_split_banner.php"); ?>
 								
-					<?php //include_once("Other/PostHolidayTemplate/coupon.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/coupon.php"); ?>
 											
-					<?php //include_once("Other/PostHolidayTemplate/p_1.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/p_1.php"); ?>
 														
-					<?php //include_once("Other/PostHolidayTemplate/p_2.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/p_2.php"); ?>
 					
-					<?php //include_once("Other/PostHolidayTemplate/p_3.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/p_3.php"); ?>
 					
-					<?php //include_once("Other/PostHolidayTemplate/devider.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/devider.php"); ?>
 					
-					<?php //include_once("Other/PostHolidayTemplate/p_4.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/p_4.php"); ?>
 					
-					<?php //include_once("Other/PostHolidayTemplate/p_5.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/p_5.php"); ?>
 					
 								
 					

@@ -1,6 +1,10 @@
 <?php 
 
-include_once("Other/48FlashSale24Left/index.php");
+// include_once("Other/FenderNPA/index.php");
+
+ include_once("Other/SnapshotTemplate2/index.php");
+
+// include_once("Other/48FlashSale24Left/index.php");
 
 // include_once("Other/48FlashSale/index.php");
 

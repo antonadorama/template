@@ -42,24 +42,31 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_TradeGeneric_Black_061918"; ?>
+					<?php $utm = "Email_Snapshot_061918"; ?>
 					
-					<?php $ttl = "Trade in your old gear for cash and spring forward into new gear!"; ?>
+					<?php $ttl = "Enjoy 11% off on purchase on EVO SS 3 Axis Wearable Gimbal for GoPro!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
-
-					<?php include_once("TradeIn/SpringTradeGeneric/p_1.php"); ?>
-
+          
+					<?php include_once("Other/SnapshotTemplate2/snapshot_header.php"); ?>
 					
+					<?php //include_once("Other/SnapshotTemplate/p_1.php"); ?>
 					
+					<?php include_once("Other/SnapshotTemplate2/devider.php"); ?>
 					
-					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>					
-					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>						
-					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>					
-					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>					
-
+					<?php include_once("Other/SnapshotTemplate2/countdown_split.php"); ?>
+									
+					<?php include_once("Other/SnapshotTemplate2/snapshot.php"); ?>						
 					
+					<?php include_once("Other/SnapshotTemplate2/snapshot_footer.php"); ?>
+                   
+					
+					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>
+					<?php include_once("Other/SnapshotTemplate2/spotlight.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
+										
 					<?php include_once("Other/blocks/finance_footer.php"); ?>
 					
 				</tbody>

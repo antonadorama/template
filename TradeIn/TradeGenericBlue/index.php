@@ -42,16 +42,14 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_TradeGeneric_Black_061918"; ?>
+					<?php $utm = "Email_TradeGeneric_Blue_061918"; ?>
 					
 					<?php $ttl = "Trade in your old gear for cash and spring forward into new gear!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
 
-					<?php include_once("TradeIn/SpringTradeGeneric/p_1.php"); ?>
-
-					
+					<?php include_once("TradeIn/TradeGenericBlue/p_1.php"); ?>			
 					
 					
 					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>					
