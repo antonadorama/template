@@ -42,9 +42,9 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_061918"; ?>
+					<?php $utm = "Email_Snapshot_062218"; ?>
 					
-					<?php $ttl = "Enjoy 11% off on purchase on EVO SS 3 Axis Wearable Gimbal for GoPro!"; ?>
+					<?php $ttl = "Click and Save 27% on Sachtler Aluminum Tripod w/Sachtler Camporter Camera Bag"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					

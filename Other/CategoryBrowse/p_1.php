@@ -44,12 +44,12 @@
                     <tr>
                       <td class="mobile-textcenter big-title name-topmargin-mobile" style="font-size: 24px; padding-top:0px; padding-bottom:10px; font-family: Gotham, Helvetica, sans-serif; 
                                        font-weight:600; color: #dfebf2; text-align: left;">
-                        Limited Time Left!</td>
+                        It’s Your Lucky Day!</td>
                     </tr>
                     <tr>
                       <td class="mobile-textcenter big-title name-topmargin-mobile" style="font-size: 22px; padding-top:10px; padding-bottom:10px; font-family: Gotham, Helvetica, sans-serif; 
                                        font-weight:300; color: #dfebf2; text-align: left;">
-                        Shop Month-End Deals on ##SECOND_LEVEL_CATEGORY##</td>
+                        Start of Summer Deals on ##SECOND_LEVEL_CATEGORY##</td>
                     </tr>
                     <!-- Mobile Only-->
                     <tr>

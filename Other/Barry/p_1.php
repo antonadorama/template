@@ -11,9 +11,9 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/g/same-price-guarantee?emailprice=t&utm_source=slgt&utm_medium=email&guid=##GUID##&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank"
-                       linkname="Image_ThankYou">
-                    <img src="image_library/org_1/2741/CEO-Thank-You-Letter-2017_01.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" alt="Thank You for Your Purchase!" hspace="0" border="0" vspace="0" width="640">
+                    <a href="https://www.adorama.com/g/inspire-photography-conference?emailprice=t&utm_source=slgt&utm_medium=email&guid=##GUID##&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank"
+                       linkname="Image_inspire">
+                    <img src="image_library/org_1/3812/category_banner-wide-inspire-specials-640.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" alt="Thank You for Your Purchase!" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>
                 </tr>
@@ -29,10 +29,10 @@
 </tr> 
 
 
-<tr bgcolor="#d0e8ea">
+<tr bgcolor="#e6e6e6">
 	<td style="padding:15px;">
 		<table style="font-size: 1.1em; font-family: Arial, Helvetica, sans-serif; color: #5e5e5e; text-align: left; line-height: 1.3em;
-                  width=95%; background-color:#ffffff; border:2px solid #e3d16f;" bgcolor="#ffffff" cellpadding="10" cellspacing="10" class="smaller_font">
+                  width=95%; background-color:#ffffff; border:2px solid #111111;" bgcolor="#ffffff" cellpadding="10" cellspacing="10" class="smaller_font">
 			<tr>
 				<td style="padding-top:5px; padding-left:30px; padding-bottom:5px; padding-right:15px;">
 					<br />
@@ -45,91 +45,62 @@
 				<td style="padding-top:5px; padding-left:30px; padding-bottom:5px; padding-right:15px;">
 										<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #5e5e5e; text-align: left; line-height: 18px;
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
-         As the holiday season approaches, we want to take a moment to thank you for being a valuable Adorama customer.
+Our week-long Adorama Inspire conference is almost here and, I would like to personally thank you for trusting Adorama for all your creative needs and goals.
 					<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
         </td>
 			</tr>
 			
-									<tr>
-				<td style="padding-top:5px; padding-left:30px; padding-bottom:5px; padding-right:15px;">
-										<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #5e5e5e; text-align: left; line-height: 18px;
-                  width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
-        Our goal is to ensure your overall experience and satisfaction with Adorama is extraordinary. 
-					This is just as important as it is providing you with the best prices and assortment of products to fulfill your needs.
-					<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
-        </td>
-			</tr>
-			
-												<tr>
-				<td style="padding-top:5px; padding-left:30px; padding-bottom:5px; padding-right:15px;">
-										<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #5e5e5e; text-align: left; line-height: 18px;
-                  width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
-To that end, we've created new programs to enhance your holiday shopping experience, including:
-					<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
-        </td>
-			</tr>
 			
 						<tr>
 				<td style="padding-top:5px; padding-left:30px; padding-bottom:5px; padding-right:15px;">
 					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #5e5e5e; text-align: left; line-height: 18px;
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
-					<span style="padding-right:10px;">&#9679;</span>&#32;our new 
+					I want to also personally invite you to join us at  
 					<strong>
-									<a href="https://www.adorama.com/g/adorama-credit?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>"
-										 linkname="AdoramaCreditCard" style="color:#5e5e5e; text-decoration:none;"><u>Adorama Credit Card Account</u>, </a></strong>  
-					with special financing* available to help you maximize your spending power towards creating the content you love.      
+									<a href="https://www.adorama.com/g/inspire-photography-conference?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>"
+										 linkname="AdoramaInspire" style="color:#5e5e5e; text-decoration:none;"><u>Adorama Inspire</u></a></strong>  
+					. A single day event simply isn’t enough to bring together everything Adorama has to offer. 
+          Next week at Adorama Inspire, we will be hosting a week of designed-to-share experiences, 
+          workshops and panels designed to provide you with the education, inspiration and tools you need to create anything you imagine.    
 							<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
           
 				</td>
 			</tr>
 			
-									<tr>
+      						<tr>
 				<td style="padding-top:5px; padding-left:30px; padding-bottom:5px; padding-right:15px;">
 					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #5e5e5e; text-align: left; line-height: 18px;
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
-					<span style="padding-right:10px;">&#9679;</span>&#32;our unique 
-				 	<strong>
-									<a href="https://www.adorama.com/g/VIP360-New?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>"
-										 linkname="VIP360Program" style="color:#5e5e5e; text-decoration:none;"><u>VIP 360 Program</u>, </a></strong> 
-					with free 2 day shipping, drops &#38; spills coverage and 60 day returns for only $49 annually.    
+					As a special gift to kickoff Adorama Inspire, I’ve personally 
+					<strong>
+									<a href="https://www.adorama.com/g/inspire-photography-conference?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>"
+										 linkname="AdoramaHandPicked" style="color:#5e5e5e; text-decoration:none;"><u>hand-picked these select Adorama-exclusive Inspire deals</u></a></strong>  
+					 and sharing them with you before everyone else. These deals came straight to my desk and 
+          I'm thrilled to share them immediately – good for 48 hours only - with our most valued customers to celebrate Adorama Inspire.    
 							<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
           
 				</td>
 			</tr>
-			
-												<tr>
+      						<tr>
 				<td style="padding-top:5px; padding-left:30px; padding-bottom:5px; padding-right:15px;">
 					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #5e5e5e; text-align: left; line-height: 18px;
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
-					<span style="padding-right:10px;">&#9679;</span>&#32;a dedicated  
-				 	<strong>
-									<a href="https://www.adorama.com/g/holiday-gifts?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>"
-										 linkname="HolidayGiftShop" style="color:#5e5e5e; text-decoration:none;"><u>Holiday Gift Shop</u>, </a></strong> 
-					complete with holiday deals, ideas, and articles, so you can find the perfect gift at the perfect price for your friends and family.
-							<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
-          
-				</td>
-			</tr>
-			
-															<tr>
-				<td style="padding-top:5px; padding-left:30px; padding-bottom:5px; padding-right:15px;">
-					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #5e5e5e; text-align: left; line-height: 18px;
-                  width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
-					<span style="padding-right:10px;">&#9679;</span>&#32;a guarantee that our 
-				 	<strong>
-									<a href="https://www.adorama.com/g/same-price-guarantee?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>"
-										 linkname="BlackFridaySale" style="color:#5e5e5e; text-decoration:none;"><u>Black Friday Sale</u>, </a></strong> 
-					which you can preview now, will have the lowest prices of the season, backed up by our Price Match Guarantee. If you find a lower price, we’ll match it with a smile.
+					I’m also giving you full VIP early access to all our 
+					<strong>
+									<a href="https://www.adorama.com/inspire/l/?sf=Price&st=de&emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>"
+										 linkname="AdoramaExclusive" style="color:#5e5e5e; text-decoration:none;"><u>Adorama-exclusive Inspire Specials </u></a></strong>  
+- which officially kickoff on Monday - before everyone else, with up to 60% OFF exclusive deals across all categories.   
 							<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
           
 				</td>
 			</tr>
 
+
 												<tr>
 				<td style="padding-top:5px; padding-left:30px; padding-bottom:5px; padding-right:15px;">
 										<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #5e5e5e; text-align: left; line-height: 18px;
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
-Thank you for trusting Adorama for all of your photo, pro video and pro audio needs. You've helped us grow into a huge success.
+I hope you join us for our Inspire events and discover all the gear, tools and experiences to inspire your creativity this year! Thank you for trusting Adorama for all of your photography, pro video and pro audio needs.
 					<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
         </td>
 			</tr>
@@ -139,7 +110,7 @@ Thank you for trusting Adorama for all of your photo, pro video and pro audio ne
 				<td style="padding-top:5px; padding-left:30px; padding-bottom:5px; padding-right:15px;">
 										<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #5e5e5e; text-align: left; line-height: 18px;
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
-From our family to yours, Happy Thanksgiving.
+See you next week!
 					<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
         </td>
 			</tr>
@@ -149,7 +120,7 @@ From our family to yours, Happy Thanksgiving.
 				<td style="padding-top:5px; padding-left:30px; padding-bottom:5px; padding-right:15px;">
 										<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #5e5e5e; text-align: left; line-height: 18px;
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
-Barry Litwin, CEO
+Best,<br> Barry Litwin<br>Chief Executive Officer
 					<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
         </td>
 			</tr>

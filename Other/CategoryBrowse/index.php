@@ -43,9 +43,9 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_CategoryBrowse_061318"; ?>
+					<?php $utm = "Email_CategoryBrowse_062018"; ?>
 					
-					<?php $ttl = "In case you've forgotten… We have ##second_level_category## we think you’ll love - more details inside!"; ?>
+					<?php $ttl = "Consider it your lucky day: ##second_level_category## best-sellers, bundles and under $500 for summer unlocked!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					

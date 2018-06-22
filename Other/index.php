@@ -1,8 +1,16 @@
 <?php 
 
+// include_once("Other/SummerSaleD/index.php");
+
+// include_once("Other/SummerSale/index.php");
+
+include_once("Other/SummerSaleLC/index.php");
+
+ // include_once("Other/Barry/index.php");
+
 // include_once("Other/FenderNPA/index.php");
 
- include_once("Other/SnapshotTemplate2/index.php");
+// include_once("Other/SnapshotTemplate2/index.php");
 
 // include_once("Other/48FlashSale24Left/index.php");
 
