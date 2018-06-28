@@ -42,7 +42,7 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 
-          <?php $utm = "Email_FinancingOpenToBuy_FinOTB"; ?>
+          <?php $utm = "Email_FinancingOpenToBuy_062918"; ?>
           <?php $ttl = "Get the gear you had your eye on, and enjoy flexible financing options - today and for future purchases."; ?>
 
 					<?php include_once("Other/blocks/header.php"); ?>		

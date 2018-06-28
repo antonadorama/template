@@ -224,6 +224,7 @@
 					<tr>
 						<td class="bottomfinal">
               <p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">##*##</p>
+              <p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">##**##</p>
 
              <p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">
 							Please add 

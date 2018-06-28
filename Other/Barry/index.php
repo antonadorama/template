@@ -45,7 +45,7 @@
 					
 					<?php $utm = "Email_LetterFromCEO_062218"; ?>
 					
-					<?php $ttl = "TTL"; ?>
+					<?php $ttl = "Our week-long Inspire conference is almost here and I have something to personally share with you."; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>					
 		

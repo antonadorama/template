@@ -1,8 +1,8 @@
 <?php
 
-// include_once("Tableau/index.php");	
+// include_once("Tableau/mailgun.php");	
 
-// include_once("test.php");
+// include_once("test.html");
 
 // include_once("TradeIn/index.php");
 

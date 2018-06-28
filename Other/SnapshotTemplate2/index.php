@@ -42,9 +42,9 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_062218"; ?>
+					<?php $utm = "Email_Snapshot_062818"; ?>
 					
-					<?php $ttl = "Click and Save 27% on Sachtler Aluminum Tripod w/Sachtler Camporter Camera Bag"; ?>
+					<?php $ttl = "Time's Almost Up - Save 35% Lacie 2big Thunderbolt 2 6TB 2-Bay Raid Hard Drive!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					

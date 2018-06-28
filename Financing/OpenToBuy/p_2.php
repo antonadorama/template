@@ -13,7 +13,7 @@
                   <td style="font-weight:bold; background-color: #ffffff; font-size: 1.7em; font-family: Arial, Helvetica, sans-serif; 
                              color: #006bb3; text-align: left; padding-top:20px; padding-left:30px;" 
                       align="left" bgcolor="#ffffff" class="fin_header">
-                    Hi ##First_Name##</td>
+                    Hi ##First_Name##,</td>
               </tr>
 
               <tr>
@@ -28,8 +28,8 @@
                       class="" align="center">
                     					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #5e5e5e; text-align: left; line-height: 18px;
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
-                    Did you know you have $1000.00 available on your Adorama Credit Card Account as of 06/12/18? 
-                  Get the gear you got your eyes on, and enjoy flexible financing options - today and for future purchases.
+                    Did you know you have $##otb##** available on your Adorama Credit Card Account as of 06/12/18? 
+                  Get the gear you got your eyes on, and enjoy flexible financing options* - today and for future purchases.
                   					<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
                   </td>
                 </tr>
@@ -39,9 +39,10 @@
                       class="" align="center">
                     					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #5e5e5e; text-align: left; line-height: 18px;
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
-                  We think you'll be interested in shoping some of our <a href="https://www.adorama.com?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>"
-										 linkname="NewestDeals" style="color:#5e5e5e; text-decoration:none;"><u>newest deals</u>.
-                    Use your card today, simply select Adorama Credit Card account as your payment method at checkout.
+                  We think you'll be interested in shopping some of our 
+                    <a href="https://www.adorama.com/specials/l/?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>"
+                    linkname="NewestDeals" style="color:#5e5e5e; text-decoration:none;"><u>newest deals</u></a>.
+                    Use your Adorama Credit Card account at checkout today.
                   					<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
                     </td>
                 </tr>

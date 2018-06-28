@@ -1,3 +1,5 @@
+<!-- Banner Section -->
+
 <tr>
   <td>
     <table id="ko_imageBlock_5" style="background-color: #E3E3E3;" class="vb-outer" bgcolor="#E3E3E3" border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -11,10 +13,10 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/isoa9.html?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
-                       linkname="Sony_Alpha_a9">
-                    <img src="image_library/org_1/1561/NPA-Sony-Email-051717_02.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
-                         alt="Sony Alpha a9" hspace="0" border="0" vspace="0" width="640">
+                    <a href="https://www.adorama.com/iso40028.html?origterm=iso40028&searchredirect=true&emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
+                       linkname="ALC">
+                    <img src="image_library/org_1/3858/NPA-Sony-400mm-062818_02.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;line-height:0 !important; font-size:0 !important;" class="mobile-full" 
+                         alt="ALC" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>
                 </tr>
@@ -28,3 +30,5 @@
   </table>
   </td>
 </tr>  
+
+<!-- End Banner Section -->

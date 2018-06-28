@@ -73,7 +73,7 @@ Our week-long Adorama Inspire conference is almost here and, I would like to per
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
 					As a special gift to kickoff Adorama Inspire, I’ve personally 
 					<strong>
-									<a href="https://www.adorama.com/g/inspire-photography-conference?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>"
+									<a href="https://www.adorama.com/g/CEOPicks_June2018?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>"
 										 linkname="AdoramaHandPicked" style="color:#5e5e5e; text-decoration:none;"><u>hand-picked these select Adorama-exclusive Inspire deals</u></a></strong>  
 					 and sharing them with you before everyone else. These deals came straight to my desk and 
           I'm thrilled to share them immediately – good for 48 hours only - with our most valued customers to celebrate Adorama Inspire.    

@@ -1,10 +1,12 @@
+<?php  include_once("TradeIn/CanonTrade_062618/index.php"); ?>
+
 <?php // include_once("TradeIn/TradeGenericBlue/index.php"); ?>
 
 <?php  // include_once("TradeIn/NikonTrade/index.php"); ?>
 
 <?php  // include_once("TradeIn/CanonTrade/index.php"); ?>
 
-<?php   include_once("TradeIn/TradeGeneric/index.php"); ?>
+<?php  // include_once("TradeIn/TradeGeneric/index.php"); ?>
 
 <?php  //include_once("TradeIn/Canon5D/index.php"); ?>
 

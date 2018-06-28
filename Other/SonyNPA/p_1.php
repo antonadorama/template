@@ -1,3 +1,5 @@
+<!-- Banner Section -->
+
 <tr>
   <td>
     <table id="ko_imageBlock_5" style="background-color: #E3E3E3;" class="vb-outer" bgcolor="#E3E3E3" border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -11,10 +13,10 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/alc/first-look-sony-unleashes-pair-of-full-frame-wide-angle-zoom-lenses?emailprice=t&utm_source=slgt&utm_medium=email&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
-                       linkname="Sony_NPA_Main_Banner_Link">
-                    <img src="image_library/org_1/1561/NPA-Sony-Email-051717_01.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
-                         alt="Sony NPA" hspace="0" border="0" vspace="0" width="640">
+                    <a href="https://www.adorama.com/ISO40028.html?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
+                       linkname="Main_Banner_Link">
+                    <img src="image_library/org_1/3858/NPA-Sony-400mm-062818_01.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;line-height:0 !important; font-size:0 !important;" class="mobile-full" 
+                         alt="Main Banner" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>
                 </tr>
@@ -28,3 +30,5 @@
   </table>
   </td>
 </tr>  
+
+<!-- End Banner Section -->
