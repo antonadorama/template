@@ -1,8 +1,16 @@
 <?php 
 
+include_once("Other/SnapshotTemplate2/index.php");
+
+// include_once("Other/VIP_Sale_060118/index.php");
+
+// include_once("Other/InspireJoinUs/index.php");
+
+// include_once("Other/NewJulyRebates/index.php");
+
 // include_once("Other/SonyNPA/index.php");
 
-include_once("Other/ExpiringJuneRebates/index.php");
+// include_once("Other/ExpiringJuneRebates/index.php");
 
 // include_once("Other/SummerSaleD/index.php");
 
@@ -36,7 +44,7 @@ include_once("Other/ExpiringJuneRebates/index.php");
 
 // include_once("Other/PostHolidayTemplate/index.php");
 
-// include_once("Other/VIP_Sale_060118/index.php");
+
 
 // include_once("Other/BestOfMay/index.php");
 

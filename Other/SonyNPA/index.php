@@ -52,6 +52,7 @@
          
           <?php include_once("Other/SonyNPA/p_1.php"); ?>
           <?php include_once("Other/SonyNPA/p_2.php"); ?>
+          <?php include_once("Other/SonyNPA/p_3.php"); ?>
 
       		<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
 					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>							

@@ -41,44 +41,18 @@
 				<tbody>
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
-					
-					<?php //$utm = "Email_VIPSaleMain_060118"; ?>
-          <?php //$utm = "Email_VIPSaleCanon_060118"; ?>
-          <?php //$utm = "Email_VIPSaleNikon_060118"; ?>
-          <?php //$utm = "Email_VIPSaleApple_060118"; ?>
-          <?php //$utm = "Email_VIPSaleSony_060118"; ?>
-          <?php //$utm = "Email_VIPSaleVIP360_060118"; ?>
-          <?php //$utm = "Email_VIPSaleBrowsed_070218"; ?>
-          <?php $utm = "Email_VIPSaleBrowsedVIP360_070218"; ?>
-					
-					<?php //$ttl = "Catch amazing deals today! Shop now!"; ?>
-          <?php //$ttl = "Save on Canon products and more - shop now!"; ?>
-          <?php //$ttl = "Save on Nikon products and more - shop now!"; ?>
-          <?php //$ttl = "Save on Apple products and more - Shop now!"; ?>
-          <?php //$ttl = "Save on SONY products and more - Shop now!"; ?>
-          <?php //$ttl = "##SMFMT_PROPERCASE[\first_name[Wow]]##, You've Unlocked a VIP360 Sneak Peek at our One Day Sale!"; ?>
-          <?php $ttl = "##SMFMT_PROPERCASE[\first_name[Wow]]##, You've Unlocked a VIP360 Sneak Peek at our One Day Sale on ##second_level_category##!"; ?>
-					
-					<?php include_once("Other/blocks/header.php"); ?>		
-          
-          <?php include_once("Other/VIP_Sale_060118/360.php"); ?>
-          <?php //include_once("Other/VIP_Sale_060118/p_1_vip.php"); ?>
 
-					<?php //include_once("Other/VIP_Sale_060118/p_1.php"); ?>
-          <?php //include_once("Other/VIP_Sale_060118/p_1_canon.php"); ?>
-          <?php //include_once("Other/VIP_Sale_060118/p_1_nikon.php"); ?>          
-          <?php //include_once("Other/VIP_Sale_060118/p_1_apple.php"); ?>
-          <?php //include_once("Other/VIP_Sale_060118/p_1_sony.php"); ?>
+          <?php //$utm = "Email_SummerSale_062118"; ?>
+          <?php //$ttl = "Save NOW! up to 50% on our BEST products!"; ?>
           
-          <?php include_once("Other/VIP_Sale_060118/p_1_browsedtop.php"); ?>
-          <?php include_once("Other/VIP_Sale_060118/c.php"); ?>
-          <?php include_once("Other/VIP_Sale_060118/p_1_browsebottom.php"); ?>
-          
-                
-          <?php //include_once("Other/VIP_Sale_060118/p_3.php"); ?>
-          <?php //include_once("Other/VIP_Sale_060118/p_2.php"); ?>
-          
-					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
+          <?php $utm = "Email_InspireJoinUs_062918"; ?>
+          <?php $ttl = "TTL"; ?>
+
+					<?php include_once("Other/blocks/header.php"); ?>          
+         
+          <?php include_once("Other/InspireJoinUs/p_3.php"); ?>
+
+      		<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
 					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>							
 					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>						
 					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
