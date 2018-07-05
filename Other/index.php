@@ -1,6 +1,8 @@
 <?php 
 
-include_once("Other/SnapshotTemplate2/index.php");
+ include_once("Other/MidnightMarkdowns_070518/index.php"); 
+  
+// include_once("Other/SnapshotTemplate2/index.php");
 
 // include_once("Other/VIP_Sale_060118/index.php");
 

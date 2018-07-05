@@ -953,10 +953,10 @@
 												<table align="center" bgcolor="#ffffff" border="0" cellpadding="3" cellspacing="3" class="wrap150" height="140" style="background-color:#ffffff;" width="146">
 													<tbody>
 														<tr>
-															<td align="center" height="80" valign="middle"><a href="https://www.adorama.com/g/adorama-credit?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=ValuePropFinancing&utm_content=Body&utm_campaign=Email_ProAudioFinancing_070218" linkname="AdoramaCredit"><img alt="Get Up To 12 Months Special Financing" border="0" class="product_img" height="81" src="https://www.adorama.com/col/images/email/Value/Adorama-Credit-Card.png" style="margin: 0 auto; display: block" width="81" /> </a></td>
+															<td align="center" height="80" valign="middle"><a href="https://www.adorama.com/pages/Rent-to-Buy?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=ValuePropFinancing&utm_content=Body&utm_campaign=Email_ProAudioFinancing_070218" linkname="AdoramaCredit"><img alt="Rent-to-Buy" border="0" class="product_img" height="81" src="image_library/org_1/3809/RentToBuy.png" style="margin: 0 auto; display: block" width="81" /> </a></td>
 														</tr>
 														<tr>
-															<td align="center" class="title" height="40" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #114998" valign="top"><a href="https://www.adorama.com/g/adorama-credit?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=ValuePropFinancing&utm_content=Body&utm_campaign=Email_ProAudioFinancing_070218" linkname="Adorama_Credit"><font color="#333333"><strong>Get Up To 12 Months Special Financing Available*</strong></font> </a></td>
+															<td align="center" class="title" height="40" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #114998" valign="top"><a href="https://www.adorama.com/pages/Rent-to-Buy?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=ValuePropFinancing&utm_content=Body&utm_campaign=Email_ProAudioFinancing_070218" linkname="Adorama_Credit"><font color="#333333"><strong>Try Before You Buy</strong></font> </a></td>
 														</tr>
 													</tbody>
 												</table>
