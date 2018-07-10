@@ -42,31 +42,21 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_071018"; ?>
+					<?php $utm = "Email_Trade_070918"; ?>
 					
-					<?php $ttl = "Snapshot Deal - Save 38% on the Nikon DSLR D7500 DSLR (Refurbishd by Nikon) + Tascam DR-10SG Recorder/Mic!"; ?>
+					<?php $ttl = "Our Summer Trade-In Season Starts This Week! Get Up To 70% Cash Vlaue For Your Gear!"; ?>
 					
-					<?php include_once("Other/blocks/header.php"); ?>
+					<?php include_once("Other/blocks/header.php"); ?>					
+
+					<?php include_once("TradeIn/Trade_070918/p_1.php"); ?>			
+					<?php include_once("TradeIn/Trade_070918/p_2.php"); ?>	
 					
-          
-					<?php include_once("Other/SnapshotTemplate2/snapshot_header.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>					
+					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>						
+					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>					
+					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>			
+
 					
-					<?php //include_once("Other/SnapshotTemplate/p_1.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate2/devider.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate2/countdown_split.php"); ?>
-									
-					<?php include_once("Other/SnapshotTemplate2/snapshot.php"); ?>						
-					
-					<?php include_once("Other/SnapshotTemplate2/snapshot_footer.php"); ?>
-                   
-					
-					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
-					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>
-					<?php include_once("Other/SnapshotTemplate2/spotlight.php"); ?>
-					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
-										
 					<?php include_once("Other/blocks/finance_footer.php"); ?>
 					
 				</tbody>

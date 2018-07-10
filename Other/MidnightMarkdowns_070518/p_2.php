@@ -15,7 +15,7 @@
                   <td align="center" valign="top">
                     <a href="https://www.adorama.com/g/3-legged-thing-monopods?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
                        linkname="LeggedThingMonopods">
-                    <img src="image_library/org_1/3897/FeatureBanner-3LeggedThing-Monopods-Preorder.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;line-height:0 !important; font-size:0 !important;" class="mobile-full" 
+                    <img src="image_library/org_1/3900/FeatureBanner-3LeggedThing-Monopods-Preorder.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;line-height:0 !important; font-size:0 !important;" class="mobile-full" 
                          alt="Legged Thing Monopods" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>

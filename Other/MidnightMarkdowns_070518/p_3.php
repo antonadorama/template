@@ -15,7 +15,7 @@
                   <td align="center" valign="top">
                     <a href="https://www.adorama.com/g/fujifilm-summer-2018?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
                        linkname="Fujifilm">
-                    <img src="image_library/org_1/3897/FeatureBanner-Fujifilm-Scorching-Hot-070518.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;line-height:0 !important; font-size:0 !important;" class="mobile-full" 
+                    <img src="image_library/org_1/3900/FeatureBanner-Fujifilm-Scorching-Hot-070518.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;line-height:0 !important; font-size:0 !important;" class="mobile-full" 
                          alt="Fujifilm" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>

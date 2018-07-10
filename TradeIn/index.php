@@ -1,4 +1,6 @@
-<?php  include_once("TradeIn/CanonTrade_062618/index.php"); ?>
+<?php include_once("TradeIn/Trade_070918/index.php"); ?>
+
+<?php // include_once("TradeIn/CanonTrade_062618/index.php"); ?>
 
 <?php // include_once("TradeIn/TradeGenericBlue/index.php"); ?>
 

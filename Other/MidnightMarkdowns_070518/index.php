@@ -42,22 +42,24 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php //$utm = "Email_MidnightMarkdownsMain_070718"; ?>
-					<?php //$ttl = "Midnight Sale happening NOW!"; ?>
-
-          <?php $utm = "Email_MidnightMarkdownsDynamic_070718"; ?>
+					<?php $utm = "Email_MidnightMarkdownsMain_070718"; ?>
 					<?php $ttl = "Midnight Sale happening NOW!"; ?>
+
+          <?php //$utm = "Email_MidnightMarkdownsDynamic_070718"; ?>
+					<?php //$ttl = "Midnight Sale happening NOW!"; ?>
           
 					<?php include_once("Other/blocks/header.php"); ?>		
 
-					<?php //include_once("Other/MidnightMarkdowns_070518/p_1.php"); ?>
+					<?php include_once("Other/MidnightMarkdowns_070518/p_1.php"); ?>
             
-          <?php include_once("Other/MidnightMarkdowns_070518/p_1_browsedtop.php"); ?>
-          <?php include_once("Other/MidnightMarkdowns_070518/c.php"); ?>
-          <?php include_once("Other/MidnightMarkdowns_070518/p_1_browsebottom.php"); ?>
+          <?php //include_once("Other/MidnightMarkdowns_070518/p_1_browsedtop.php"); ?>
+          <?php //include_once("Other/MidnightMarkdowns_070518/c.php"); ?>
+          <?php //include_once("Other/MidnightMarkdowns_070518/p_1_browsebottom.php"); ?>
           
-          <?php include_once("Other/MidnightMarkdowns_070518/p_2.php"); ?>      
+          <?php include_once("Other/MidnightMarkdowns_070518/p_4.php"); ?>
           <?php include_once("Other/MidnightMarkdowns_070518/p_3.php"); ?>
+          <?php include_once("Other/MidnightMarkdowns_070518/p_2.php"); ?>      
+          
                    
 					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
 					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>							
