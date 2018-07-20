@@ -42,32 +42,42 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_072018"; ?>
+					<?php $utm = "UTMCAMPAIGN"; ?>
 					
-					<?php $ttl = "Don't Wait! Save 11% on the Profoto A1 Studio Light!"; ?>
+					<?php $ttl = "Template"; ?>
 					
-					<?php include_once("Other/blocks/header.php"); ?>
+					<?php include_once("Other/blocks/ProAudioHeader.php"); ?>
 					
-          
-					<?php include_once("Other/SnapshotTemplate2/snapshot_header.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/countdown_split.php"); ?>	
 					
-					<?php //include_once("Other/SnapshotTemplate/p_1.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/countdown_split_banner.php"); ?>
+								
+					<?php include_once("Other/PostHolidayTemplate/coupon.php"); ?>
+											
+					<?php include_once("Other/PostHolidayTemplate/p_1.php"); ?>
+														
+					<?php include_once("Other/PostHolidayTemplate/p_2.php"); ?>
 					
-					<?php include_once("Other/SnapshotTemplate2/devider.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/p_3.php"); ?>
 					
-					<?php include_once("Other/SnapshotTemplate2/countdown_split.php"); ?>
-									
-					<?php include_once("Other/SnapshotTemplate2/snapshot.php"); ?>						
+					<?php include_once("Other/PostHolidayTemplate/devider.php"); ?>
 					
-					<?php include_once("Other/SnapshotTemplate2/snapshot_footer.php"); ?>
-                   
+					<?php include_once("Other/PostHolidayTemplate/p_4.php"); ?>
+					
+					<?php include_once("Other/PostHolidayTemplate/p_5.php"); ?>
+					
+								
 					
 					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
-					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>
-					<?php include_once("Other/SnapshotTemplate2/spotlight.php"); ?>
-					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
-										
-					<?php include_once("Other/blocks/finance_footer.php"); ?>
+					
+					<?php  include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>
+					
+					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>			
+					
+					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>	
+
+					
+					<?php include_once("Other/blocks/pro_audio_finance_footer.php"); ?>
 					
 				</tbody>
 			</table>

@@ -42,31 +42,43 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_072018"; ?>
-					
-					<?php $ttl = "Don't Wait! Save 11% on the Profoto A1 Studio Light!"; ?>
-					
-					<?php include_once("Other/blocks/header.php"); ?>
-					
+					<?php //$utm = "Email_MidSummerPriceDrop_072118"; ?>
+					<?php //$ttl = "This weekend only save big on your favorite products from Adorama!"; ?>
+
+					<?php //$utm = "Email_MidSummerPriceDropNikon_072118"; ?>
+					<?php //$ttl = "This weekend only save big on your favorite products from Adorama!"; ?>
           
-					<?php include_once("Other/SnapshotTemplate2/snapshot_header.php"); ?>
-					
-					<?php //include_once("Other/SnapshotTemplate/p_1.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate2/devider.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate2/countdown_split.php"); ?>
-									
-					<?php include_once("Other/SnapshotTemplate2/snapshot.php"); ?>						
-					
-					<?php include_once("Other/SnapshotTemplate2/snapshot_footer.php"); ?>
+          <?php $utm = "Email_MidSummerPriceDropDynamic_072118"; ?>
+					<?php $ttl = "Summer Price Drops On ##SMFMT_PROPERCASE[\second_level_category]##. Shop now!"; ?>
+          
+					<?php include_once("Other/blocks/header.php"); ?>		
+
+					<?php //include_once("Other/MidSummerPriceDrop/p_1.php"); ?>
+          <?php //include_once("Other/MidSummerPriceDrop/p_1_apple.php"); ?>
+          <?php //include_once("Other/MidSummerPriceDrop/p_1_sony.php"); ?>
+          <?php //include_once("Other/MidSummerPriceDrop/p_1_canon.php"); ?>
+          <?php //include_once("Other/MidSummerPriceDrop/p_1_nikon.php"); ?>      
+          
+            
+          <?php include_once("Other/MidSummerPriceDrop/p_1_browsedtop.php"); ?>
+          <?php include_once("Other/MidSummerPriceDrop/c.php"); ?>
+          <?php include_once("Other/MidSummerPriceDrop/p_1_browsebottom.php"); ?>
+          
+          <?php include_once("Other/MidSummerPriceDrop/p_2.php"); ?>
+          <?php include_once("Other/MidSummerPriceDrop/p_3.php"); ?>
+          <?php include_once("Other/MidSummerPriceDrop/p_4.php"); ?>
+          <?php include_once("Other/MidSummerPriceDrop/p_5.php"); ?>
+          <?php include_once("Other/MidSummerPriceDrop/p_6.php"); ?>
+          <?php include_once("Other/MidSummerPriceDrop/p_7.php"); ?>
+          
+          <?php include_once("Other/MidSummerPriceDrop/p_8.php"); ?>
+          <?php include_once("Other/MidSummerPriceDrop/p_9.php"); ?>
                    
-					
 					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
-					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>
-					<?php include_once("Other/SnapshotTemplate2/spotlight.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>							
+					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>						
 					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
-										
+					
 					<?php include_once("Other/blocks/finance_footer.php"); ?>
 					
 				</tbody>
@@ -76,7 +88,7 @@
 	</tbody>
 </table>
 </div>
-	<div style="display:none !important; padding:0 !important;">
+<div style="display:none !important; padding:0 !important;">
 <img src="http://svopn.adorama.com/?sv_cid=2620_03922&sv_emopen=true&sv_svemi=##GUID##" height="1" width="1" style="display:none !important;"/>
 </div>
 </body>

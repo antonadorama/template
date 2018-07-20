@@ -42,16 +42,16 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 
-          <?php $utm = "Email_VIP360_Acquisition_060718"; ?>
-          <?php $ttl = "TTL"; ?>
+          <?php $utm = "Email_VIP360_Acquisition_072018"; ?>
+          <?php $ttl = "Into photography, video or audio? You’ll want to feed your passion with these great benefits. "; ?>
 
 					<?php include_once("Other/blocks/header.php"); ?>		
           
 					<?php include_once("Other/VIP360_Acquisition/p_1.php"); ?>
-          
-					<?php //include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
-					<?php //include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>							
-					<?php //include_once("Other/PostHolidayTemplate/spotlight.php"); ?>						
+          <?php include_once("Other/VIP360_Acquisition/p_2.php"); ?>
+
+					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>							
+					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>						
 					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
 					
 					<?php include_once("Other/blocks/finance_footer.php"); ?>
