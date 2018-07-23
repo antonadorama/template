@@ -1,5 +1,7 @@
 <?php 
 
+// include_once("Other/SnapshotTemplate2/index.php");
+
 //include_once("Other/MidSummerPriceDropLC/index.php");
 
 // include_once("Other/MidSummerPriceDrop/index.php");
@@ -8,11 +10,13 @@
 
 // include_once("Other/MidnightMarkdowns_070518/index.php"); 
   
-// include_once("Other/ProAudioTemplate/index.php");
+include_once("Other/ProAudioTemplate/index.php");
 
 // include_once("Other/SnapshotTemplate2/index.php");
 
 // include_once("Other/VIP_Sale_060118/index.php");
+
+// include_once("Other/VIP360_Acquisition/index.php");
 
 // include_once("Other/InspireJoinUs/index.php");
 
@@ -32,7 +36,6 @@
 
 // include_once("Other/FenderNPA/index.php");
 
-// include_once("Other/SnapshotTemplate2/index.php");
 
 // include_once("Other/48FlashSale24Left/index.php");
 
@@ -44,7 +47,7 @@
 
 // include_once("Other/WeekendWarehouse/index.php");
 
- include_once("Other/VIP360_Acquisition/index.php");
+
 
 // include_once("Other/CanonNPA/index.php");
 

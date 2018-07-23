@@ -82,6 +82,13 @@
       width:25% !important;
     
     }
+    
+    td[class=headphones]{
+      
+      width:30% !important;
+    
+    }
+    
     table[class=menuwrapper] {
       
       padding:0 !important;
@@ -184,6 +191,10 @@
     }
     *[class=cameras] {
       width: auto !important;
+    }
+   *[class=headphones] {
+      width: auto !important;
+      font-size:12px !important;
     }
     *[class=lenses] {
       width: auto !important;

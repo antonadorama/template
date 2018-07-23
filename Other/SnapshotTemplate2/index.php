@@ -42,9 +42,9 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_072018"; ?>
+					<?php $utm = "Email_Snapshot_072418"; ?>
 					
-					<?php $ttl = "Don't Wait! Save 11% on the Profoto A1 Studio Light!"; ?>
+					<?php $ttl = "Selfie mode ##emoji_smiling_face_with_heart_eyes## and a lot more cool features on Fujifilm instax mini 70 Instant Film Camera!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
