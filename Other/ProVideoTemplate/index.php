@@ -42,32 +42,40 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_073118"; ?>
+					<?php $utm = "UTMCAMPAIGN"; ?>
 					
-					<?php $ttl = "Profoto B1X 500 AirTTL To-Go Kit - 10% off | Snapshot Deal"; ?>
+					<?php $ttl = "Template"; ?>
 					
-					<?php include_once("Other/blocks/header.php"); ?>
+					<?php include_once("Other/blocks/ProVideoHeader.php"); ?>
 					
-          
-					<?php include_once("Other/SnapshotTemplate2/snapshot_header.php"); ?>
+					<?php //include_once("Other/PostHolidayTemplate/countdown_split.php"); ?>	
 					
-					<?php //include_once("Other/SnapshotTemplate/p_1.php"); ?>
+					<?php //include_once("Other/PostHolidayTemplate/countdown_split_banner.php"); ?>
+								
+					<?php //include_once("Other/PostHolidayTemplate/coupon.php"); ?>
+											
+					<?php include_once("Other/PostHolidayTemplate/p_1.php"); ?>
+														
+					<?php //include_once("Other/PostHolidayTemplate/p_2.php"); ?>
 					
-					<?php include_once("Other/SnapshotTemplate2/devider.php"); ?>
+					<?php //include_once("Other/PostHolidayTemplate/p_3.php"); ?>
 					
-					<?php include_once("Other/SnapshotTemplate2/countdown_split.php"); ?>
-									
-					<?php include_once("Other/SnapshotTemplate2/snapshot.php"); ?>						
+					<?php //include_once("Other/PostHolidayTemplate/devider.php"); ?>
 					
-					<?php include_once("Other/SnapshotTemplate2/snapshot_footer.php"); ?>
-                   
+					<?php //include_once("Other/PostHolidayTemplate/p_4.php"); ?>
 					
-					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
-					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>
-					<?php include_once("Other/SnapshotTemplate2/spotlight.php"); ?>
-					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
+					<?php //include_once("Other/PostHolidayTemplate/p_5.php"); ?>
+					
+								
+					<?php include_once("Other/ProVideoTemplate/spotlight.php"); ?>
 										
-					<?php include_once("Other/blocks/finance_footer.php"); ?>
+					<?php  include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>
+					
+					<?php include_once("Other/ProVideoTemplate/FeaturedBanner.php"); ?>			
+					
+					<?php include_once("Other/ProVideoTemplate/4valueprops.php"); ?>	
+					
+					<?php include_once("Other/blocks/pro_video_finance_footer.php"); ?>
 					
 				</tbody>
 			</table>
@@ -76,7 +84,7 @@
 	</tbody>
 </table>
 </div>
-	<div style="display:none !important; padding:0 !important;">
+<div style="display:none !important; padding:0 !important;">
 <img src="http://svopn.adorama.com/?sv_cid=2620_03922&sv_emopen=true&sv_svemi=##GUID##" height="1" width="1" style="display:none !important;"/>
 </div>
 </body>

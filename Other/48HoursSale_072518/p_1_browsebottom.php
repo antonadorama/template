@@ -13,10 +13,10 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/g/Weekend_Warehouse_Deals_Overstock_Main?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
-                       linkname="Main_Banner_Link">
-                    <img src="image_library/org_1/3748/eMail_Header-WeekendWarehouse_Overstock-Main.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;line-height:0 !important; font-size:0 !important;" class="mobile-full" 
-                         alt="Main Banner" hspace="0" border="0" vspace="0" width="640">
+                    <a href="##second_level_category_url##?sel=Filter-By_Specials&emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
+                       linkname="ShopNow">
+                    <img src="image_library/org_1/4010/48-Hour-Sale-Dynamic-HTML-Category_03.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;line-height:0 !important; font-size:0 !important;" class="mobile-full" 
+                         alt="Shop Now" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>
                 </tr>

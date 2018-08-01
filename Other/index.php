@@ -1,16 +1,26 @@
 <?php 
 
+include_once("Other/OneDaySale_080218/index.php");
+
+// include_once("Other/ReEngABTest/index.php");
+
+// include_once("Other/WarehouseDeals/index.php");
+
+// include_once("Other/48HoursSale_072518/index.php");
+
+// include_once("Other/ProVideoTemplate/index.php");
+
+// include_once("Other/ProAudioTemplate/index.php");
+
 // include_once("Other/SnapshotTemplate2/index.php");
 
-//include_once("Other/MidSummerPriceDropLC/index.php");
+// include_once("Other/MidSummerPriceDropLC/index.php");
 
 // include_once("Other/MidSummerPriceDrop/index.php");
 
 // include_once("Other/CreativeLive/index.php");
 
 // include_once("Other/MidnightMarkdowns_070518/index.php"); 
-  
-include_once("Other/ProAudioTemplate/index.php");
 
 // include_once("Other/SnapshotTemplate2/index.php");
 
@@ -51,7 +61,7 @@ include_once("Other/ProAudioTemplate/index.php");
 
 // include_once("Other/CanonNPA/index.php");
 
-//include_once("Other/MidnightMarkdowns/index.php");
+// include_once("Other/MidnightMarkdowns/index.php");
 
 // include_once("Other/CategoryBrowse/index.php");
 

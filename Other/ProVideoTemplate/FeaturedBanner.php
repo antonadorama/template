@@ -1,4 +1,4 @@
-<!-- Banner Section -->
+<!-- Featured Banner -->
 
 <tr>
   <td>
@@ -13,10 +13,10 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/g/Weekend_Warehouse_Deals_Overstock_Main?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
-                       linkname="Main_Banner_Link">
-                    <img src="image_library/org_1/3748/eMail_Header-WeekendWarehouse_Overstock-Main.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;line-height:0 !important; font-size:0 !important;" class="mobile-full" 
-                         alt="Main Banner" hspace="0" border="0" vspace="0" width="640">
+                    <a href="https://img.kickdyn.com/clickrb.ashx?c=13715.qSPNrXfXJFGindjMgHs5&utm_campaign=<?php echo $utm;?>&email=##email_address##&guid=##GUID##" target="_blank" 
+                       linkname="FeaturedBanner">
+                    <img src="https://img.kickdyn.com/13715/qSPNrXfXJFGindjMgHs5/imgrb.png" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
+                         alt="Featured Banner" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>
                 </tr>
@@ -31,4 +31,4 @@
   </td>
 </tr>  
 
-<!-- End Banner Section -->
+<!-- Featured Banner -->

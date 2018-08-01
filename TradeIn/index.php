@@ -1,4 +1,8 @@
-<?php include_once("TradeIn/Trade_071918/index.php"); ?>
+<?php include_once("TradeIn/Trade_073118/index.php"); ?>
+
+<?php // include_once("TradeIn/Fuji_072918/index.php"); ?>
+
+<?php // include_once("TradeIn/Trade_071918/index.php"); ?>
 
 <?php // include_once("TradeIn/Trade_070918/index.php"); ?>
 
