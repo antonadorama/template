@@ -28,7 +28,7 @@
                       class="" align="center">
                     					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #5e5e5e; text-align: left; line-height: 18px;
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
-                    Did you know you have $##otb##** available on your Adorama Credit Card Account as of 06/12/18? 
+                    Did you know you have $##otb##** available on your Adorama Credit Card Account as of ##as_of_date##? 
                   Get the gear you got your eyes on, and enjoy flexible financing options* - today and for future purchases.
                   					<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
                   </td>

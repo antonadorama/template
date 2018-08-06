@@ -15,13 +15,13 @@
                   <td>
                       <a href="https://www.adorama.com/specials/l/Lighting-and-Studio?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          linkname="LightingAndStudio" target="_blank">
-                        <img src="image_library/org_1/3968/Mid-Summer-Price-Drops-Categories_05.jpg" alt="Lighting And Studio" width="100%" height="auto" border="0" style="display:inline;">
+                        <img src="image_library/org_1/4053/One-Day-Sale-Categories_05.jpg" alt="Lighting And Studio" width="100%" height="auto" border="0" style="display:inline;">
                       </a>
                   </td>
                   <td>
                     <a href="https://www.adorama.com/specials/l/Tripods-and-Supports?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                        linkname="TripodsAndSupports" target="_blank">
-                      <img src="image_library/org_1/3968/Mid-Summer-Price-Drops-Categories_06.jpg" alt="Tripods And Supports" width="100%" height="auto" border="0" style="display:inline;">
+                      <img src="image_library/org_1/4053/One-Day-Sale-Categories_06.jpg" alt="Tripods And Supports" width="100%" height="auto" border="0" style="display:inline;">
                     </a>
                   </td>
                 </tr>

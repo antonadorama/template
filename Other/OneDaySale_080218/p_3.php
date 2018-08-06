@@ -15,13 +15,13 @@
                   <td>
                       <a href="https://www.adorama.com/specials/l/Cameras?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          linkname="Cameras" target="_blank">
-                        <img src="image_library/org_1/3968/Mid-Summer-Price-Drops-Categories_01.jpg" alt="Cameras" width="100%" height="auto" border="0" style="display:inline;">
+                        <img src="image_library/org_1/4053/One-Day-Sale-Categories_01.jpg" alt="Cameras" width="100%" height="auto" border="0" style="display:inline;">
                       </a>
                   </td>
                   <td>
                     <a href="https://www.adorama.com/specials/l/Lenses?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                        linkname="Lenses" target="_blank">
-                      <img src="image_library/org_1/3968/Mid-Summer-Price-Drops-Categories_02.jpg" alt="Lenses" width="100%" height="auto" border="0" style="display:inline;">
+                      <img src="image_library/org_1/4053/One-Day-Sale-Categories_02.jpg" alt="Lenses" width="100%" height="auto" border="0" style="display:inline;">
                     </a>
                   </td>
                 </tr>

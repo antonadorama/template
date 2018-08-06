@@ -15,13 +15,13 @@
                   <td>
                       <a href="https://www.adorama.com/specials/l/Bags-and-Cases?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          linkname="BagsAndCases" target="_blank">
-                        <img src="image_library/org_1/3968/Mid-Summer-Price-Drops-Categories_09.jpg" alt="Bags And Cases" width="100%" height="auto" border="0" style="display:inline;">
+                        <img src="image_library/org_1/4053/One-Day-Sale-Categories_09.jpg" alt="Bags And Cases" width="100%" height="auto" border="0" style="display:inline;">
                       </a>
                   </td>
                   <td>
                     <a href="https://www.adorama.com/l/Drones-and-Action-Cams?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                        linkname="DronesAndActionCams" target="_blank">
-                      <img src="image_library/org_1/3968/Mid-Summer-Price-Drops-Categories_10.jpg" alt="Drones And Action Cams" width="100%" height="auto" border="0" style="display:inline;">
+                      <img src="image_library/org_1/4053/One-Day-Sale-Categories_10.jpg" alt="Drones And Action Cams" width="100%" height="auto" border="0" style="display:inline;">
                     </a>
                   </td>
                 </tr>

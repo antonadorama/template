@@ -15,13 +15,13 @@
                   <td>
                       <a href="https://www.adorama.com/specials/l/Computers?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          linkname="Computers" target="_blank">
-                        <img src="image_library/org_1/3968/Mid-Summer-Price-Drops-Categories_03.jpg" alt="Computers" width="100%" height="auto" border="0" style="display:inline;">
+                        <img src="image_library/org_1/4053/One-Day-Sale-Categories_03.jpg" alt="Computers" width="100%" height="auto" border="0" style="display:inline;">
                       </a>
                   </td>
                   <td>
                     <a href="https://www.adorama.com/specials/l/Computers/Memory-and-Data-Storage?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                        linkname="MemoryAndDataStorage" target="_blank">
-                      <img src="image_library/org_1/3968/Mid-Summer-Price-Drops-Categories_04.jpg" alt="Memory And Data Storage" width="100%" height="auto" border="0" style="display:inline;">
+                      <img src="image_library/org_1/4053/One-Day-Sale-Categories_04.jpg" alt="Memory And Data Storage" width="100%" height="auto" border="0" style="display:inline;">
                     </a>
                   </td>
                 </tr>

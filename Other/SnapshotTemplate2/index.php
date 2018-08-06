@@ -42,9 +42,9 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_073118"; ?>
+					<?php $utm = "Email_Snapshot_080718"; ?>
 					
-					<?php $ttl = "Profoto B1X 500 AirTTL To-Go Kit - 10% off | Snapshot Deal"; ?>
+					<?php $ttl = "Over $100 off Nikon and Canon compatible studio light!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					

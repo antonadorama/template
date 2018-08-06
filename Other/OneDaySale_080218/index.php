@@ -42,27 +42,27 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_OneDaySale_080218"; ?>
-					<?php $ttl = "FLASH SALE happening now! Grab the savings before they're gone!"; ?>
+					<?php //$utm = "Email_OneDaySaleCanon_080218"; ?>
+					<?php //$ttl = "FLASH SALE happening now! Grab the savings before they're gone!"; ?>
 
 					<?php //$utm = "Email_MidSummerPriceDropNikon_072118"; ?>
 					<?php //$ttl = "This weekend only save big on your favorite products from Adorama!"; ?>
           
-          <?php //$utm = "Email_MidSummerPriceDropDynamic_072118"; ?>
-					<?php //$ttl = "Summer Price Drops On ##SMFMT_PROPERCASE[\second_level_category]##. Shop now!"; ?>
+          <?php $utm = "Email_OneDaySaleDynamic_080218"; ?>
+					<?php $ttl = "FLASH SALE happening now! Save On ##SMFMT_PROPERCASE[\second_level_category]##."; ?>
           
 					<?php include_once("Other/blocks/header.php"); ?>		
 
-					<?php include_once("Other/OneDaySale_080218/p_1.php"); ?>
+					<?php //include_once("Other/OneDaySale_080218/p_1.php"); ?>
           <?php //include_once("Other/OneDaySale_080218/p_1_apple.php"); ?>
           <?php //include_once("Other/OneDaySale_080218/p_1_sony.php"); ?>
           <?php //include_once("Other/OneDaySale_080218/p_1_canon.php"); ?>
           <?php //include_once("Other/OneDaySale_080218/p_1_nikon.php"); ?>      
           
             
-          <?php //include_once("Other/OneDaySale_080218/p_1_browsedtop.php"); ?>
-          <?php //include_once("Other/OneDaySale_080218/c.php"); ?>
-          <?php //include_once("Other/OneDaySale_080218/p_1_browsebottom.php"); ?>
+          <?php include_once("Other/OneDaySale_080218/p_1_browsedtop.php"); ?>
+          <?php include_once("Other/OneDaySale_080218/c.php"); ?>
+          <?php include_once("Other/OneDaySale_080218/p_1_browsebottom.php"); ?>
           
           <?php include_once("Other/OneDaySale_080218/p_2.php"); ?>
           <?php include_once("Other/OneDaySale_080218/p_3.php"); ?>
