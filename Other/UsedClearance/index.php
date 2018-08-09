@@ -42,31 +42,41 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_081018"; ?>
-					
-					<?php $ttl = "Shop savings on the shoulder bag PERFECT for your mirrorless camera!"; ?>
-					
-					<?php include_once("Other/blocks/header.php"); ?>
-					
+					<?php //$utm = "Email_UsedClearanceMain_081018"; ?>
+					<?php //$ttl = "Used Clearance Sale, so you can enjoy your favorite brands at amazing prices!"; ?>
+
+					<?php //$utm = "Email_UsedClearanceSony_081018"; ?>
+					<?php //$ttl = "Used Clearance Sale, so you can enjoy your favorite brands at amazing prices!"; ?>
           
-					<?php include_once("Other/SnapshotTemplate2/snapshot_header.php"); ?>
-					
-					<?php //include_once("Other/SnapshotTemplate/p_1.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate2/devider.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate2/countdown_split.php"); ?>
-									
-					<?php include_once("Other/SnapshotTemplate2/snapshot.php"); ?>						
-					
-					<?php include_once("Other/SnapshotTemplate2/snapshot_footer.php"); ?>
-                   
-					
+          <?php $utm = "Email_UsedClearanceDynamic_081018"; ?>
+					<?php $ttl = "Used Clearance Sale Happening Now! Save On ##SMFMT_PROPERCASE[\second_level_category]##."; ?>
+          
+					<?php include_once("Other/blocks/header.php"); ?>		
+
+					<?php //include_once("Other/UsedClearance/p_1.php"); ?>
+          
+          <?php //include_once("Other/UsedClearance/p_1_sony.php"); ?>
+          <?php //include_once("Other/UsedClearance/p_1_canon.php"); ?>
+          <?php //include_once("Other/UsedClearance/p_1_nikon.php"); ?>      
+          
+            
+          <?php include_once("Other/UsedClearance/p_1_browsedtop.php"); ?>
+          <?php include_once("Other/UsedClearance/c.php"); ?>
+          <?php include_once("Other/UsedClearance/p_1_browsebottom.php"); ?>
+                    
+          <?php include_once("Other/UsedClearance/p_3.php"); ?>
+          <?php include_once("Other/UsedClearance/p_4.php"); ?>
+          <?php include_once("Other/UsedClearance/p_5.php"); ?>
+          <?php include_once("Other/UsedClearance/p_6.php"); ?>
+          <?php include_once("Other/UsedClearance/p_7.php"); ?>
+          
+          <?php include_once("Other/UsedClearance/p_2.php"); ?>
+                             
 					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
-					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>
-					<?php include_once("Other/SnapshotTemplate2/spotlight.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>							
+					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>						
 					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
-										
+					
 					<?php include_once("Other/blocks/finance_footer.php"); ?>
 					
 				</tbody>
@@ -76,7 +86,7 @@
 	</tbody>
 </table>
 </div>
-	<div style="display:none !important; padding:0 !important;">
+<div style="display:none !important; padding:0 !important;">
 <img src="http://svopn.adorama.com/?sv_cid=2620_03922&sv_emopen=true&sv_svemi=##GUID##" height="1" width="1" style="display:none !important;"/>
 </div>
 </body>

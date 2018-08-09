@@ -1,5 +1,9 @@
 <?php 
 
+include_once("Other/Litepanels/index.php");
+
+// include_once("Other/UsedClearance/index.php");
+
 // include_once("Other/OneDaySale_080218/index.php");
 
 // include_once("Other/ReEngABTest/index.php");
@@ -12,7 +16,7 @@
 
 // include_once("Other/ProAudioTemplate/index.php");
 
-include_once("Other/SnapshotTemplate2/index.php");
+// include_once("Other/SnapshotTemplate2/index.php");
 
 // include_once("Other/MidSummerPriceDropLC/index.php");
 
