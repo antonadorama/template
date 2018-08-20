@@ -11,9 +11,10 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/g/top-photography-accessories?emailprice=t&utm_source=slgt&utm_medium=email&guid=##GUID##&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank"
-                       linkname="Image_inspire">
-                    <img src="image_library/org_1/4107/eMail-LitePanels_PostPurchase-Header.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" alt="Thank You for Your Purchase!" hspace="0" border="0" vspace="0" width="640">
+                    <a href="https://www.adorama.com/g/profoto_brand?OrigTerm=profoto&searchredirect=true&emailprice=t&utm_source=slgt&utm_medium=email&guid=##GUID##&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank"
+                       linkname="Image_ThankYou">
+                    <img src="image_library/org_1/4107/eMail-LitePanels_PostPurchase-Header.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
+                         alt="Thank You for Your Purchase!" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>
                 </tr>
@@ -40,13 +41,23 @@
         
 				</td>
 			</tr>
+      
+      			
+															<tr>
+				<td style="padding-top:5px; padding-left:30px; padding-bottom:5px; padding-right:15px;">
+										<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #111111; text-align: left; line-height: 18px;
+                  width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
+Thank you for purchasing your Litepanels product. We know you have many options when you shop and we appreciate that you chose Adorama for your purchase. 
+					<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+        </td>
+			</tr>
 			
 						<tr>
 				<td style="padding-top:5px; padding-left:30px; padding-bottom:5px; padding-right:15px;">
 										<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #111111; text-align: left; line-height: 18px;
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
-          Thank you for shopping litepanels and congratulations on being eligible for a* $25.00 off $250 coupon <strong><font color="#006ab2">##coupon_code##</font></strong>!* 
-          We know you have many options when you shop and we appreciate that you chose Adorama for your purchase.
+          As a thank you for your group purchase, here's a special gift for you: $25.00 off your next $250 purchase using your unique coupon code here: <strong><font color="#006ab2">##coupon_code##</font></strong>
+      
 					<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
         </td>
 			</tr>
@@ -58,7 +69,20 @@
 				<td style="padding-top:5px; padding-left:30px; padding-bottom:5px; padding-right:15px;">
 										<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #111111; text-align: left; line-height: 18px;
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
-Thank you again for your purchase and we hope you're planning to use your* $25.00 off $250 coupon* real soon!
+Feel free to use this coupon to shop these 
+          									<strong><a href="https://www.adorama.com/l/?sf=Price&sel=Price-Range_-dollar-250-to-dollar-5000&SearchInfo=litepanels+gemini&emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>"
+										 linkname="RecommendedAccessories" style="color:#5e5e5e; text-decoration:none;"><u>
+                              <font color="#006ab2">recommended accessories</font></u></a></strong>  
+        for your Litepanels item.
+					<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+        </td>
+			</tr>
+      
+      															<tr>
+				<td style="padding-top:5px; padding-left:30px; padding-bottom:5px; padding-right:15px;">
+										<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #111111; text-align: left; line-height: 18px;
+                  width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
+Thank you again for your purchase!
 					<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
         </td>
 			</tr>

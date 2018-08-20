@@ -41,15 +41,21 @@
 				<tbody>
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
-
-          <?php $utm = "Email_VIP360_Acquisition_081518_VIPAqs"; ?>
-          <?php $ttl = "Into photography, video or audio? You’ll want to feed your passion with these great benefits. "; ?>
-
-					<?php include_once("Other/blocks/header.php"); ?>		
+					
+          <?php $utm = "Email_AppleBackToSchool_081318"; ?>
+          <?php $ttl = "Save on iMacs, iPads, MacBooks, and more!"; ?> 
           
-					<?php include_once("Other/VIP360_Acquisition/p_1.php"); ?>
-          <?php include_once("Other/VIP360_Acquisition/p_2.php"); ?>
+					<?php include_once("Other/blocks/header.php"); ?>		 
 
+          <?php include_once("Other/AppleBack/p_1.php"); ?>
+          <?php include_once("Other/AppleBack/p_2.php"); ?>
+          <?php include_once("Other/AppleBack/p_3.php"); ?>
+          <?php include_once("Other/AppleBack/p_4.php"); ?>
+          <?php include_once("Other/AppleBack/p_5.php"); ?>
+          <?php include_once("Other/AppleBack/p_6.php"); ?>
+          <?php include_once("Other/AppleBack/p_7.php"); ?>
+                      
+					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
 					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>							
 					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>						
 					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>

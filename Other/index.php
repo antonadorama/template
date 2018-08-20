@@ -1,6 +1,18 @@
 <?php 
 
-include_once("Other/Litepanels/index.php");
+include_once("Other/Bundles/index.php");
+
+// include_once("Other/SnapshotTemplate2/index.php");
+
+// include_once("Other/BeachTravel/index.php");
+
+// include_once("Other/AppleBackLC/index.php");
+
+// include_once("Other/Snapshot_081418/index.php");
+
+// include_once("Other/AppleBack/index.php");
+
+// include_once("Other/Litepanels/index.php");
 
 // include_once("Other/UsedClearance/index.php");
 
@@ -16,7 +28,6 @@ include_once("Other/Litepanels/index.php");
 
 // include_once("Other/ProAudioTemplate/index.php");
 
-// include_once("Other/SnapshotTemplate2/index.php");
 
 // include_once("Other/MidSummerPriceDropLC/index.php");
 

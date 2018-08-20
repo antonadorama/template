@@ -43,16 +43,15 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_LitepanelPostPurchaseThankYou_081018"; ?>
+					<?php $utm = "Email_LitepanelPostPurchaseThankYou_082018"; ?>
 					
-					<?php $ttl = "TTL"; ?>
+					<?php $ttl = "See inside for your exclusive promo"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>					
 		
 					<?php include_once("Other/Litepanels/p_1.php"); ?>
           <?php include_once("Other/Litepanels/p_2.php"); ?>
-					<?php include_once("Other/Litepanels/p_3.php"); ?>
-									
+					
 					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
 					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>							
 					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>						

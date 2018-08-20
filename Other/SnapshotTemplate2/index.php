@@ -42,9 +42,9 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_081018"; ?>
+					<?php $utm = "Email_Snapshot_082118"; ?>
 					
-					<?php $ttl = "Shop savings on the shoulder bag PERFECT for your mirrorless camera!"; ?>
+					<?php $ttl = "Adorama Exclusive! Take 20% off SmallHD 503 Field Monitor!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
