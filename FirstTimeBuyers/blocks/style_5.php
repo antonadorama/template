@@ -390,6 +390,16 @@
       padding-left: 0 !important;
     }
     
+        .mobile-full-ext {
+      float: none !important;
+      width: 100% !important;
+      max-width: none !important;
+      padding-right: 0 !important;
+      padding-left: 0 !important;
+      display:block !important;
+    }
+    
+    
     img.mobile-width-200 {
       width: 100% !important;
       max-width: 260px !important;
@@ -397,6 +407,11 @@
       max-height: 300px !important;
     }
     img.mobile-full {
+      width: 100% !important;
+      max-width: none !important;
+      height: auto !important;
+    }
+        img.mobile-full-ext {
       width: 100% !important;
       max-width: none !important;
       height: auto !important;

@@ -48,7 +48,9 @@
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
-					<?php include_once("Other/PostHolidayTemplate/countdown_split.php"); ?>	
+					<?php include_once("Other/PostHolidayTemplate/countdown_split.php"); ?>
+          
+          <?php include_once("Other/PostHolidayTemplate/countdown.php"); ?>	
 					
 					<?php include_once("Other/PostHolidayTemplate/countdown_split_banner.php"); ?>
 								
@@ -77,7 +79,7 @@
 					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>	
 
 					
-					<?php include_once("Other/blocks/finance_footer.php"); ?>
+					<?php include_once("Other/blocks/footer.php"); ?>
 					
 				</tbody>
 			</table>

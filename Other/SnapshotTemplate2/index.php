@@ -42,9 +42,9 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_082118"; ?>
+					<?php $utm = "Email_Snapshot_090718"; ?>
 					
-					<?php $ttl = "Adorama Exclusive! Take 20% off SmallHD 503 Field Monitor!"; ?>
+					<?php $ttl = "Get 30% off the Litepanels Astra 6X Bi-Color LED Panel, With Flashpoint Pro Air Cushioned Heavy Duty Light Stand 9.5. Hurry, shop now!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
@@ -67,7 +67,7 @@
 					<?php include_once("Other/SnapshotTemplate2/spotlight.php"); ?>
 					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
 										
-					<?php include_once("Other/blocks/finance_footer.php"); ?>
+					<?php include_once("Other/blocks/footer.php"); ?>
 					
 				</tbody>
 			</table>

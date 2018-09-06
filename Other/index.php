@@ -1,8 +1,40 @@
 <?php 
 
-include_once("Other/Bundles/index.php");
+include_once("Other/VIPSale_Ext/index.php");
+
+// include_once("Other/VIPSale_090718/index.php");
+
+// include_once("Other/SeptemberRebates/index.php");
 
 // include_once("Other/SnapshotTemplate2/index.php");
+
+// include_once("Other/CategoryBrowse2/index.php");
+
+// include_once("Other/Snapshot_090418/index.php");
+
+// include_once("Other/BestOfAugust2/index.php");
+
+// include_once("Other/BestOfAugust1/index.php");
+
+// include_once("Other/FlashpointSnapshot/index.php");
+
+// include_once("Other/LightingSale/index.php");
+
+// include_once("Other/WeekendFlashSale/index.php");
+
+// include_once("Other/DJINPA/index.php");
+
+// include_once("Other/NikonNPA/index.php");
+
+// include_once("Other/LeicaNPA/index.php");
+
+ // include_once("Other/PostHolidayTemplate/index.php");
+
+// include_once("Other/CategoryBrowse/index.php");
+
+// include_once("Other/Bundles/index.php");
+
+
 
 // include_once("Other/BeachTravel/index.php");
 
@@ -27,7 +59,6 @@ include_once("Other/Bundles/index.php");
 // include_once("Other/ProVideoTemplate/index.php");
 
 // include_once("Other/ProAudioTemplate/index.php");
-
 
 // include_once("Other/MidSummerPriceDropLC/index.php");
 
@@ -78,9 +109,9 @@ include_once("Other/Bundles/index.php");
 
 // include_once("Other/MidnightMarkdowns/index.php");
 
-// include_once("Other/CategoryBrowse/index.php");
+ 
 
-// include_once("Other/PostHolidayTemplate/index.php");
+
 
 
 
@@ -94,7 +125,7 @@ include_once("Other/Bundles/index.php");
 
 // include_once("Other/ExpRebates_052918/index.php");
 
-// include_once("Other/SnapshotTemplate/index.php");
+// 
 
 
 ?>

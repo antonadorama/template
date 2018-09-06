@@ -53,11 +53,11 @@
                           <a color="#393F42" href="https://www.adorama.com/l/Lenses?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Lenses&utm_content=Header&utm_campaign=<?php echo $utm;?>	" linkname="Lenses" style="text-decoration: none; color: #393F42; font-weight: bold; font-size: 12px; " target="_blank">
                             LENSES</a></td>
 												<td class="video" style=" text-align: center">
-                          <a color="#393F42" href="https://www.adorama.com/l/Video-Equipment?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=ProVideo&utm_content=Header&utm_campaign=<?php echo $utm;?>	" linkname="ProVideo" style="text-decoration: none; color: #393F42; font-weight: bold; font-size: 12px; " target="_blank">
-                            PRO VIDEO</a></td>
+                          <a color="#393F42" href="https://www.adorama.com/l/Lighting-and-Studio?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Lighting&utm_content=Header&utm_campaign=<?php echo $utm;?>	" linkname="Lighting" style="text-decoration: none; color: #393F42; font-weight: bold; font-size: 12px; " target="_blank">
+                            LIGHTING</a></td>
 												<td class="audio" style=" text-align: center">
-                          <a color="#393F42" href="https://www.adorama.com/l/Professional-Audio?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=ProAudio&utm_content=Header&utm_campaign=<?php echo $utm;?>	" linkname="ProAudio" style="text-decoration: none; color: #393F42; font-weight: bold; font-size: 12px; " target="_blank">
-                            PRO AUDIO</a></td>
+                          <a color="#393F42" href="https://www.adorama.com/l/Computers/Memory-and-Data-Storage?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Storage&utm_content=Header&utm_campaign=<?php echo $utm;?>	" linkname="Storage" style="text-decoration: none; color: #393F42; font-weight: bold; font-size: 12px; " target="_blank">
+                            STORAGE</a></td>
 												<td class="deals" style=" text-align: center">
                           <a href="https://www.adorama.com/specials?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Deals&utm_content=Header&utm_campaign=<?php echo $utm;?>	" linkname="Deals" style="text-decoration: none; color: #B92E2C; font-weight: bold;font-size: 12px;" target="_blank">
                             DEALS</a></td>

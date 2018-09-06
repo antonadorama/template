@@ -11,7 +11,7 @@
 								<tr>
 									<td align="center" class="menuimage" style="width: 16.666%;  text-align: center" width="16.666%">
                     <a href="https://www.adorama.com/l/Cameras?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Cameras&utm_content=Footer&utm_campaign=<?php echo $utm;?>" linkname="CamerasFooter" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
-                      <img alt="Cameras" border="0" class="menuimageimg" src="https://www.adorama.com/col/images/email/cameras-x2.png" style="margin: 0 auto; display: block; padding: 10px 0" width="82" /> 
+                      <img alt="Cameras" border="0" class="menuimageimg" src="https://www.adorama.com/col/images/email/v3/cameras-v3.png" style="margin: 0 auto; display: block; padding: 10px 0" width="82" /> 
                     </a>
 									<p class="menuimagespan" style="padding: 10px 0;">
                     <a href="https://www.adorama.com/l/Cameras?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Cameras&utm_content=Footer&utm_campaign=<?php echo $utm;?>" linkname="CamerasFooter" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
@@ -23,7 +23,7 @@
                   </td>
 									<td align="center" class="menuimage" style="width: 16.666%; text-align: center" width="16.666%">
                     <a href="https://www.adorama.com/l/Lenses?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Lenses&utm_content=Footer&utm_campaign=<?php echo $utm;?>" linkname="LensesIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
-                      <img alt="Lenses" border="0" class="menuimageimg" src="https://www.adorama.com/col/images/email/lenses-x2.png" style="margin: 0 auto; display: block; padding: 10px 0" width="82" />
+                      <img alt="Lenses" border="0" class="menuimageimg" src="https://www.adorama.com/col/images/email/v3/lenses-v3.png" style="margin: 0 auto; display: block; padding: 10px 0" width="82" />
                     </a>
 									<p class="menuimagespan" style="padding: 10px 0">
                     <a href="https://www.adorama.com/l/Lenses?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Lenses&utm_content=Footer&utm_campaign=<?php echo $utm;?>" linkname="LensesIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
@@ -34,32 +34,32 @@
                     </a>
                   </td>
 									<td align="center" class="menuimage" style="width: 16.666%; text-align: center" width="16.666%">
-                    <a href="https://www.adorama.com/l/Video-Equipment?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=ProVideo&utm_content=Footer&utm_campaign=<?php echo $utm;?>" linkname="ProVideoIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
-                      <img alt="Pro video" border="0" class="menuimageimg" src="https://www.adorama.com/col/images/email/video-x2.png" style="margin: 0 auto; display: block; padding: 10px 0" width="82" />
+                    <a href="https://www.adorama.com/l/Lighting-and-Studio?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Lighting&utm_content=Footer&utm_campaign=<?php echo $utm;?>" linkname="LightingIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
+                      <img alt="Lighting" border="0" class="menuimageimg" src="https://www.adorama.com/col/images/email/v3/Lighting_v2.png" style="margin: 0 auto; display: block; padding: 10px 0" width="82" />
                     </a>
 									<p class="menuimagespan" style="padding: 10px 0">
-                    <a href="https://www.adorama.com/l/Video-Equipment?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=ProVideo&utm_content=Footer&utm_campaign=<?php echo $utm;?>" linkname="ProVideoIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
-                      PRO VIDEO
+                    <a href="https://www.adorama.com/l/Lighting-and-Studio?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Lighting&utm_content=Footer&utm_campaign=<?php echo $utm;?>" linkname="LightingIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
+                      LIGHTING
                     </a>
                     </p>
-									<a href="https://www.adorama.com/l/Video-Equipment?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=ProVideo&utm_content=Footer&utm_campaign=<?php echo $utm;?>" linkname="ProVideoIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
+									<a href="https://www.adorama.com/l/Lighting-and-Studio?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Lighting&utm_content=Footer&utm_campaign=<?php echo $utm;?>" linkname="LightingIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
                     </a>
                   </td>
 									<td align="center" class="menuimage" style="width: 16.666%; text-align: center" width="16.666%">
-                    <a href="https://www.adorama.com/l/Professional-Audio?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=ProAudio&utm_content=Footer&utm_campaign=<?php echo $utm;?>" linkname="ProAudioIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
-                      <img alt="Pro audio" border="0" class="menuimageimg" src="https://www.adorama.com/col/images/email/audio-x2.png" style="margin: 0 auto; display: block; padding: 10px 0" width="82" />
+                    <a href="https://www.adorama.com/l/Computers/Memory-and-Data-Storage?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Storage&utm_content=Footer&utm_campaign=<?php echo $utm;?>" linkname="StorageIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
+                      <img alt="Storage" border="0" class="menuimageimg" src="https://www.adorama.com/col/images/email/v3/Storage_v3.png" style="margin: 0 auto; display: block; padding: 10px 0" width="82" />
                     </a>
 									<p class="menuimagespan" style="padding: 10px 0">
-                    <a href="https://www.adorama.com/l/Professional-Audio?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=ProAudio&utm_content=Footer&utm_campaign=<?php echo $utm;?>" linkname="ProAudioIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
-                      PRO AUDIO
+                    <a href="https://www.adorama.com/l/Computers/Memory-and-Data-Storage?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Storage&utm_content=Footer&utm_campaign=<?php echo $utm;?>" linkname="StorageIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
+                      STORAGE
                     </a>
                     </p>
-									<a href="https://www.adorama.com/l/Professional-Audio?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=ProAudio&utm_content=Footer&utm_campaign=<?php echo $utm;?>" linkname="ProAudioIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
+									<a href="https://www.adorama.com/l/Computers/Memory-and-Data-Storage?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Storage&utm_content=Footer&utm_campaign=<?php echo $utm;?>" linkname="StorageIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
                     </a>
                   </td>
 									<td align="center" class="menuimage" style="width: 16.666%;  white-space: nowrap; text-align: center" width="16.666%">
                     <a href="https://www.adorama.com/l/Computers?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Computers&utm_content=Footer&utm_campaign=<?php echo $utm;?>" linkname="ComputersIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
-                      <img alt="Computers" border="0" class="menuimageimg" src="https://www.adorama.com/col/images/email/computers-x2.png" style="margin: 0 auto; display: block; padding: 10px 0" width="82" />
+                      <img alt="Computers" border="0" class="menuimageimg" src="https://www.adorama.com/col/images/email/v3/computers-v3.png" style="margin: 0 auto; display: block; padding: 10px 0" width="82" />
                     </a>
 									<p class="menuimagespan" style="padding: 10px 0">
                     <a href="https://www.adorama.com/l/Computers?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Computers&utm_content=Footer&utm_campaign=<?php echo $utm;?>" linkname="ComputersIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
@@ -71,7 +71,7 @@
                   </td>
 									<td align="center" class="menuimage" style="width: 16.666%; text-align: center" width="16.666%">
                     <a href="https://www.adorama.com/l/Video-Equipment/Drones-and-Accessories?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Drone&utm_content=Footer&utm_campaign=<?php echo $utm;?>" linkname="DroneIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
-                      <img alt="Drone" border="0" class="menuimageimg" src="https://www.adorama.com/col/images/email/drone.png" style="margin: 0 auto; display: block; padding: 10px 0" width="82" />
+                      <img alt="Drone" border="0" class="menuimageimg" src="https://www.adorama.com/col/images/email/v3/drone_v3.png" style="margin: 0 auto; display: block; padding: 10px 0" width="82" />
                     </a>
 									<p class="menuimagespan" style="padding: 10px 0">
                     <a href="https://www.adorama.com/l/Video-Equipment/Drones-and-Accessories?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Drone&utm_content=Footer&utm_campaign=<?php echo $utm;?>" linkname="DroneIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
@@ -205,17 +205,17 @@
 							Email sent to: 
 							<a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=manage&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=<?php echo $utm;?>#emailpref" 
 								 linkname="MyEmail" style="color: #A7A9AC; font-size: 14px; text-decoration:none">
-              ##EMAIL_ADDRESS##</a> 
-							<br /> 
-					 
-							<a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=manage&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=<?php echo $utm;?>#emailpref" 
-								 linkname="Preferences" style="color: #A7A9AC; font-size: 14px; text-decoration:none; white-space:nowrap">
-              <b>Manage Preferences</b></a> &nbsp; | &nbsp; 
-              <a href="" linkname="Forward" style="color: #A7A9AC; text-decoration:none; white-space:nowrap">
-                <b>Forward to a Friend</b></a> &nbsp; | &nbsp;
-              <a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=unsubscribe&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&utm_term=Unsubscribe&utm_content=Footer&utm_campaign=<?php echo $utm;?>#emailpref" 
-								 linkname="Unsubscribe" style="color: #A7A9AC; font-size: 14px; text-decoration:none">
-                <b>Unsubscribe</b></a></p>
+                ##EMAIL_ADDRESS##</a> </p>
+		                <p style="padding: 0 30px; text-align: center; margin: 2px; color: #A7A9AC;">
+             This email may be considered promotional or advertising. If you wish to be removed from this email list, you can unsubscribe below. 
+             </p> 
+             		                <p style="padding: 0 30px; text-align: center; margin: 2px; color: #A7A9AC;">
+             To manage your email preferences, <a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=manage&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=<?php echo $utm;?>#emailpref" 
+								 linkname="ManagePrefs" style="color: #A7A9AC; font-size: 14px; text-decoration:none">
+                <b>click here</b></a>. If you no longer wish to receive promotional emails from us, <a href="" 
+								 linkname="ManagePromo" style="color: #A7A9AC; font-size: 14px; text-decoration:none">
+                <b>click here</b></a>.
+             </p>
 						</td>						
 					</tr>
 					<!-- End Preference Center -->
@@ -223,7 +223,9 @@
 					<!-- Terms -->
 					<tr>
 						<td class="bottomfinal">
-						<p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">
+              <p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">##*##</p>
+
+             <p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">
 							Please add 
 							<a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=manage&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=<?php echo $utm;?>#emailpref" 
 								 linkname="AddUs" style="color: #A7A9AC; text-decoration:none">
@@ -231,7 +233,7 @@
 							<p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">
 								Products are subject to price change and availability. Not responsible for typographical errors.</p>
 							<p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">
-								&copy; 2017 Adorama Camera, Inc. All rights reserved. | 
+								&copy; 2018 Adorama Camera, Inc. All rights reserved. | 
 								<a href="https://www.adorama.com/help/termsAndConditions?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Terms&utm_content=Footer&utm_campaign=<?php echo $utm;?>" linkname="Terms" style="color: #A7A9AC; text-decoration:underline">
 									Terms</a> | 
 								<a href="https://www.adorama.com/privacy?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Terms&utm_content=Footer&utm_campaign=<?php echo $utm;?>" linkname="Privacy" style="color: #A7A9AC; text-decoration: underline">

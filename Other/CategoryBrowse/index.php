@@ -43,9 +43,9 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_CategoryBrowse_062018"; ?>
+					<?php $utm = "Email_CategoryBrowse_082118"; ?>
 					
-					<?php $ttl = "Consider it your lucky day: ##second_level_category## best-sellers, bundles and under $500 for summer unlocked!"; ?>
+					<?php $ttl = "Consider it your lucky day! ##second_level_category## are now on sale + best-sellers, bundles and kit price drops!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
@@ -84,8 +84,8 @@
 					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>					
 					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>	
 					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>
-					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>							
-					<?php include_once("Other/blocks/finance_footer.php"); ?>
+					<?php include_once("Other/ReEngABTest/4valueprops.php"); ?>								
+					<?php include_once("Other/blocks/footer.php"); ?>
 					
 				</tbody>
 			</table>

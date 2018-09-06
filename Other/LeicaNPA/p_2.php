@@ -1,41 +1,25 @@
-<!-- Three Column Row -->
+<!-- Banner Section -->
+
 <tr>
   <td>
-    <table id="ko_imageBlock_5" style="background-color: #f2f2f2;" class="vb-outer" bgcolor="#f2f2f2" border="0" cellpadding="0" cellspacing="0" width="100%">
+    <table id="ko_imageBlock_5" style="background-color: #E3E3E3;" class="vb-outer" bgcolor="#E3E3E3" border="0" cellpadding="0" cellspacing="0" width="100%">
     <tbody>
       <tr>
         <td class="vb-outer" align="center" valign="top" style="">
           <!--[if (gte mso 9)|(lte ie 8)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="640"><tr><td align="center" valign="top"><![endif]-->
           
           <div class="oldwebkit" style="max-width: 640px;">
-            <table style="border-collapse: separate;padding-left: 0;padding-right: 0;width: 100%;max-width: 640px;background-color: #f2f2f2;" class="vb-container fullwidth" align="center" bgcolor="#f2f2f2"
-                   border="0" cellpadding="0" cellspacing="0" width="640">
+            <table style="border-collapse: separate;padding-left: 0;padding-right: 0;width: 100%;max-width: 640px;background-color: #ECF6F8;" class="vb-container fullwidth" align="center" bgcolor="#ECF6F8" border="0" cellpadding="0" cellspacing="0" width="640">
               <tbody>
-
                 <tr>
-                  <td>
-                    <a href="https://www.adorama.com/LCCLB.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
-                         linkname="LCCLB" target="_blank">
-                      <img src="image_library/org_1/2777/NPA-Leica-CL-18mm-Email_02.jpg" 
-                           alt="LCCLB" width="100%" height="auto" border="0" style="display:inline;">
-                    </a>
-                  </td>
-                  <td>
-                    <a href="https://www.adorama.com/LCCLBK.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
-                         linkname="LCCLBK" target="_blank">
-                        <img src="image_library/org_1/2777/NPA-Leica-CL-18mm-Email_03.jpg" 
-                             alt="LCCLBK" width="100%" height="auto" border="0" style="display:inline;">
-                    </a>
-                  </td>
-                  <td>
-                    <a href="https://www.adorama.com/LCCLBK1.html?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
-                         linkname="LCCLBK1" target="_blank">
-                        <img src="image_library/org_1/2777/NPA-Leica-CL-18mm-Email_04.jpg" 
-                             alt="LCCLBK1" width="100%" height="auto" border="0" style="display:inline;">
+                  <td align="center" valign="top">
+                    <a href="https://www.adorama.com/lcm10pb.html?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
+                       linkname="LeicaM10">
+                    <img src="image_library/org_1/4163/Leica-M10-P-NPA_02.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;line-height:0 !important; font-size:0 !important;" class="mobile-full" 
+                         alt="Leica M10" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>
                 </tr>
-                
               </tbody>
             </table>
           </div>
@@ -46,4 +30,5 @@
   </table>
   </td>
 </tr>  
-<!-- End of Three Column Row -->
+
+<!-- End Banner Section -->
