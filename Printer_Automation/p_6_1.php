@@ -11,7 +11,7 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/l/Printers-and-Scanners/Printer-Paper-and-Media?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=PrinterAutomation&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" linkname="ShopPaper">
+                    <a href="https://www.adorama.com/l/Printers-and-Scanners/Printer-Paper-and-Media?sf=Relevance&st=de&EmailPrice=T&emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=PrinterAutomation&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" linkname="ShopPaper">
                     <img src="image_library/org_1/1194/Printer-Automation-Stock-Up-2_01.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" alt="" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>

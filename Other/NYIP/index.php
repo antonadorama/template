@@ -43,14 +43,16 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 
-          <?php $utm = "Email_NYIP_061218"; ?>
+          <?php $utm = "Email_NYIP_101018"; ?>
           <?php $ttl = ""; ?>
 
 					<?php include_once("Other/blocks/header.php"); ?>		
           
 
           
-          <?php include_once("Other/NYIP/p_1.php"); ?>
+          <?php //include_once("Other/NYIP/p_1.php"); ?>
+          
+           <?php include_once("Other/NYIP/october.php"); ?>
 
           
 					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
@@ -58,7 +60,7 @@
 					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>						
 					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
 					
-					<?php include_once("Other/blocks/finance_footer.php"); ?>
+					<?php include_once("Other/blocks/footer.php"); ?>
 					
 				</tbody>
 			</table>

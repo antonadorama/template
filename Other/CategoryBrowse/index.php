@@ -43,9 +43,9 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_CategoryBrowse_082118"; ?>
+					<?php $utm = "Email_CategoryBrowse_101618"; ?>
 					
-					<?php $ttl = "Consider it your lucky day! ##second_level_category## are now on sale + best-sellers, bundles and kit price drops!"; ?>
+					<?php $ttl = "Check out our most-popular ##SECOND_LEVEL_CATEGORY## + bundle deals, free shipping and top-rated offers!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					

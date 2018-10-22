@@ -42,9 +42,9 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_090718"; ?>
+					<?php $utm = "Email_Snapshot_102318"; ?>
 					
-					<?php $ttl = "Get 30% off the Litepanels Astra 6X Bi-Color LED Panel, With Flashpoint Pro Air Cushioned Heavy Duty Light Stand 9.5. Hurry, shop now!"; ?>
+					<?php $ttl = "Save 35% on the Dell E310dw Monochrome Wireless Laser Printer. Shop now for this deal!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					

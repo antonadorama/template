@@ -15,13 +15,13 @@
                   <td>
                       <a href="https://www.adorama.com/c/Drones-and-Action-Cams?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          linkname="DronesCategory" target="_blank">
-                        <img src="image_library/org_1/3079/Category-Browse-Email_19.jpg" alt="Drones Category" width="100%" height="auto" border="0" style="display:inline;">
+                        <img src="image_library/org_1/4393/Category-Browse-Email_19.jpg" alt="Drones Category" width="100%" height="auto" border="0" style="display:inline;">
                       </a>
                   </td>
                   <td>
                     <a href="https://www.adorama.com/c/Computers?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                        linkname="ComputerCategory" target="_blank">
-                      <img src="image_library/org_1/3079/Category-Browse-Email_20.jpg" alt="Computers Category" width="100%" height="auto" border="0" style="display:inline;">
+                      <img src="image_library/org_1/4393/Category-Browse-Email_20.jpg" alt="Computers Category" width="100%" height="auto" border="0" style="display:inline;">
                     </a>
                   </td>
                 </tr>

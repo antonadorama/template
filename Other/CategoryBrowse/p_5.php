@@ -15,13 +15,13 @@
                   <td>
                       <a href="##second_level_category_url##?sel=Filter-By_Kits-only&emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          linkname="BoxIcon" target="_blank">
-                        <img src="image_library/org_1/3079/Category-Browse-Email_07.jpg" alt="Box Icon" width="100%" height="auto" border="0" style="display:inline;">
+                        <img src="image_library/org_1/4393/Category-Browse-Email_07.jpg" alt="Box Icon" width="100%" height="auto" border="0" style="display:inline;">
                       </a>
                   </td>
                   <td>
                     <a href="##second_level_category_url##?sel=Filter-By_Free-Shipping&emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                        linkname="TruckIcon" target="_blank">
-                      <img src="image_library/org_1/3079/Category-Browse-Email_08.jpg" alt="Truck Icon" width="100%" height="auto" border="0" style="display:inline;">
+                      <img src="image_library/org_1/4393/Category-Browse-Email_08.jpg" alt="Truck Icon" width="100%" height="auto" border="0" style="display:inline;">
                     </a>
                   </td>
                 </tr>

@@ -15,13 +15,13 @@
                   <td>
                       <a href="https://www.adorama.com/c/Lighting-and-Studio?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          linkname="StudioCategory" target="_blank">
-                        <img src="image_library/org_1/3079/Category-Browse-Email_21.jpg" alt="Studio Category" width="100%" height="auto" border="0" style="display:inline;line-height:0 !important; font-size:0 !important;">
+                        <img src="image_library/org_1/4393/Category-Browse-Email_21.jpg" alt="Studio Category" width="100%" height="auto" border="0" style="display:inline;line-height:0 !important; font-size:0 !important;">
                       </a>
                   </td>
                   <td>
                     <a href="https://www.adorama.com/c/Tripods-and-Supports?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                        linkname="TripodsCategory" target="_blank">
-                      <img src="image_library/org_1/3079/Category-Browse-Email_22.jpg" alt="Tripods Category" width="100%" height="auto" border="0" style="display:inline;line-height:0 !important; font-size:0 !important;">
+                      <img src="image_library/org_1/4393/Category-Browse-Email_22.jpg" alt="Tripods Category" width="100%" height="auto" border="0" style="display:inline;line-height:0 !important; font-size:0 !important;">
                     </a>
                   </td>
                 </tr>

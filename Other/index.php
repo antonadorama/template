@@ -1,12 +1,26 @@
 <?php 
 
-include_once("Other/VIPSale_Ext/index.php");
+// include_once("Other/FlashSale/index.php");
+
+// include_once("Other/VIP360Sale/index.php");
+
+// include_once("Other/CategoryBrowse/index.php");
+
+// include_once("Other/NYIP/index.php");
+
+// include_once("Other/WestcottNPA/index.php");
+
+include_once("Other/SnapshotTemplate2/index.php");
+
+// include_once("Other/NewOctoberRebates/index.php");
+
+// include_once("Other/RushShipping/index.php");
+
+// include_once("Other/VIPSale_Ext/index.php");
 
 // include_once("Other/VIPSale_090718/index.php");
 
 // include_once("Other/SeptemberRebates/index.php");
-
-// include_once("Other/SnapshotTemplate2/index.php");
 
 // include_once("Other/CategoryBrowse2/index.php");
 
@@ -28,13 +42,9 @@ include_once("Other/VIPSale_Ext/index.php");
 
 // include_once("Other/LeicaNPA/index.php");
 
- // include_once("Other/PostHolidayTemplate/index.php");
-
-// include_once("Other/CategoryBrowse/index.php");
+// include_once("Other/PostHolidayTemplate/index.php");
 
 // include_once("Other/Bundles/index.php");
-
-
 
 // include_once("Other/BeachTravel/index.php");
 
@@ -92,28 +102,17 @@ include_once("Other/VIPSale_Ext/index.php");
 
 // include_once("Other/FenderNPA/index.php");
 
-
 // include_once("Other/48FlashSale24Left/index.php");
 
 // include_once("Other/48FlashSale/index.php");
-
-// include_once("Other/NYIP/index.php");
 
 // include_once("Other/WeekendWarehouseRFB/index.php");
 
 // include_once("Other/WeekendWarehouse/index.php");
 
-
-
 // include_once("Other/CanonNPA/index.php");
 
 // include_once("Other/MidnightMarkdowns/index.php");
-
- 
-
-
-
-
 
 // include_once("Other/BestOfMay/index.php");
 
@@ -125,7 +124,6 @@ include_once("Other/VIPSale_Ext/index.php");
 
 // include_once("Other/ExpRebates_052918/index.php");
 
-// 
 
 
 ?>
