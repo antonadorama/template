@@ -25,7 +25,8 @@
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
 		<?php //include_once("Other/blocks/style_5.php"); ?>		
-		<?php include_once("FirstTimeBuyers/blocks/style_5.php"); ?>	
+		<?php include_once("FirstTimeBuyers/blocks/style_5.php"); ?>
+		
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -42,32 +43,22 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_103018"; ?>
+					<?php $utm = "Email_RewardsEmailExpiringPoints_RwdExp"; ?>
 					
-					<?php $ttl = "Save 23% on the Asus ROG Strix GL753 17.3&quot; Gaming Notebook Computer. Shop now for this deal!"; ?>
+					<?php $ttl = "Use your Adorama Rewards today!"; ?>
 					
-					<?php include_once("Other/blocks/header.php"); ?>
-					
-          
-					<?php include_once("Other/SnapshotTemplate2/snapshot_header.php"); ?>
-					
-					<?php //include_once("Other/SnapshotTemplate/p_1.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate2/devider.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate2/countdown_split.php"); ?>
-									
-					<?php include_once("Other/SnapshotTemplate2/snapshot.php"); ?>						
-					
-					<?php include_once("Other/SnapshotTemplate2/snapshot_footer.php"); ?>
-                   
-					
+					<?php include_once("Other/blocks/header.php"); ?>					
+		
+					<?php include_once("Rewards/ExpiringPoints/p_1.php"); ?>
+          <?php include_once("Rewards/ExpiringPoints/p_2.php"); ?>  
+          <?php include_once("Rewards/ExpiringPoints/p_3.php"); ?>  
+				
 					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
-					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>
-					<?php include_once("Other/SnapshotTemplate2/spotlight.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>							
+					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>						
 					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
-										
-					<?php include_once("Other/blocks/footer.php"); ?>
+					
+					<?php include_once("Rewards/blocks/footer.php"); ?>
 					
 				</tbody>
 			</table>

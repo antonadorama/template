@@ -43,9 +43,9 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_RewardsEmailAnnouncement_Rewrd1"; ?>
+					<?php $utm = "Email_RewardsEmailAnnouncement_RwdAnc"; ?>
 					
-					<?php $ttl = "TTL"; ?>
+					<?php $ttl = "Earn Adorama Rewards every time you shop!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>					
 		
@@ -56,7 +56,7 @@
 					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>						
 					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
 					
-					<?php include_once("Other/blocks/footer.php"); ?>
+					<?php include_once("Rewards/blocks/footer.php"); ?>
 					
 				</tbody>
 			</table>

@@ -31,7 +31,7 @@
 					
 					<!-- Header -->
 					<tr>            
-						<td bgcolor="#FFFFFF" class="logomenu" style="color: #A7A9AC; font-size: 12px; background: url(https://www.adorama.com/col/images/email/lines640.jpg) bottom center no-repeat #FFFFFF">
+						<td bgcolor="#FFFFFF" class="logomenu" style="color: #A7A9AC; font-size: 12px; background: url(http://php-project-antonadorama658454.codeanyapp.com/image_library/global/lines640.jpg) bottom center no-repeat #FFFFFF">
 						<table border="0" cellpadding="0" cellspacing="0" class="wrap100" width="100%">
 							<tbody>
 								<tr>
@@ -53,11 +53,11 @@
                           <a color="#393F42" href="https://www.adorama.com/l/Lenses?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Lenses&utm_content=Header&utm_campaign=<?php echo $utm;?>	" linkname="Lenses" style="text-decoration: none; color: #393F42; font-weight: bold; font-size: 12px; " target="_blank">
                             LENSES</a></td>
 												<td class="video" style=" text-align: center">
-                          <a color="#393F42" href="https://www.adorama.com/l/Lighting-and-Studio?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Lighting&utm_content=Header&utm_campaign=<?php echo $utm;?>	" linkname="Lighting" style="text-decoration: none; color: #393F42; font-weight: bold; font-size: 12px; " target="_blank">
-                            LIGHTING</a></td>
+                          <a color="#393F42" href="https://www.adorama.com/l/Video-Equipment?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=ProVideo&utm_content=Header&utm_campaign=<?php echo $utm;?>	" linkname="ProVideo" style="text-decoration: none; color: #393F42; font-weight: bold; font-size: 12px; " target="_blank">
+                            PRO VIDEO</a></td>
 												<td class="audio" style=" text-align: center">
-                          <a color="#393F42" href="https://www.adorama.com/l/Computers/Memory-and-Data-Storage?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Storage&utm_content=Header&utm_campaign=<?php echo $utm;?>	" linkname="Storage" style="text-decoration: none; color: #393F42; font-weight: bold; font-size: 12px; " target="_blank">
-                            STORAGE</a></td>
+                          <a color="#393F42" href="https://www.adorama.com/l/Professional-Audio?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=ProAudio&utm_content=Header&utm_campaign=<?php echo $utm;?>	" linkname="ProAudio" style="text-decoration: none; color: #393F42; font-weight: bold; font-size: 12px; " target="_blank">
+                            PRO AUDIO</a></td>
 												<td class="deals" style=" text-align: center">
                           <a href="https://www.adorama.com/specials?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Deals&utm_content=Header&utm_campaign=<?php echo $utm;?>	" linkname="Deals" style="text-decoration: none; color: #B92E2C; font-weight: bold;font-size: 12px;" target="_blank">
                             DEALS</a></td>
@@ -73,7 +73,7 @@
 					<!-- End Header -->
 
 					<!--[if (gte mso 9)|(lte ie 8)]><tr><td><table align="center" border="0" cellspacing="0" cellpadding="0" width="640"><tr><td><![endif]-->
-					<!--[if (gte mso 9)|(lte ie 8)]>	<img src="https://www.adorama.com/col/images/email/lines640.jpg" alt="lines" width="100%" height="auto"><![endif]-->
+					<!--[if (gte mso 9)|(lte ie 8)]>	<img src="image_library/global/lines640.jpg" alt="lines" width="100%" height="auto"><![endif]-->
 					<!--[if (gte mso 9)|(lte ie 8)]></td></tr></table></td></tr><![endif]-->
 
 

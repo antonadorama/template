@@ -12,9 +12,9 @@
                 <tr>
                   <td align="center" valign="top">
                     <a href="https://www.adorama.com/?emailprice=t&utm_source=slgt&utm_medium=email&guid=##GUID##&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank"
-                       linkname="IntroducingAdoramaRewards">
-                    <img src="image_library/org_1/4351/Adorama-Rewards-Lifecycle-Email-Welcome_01.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
-                         alt="Introducing Adorama Rewards" hspace="0" border="0" vspace="0" width="640">
+                       linkname="YourNextReward">
+                    <img src="image_library/org_1/4466/Adorama-Rewards-Lifecycle-Re-Engagement_01.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
+                         alt="Your Next Reward" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>
                 </tr>
@@ -38,12 +38,21 @@
                      bgcolor="#f2f2f2" border="0" cellpadding="0" cellspacing="0" width="640">
               <tbody>
               <tr>
-                  <td style="font-weight:bold; background-color: #f2f2f2; 
-                             font-size: 2em; font-family: Arial, Helvetica, sans-serif; 
-                             color: #0198df; text-align: center; padding-top:30px; width:95%;" 
+                  <td style="background-color: #f2f2f2; 
+                             font-size: 1.8em; font-family: Arial, Helvetica, sans-serif; 
+                             color: #000000; text-align: center; padding-top:30px; width:95%;" 
                       align="center" bgcolor="#f2f2f2" class="">
-                    <font color="000000">JOIN. EARN.</font> REDEEM!</td>
-              </tr>
+                    YOUR NEXT PURCHASE MAY JUST             
+                </td>
+                </tr>
+                <tr>
+                  <td style="background-color: #f2f2f2; 
+                             font-size: 1.8em; font-family: Arial, Helvetica, sans-serif; 
+                             color: #000000; text-align: center; width:95%;" 
+                      align="center" bgcolor="#f2f2f2" class="">
+                    GET YOU REWARDED!               
+                </td>
+                </tr>
               </tbody>
             </table>
   
@@ -52,101 +61,76 @@
 
 
 <tr bgcolor="#f2f2f2">
-	<td style="padding-left:40px;padding-right:40px;padding-bottom:5px;padding-top:30px;">
+	<td style="padding-left:40px;padding-right:40px;padding-bottom:30px;padding-top:30px;">
 		<table style="font-size: 1.2em; font-family: Arial, Helvetica, sans-serif; color: #5e5e5e; text-align: center; 
                   line-height: 1.3em;
                   width:100%; background-color:#ffffff; border:1px solid #d5d5d5;" bgcolor="#ffffff" 
            cellpadding="10" cellspacing="10" class="smaller_font">
-			<tr>
+			<tr align="center">
 				<td style="padding-top:5px; padding-left:30px; padding-bottom:5px; padding-right:15px;">
 					<br />
-        Congratulations, you're now enrolled in <strong>Adorama</strong> <font color="0198df"><strong>Rewards</strong></font>!
-          	<br />
-          Now you can feed your passion for pro photography,<br /> video and audio gear - anything in our vast inventory<br />
-          while you <strong>earn rewards.</strong>
-          
-          <br />
-            <br />
-          <a href="https://www.adorama.com/MyAccount/Login?NextPage=/nspc/MyAccount&emailprice=t&utm_source=slgt&utm_medium=email&guid=##GUID##&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank"
-                       linkname="LoginMyAccount">
-          <font color="0198df" size="4">LOG IN TO MY ACCOUNT</font>
-          </a>
-          <br />
-                              <a href="https://www.adorama.com/g/rewards-faq?emailprice=t&utm_source=slgt&utm_medium=email&guid=##GUID##&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank"
-                       linkname="RewardsFAQ">
-          <font color="0198df" size="4">SEE PROGRAM FAQs</font>
-          </a>
+        You only need <strong><font color="0198df" size="3">#XX#</XX></font></strong> points to earn  <br /> 
+      <strong><font color="0198df" size="3">#SX#</font><font color="000001" size="3"> Adorama </font><font color="0198df" size="3">Rewards!</font></strong>
 				</td>
 			</tr>
 	
 			<tr align="center">
-				<td style="padding-top:20px; padding-bottom:5px;">
-           <hr width="40%" align="center" style="border:0px; border-top:2px solid #0198df; height:2px; color:#0198df; background:#0198df; margin:0px;"/>
+				<td style="padding-top:10px; padding-bottom:0px;">
+           <hr width="40%" align="center" 
+               style="border:0px; border-top:2px solid #0198df; height:2px; color:#0198df; background:#0198df; margin:0px;"/>
 				</td>
 			</tr>
-	
+      
+
+ 
+
+
      	<tr align="center">
-				<td style="padding-top:5px; padding-bottom:30px;">
+				<td style="padding-top:20px; padding-bottom:10px;">
 	
           <table cellpadding="0" cellspacing="0" style="text-align: center;">
             <tr>
-              <td>Look how easy it is to earn points:</td>
+              <td>Earn more points now by taking the following actions:</td>
             </tr>
             <tr>
-              <td style="padding-top:20px;padding-bottom:0px;"><strong>Shopping</strong></td>
+              <td style="padding-top:20px;padding-bottom:0px;"><strong><font color="000001">Shopping</font></strong></td>
             </tr>
             <tr>
-              <td>1 Point for every $1 in purchases<sup>1</sup></td>
+              <td>Earn 1 point for every $1 in purchases<sup>1</sup></td>
             </tr>
                         <tr>
-              <td>Earn 100 points when you make 4 purchases in one year</td>
+              <td style="padding-top:15px;">Earn 100 points when you make 4 purchases in one year</td>
+            </tr>
+                                    <tr>
+              <td>(Starting from the date you make your first purchase)</td>
             </tr>
             <tr>
-              <td style="padding-top:20px;padding-bottom:0px;"><strong>Connect on Social Media</strong></td>
+              <td style="padding-top:20px;padding-bottom:0px;"><strong><font color="000001">Connect on Social Media</font></strong></td>
             </tr>
             <tr>
-              <td>Earn 10 points per social connection, from your online Adorama Account</td>
-            </tr>
-                       <tr>
-              <td style="padding-top:20px;padding-bottom:0px;"><strong>Bonus Point Events</strong></td>
-            </tr>
-            <tr>
-              <td>Earn extra points during select bonus point events!</td>
-            </tr>
-                                   <tr>
-              <td style="padding-top:20px;padding-bottom:0px;"><strong>VIP360 Perks</strong></td>
-            </tr>
-            <tr>
-              <td>Earn Points even faster - when your qualifying purchase ships!</td>
+              <td>Earn 10 points per connection when you connect with us on Facebook, Twitter, YouTube and Instagram on your online Adorama account.</td>
             </tr>
           </table> 
 				</td>
 			</tr>
-          
-			
-      <!--[if (mso)|(IE)]><tr><td height="10">&nbsp;</td></tr><![endif]-->
+   
+
+      <tr align="center">
+				<td style="padding-top:10px; padding-bottom:20px;">
+           <hr width="40%" align="center" style="border:0px; border-top:2px solid #0198df; height:2px; color:#0198df; background:#0198df; margin:0px;"/>
+				</td>
+			</tr>
+
+			<tr align="center">
+				<td style="padding-top:5px; padding-left:30px; padding-bottom:15px; padding-right:15px;">
+          <strong><font color="000001">Don't wait, start earning rewards.</font></strong>
+				</td>
+			</tr>
       
-		</table>
-
-  
-  </td>
-</tr>
-
-
-<tr bgcolor="#f2f2f2" align="center">
+      <tr bgcolor="#ffffff" align="center">
 	<td style="padding-bottom:30px;"> 
 
 	    <table style="text-align: center;">
-        
-      			<tr>
-				<td style="padding-top:5px; padding-left:30px; padding-bottom:15px; padding-right:15px;">
-					<br />
-          <strong>Don't wait, start earning <font color="0198df">rewards.</font></strong>
-    
-        
-				</td>
-			</tr>
-        
       <tr>
         <td>
         <div><!--[if mso]>
@@ -166,6 +150,13 @@ style="background-color:#0099df;color:#ffffff;display:inline-block;font-family:s
   
   </td>
 </tr>
+           
+			
+      <!--[if (mso)|(IE)]><tr><td height="10">&nbsp;</td></tr><![endif]-->
+      
+		</table>
 
-
+  
+  </td>
+</tr>
 

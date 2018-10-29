@@ -31,7 +31,7 @@
 					
 					<!-- Header -->
 					<tr>            
-						<td bgcolor="#FFFFFF" class="logomenu" style="color: #A7A9AC; font-size: 12px; background: url(https://www.adorama.com/col/images/email/lines640.jpg) bottom center no-repeat #FFFFFF">
+						<td bgcolor="#FFFFFF" class="logomenu" style="color: #A7A9AC; font-size: 12px; background: url(http://php-project-antonadorama658454.codeanyapp.com/image_library/global/lines640.jpg) bottom center no-repeat #FFFFFF">
 						<table border="0" cellpadding="0" cellspacing="0" class="wrap100" width="100%">
 							<tbody>
 								<tr>

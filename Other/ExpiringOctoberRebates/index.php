@@ -25,7 +25,8 @@
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
 		<?php //include_once("Other/blocks/style_5.php"); ?>		
-		<?php include_once("FirstTimeBuyers/blocks/style_5.php"); ?>	
+		<?php include_once("FirstTimeBuyers/blocks/style_5.php"); ?>
+		
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -42,31 +43,34 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_103018"; ?>
+					<?php $utm = "Email_ExpiringOctoberRebates_Fuji_102818"; ?>
 					
-					<?php $ttl = "Save 23% on the Asus ROG Strix GL753 17.3&quot; Gaming Notebook Computer. Shop now for this deal!"; ?>
+					<?php $ttl = "Don't miss spooktacular savings. Shop Fujifilm now!"; ?>
 					
-					<?php include_once("Other/blocks/header.php"); ?>
-					
+					<?php include_once("Other/blocks/header.php"); ?>					
+		
+					<?php //include_once("Other/ExpiringOctoberRebates/p_1.php"); ?>
           
-					<?php include_once("Other/SnapshotTemplate2/snapshot_header.php"); ?>
-					
-					<?php //include_once("Other/SnapshotTemplate/p_1.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate2/devider.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate2/countdown_split.php"); ?>
-									
-					<?php include_once("Other/SnapshotTemplate2/snapshot.php"); ?>						
-					
-					<?php include_once("Other/SnapshotTemplate2/snapshot_footer.php"); ?>
-                   
-					
+          <?php //include_once("Other/ExpiringOctoberRebates/p_1_nikon.php"); ?>
+          <?php //include_once("Other/ExpiringOctoberRebates/p_1_canon.php"); ?>
+          <?php //include_once("Other/ExpiringOctoberRebates/p_1_sony.php"); ?>
+          <?php //include_once("Other/ExpiringOctoberRebates/p_1_panasonic.php"); ?>
+          <?php include_once("Other/ExpiringOctoberRebates/p_1_fujifilm.php"); ?>
+          
+          <?php include_once("Other/ExpiringOctoberRebates/p_2.php"); ?>
+          <?php include_once("Other/ExpiringOctoberRebates/p_3.php"); ?>
+          <?php include_once("Other/ExpiringOctoberRebates/p_4.php"); ?>
+          <?php include_once("Other/ExpiringOctoberRebates/p_5.php"); ?>
+          <?php include_once("Other/ExpiringOctoberRebates/p_6.php"); ?>
+          <?php include_once("Other/ExpiringOctoberRebates/p_7.php"); ?>
+          
+          <?php include_once("Other/ExpiringOctoberRebates/p_8.php"); ?>
+      					
 					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
-					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>
-					<?php include_once("Other/SnapshotTemplate2/spotlight.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>							
+					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>						
 					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
-										
+					
 					<?php include_once("Other/blocks/footer.php"); ?>
 					
 				</tbody>

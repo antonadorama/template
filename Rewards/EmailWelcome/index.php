@@ -56,7 +56,7 @@
 					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>						
 					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
 					
-					<?php include_once("Other/blocks/footer.php"); ?>
+					<?php include_once("Rewards/blocks/footer.php"); ?>
 					
 				</tbody>
 			</table>

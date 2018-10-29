@@ -41,7 +41,7 @@
                                     <tr>
                                       <td align="center" class="clock_image">
                                         
-         <img src="http://gen.sendtric.com/countdown/uok89gxucr" style="display: block; width:100%; max-width:320px;" alt="Countdown" width="100%"/>
+         <img src="http://gen.sendtric.com/countdown/4j7yl6fnab" style="display: block; width:100%; max-width:320px;" alt="Countdown" width="100%"/>
 
                                       </td>
                                     </tr>

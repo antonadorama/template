@@ -41,32 +41,20 @@
 				<tbody>
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
-					
-					<?php $utm = "Email_Snapshot_103018"; ?>
-					
-					<?php $ttl = "Save 23% on the Asus ROG Strix GL753 17.3&quot; Gaming Notebook Computer. Shop now for this deal!"; ?>
-					
-					<?php include_once("Other/blocks/header.php"); ?>
-					
+
+          <?php $utm = "Email_AppleBlowoutSale_102418"; ?>
+          <?php $ttl = "Get up to $650 Instant Rebates when you shop now!"; ?>
+
+					<?php include_once("Other/blocks/header.php"); ?>	
           
-					<?php include_once("Other/SnapshotTemplate2/snapshot_header.php"); ?>
-					
-					<?php //include_once("Other/SnapshotTemplate/p_1.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate2/devider.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate2/countdown_split.php"); ?>
-									
-					<?php include_once("Other/SnapshotTemplate2/snapshot.php"); ?>						
-					
-					<?php include_once("Other/SnapshotTemplate2/snapshot_footer.php"); ?>
-                   
-					
+          
+					<?php include_once("Other/AppleBlowout/p_1.php"); ?>    
+
 					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
-					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>
-					<?php include_once("Other/SnapshotTemplate2/spotlight.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>							
+					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>						
 					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
-										
+					
 					<?php include_once("Other/blocks/footer.php"); ?>
 					
 				</tbody>
@@ -76,7 +64,7 @@
 	</tbody>
 </table>
 </div>
-	<div style="display:none !important; padding:0 !important;">
+<div style="display:none !important; padding:0 !important;">
 <img src="http://svopn.adorama.com/?sv_cid=2620_03922&sv_emopen=true&sv_svemi=##GUID##" height="1" width="1" style="display:none !important;"/>
 </div>
 </body>
