@@ -225,10 +225,6 @@
 						<td class="bottomfinal">
               
                             
-                            <p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">*Promotional financing available with Adorama Credit Card Accounts offered by Comenity Capital Bank, 
-              which determines qualifications for credit and promotional eligibility. 
-						Minimum purchase required and varies by plan, starting at $500. 
-              Minimum monthly payments are required. Subject to credit approval.</p>
               <p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">
               <sup>1</sup>You must be logged into your Adorama Account at the time of purchase to earn Adorama Reward Points. Earning points on qualifying purchases is limited to 30,000 per year from the date of your first point accumulation from purchases. See <a href="https://www.adorama.com/g/rewards?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=RewardsTerms&utm_content=Footer" target="_blank" linkname="RewardsTermsConditions"><font color="0198df">terms and conditions</font></a> for complete program rules and details.
               </p>
