@@ -72,7 +72,7 @@
            Your <strong><font color="000001" size="3"> Adorama </font><font color="0198df" size="3">Reward</font></strong> 
           points are about to expire.
           <br />
-          And once you've expired, they're lost.
+          And once they've expired, they're lost.
 				</td>
 			</tr>
 	

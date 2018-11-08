@@ -1,5 +1,13 @@
 <?php 
 
+// include_once("Other/CategoryBrowseHoliday/index.php");
+
+// include_once("Other/Holiday_Template/index.php");
+
+include_once("Other/SnapshotTemplate2/index.php");
+
+// include_once("Other/NewNovemberRebates/index.php");
+
 // include_once("Other/ExpiringOctoberRebates/index.php");
 
 // include_once("Other/AppleBlowout/index.php");
@@ -13,8 +21,6 @@
 // include_once("Other/NYIP/index.php");
 
 // include_once("Other/WestcottNPA/index.php");
-
-include_once("Other/SnapshotTemplate2/index.php");
 
 // include_once("Other/NewOctoberRebates/index.php");
 

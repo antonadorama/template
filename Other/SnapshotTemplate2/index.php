@@ -42,9 +42,9 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_103018"; ?>
+					<?php $utm = "Email_Snapshot_110918"; ?>
 					
-					<?php $ttl = "Save 23% on the Asus ROG Strix GL753 17.3&quot; Gaming Notebook Computer. Shop now for this deal!"; ?>
+					<?php $ttl = "Save 38% on this must-have Orlit RoveLight! Shop now!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
@@ -59,8 +59,7 @@
 									
 					<?php include_once("Other/SnapshotTemplate2/snapshot.php"); ?>						
 					
-					<?php include_once("Other/SnapshotTemplate2/snapshot_footer.php"); ?>
-                   
+					<?php include_once("Other/SnapshotTemplate2/snapshot_footer.php"); ?>                   
 					
 					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
 					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>

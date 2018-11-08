@@ -11,7 +11,7 @@
                 <tbody>
                   <tr>
                     <td align="center" valign="top">
-                      <a href="https://www.adorama.com/?emailprice=t&utm_source=slgt&utm_medium=email&guid=##GUID##&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" linkname="WelcomeIIVIP360">
+                      <a href="https://www.adorama.com/specials/l/?sel=Filter-By_VIP360-hyphen-2-Day-Delivery&emailprice=t&utm_source=slgt&utm_medium=email&guid=##GUID##&utm_content=Body&email=##email_address##&utm_campaign=<?php echo $utm;?>" target="_blank" linkname="WelcomeIIVIP360">
                     <img src="image_library/org_1/4478/VIP360-Email-Welcome-Series-II_01.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
                          alt="Welcome II VIP360" hspace="0" border="0" vspace="0" width="640">
                     </a>
@@ -68,7 +68,7 @@
             </tr>
             <tr>
               <td>Get the gear you want, faster!
-                <a href="https://www.adorama.com/specials/l/?emailprice=t&utm_source=slgt&utm_medium=email&guid=##GUID##&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" linkname="ClickHereFreeShipping">
+                <a href="https://www.adorama.com/specials/l/?sel=Filter-By_VIP360-hyphen-2-Day-Delivery&emailprice=t&utm_source=slgt&utm_medium=email&guid=##GUID##&utm_content=Body&email=##email_address##&utm_campaign=<?php echo $utm;?>" target="_blank" linkname="ClickHereFreeShipping">
                   <font color="0198df">Click here</font>
                 </a>
                 to see our specials!

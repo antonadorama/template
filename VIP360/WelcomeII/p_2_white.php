@@ -46,11 +46,11 @@
             <td>
               <div>
                 <!--[if mso]>
-  <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://www.adorama.com/?emailprice=t&utm_source=slgt&utm_medium=email&guid=##GUID##&utm_content=Body&utm_campaign=<?php echo $utm;?>" style="height:40px;v-text-anchor:middle;width:240px;" stroke="f" fillcolor="#ffbd11">
+  <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://www.adorama.com/specials/l/?sel=Filter-By_VIP360-hyphen-2-Day-Delivery&emailprice=t&utm_source=slgt&utm_medium=email&guid=##GUID##&utm_content=Body&email=##email_address##&utm_campaign=<?php echo $utm;?>" style="height:40px;v-text-anchor:middle;width:240px;" stroke="f" fillcolor="#ffbd11">
     <w:anchorlock/>
     <center>
   <![endif]-->
-                <a href="https://www.adorama.com/?emailprice=t&utm_source=slgt&utm_medium=email&guid=##GUID##&utm_content=Body&utm_campaign=<?php echo $utm;?>" style="background-color:#ffbd11;color:#000001;display:inline-block;font-family:sans-serif;font-size:13px;font-weight:bold;line-height:40px;text-align:center;text-decoration:none;width:240px;-webkit-text-size-adjust:none;">SHOP NOW</a>
+                <a href="https://www.adorama.com/specials/l/?sel=Filter-By_VIP360-hyphen-2-Day-Delivery&emailprice=t&utm_source=slgt&utm_medium=email&guid=##GUID##&utm_content=Body&email=##email_address##&utm_campaign=<?php echo $utm;?>" style="background-color:#ffbd11;color:#000001;display:inline-block;font-family:sans-serif;font-size:13px;font-weight:bold;line-height:40px;text-align:center;text-decoration:none;width:240px;-webkit-text-size-adjust:none;">SHOP NOW</a>
                 <!--[if mso]>
     </center>
   </v:rect>

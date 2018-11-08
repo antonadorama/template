@@ -86,7 +86,7 @@
 					<br />
        Visit Adorama today for the best pro photography, 
           video and audio gear, and <font color="0198df">
-         <a href="https://www.adorama.com/?emailprice=t&utm_source=slgt&utm_medium=email&guid=##GUID##&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank"
+         <a href="https://www.adorama.com/MyAccount/Login?NextPage=/nspc/MyAccount?emailprice=t&utm_source=slgt&utm_medium=email&guid=##GUID##&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank"
              linkname="LogIn">
           log in
           </a>

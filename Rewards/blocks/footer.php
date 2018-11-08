@@ -225,8 +225,8 @@
 						<td class="bottomfinal">
               
                             
-                            <p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">##*##</p>
-              <p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">##1##</p>
+             <p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">##*##</p>
+             <p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">##1##</p>
              <p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">
 							Please add 
 							<a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=manage&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=<?php echo $utm;?>#emailpref" 
