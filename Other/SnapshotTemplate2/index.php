@@ -42,9 +42,9 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_110918"; ?>
+					<?php $utm = "Email_Snapshot_111318"; ?>
 					
-					<?php $ttl = "Save 38% on this must-have Orlit RoveLight! Shop now!"; ?>
+					<?php $ttl = "You can buy now for only $99.99"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
