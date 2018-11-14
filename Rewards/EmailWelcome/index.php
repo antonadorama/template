@@ -47,16 +47,28 @@
 					
 					<?php $ttl = "Now you can feed your passion and earn rewards"; ?>
 					
-					<?php include_once("Other/blocks/header.php"); ?>					
+					<?php include_once("Rewards/blocks/header.php"); ?>					
 		
 					<?php include_once("Rewards/EmailWelcome/p_1.php"); ?>          
 				
-					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
-					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>							
-					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>						
-					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
+					<?php //include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
+					<?php //include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>							
+					<?php //include_once("Other/PostHolidayTemplate/spotlight.php"); ?>						
+					<?php //include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
+          
+          <?php include_once("Other/Holiday_Template/cat_1.php"); ?>
+          <?php include_once("Other/Holiday_Template/cat_2.php"); ?>
+          <?php include_once("Other/Holiday_Template/cat_3.php"); ?>
+          <?php include_once("Other/Holiday_Template/cat_4.php"); ?>
+          <?php include_once("Other/Holiday_Template/cat_5.php"); ?>
+          
+        	<?php include_once("Other/Holiday_Template/HolidayBestsellers.php"); ?>
+          
+          <?php include_once("Other/Holiday_Template/FeaturedBanner.php"); ?>
+          <?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>          
+          <?php include_once("Other/Holiday_Template/HolidayGifts.php"); ?>          
 					
-					<?php include_once("Rewards/blocks/footer.php"); ?>
+					<?php include_once("Rewards/blocks/footer_no_icons_grey.php"); ?>
 					
 				</tbody>
 			</table>

@@ -1,10 +1,14 @@
 <?php 
 
+include_once("Other/xVerify_Miss/index.php");
+
+// include_once("Other/xVerify_Apology/index.php");
+
 // include_once("Other/CategoryBrowseHoliday/index.php");
 
 // include_once("Other/Holiday_Template/index.php");
 
-include_once("Other/SnapshotTemplate2/index.php");
+// include_once("Other/SnapshotTemplate2/index.php");
 
 // include_once("Other/NewNovemberRebates/index.php");
 

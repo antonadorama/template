@@ -43,54 +43,28 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_HolidayTemplate"; ?>
+					<?php $utm = "Email_xVerifyMiss_111418"; ?>
 					
-					<?php $ttl = "TTL"; ?>
+					<?php $ttl = "It’s not you, it’s us. It’s been a while since we last talked and we’ve got something to share…"; ?>
 					
-					<?php include_once("Other/blocks/header.php"); ?>
+					<?php include_once("Other/blocks/header.php"); ?>	
           
-          <?php //include_once("Other/Holiday_Template/vip360_Early.php"); ?>
-          <?php include_once("Other/Holiday_Template/financing_split.php"); ?>
-          
-          <?php //include_once("Other/Holiday_Template/video.php"); ?>
+          <?php include_once("Other/xVerify_Miss/p_1.php"); ?>
+          <?php include_once("Other/xVerify_Miss/coupon.php"); ?>	
+          <?php include_once("Other/xVerify_Miss/p_2.php"); ?>	
 		
-					<?php //include_once("Other/Holiday_Template/p_1.php"); ?>
-          
-          <?php //include_once("Other/Holiday_Template/product_sample.php"); ?>
-          
-          <?php include_once("Other/Holiday_Template/browsed_red.php"); ?>
-          <?php include_once("Other/Holiday_Template/browsed_yellow.php"); ?>
-          <?php include_once("Other/Holiday_Template/browsed_white.php"); ?>
-          
-          <?php include_once("Other/Holiday_Template/deals_on_sony.php"); ?>
-          <?php //include_once("Other/Holiday_Template/deals_on_canon.php"); ?>
-          <?php //include_once("Other/Holiday_Template/deals_on_nikon.php"); ?>
-          <?php //include_once("Other/Holiday_Template/deals_on_apple.php"); ?>
-          <?php //include_once("Other/Holiday_Template/deals_on_panasonic.php"); ?>
-          <?php //include_once("Other/Holiday_Template/deals_on_fujifilm.php"); ?>
-          
-          <?php include_once("Other/Holiday_Template/cat_1.php"); ?>
+					<?php include_once("Other/Holiday_Template/cat_1.php"); ?>
           <?php include_once("Other/Holiday_Template/cat_2.php"); ?>
           <?php include_once("Other/Holiday_Template/cat_3.php"); ?>
           <?php include_once("Other/Holiday_Template/cat_4.php"); ?>
-          <?php include_once("Other/Holiday_Template/cat_5.php"); ?>
+          <?php include_once("Other/Holiday_Template/cat_5.php"); ?>          
           
-        	<?php include_once("Other/Holiday_Template/HolidayBestsellers.php"); ?>
-          <?php include_once("Other/Holiday_Template/BuyersRecs.php"); ?>
-          
-          <?php //include_once("Other/Holiday_Template/value_1.php"); ?>
-          <?php //include_once("Other/Holiday_Template/value_2.php"); ?>    
-          
-          <?php include_once("Other/Holiday_Template/value_3.php"); ?>
-          <?php include_once("Other/Holiday_Template/value_4.php"); ?> 
-                   
           <?php include_once("Other/Holiday_Template/FeaturedBanner.php"); ?>
-
-          <?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
-          
+          <?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>          
           <?php include_once("Other/Holiday_Template/HolidayGifts.php"); ?>
           
-					<?php include_once("Other/blocks/footer_no_icons_grey.php"); ?>
+					<?php include_once("Other/blocks/footer_no_icons_grey_2.php"); ?>
+
 					
 				</tbody>
 			</table>

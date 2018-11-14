@@ -1,3 +1,5 @@
+<!-- White Browsed Section -->
+
 <tr>
   <td style="background-color: #ffffff; padding-bottom:20px;" class="vb-outer" align="center" bgcolor="#ffffff" valign="top">
     <!--[if (gte mso 9)|(lte ie 8)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="640"><tr><td align="center" valign="top"><![endif]-->
@@ -118,3 +120,5 @@ style="background-color:#e7ba3d;color:#ffffff;display:inline-block;font-family:G
     <!--[if (gte mso 9)|(lte ie 8)]></td></tr></table><![endif]-->
   </td>
 </tr>
+
+<!-- End Yellow Browsed Section -->

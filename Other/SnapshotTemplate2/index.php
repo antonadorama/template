@@ -42,9 +42,9 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_111318"; ?>
+					<?php $utm = "Email_Snapshot_111418"; ?>
 					
-					<?php $ttl = "You can buy now for only $99.99"; ?>
+					<?php $ttl = "You can buy now for only $120.00"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					

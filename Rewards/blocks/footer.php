@@ -117,7 +117,7 @@
 													<a class="bottomsubmenu" href="https://www.adorama.com/help/contactus?utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Contact&utm_content=Footer&utm_campaign=<?php echo $utm;?>" 
 																							linkname="Contact Us" style="color: #003055; font-size: 12px; text-decoration: none; font-weight: bold;" target="_blank">CONTACT US </a></td>
 												<td align="center">
-													<a class="bottomsubmenu" href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Account&utm_content=Footer&utm_campaign=<?php echo $utm;?>#dashboard" 
+													<a class="bottomsubmenu" href="https://www.adorama.com/MyAccount/Login?NextPage=/nspc/MyAccount&emailprice=t&utm_source=slgt&utm_medium=email&guid=##GUID##&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
 																							linkname="My Account" style="color: #003055; font-size: 12px; text-decoration: none; font-weight: bold;" target="_blank">MY ACCOUNT </a></td>
 												<td align="center">
 													<a class="bottomsubmenu" href="https://www.adorama.com/trackOrder?utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Status&utm_content=Footer&utm_campaign=<?php echo $utm;?>" 
