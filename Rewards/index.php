@@ -10,8 +10,8 @@
 
 // include_once("Rewards/EarnedRewards/index.php");
 
-include_once("Rewards/EmailWelcome/index.php");
+// include_once("Rewards/EmailWelcome/index.php");
 
- // include_once("Rewards/EmailAnnouncement/index.php");
+ include_once("Rewards/EmailAnnouncement/index.php");
 
 ?>

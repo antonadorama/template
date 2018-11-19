@@ -18,6 +18,8 @@ include_once("Other/xVerify_Miss/index.php");
 
 // include_once("Other/FlashSale/index.php");
 
+//include_once("Other/SonyFollowUp/index.php");
+
 // include_once("Other/VIP360Sale/index.php");
 
 // include_once("Other/CategoryBrowse/index.php");

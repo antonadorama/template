@@ -43,28 +43,17 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_xVerifyApology_111618"; ?>
+					<?php $utm = "Email_SonyEventFollowUp_111518"; ?>
 					
-					<?php $ttl = "We dropped the ball and haven’t been in touch lately. So we have an apology gift we hope will make it up…"; ?>
+					<?php $ttl = "Enjoy this exclusive offer for Adorama X Be Alpha event attendees"; ?>
 					
-					<?php include_once("Other/xVerify_Apology/header.php"); ?>	
+					<?php include_once("Other/blocks/header.php"); ?>	
           
-          <?php include_once("Other/xVerify_Apology/p_1.php"); ?>
-          <?php include_once("Other/xVerify_Apology/coupon.php"); ?>	
-          <?php include_once("Other/xVerify_Apology/p_2.php"); ?>	
-		
-					<?php include_once("Other/Holiday_Template/cat_1.php"); ?>
-          <?php include_once("Other/Holiday_Template/cat_2.php"); ?>
-          <?php include_once("Other/Holiday_Template/cat_3.php"); ?>
-          <?php include_once("Other/Holiday_Template/cat_4.php"); ?>
-          <?php include_once("Other/Holiday_Template/cat_5.php"); ?>      
-        	
+          <?php include_once("Other/SonyFollowUp/p_1.php"); ?>
+          <?php include_once("Other/SonyFollowUp/coupon.php"); ?>	
+          <?php include_once("Other/SonyFollowUp/p_2.php"); ?>	
           
-          <?php include_once("Other/Holiday_Template/FeaturedBanner.php"); ?>
-          <?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>          
-          <?php include_once("Other/Holiday_Template/HolidayGifts.php"); ?>
-          
-					<?php include_once("Other/xVerify_Apology/footer_no_icons_grey_2.php"); ?>
+					<?php include_once("Other/blocks/footer.php"); ?>
 
 					
 				</tbody>

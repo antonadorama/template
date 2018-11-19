@@ -14,7 +14,7 @@
                              color: #000001; text-align:center; padding-top:20px;padding-bottom:20px;" 
                       align="center" bgcolor="#ffffff" class="" valign="middle">
                      Use Code: ##coupon_code## <br />
-                    <span style="font-size:16px;">Hurry, this code expires on 12/31/18!</span>
+                    <span style="font-size:16px;">Hurry, this code expires on 12/31/18! Exclusions apply*</span>
               </tr>
 
               </tbody>

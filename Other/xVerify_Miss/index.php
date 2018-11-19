@@ -43,11 +43,11 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_xVerifyMiss_111418"; ?>
+					<?php $utm = "Email_xVerifyMiss_111618"; ?>
 					
 					<?php $ttl = "It’s not you, it’s us. It’s been a while since we last talked and we’ve got something to share…"; ?>
 					
-					<?php include_once("Other/blocks/header.php"); ?>	
+					<?php include_once("Other/xVerify_Apology/header.php"); ?>	
           
           <?php include_once("Other/xVerify_Miss/p_1.php"); ?>
           <?php include_once("Other/xVerify_Miss/coupon.php"); ?>	
@@ -63,7 +63,7 @@
           <?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>          
           <?php include_once("Other/Holiday_Template/HolidayGifts.php"); ?>
           
-					<?php include_once("Other/blocks/footer_no_icons_grey_2.php"); ?>
+					<?php include_once("Other/xVerify_Apology/footer_no_icons_grey_2.php"); ?>
 
 					
 				</tbody>

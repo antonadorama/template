@@ -4,7 +4,7 @@
 
 // include_once("Printer_Automation/index.php");
 
-// include_once("Rewards/index.php");
+include_once("Rewards/index.php");
 
 // include_once("Tableau/mailgun.php");	
 
@@ -16,7 +16,7 @@
 
 // include_once("ABS/index.php");
 
-include_once("Other/index.php");	
+// include_once("Other/index.php");	
 
 // include_once("Financing/index.php");
 
