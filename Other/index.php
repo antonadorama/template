@@ -1,12 +1,16 @@
 <?php 
 
-include_once("Other/xVerify_Miss/index.php");
+// include_once("Other/BarryThanks/index.php");
+
+// include_once("Other/Bogo1/index.php");
+
+// include_once("Other/xVerify_Miss/index.php");
 
 // include_once("Other/xVerify_Apology/index.php");
 
 // include_once("Other/CategoryBrowseHoliday/index.php");
 
-// include_once("Other/Holiday_Template/index.php");
+include_once("Other/Holiday_Template/index.php");
 
 // include_once("Other/SnapshotTemplate2/index.php");
 
@@ -114,8 +118,6 @@ include_once("Other/xVerify_Miss/index.php");
 
 // include_once("Other/SummerSaleLC/index.php");
 
-// include_once("Other/Barry/index.php");
-
 // include_once("Other/FenderNPA/index.php");
 
 // include_once("Other/48FlashSale24Left/index.php");
@@ -140,6 +142,6 @@ include_once("Other/xVerify_Miss/index.php");
 
 // include_once("Other/ExpRebates_052918/index.php");
 
-
+// include_once("Other/Barry/index.php");
 
 ?>

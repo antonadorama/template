@@ -124,7 +124,7 @@
 								 linkname="MyEmail" style="color: #A7A9AC; font-size: 14px; text-decoration:none">
                 ##EMAIL_ADDRESS##</a> </p>
 		                <p style="padding: 0 30px; text-align: center; margin: 2px; color: #A7A9AC;">
-             This email may be considered promotional or advertising. If you wish to be removed from this email list, you can unsubscribe below. 
+                      <strong>This email may be considered promotional or advertising.</strong> If you wish to be removed from this email list, you can unsubscribe below. 
              </p> 
              		                <p style="padding: 0 30px; text-align: center; margin: 2px; color: #A7A9AC;">
              To manage your email preferences, <a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=manage&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=<?php echo $utm;?>#emailpref" 
