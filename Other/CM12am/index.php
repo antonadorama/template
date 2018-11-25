@@ -43,28 +43,45 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_LetterFromCEO_112218"; ?>
+					<?php $utm = "Email_CyberMonday12AMNonBuyer_112618"; ?>
 					
-					<?php $ttl = "We have an important Thanksgiving message from our CEO, Barry Litwin."; ?>
+					<?php $ttl = "It's Go Time! Up To 90% OFF Sitewide Savings and One-Day Cyber Doorbusters Revealed! Shop Early!"; ?>
 					
-					<?php include_once("Other/BarryThanks/header.php"); ?>					
+					<?php include_once("Other/CM5pm/header.php"); ?>
+          
+          <?php //include_once("Other/Holiday_Template/vip360_Early.php"); ?>
 		
-					<?php include_once("Other/BarryThanks/p_1.php"); ?>
-          <?php include_once("Other/BarryThanks/p_2.php"); ?>		
-									
-					<?php include_once("Other/Holiday_Template/cat_1.php"); ?>
-          <?php include_once("Other/Holiday_Template/cat_2.php"); ?>
-          <?php include_once("Other/Holiday_Template/cat_3.php"); ?>
-          <?php include_once("Other/Holiday_Template/cat_4.php"); ?>
-          <?php include_once("Other/Holiday_Template/cat_5.php"); ?>
-          <?php include_once("Other/Holiday_Template/HolidayBestsellers.php"); ?>        	
+					<?php include_once("Other/CM12am/p_1.php"); ?>
+          <?php include_once("Other/CM12am/countdown.php"); ?>
+          <?php include_once("Other/CM12am/p_2.php"); ?>
           
-          <?php include_once("Other/Holiday_Template/FeaturedBanner.php"); ?>
-          <?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>          
-          <?php //include_once("Other/Holiday_Template/HolidayGifts.php"); ?>
+          <?php //include_once("Other/CM5pm/browsed_white.php"); ?>
+         
+          <?php include_once("Other/CM12am/p_3.php"); ?>
+          <?php //include_once("Other/CM12am/p_3_affinity.php"); ?>
+          <?php //include_once("Other/CM12am/p_3_canon.php"); ?>
+           <?php //include_once("Other/CM12am/p_3_nikon.php"); ?>
+           <?php //include_once("Other/CM12am/p_3_sony.php"); ?>
+           <?php //include_once("Other/CM12am/p_3_apple.php"); ?>
+           <?php //include_once("Other/CM12am/p_3_fujifilm.php"); ?>
+           <?php //include_once("Other/CM12am/p_3_panasonic.php"); ?>
           
-					<?php include_once("Other/blocks/footer_no_icons_grey_2.php"); ?>
-
+          <?php include_once("Other/CM5pm/cat_1.php"); ?>
+          <?php include_once("Other/CM5pm/cat_2.php"); ?>
+          <?php include_once("Other/CM5pm/cat_3.php"); ?>
+          <?php include_once("Other/CM5pm/cat_4.php"); ?>
+          <?php include_once("Other/CM12am/cat_5.php"); ?>
+          
+          <?php include_once("Other/CM5pm/HolidayBestsellers.php"); ?>
+          <?php //include_once("Other/Holiday_Template/BuyersRecs.php"); ?>
+          
+          <?php include_once("Other/CM5pm/value_1.php"); ?>
+          <?php include_once("Other/CM5pm/value_2.php"); ?>  
+          
+          <?php include_once("Other/CM5pm/ContentBanner.php"); ?>  
+          
+          
+					<?php include_once("Other/CM5pm/footer_no_icons_grey_2.php"); ?>
 					
 				</tbody>
 			</table>

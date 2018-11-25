@@ -1,5 +1,9 @@
 <?php 
 
+include_once("Other/CM12am/index.php");
+
+// include_once("Other/CM5pm/index.php");
+
 // include_once("Other/BarryThanks/index.php");
 
 // include_once("Other/Bogo1/index.php");
@@ -10,7 +14,7 @@
 
 // include_once("Other/CategoryBrowseHoliday/index.php");
 
-include_once("Other/Holiday_Template/index.php");
+// include_once("Other/Holiday_Template/index.php");
 
 // include_once("Other/SnapshotTemplate2/index.php");
 

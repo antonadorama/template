@@ -92,7 +92,7 @@ To that end, I wanted to personally invite you to explore our new holiday servic
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
 &#9679;&#32;an exclusive
 					<strong>
-									<a href="https://www.adorama.com/?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>"
+									<a href="https://www.adorama.com/g/adorama-credit?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>"
 										 linkname="AdoramaInspire" style="color:#5e5e5e; text-decoration:none;"><u>48 month financing offer</u></a></strong>  
 			  on select brands* with our Adorama Credit Card Account, to help you maximize your holiday spending power towards creating the content you love
 							<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
@@ -107,7 +107,7 @@ To that end, I wanted to personally invite you to explore our new holiday servic
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
 &#9679;&#32;my handpicked
 					<strong>
-									<a href="https://www.adorama.com/?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>"
+									<a href="https://www.adorama.com/g/CEOPicks_BlackFriday?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>"
 										 linkname="AdoramaInspire" style="color:#5e5e5e; text-decoration:none;"><u>CEO Exclusive Black Friday Deals</u></a></strong>  
 			  that I personally approved today and made available to our most valued customers
 							<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
@@ -121,12 +121,12 @@ To that end, I wanted to personally invite you to explore our new holiday servic
                   width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
 &#9679;&#32;a guarantee that our 
 					<strong>
-									<a href="https://www.adorama.com/g/rewards?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>"
+									<a href="https://www.adorama.com/g/top-camera-lens-black-friday-deals-2018?emailprice=t&utm_source=slgt&refby=slgt&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>"
 										 linkname="AdoramaInspire" style="color:#5e5e5e; text-decoration:none;"><u>Black Friday Sale</u></a></strong>  
 , which you can preview early now, will have the lowest prices of the season, backed up by our Same Price Guarantee. 
           Any Adorama product with a "Same Price Guarantee" badge will be the same price today all through Cyber Monday - guaranteed. 
           There are no price drops, no secret sales, 
-          no surprise promotions; every day is Cyber Monday when your purchase features an Adorama "Same Price Guarantee" badge
+          no surprise promotions; every day is Cyber Monday when your purchase features an Adorama "Same Price Guarantee" badge.
 							<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
           
 				</td>
