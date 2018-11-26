@@ -43,22 +43,24 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_CyberMonday12AMNonBuyer_112618"; ?>
+					<?php $utm = "Email_CyberMonday12AMBrandAffinity_112618"; ?>
 					
-					<?php $ttl = "It's Go Time! Up To 90% OFF Sitewide Savings and One-Day Cyber Doorbusters Revealed! Shop Early!"; ?>
+					<?php $ttl = "It's Go Time! Exclusive One-Day Doorbusters on ##SMFMT_PROPERCASE[\affinity[Brand]]## + Up To 90% OFF Lighting, Accessories, Storage & More! Shop Early!"; ?>
 					
 					<?php include_once("Other/CM5pm/header.php"); ?>
           
           <?php //include_once("Other/Holiday_Template/vip360_Early.php"); ?>
+          
+          <?php //include_once("Other/CM12am/vip360.php"); ?>
 		
 					<?php include_once("Other/CM12am/p_1.php"); ?>
           <?php include_once("Other/CM12am/countdown.php"); ?>
           <?php include_once("Other/CM12am/p_2.php"); ?>
           
-          <?php //include_once("Other/CM5pm/browsed_white.php"); ?>
+          <?php //include_once("Other/CM12am/browsed_white.php"); ?>
          
-          <?php include_once("Other/CM12am/p_3.php"); ?>
-          <?php //include_once("Other/CM12am/p_3_affinity.php"); ?>
+          <?php //include_once("Other/CM12am/p_3.php"); ?>
+          <?php include_once("Other/CM12am/p_3_affinity.php"); ?>
           <?php //include_once("Other/CM12am/p_3_canon.php"); ?>
            <?php //include_once("Other/CM12am/p_3_nikon.php"); ?>
            <?php //include_once("Other/CM12am/p_3_sony.php"); ?>
@@ -72,8 +74,8 @@
           <?php include_once("Other/CM5pm/cat_4.php"); ?>
           <?php include_once("Other/CM12am/cat_5.php"); ?>
           
-          <?php include_once("Other/CM5pm/HolidayBestsellers.php"); ?>
-          <?php //include_once("Other/Holiday_Template/BuyersRecs.php"); ?>
+          <?php //include_once("Other/CM5pm/HolidayBestsellers.php"); ?>
+          <?php include_once("Other/Holiday_Template/BuyersRecs.php"); ?>
           
           <?php include_once("Other/CM5pm/value_1.php"); ?>
           <?php include_once("Other/CM5pm/value_2.php"); ?>  

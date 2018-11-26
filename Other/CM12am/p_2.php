@@ -13,9 +13,9 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/g/cyber-monday-deals?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
+                    <a href="https://www.adorama.com/CM/l/?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
                        linkname="Top100Deals">
-                    <img src="image_library/global/CM-2018-Top100-12am.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;line-height:0 !important; font-size:0 !important;" class="mobile-full" 
+                    <img src="image_library/global/CM-2018-ShopAll-12am.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;line-height:0 !important; font-size:0 !important;" class="mobile-full" 
                          alt="Top 100 Deals" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>
