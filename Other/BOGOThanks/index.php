@@ -26,7 +26,7 @@
 
 		<?php //include_once("Other/blocks/style_5.php"); ?>		
 		<?php include_once("FirstTimeBuyers/blocks/style_5.php"); ?>
-		<?php include_once("Browse/blocks/style_recsfix.php"); ?>
+		
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -43,35 +43,27 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_CategoryBrowse_120418"; ?>
+					<?php $utm = "Email_BOGOThanks_112718"; ?>
 					
-					<?php $ttl = "Just For You: Our Holiday Favorites on ##second_level_category## Marked Down For You!"; ?>
+					<?php $ttl = "Thanks for Your BOGO Purchase! Use Your Free Gift Card on Our Cyber Monday Extended Specials, Going On Now!"; ?>
 					
-					<?php include_once("Other/blocks/header.php"); ?>
-					
-					<?php //include_once("Other/CategoryBrowse/p_1_white.php"); ?>
-          <?php include_once("Other/CategoryBrowseHoliday/browsed_white.php"); ?>
-					
-					<?php include_once("Other/CategoryBrowseHoliday/p_2_2.php"); ?>
-					
-					<?php include_once("Other/CategoryBrowseHoliday/p_3.php"); ?>					
-					<?php include_once("Other/CategoryBrowseHoliday/p_4.php"); ?> <!---->					
-					<?php include_once("Other/CategoryBrowseHoliday/p_5.php"); ?>					
-					<?php include_once("Other/CategoryBrowseHoliday/p_6.php"); ?> <!---->
-          <?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>
+					<?php include_once("Other/BarryThanks/header.php"); ?>					
+		
+					<?php include_once("Other/BOGOThanks/p_1.php"); ?>
           
-          <?php include_once("Other/Holiday_Template/cat_1.php"); ?>
+					<?php include_once("Other/Holiday_Template/cat_1.php"); ?>
           <?php include_once("Other/Holiday_Template/cat_2.php"); ?>
           <?php include_once("Other/Holiday_Template/cat_3.php"); ?>
           <?php include_once("Other/Holiday_Template/cat_4.php"); ?>
-          <?php include_once("Other/Holiday_Template/cat_5.php"); ?>					
-                 
-          <?php include_once("Other/Holiday_Template/HolidayBestsellers.php"); ?>
-          <?php include_once("Other/Holiday_Template/HolidayGifts.php"); ?>
+          <?php include_once("Other/Holiday_Template/cat_5.php"); ?>
+          <?php include_once("Other/Holiday_Template/HolidayBestsellers.php"); ?>        	
           
-           <?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
+          <?php include_once("Other/Holiday_Template/FeaturedBanner.php"); ?>
+          <?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>          
+          <?php //include_once("Other/Holiday_Template/HolidayGifts.php"); ?>
           
 					<?php include_once("Other/blocks/footer_no_icons_grey_2.php"); ?>
+
 					
 				</tbody>
 			</table>

@@ -42,11 +42,11 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_111418"; ?>
+					<?php $utm = "Email_DailyDeals_120418"; ?>
 					
-					<?php $ttl = "You can buy now for only $120.00"; ?>
+					<?php $ttl = "Shop now and look out for a new EXCLUSIVE deal every day!"; ?>
 					
-					<?php include_once("Other/blocks/header.php"); ?>
+					<?php include_once("Other/CM5pm/header.php"); ?>
 					
           
 					<?php include_once("Other/SnapshotTemplate2/snapshot_header.php"); ?>
@@ -59,14 +59,30 @@
 									
 					<?php include_once("Other/SnapshotTemplate2/snapshot.php"); ?>						
 					
-					<?php include_once("Other/SnapshotTemplate2/snapshot_footer.php"); ?>                   
+					<?php include_once("Other/SnapshotTemplate2/snapshot_footer.php"); ?>
+          
+          <?php //include_once("Other/SnapshotTemplate2/p_3.php"); ?>	
 					
-					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
-					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>
-					<?php include_once("Other/SnapshotTemplate2/spotlight.php"); ?>
-					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
-										
-					<?php include_once("Other/blocks/footer.php"); ?>
+          <?php include_once("Other/Holiday_Template/cat_1.php"); ?>
+          <?php include_once("Other/Holiday_Template/cat_2.php"); ?>
+          <?php include_once("Other/Holiday_Template/cat_3.php"); ?>
+          <?php include_once("Other/Holiday_Template/cat_4.php"); ?>
+          <?php include_once("Other/Holiday_Template/cat_5.php"); ?>
+          
+        	<?php include_once("Other/Holiday_Template/HolidayBestsellers.php"); ?>
+          
+           <?php include_once("Other/SnapshotTemplate2/spotlight.php"); ?>
+
+          <?php include_once("Other/CM5pm/value_1.php"); ?>
+          <?php include_once("Other/CM5pm/value_2.php"); ?>  
+                   
+       
+
+          <?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
+          
+          <?php include_once("Other/Holiday_Template/HolidayGifts.php"); ?>
+          
+					<?php include_once("Other/CM5pm/footer_no_icons_grey_2.php"); ?>
 					
 				</tbody>
 			</table>

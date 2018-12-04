@@ -1,6 +1,12 @@
 <?php 
 
-include_once("Other/CM12am/index.php");
+// include_once("Other/SnapshotTemplate2/index.php");
+
+// include_once("Other/BOGOThanks/index.php");
+
+// include_once("Other/CM3pm/index.php");
+
+// include_once("Other/CM12am/index.php");
 
 // include_once("Other/CM5pm/index.php");
 
@@ -12,11 +18,9 @@ include_once("Other/CM12am/index.php");
 
 // include_once("Other/xVerify_Apology/index.php");
 
-// include_once("Other/CategoryBrowseHoliday/index.php");
+include_once("Other/CategoryBrowseHoliday/index.php");
 
 // include_once("Other/Holiday_Template/index.php");
-
-// include_once("Other/SnapshotTemplate2/index.php");
 
 // include_once("Other/NewNovemberRebates/index.php");
 
