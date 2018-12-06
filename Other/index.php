@@ -1,5 +1,13 @@
 <?php 
 
+include_once("Other/DailyDealPostcard/index.php");
+
+// include_once("Other/FlashFriday_120618/index.php");
+
+// include_once("Other/PrivateBrands24/index.php");
+
+// include_once("Other/PrivateBrands48/index.php");
+
 // include_once("Other/SnapshotTemplate2/index.php");
 
 // include_once("Other/BOGOThanks/index.php");
@@ -18,7 +26,7 @@
 
 // include_once("Other/xVerify_Apology/index.php");
 
-include_once("Other/CategoryBrowseHoliday/index.php");
+// include_once("Other/CategoryBrowseHoliday/index.php");
 
 // include_once("Other/Holiday_Template/index.php");
 

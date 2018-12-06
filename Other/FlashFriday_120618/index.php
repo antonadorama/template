@@ -25,7 +25,8 @@
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
 		<?php //include_once("Other/blocks/style_5.php"); ?>		
-		<?php include_once("FirstTimeBuyers/blocks/style_5.php"); ?>	
+		<?php include_once("FirstTimeBuyers/blocks/style_5.php"); ?>
+		
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -42,47 +43,30 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_DailyDeals_120718"; ?>
+					<?php $utm = "Email_FlashFriday_120718"; ?>
 					
-					<?php $ttl = "Shop now and look out for a new EXCLUSIVE deal every day!"; ?>
+					<?php $ttl = "This is here on Fridays only, so find out what Flash Deals you can get now!"; ?>
 					
-					<?php include_once("Other/CM5pm/header.php"); ?>
-					
+					<?php include_once("Other/blocks/header.php"); ?>					
+		
+					<?php include_once("Other/FlashFriday_120618/p_1.php"); ?>
+         
           
-					<?php include_once("Other/SnapshotTemplate2/snapshot_header.php"); ?>
-					
-					<?php //include_once("Other/SnapshotTemplate/p_1.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate2/devider.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate2/countdown_split.php"); ?>
-									
-					<?php include_once("Other/SnapshotTemplate2/snapshot.php"); ?>						
-					
-					<?php include_once("Other/SnapshotTemplate2/snapshot_footer.php"); ?>
-          
-          <?php //include_once("Other/SnapshotTemplate2/p_3.php"); ?>	
-					
-          <?php include_once("Other/Holiday_Template/cat_1.php"); ?>
+					<?php include_once("Other/Holiday_Template/cat_1.php"); ?>
           <?php include_once("Other/Holiday_Template/cat_2.php"); ?>
           <?php include_once("Other/Holiday_Template/cat_3.php"); ?>
           <?php include_once("Other/Holiday_Template/cat_4.php"); ?>
           <?php include_once("Other/Holiday_Template/cat_5.php"); ?>
           
-        	<?php include_once("Other/Holiday_Template/HolidayBestsellers.php"); ?>
-          
-           <?php include_once("Other/SnapshotTemplate2/spotlight.php"); ?>
-
-          <?php include_once("Other/CM5pm/value_1.php"); ?>
-          <?php include_once("Other/CM5pm/value_2.php"); ?>  
-                   
-       
-
-          <?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
-          
+          <?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>
+          <?php include_once("Other/Holiday_Template/HolidayBestsellers.php"); ?>
           <?php include_once("Other/Holiday_Template/HolidayGifts.php"); ?>
           
-					<?php include_once("Other/CM5pm/footer_no_icons_grey_2.php"); ?>
+           <?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
+          
+          
+					<?php include_once("Other/blocks/footer_no_icons_grey_2.php"); ?>
+
 					
 				</tbody>
 			</table>
