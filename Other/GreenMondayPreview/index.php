@@ -43,16 +43,20 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_DailyDealPDP_121018"; ?>
+					<?php $utm = "Email_GreenMondayPreviewApple_120918"; ?>
 					
-					<?php $ttl = "Shop now and look out for a new EXCLUSIVE deal every day!"; ?>
+					<?php $ttl = "Enjoy Green Monday VIP early access to Apple deals. Shop now!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>					
 		
-					<?php include_once("Other/DailyDealPostcard/p_1.php"); ?>
-          <?php include_once("Other/DailyDealPostcard/countdown_split.php"); ?>
-          <?php include_once("Other/DailyDealPostcard/p_3.php"); ?>
+					<?php //include_once("Other/GreenMondayPreview/p_1.php"); ?>
          
+          <?php //include_once("Other/GreenMondayPreview/p_nikon.php"); ?>
+           <?php //include_once("Other/GreenMondayPreview/p_canon.php"); ?>
+          <?php //include_once("Other/GreenMondayPreview/p_sony.php"); ?>
+          <?php //include_once("Other/GreenMondayPreview/p_panasonic.php"); ?>
+          <?php //include_once("Other/GreenMondayPreview/p_fujifilm.php"); ?>
+          <?php include_once("Other/GreenMondayPreview/p_apple.php"); ?>
           
 					<?php include_once("Other/Holiday_Template/cat_1.php"); ?>
           <?php include_once("Other/Holiday_Template/cat_2.php"); ?>
@@ -60,7 +64,7 @@
           <?php include_once("Other/Holiday_Template/cat_4.php"); ?>
           <?php include_once("Other/Holiday_Template/cat_5.php"); ?>
           
-          <?php include_once("Other/SnapshotTemplate2/spotlight.php"); ?>
+          <?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>
           <?php include_once("Other/Holiday_Template/HolidayBestsellers.php"); ?>
           <?php include_once("Other/Holiday_Template/HolidayGifts.php"); ?>
           
