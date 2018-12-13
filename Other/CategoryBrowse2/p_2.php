@@ -17,41 +17,41 @@
                    align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="640">
               <tbody>
                 <tr>
-                  <td class="mobile-full-ext" style="padding:20px;">
+                  <td class="mobile-full-ext" style="padding:20px;" >
                    
                       <a href="##second_level_category_url##?sel=Price-Range_-dollar-250-to-dollar-500&emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          linkname="DollarIcon" target="_blank">
                         <img src="image_library/org_1/4233/shutterstock_200397944_320x240.jpg" alt="Dollar Icon" 
-                             width="280" height="auto" border="0" style="display:inline;">
+                             width="280" height="auto" border="0" style="display:inline;" class="mobile-full-ext">
                       </a>
                           <a href="##second_level_category_url##?sel=Price-Range_-dollar-250-to-dollar-500&emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          linkname="Under500cat" target="_blank" style="text-decoration:none;"> 
-                                    <span style="font-size: 14px; font-family: Tahoma, Helvetica, sans-serif; 
-                             color: #000000; text-decoration:none;">##SECOND_LEVEL_CATEGORY## <br />Under $500</span>
+                                    <span style="font-size: 16px; font-family: Tahoma, Helvetica, sans-serif; 
+                             color: #000000; text-decoration:none;" class="mobile-full-ext">##SECOND_LEVEL_CATEGORY## <br />Under $500</span>
                                     </a> 
                                                   <br />      <a href="##second_level_category_url##?sel=Price-Range_-dollar-250-to-dollar-500&emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          linkname="Under500cat" target="_blank" style="text-decoration:none;"> 
-                                    <span style="font-size: 16px; font-family: Tahoma, Helvetica, sans-serif; 
-                             color: #006ab6; font-weight:bold; text-decoration:none; padding-top:5px; display:block;">SHOP NOW ></span>
+                                    <span style="font-size: 18px; font-family: Tahoma, Helvetica, sans-serif; 
+                             color: #006ab6; font-weight:bold; text-decoration:none; padding-top:5px; display:block;" class="mobile-full-ext">SHOP NOW ></span>
                                     </a>
 
                   </td>
-                  <td class="mobile-full-ext" style="padding:20px;">
+                  <td class="mobile-full-ext" style="padding:20px;" >
                     
                     <a href="##second_level_category_url##?sel=Ratings-and-Reviews_4-and-up&emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                        linkname="StarIcon" target="_blank">
                       <img src="image_library/org_1/4233/shutterstock_386609029_320x240.jpg" alt="Star Icon" 
-                           width="280" height="auto" border="0" style="display:inline;">
+                           width="280" height="auto" border="0" style="display:inline;" class="mobile-full-ext">
                     </a>
                           <a href="##second_level_category_url##?sel=Price-Range_-dollar-250-to-dollar-500&emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          linkname="Under500cat" target="_blank" style="text-decoration:none;"> 
-                                    <span style="font-size: 14px; font-family: Tahoma, Helvetica, sans-serif; 
-                             color: #000000; text-decoration:none;">##SECOND_LEVEL_CATEGORY## <br />Kits &#38; Bundles</span>
+                                    <span style="font-size: 16px; font-family: Tahoma, Helvetica, sans-serif; 
+                             color: #000000; text-decoration:none;" class="mobile-full-ext">##SECOND_LEVEL_CATEGORY## <br />Kits &#38; Bundles</span>
                                     </a>
                                                                   <br />          <a href="##second_level_category_url##?sel=Price-Range_-dollar-250-to-dollar-500&emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          linkname="Under500cat" target="_blank" style="text-decoration:none;"> 
-                                    <span style="font-size: 16px; font-family: Tahoma, Helvetica, sans-serif; 
-                             color: #006ab6; font-weight:bold; text-decoration:none; padding-top:5px; display:block;">SHOP NOW ></span>
+                                    <span style="font-size: 18px; font-family: Tahoma, Helvetica, sans-serif; 
+                             color: #006ab6; font-weight:bold; text-decoration:none; padding-top:5px; display:block;" class="mobile-full-ext">SHOP NOW ></span>
                                     </a>
 
                   </td>

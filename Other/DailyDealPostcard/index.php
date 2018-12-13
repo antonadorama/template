@@ -43,7 +43,7 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_DailyDealPDP_121018"; ?>
+					<?php $utm = "Email_DailyDealPDP_121418"; ?>
 					
 					<?php $ttl = "Shop now and look out for a new EXCLUSIVE deal every day!"; ?>
 					

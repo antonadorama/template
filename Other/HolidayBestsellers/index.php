@@ -26,7 +26,7 @@
 
 		<?php //include_once("Other/blocks/style_5.php"); ?>		
 		<?php include_once("FirstTimeBuyers/blocks/style_5.php"); ?>
-		<?php include_once("Browse/blocks/style_recsfix.php"); ?>
+		
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -43,32 +43,46 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_CategoryBrowse2"; ?>
+					<?php $utm = "Email_HolidayBestsellersBrowsed_121418"; ?>
 					
-					<?php $ttl = "Consider it your lucky day! ##second_level_category## are now on sale + best-sellers, bundles and kit price drops!"; ?>
+					<?php $ttl = "Shop our bestsellers & stocking stuffers on ##SMFMT_PROPERCASE[\second_level_category]## now!"; ?>
 					
-					<?php include_once("Other/blocks/header.php"); ?>
+					<?php include_once("Other/blocks/header.php"); ?>					
+		
+					<?php //include_once("Other/HolidayBestsellers/p_1.php"); ?>
           
-          <?php include_once("Other/CategoryBrowse2/p_4.php"); ?>
-					
-					<?php include_once("Other/CategoryBrowse2/p_1.php"); ?>
-					<?php include_once("Other/CategoryBrowse2/p_2.php"); ?>
-          <?php //include_once("Other/CategoryBrowse2/p_3.php"); ?>
-															
-          <?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>
+          <?php //include_once("Other/HolidayBestsellers/p_canon.php"); ?>
+          <?php //include_once("Other/HolidayBestsellers/p_nikon.php"); ?>
+          <?php //include_once("Other/HolidayBestsellers/p_sony.php"); ?>
+          <?php //include_once("Other/HolidayBestsellers/p_panasonic.php"); ?>
+          <?php //include_once("Other/HolidayBestsellers/p_fujifilm.php"); ?>
+          <?php //include_once("Other/HolidayBestsellers/p_apple.php"); ?>
           
-          <?php include_once("Other/Holiday_Template/cat_1.php"); ?>
+          <?php include_once("Other/HolidayBestsellers/p_1_browsed_1.php"); ?>
+          <?php include_once("Other/HolidayBestsellers/p_1_browsed_2.php"); ?>
+          <?php include_once("Other/HolidayBestsellers/p_1_browsed_3.php"); ?>
+          
+          <?php include_once("Other/HolidayBestsellers/p_2.php"); ?>
+          <?php include_once("Other/HolidayBestsellers/p_3.php"); ?>
+          <?php include_once("Other/HolidayBestsellers/p_4.php"); ?>
+          <?php include_once("Other/HolidayBestsellers/p_5.php"); ?>
+
+          
+					<?php include_once("Other/Holiday_Template/cat_1.php"); ?>
           <?php include_once("Other/Holiday_Template/cat_2.php"); ?>
           <?php include_once("Other/Holiday_Template/cat_3.php"); ?>
           <?php include_once("Other/Holiday_Template/cat_4.php"); ?>
-          <?php include_once("Other/Holiday_Template/cat_5.php"); ?>					
-                 
+          <?php include_once("Other/Holiday_Template/cat_5.php"); ?>
+          
+          <?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>
           <?php include_once("Other/Holiday_Template/HolidayBestsellers.php"); ?>
           <?php include_once("Other/Holiday_Template/HolidayGifts.php"); ?>
           
-          <?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
+           <?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
           
-          <?php include_once("Other/blocks/footer_no_icons_grey_2.php"); ?>
+          
+					<?php include_once("Other/blocks/footer_no_icons_grey_2.php"); ?>
+
 					
 				</tbody>
 			</table>

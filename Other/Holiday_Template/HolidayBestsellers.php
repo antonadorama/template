@@ -1,4 +1,4 @@
-<!-- Header Section -->
+<!-- Holiday Bestsellers -->
 
 <tr>
   <td>
@@ -189,4 +189,4 @@
 	</td>
 </tr>
 
-<!-- End of Best Sellers --> 
+<!-- End of Holiday Bestsellers --> 

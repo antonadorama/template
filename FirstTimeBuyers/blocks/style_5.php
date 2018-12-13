@@ -396,9 +396,21 @@
       max-width: none !important;
       padding-right: 0 !important;
       padding-left: 0 !important;
+          padding-top: 0 !important;
       display:block !important;
+       text-align:center !important;
+          font-size:1.2em !important;
     }
     
+    .full-wdth {
+            width: 100% !important;
+      max-width: none !important;
+      
+    }
+    
+    .mobile-padding-bottom {
+      padding-bottom: 5px !important;      
+    }
     
     img.mobile-width-200 {
       width: 100% !important;

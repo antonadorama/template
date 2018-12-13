@@ -1,5 +1,5 @@
 					<!-- Preheader -->
-					<tr>
+					<tr class="mobile-hide">
 						<td>
 						<table cellpadding="0" cellspacing="0" class="wrap100" width="100%">
 							<tbody>

@@ -43,13 +43,15 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_BOGOThanks_112718"; ?>
+					<?php $utm = "Email_HolidaySecretSaleThankYou_121218"; ?>
 					
-					<?php $ttl = "Thanks for Your BOGO Purchase! Use Your Free Gift Card on Our Cyber Monday Extended Specials, Going On Now!"; ?>
+					<?php $ttl = "Here's what you need to know about your Free Gift!"; ?>
 					
 					<?php include_once("Other/BarryThanks/header.php"); ?>					
 		
-					<?php include_once("Other/BOGOThanks/p_1.php"); ?>
+					<?php //include_once("Other/BOGOThanks/p_1.php"); ?>
+          <?php include_once("Other/BOGOThanks/p_2.php"); ?>
+          
           
 					<?php include_once("Other/Holiday_Template/cat_1.php"); ?>
           <?php include_once("Other/Holiday_Template/cat_2.php"); ?>
@@ -58,7 +60,7 @@
           <?php include_once("Other/Holiday_Template/cat_5.php"); ?>
           <?php include_once("Other/Holiday_Template/HolidayBestsellers.php"); ?>        	
           
-          <?php include_once("Other/Holiday_Template/FeaturedBanner.php"); ?>
+           <?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>
           <?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>          
           <?php //include_once("Other/Holiday_Template/HolidayGifts.php"); ?>
           
