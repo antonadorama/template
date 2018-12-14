@@ -43,16 +43,30 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_DailyDealPDP_121718"; ?>
+					<?php $utm = "Email_HolidayBestsellersBrowsed_121518"; ?>
 					
-					<?php $ttl = "Shop now and look out for a new EXCLUSIVE deal every day!"; ?>
+					<?php $ttl = "##SMFMT_PROPERCASE[\second_level_category]## Bestsellers, Stocking Stuffers and Daily Deals Inside, Shop Now!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>					
 		
-					<?php include_once("Other/DailyDealPostcard/p_1.php"); ?>
-          <?php include_once("Other/DailyDealPostcard/countdown_split.php"); ?>
-          <?php include_once("Other/DailyDealPostcard/p_3.php"); ?>
-         
+					<?php //include_once("Other/HolidayBestsellersLC/p_1.php"); ?>
+          
+          <?php //include_once("Other/HolidayBestsellersLC/p_canon.php"); ?>
+          <?php //include_once("Other/HolidayBestsellersLC/p_nikon.php"); ?>
+          <?php //include_once("Other/HolidayBestsellersLC/p_sony.php"); ?>
+          <?php //include_once("Other/HolidayBestsellersLC/p_panasonic.php"); ?>
+          <?php //include_once("Other/HolidayBestsellersLC/p_fujifilm.php"); ?>
+          <?php //include_once("Other/HolidayBestsellersLC/p_apple.php"); ?>
+          
+          <?php include_once("Other/HolidayBestsellersLC/p_1_browsed_1.php"); ?>
+          <?php include_once("Other/HolidayBestsellersLC/p_1_browsed_2.php"); ?>
+          <?php include_once("Other/HolidayBestsellersLC/p_1_browsed_3.php"); ?>
+          
+          <?php include_once("Other/HolidayBestsellersLC/p_2.php"); ?>
+          <?php include_once("Other/HolidayBestsellersLC/p_3.php"); ?>
+          <?php include_once("Other/HolidayBestsellersLC/p_4.php"); ?>
+          <?php include_once("Other/HolidayBestsellersLC/p_5.php"); ?>
+
           
 					<?php include_once("Other/Holiday_Template/cat_1.php"); ?>
           <?php include_once("Other/Holiday_Template/cat_2.php"); ?>
@@ -60,7 +74,7 @@
           <?php include_once("Other/Holiday_Template/cat_4.php"); ?>
           <?php include_once("Other/Holiday_Template/cat_5.php"); ?>
           
-          <?php include_once("Other/SnapshotTemplate2/spotlight.php"); ?>
+          <?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>
           <?php include_once("Other/Holiday_Template/HolidayBestsellers.php"); ?>
           <?php include_once("Other/Holiday_Template/HolidayGifts.php"); ?>
           

@@ -43,16 +43,15 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_DailyDealPDP_121718"; ?>
+					<?php $utm = "Email_FlashFriday_121418"; ?>
 					
-					<?php $ttl = "Shop now and look out for a new EXCLUSIVE deal every day!"; ?>
+					<?php $ttl = "Shop our exclusive flash deals now!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>					
 		
-					<?php include_once("Other/DailyDealPostcard/p_1.php"); ?>
-          <?php include_once("Other/DailyDealPostcard/countdown_split.php"); ?>
-          <?php include_once("Other/DailyDealPostcard/p_3.php"); ?>
-         
+					<?php include_once("Other/FlashFriday_121418/p_1.php"); ?>
+          <?php include_once("Other/FlashFriday_121418/coupon.php"); ?>
+          <?php include_once("Other/FlashFriday_121418/p_3.php"); ?>        
           
 					<?php include_once("Other/Holiday_Template/cat_1.php"); ?>
           <?php include_once("Other/Holiday_Template/cat_2.php"); ?>
@@ -60,7 +59,7 @@
           <?php include_once("Other/Holiday_Template/cat_4.php"); ?>
           <?php include_once("Other/Holiday_Template/cat_5.php"); ?>
           
-          <?php include_once("Other/SnapshotTemplate2/spotlight.php"); ?>
+          <?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>
           <?php include_once("Other/Holiday_Template/HolidayBestsellers.php"); ?>
           <?php include_once("Other/Holiday_Template/HolidayGifts.php"); ?>
           
