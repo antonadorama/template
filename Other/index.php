@@ -1,6 +1,8 @@
 <?php 
 
-include_once("Other/HolidayBestsellersLC/index.php");
+include_once("Other/MidnightSale/index.php");
+
+// include_once("Other/HolidayBestsellersLC/index.php");
 
 //include_once("Other/FlashFriday_121418/index.php");
 
@@ -12,7 +14,7 @@ include_once("Other/HolidayBestsellersLC/index.php");
 
 //include_once("Other/GreenMondayPreview/index.php");
 
-// include_once("Other/DailyDealPostcard/index.php");
+//include_once("Other/DailyDealPostcard/index.php");
 
 // include_once("Other/FlashFriday_120618/index.php");
 

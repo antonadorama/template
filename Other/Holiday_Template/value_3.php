@@ -13,16 +13,16 @@
               <tbody>
                 <tr>
                   <td>
-                      <a href="https://www.adorama.com/g/adorama-credit?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Financing&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
-                         linkname="Financing" target="_blank">
-                        <img src="https://www.adorama.com/col/images/email/Holiday2018/Holiday-2018-Email-Value-Props-3_01.jpg" 
-                             alt="Financing" width="100%" height="auto" border="0" style="display:inline;">
+                      <a href="https://www.adorama.com/g/rewards?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Financing&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                         linkname="Rewards" target="_blank">
+                        <img src="https://www.adorama.com/col/images/email/Holiday2018/values/new_values_extended_01.jpg" 
+                             alt="Rewards" width="100%" height="auto" border="0" style="display:inline;">
                       </a>
                   </td>
                   <td>
                     <a href="https://www.adorama.com/g/VIP360?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=shipping&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                        linkname="VIP360" target="_blank">
-                      <img src="https://www.adorama.com/col/images/email/Holiday2018/Holiday-2018-Email-Value-Props-3_02.jpg" 
+                      <img src="https://www.adorama.com/col/images/email/Holiday2018/values/new_values_extended_02.jpg" 
                            alt="VIP360" width="100%" height="auto" border="0" style="display:inline;">
                     </a>
                   </td>
