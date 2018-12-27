@@ -1,6 +1,14 @@
 <?php 
 
-include_once("Other/MidnightSale/index.php");
+// include_once("Other/FlashFriday122818/index.php");
+
+// include_once("Other/GiftYourself/index.php");
+
+// include_once("Other/DailyDealRecap/index.php");
+
+// include_once("Other/FlashFriday122018/index.php");
+
+//include_once("Other/MidnightSale/index.php");
 
 // include_once("Other/HolidayBestsellersLC/index.php");
 
@@ -8,7 +16,9 @@ include_once("Other/MidnightSale/index.php");
 
 // include_once("Other/HolidayBestsellers/index.php");
 
-// include_once("Other/CategoryBrowse2/index.php");
+// include_once("Other/CategoryBrowse/index.php");
+
+include_once("Other/CategoryBrowse2/index.php");
 
 //include_once("Other/GreenMonday/index.php");
 
@@ -56,7 +66,6 @@ include_once("Other/MidnightSale/index.php");
 
 // include_once("Other/VIP360Sale/index.php");
 
-// include_once("Other/CategoryBrowse/index.php");
 
 // include_once("Other/NYIP/index.php");
 

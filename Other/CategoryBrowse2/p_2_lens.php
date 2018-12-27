@@ -21,7 +21,7 @@
                    
                       <a href="##second_level_category_url##?sel=Price-Range_-dollar-250-to-dollar-500&emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          linkname="Under500" target="_blank">
-                        <img src="image_library/org_1/5199/shutterstock_1090936094.jpg" alt="Dollar Icon" 
+                        <img src="image_library/org_1/4233/shutterstock_200397944_320x240.jpg" alt="Dollar Icon" 
                              width="280" height="auto" border="0" style="display:inline;" class="mobile-full-ext">
                       </a>
                           <a href="##second_level_category_url##?sel=Price-Range_-dollar-250-to-dollar-500&emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
@@ -40,7 +40,7 @@
                     
                     <a href="##second_level_category_url##?sel=Filter-By_Kits-only&emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                        linkname="KitsAndBundles" target="_blank">
-                      <img src="image_library/org_1/5199/shutterstock_530790337.jpg" alt="Star Icon" 
+                      <img src="image_library/org_1/4233/shutterstock_386609029_320x240.jpg" alt="Star Icon" 
                            width="280" height="auto" border="0" style="display:inline;" class="mobile-full-ext">
                     </a>
                           <a href="##second_level_category_url##?sel=Filter-By_Kits-only&emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 

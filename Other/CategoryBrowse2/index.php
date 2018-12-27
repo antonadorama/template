@@ -43,9 +43,9 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_CategoryBrowse2"; ?>
+					<?php $utm = "Email_CategoryBrowse_TestA_122718"; ?>
 					
-					<?php $ttl = "Consider it your lucky day! ##second_level_category## are now on sale + best-sellers, bundles and kit price drops!"; ?>
+					<?php $ttl = "No more waiting… gift these perfect best-selling ##SECOND_LEVEL_CATEGORY## while there’s still time to ship!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
           
@@ -64,6 +64,9 @@
           <?php include_once("Other/Holiday_Template/cat_5.php"); ?>					
                  
           <?php include_once("Other/Holiday_Template/HolidayBestsellers.php"); ?>
+          <?php include_once("Other/Holiday_Template/value_3.php"); ?>
+          <?php include_once("Other/Holiday_Template/value_4.php"); ?> 
+          
           <?php include_once("Other/Holiday_Template/HolidayGifts.php"); ?>
           
           <?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
