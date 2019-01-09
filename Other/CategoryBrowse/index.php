@@ -43,9 +43,9 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_CategoryBrowse_LensTestB_122018"; ?>
+					<?php $utm = "Email_CategoryBrowse_Regular_010919"; ?>
 					
-					<?php $ttl = "No more waiting… gift these perfect best-selling ##SECOND_LEVEL_CATEGORY## while there’s still time to ship!"; ?>
+					<?php $ttl = "These ##second_level_category## Items We Love Are Definitely Worth a Look!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
@@ -81,29 +81,14 @@
 					
 					<?php //include_once("Other/CategoryBrowse/4products_block_white_3.php"); ?>
 										
-					<?php //include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>					
-					<?php //include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>	
-					<?php //include_once("Other/PostHolidayTemplate/spotlight.php"); ?>
-					<?php //include_once("Other/ReEngABTest/4valueprops.php"); ?>								
-					<?php //include_once("Other/blocks/footer.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>					
+					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>	
+					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>								
+					<?php include_once("Other/blocks/footer.php"); ?>
           
-                    <?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>
-          
-          <?php include_once("Other/Holiday_Template/cat_1.php"); ?>
-          <?php include_once("Other/Holiday_Template/cat_2.php"); ?>
-          <?php include_once("Other/Holiday_Template/cat_3.php"); ?>
-          <?php include_once("Other/Holiday_Template/cat_4.php"); ?>
-          <?php include_once("Other/Holiday_Template/cat_5.php"); ?>					
-                 
-          <?php include_once("Other/Holiday_Template/HolidayBestsellers.php"); ?>
-          <?php include_once("Other/Holiday_Template/value_3.php"); ?>
-          <?php include_once("Other/Holiday_Template/value_4.php"); ?> 
-          
-          <?php include_once("Other/Holiday_Template/HolidayGifts.php"); ?>
-          
-          <?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
-          
-          <?php include_once("Other/blocks/footer_no_icons_grey_2.php"); ?>
+
+
 					
 					
 				</tbody>

@@ -1,4 +1,10 @@
-<?php include_once("TradeIn/121818/index.php"); ?>
+<?php include_once("TradeIn/Leica_010819/index.php"); ?>
+
+<?php //include_once("TradeIn/redTrade_010318/index.php"); ?>
+
+<?php //include_once("TradeIn/010119/index.php"); ?>
+
+<?php //include_once("TradeIn/121818/index.php"); ?>
 
 <?php // include_once("TradeIn/120418/index.php"); ?>
 

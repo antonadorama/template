@@ -133,8 +133,8 @@
 										
 												<tr>
 													<td align="center" valign="middle" height="80">
-														<a linkname="BecomeVIP" href="https://www.adorama.com/g/vip-new?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=ValuePropBecomeVIP&utm_content=Body&utm_campaign=<?php echo $utm;?>">
-																							<img src="https://www.adorama.com/col/images/email/Value/Upgrade-to-VIP.png" style="margin: 0 auto; display: block" class="product_img" width="81" height="81" border="0" 
+														<a linkname="BecomeVIP" href="https://www.adorama.com/g/VIP360?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=ValuePropBecomeVIP&utm_content=Body&utm_campaign=<?php echo $utm;?>">
+																							<img src="https://www.adorama.com/col/images/email/Value/ValueProp-VIP360.png" style="margin: 0 auto; display: block" class="product_img" width="81" height="81" border="0" 
 																									 alt="Become a VIP and Get Deals First">
 																							</a>
 													</td>
@@ -142,8 +142,8 @@
 																																				<tr>
 													<td align="center" valign="top" height="40" class="title" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #114998">
 														
-														<a linkname="Become_VIP" href="https://www.adorama.com/g/vip-new?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=ValuePropBecomeVIP&utm_content=Body&utm_campaign=<?php echo $utm;?>">
-															<font color="#333333"><strong>Become a VIP and Get Deals First!</strong></font>
+														<a linkname="Become_VIP" href="https://www.adorama.com/g/VIP360?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=ValuePropBecomeVIP&utm_content=Body&utm_campaign=<?php echo $utm;?>">
+															<font color="#333333"><strong>Join VIP360 and Get Deals Before Everyone Else!</strong></font>
 														</a>
 													</td>
 												</tr>

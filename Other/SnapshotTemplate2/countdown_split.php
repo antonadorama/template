@@ -1,7 +1,7 @@
 <!-- Countdown With  Text-->
 <tr>
   <td>
-    <table id="ko_imageBlock_5" style="background-color: #faeccf;" class="vb-outer" bgcolor="#faeccf" border="0" cellpadding="0" cellspacing="0" width="100%">
+    <table id="ko_imageBlock_5" style="background-color: #ffffff;" class="vb-outer" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="100%">
       <tbody>
         <tr>
           <td class="vb-outer" align="center" valign="top" style="">
@@ -9,12 +9,12 @@
 <tr><td align="center" valign="top"><![endif]-->
 
             <div class="oldwebkit" style="max-width: 640px;">
-              <table style="border-collapse: separate;padding-left: 0;padding-right: 0;width: 100%;max-width: 640px;background-color: #faeccf;" 
-                     class="vb-container fullwidth" align="center" bgcolor="#faeccf" border="0" cellpadding="0" cellspacing="0" width="640">
+              <table style="border-collapse: separate;padding-left: 0;padding-right: 0;width: 100%;max-width: 640px;background-color: #ffffff;" 
+                     class="vb-container fullwidth" align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="640">
                 <tbody>
                   <tr>
                     <td width="50%">
-                      <table style="border-collapse: separate;padding-left: 0;padding-right: 0;width: 100%;max-width:320px;background-color: #faeccf;" class="vb-container fullwidth" align="center" bgcolor="#faeccf" border="0" cellpadding="0" cellspacing="0" width="320">
+                      <table style="border-collapse: separate;padding-left: 0;padding-right: 0;width: 100%;max-width:320px;background-color: #ffffff;" class="vb-container fullwidth" align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="320">
                         <tbody>
                           <tr>
                             <td align="center" class="clock_image" >
@@ -29,19 +29,19 @@
                     </td>
                     <!-- Countdown -->
                     <td width="50%">
-                      <table id="ko_imageBlock_5" style="background-color: #faeccf;" class="vb-outer" bgcolor="#faeccf" border="0" cellpadding="0" cellspacing="0" width="100%">
+                      <table id="ko_imageBlock_5" style="background-color: #ffffff;" class="vb-outer" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="100%">
                         <tbody>
                           <tr>
                             <td class="vb-outer" align="right" valign="top" style="">
                               <!--[if (gte mso 9)|(lte ie 8)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="320"><tr><td align="center" valign="top"><![endif]-->
 
                               <div class="oldwebkit" style="max-width: 320px;">
-                                <table style="border-collapse: separate;padding-left: 0;padding-right: 0;width: 100%;max-width:320px;background-color: #faeccf;" class="vb-container fullwidth" align="center" bgcolor="#faeccf" border="0" cellpadding="0" cellspacing="0" width="320">
+                                <table style="border-collapse: separate;padding-left: 0;padding-right: 0;width: 100%;max-width:320px;background-color: #ffffff;" class="vb-container fullwidth" align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="320">
                                   <tbody>
                                     <tr>
                                       <td align="center" class="clock_image">
                                         
-         <img src="http://gen.sendtric.com/countdown/yuzigppp8u" style="display: block; width:100%; max-width:320px;" alt="Countdown" width="100%"/>
+         <img src="http://gen.sendtric.com/countdown/hwv9wnzv3l" style="display: block; width:100%; max-width:320px;" alt="Countdown" width="100%"/>
 
                                       </td>
                                     </tr>

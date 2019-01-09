@@ -14,7 +14,7 @@
                 <tr>
                   <td align="center" valign="top">
 
-                    <img src="image_library/global/Holiday-2018-Email-Holiday-Deals-Just-For-You.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;line-height:0 !important; font-size:0 !important;" class="mobile-full" 
+                    <img src="image_library/global/handpickedFavorites.png" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;line-height:0 !important; font-size:0 !important;" class="mobile-full" 
                          alt="Main Banner" hspace="0" border="0" vspace="0" width="640">
 
                   </td>

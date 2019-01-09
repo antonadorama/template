@@ -1,5 +1,13 @@
 <?php 
 
+// include_once("Other/ClickAway/index.php");
+
+// include_once("Other/HotShots/index.php");
+
+// include_once("Other/NewJanuaryRebates/index.php");
+
+ include_once("Other/SnapshotTemplate2/index.php");
+
 // include_once("Other/FlashFriday122818/index.php");
 
 // include_once("Other/GiftYourself/index.php");
@@ -18,7 +26,9 @@
 
 // include_once("Other/CategoryBrowse/index.php");
 
-include_once("Other/CategoryBrowse2/index.php");
+//include_once("Other/CategoryBrowse/index_mashup.php");
+
+// include_once("Other/CategoryBrowse2/index.php");
 
 //include_once("Other/GreenMonday/index.php");
 
@@ -31,8 +41,6 @@ include_once("Other/CategoryBrowse2/index.php");
 // include_once("Other/PrivateBrands24/index.php");
 
 // include_once("Other/PrivateBrands48/index.php");
-
-// include_once("Other/SnapshotTemplate2/index.php");
 
 // include_once("Other/BOGOThanks/index.php");
 

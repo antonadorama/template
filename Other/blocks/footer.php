@@ -233,7 +233,7 @@
 							<p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">
 								Products are subject to price change and availability. Not responsible for typographical errors.</p>
 							<p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">
-								&copy; 2018 Adorama Camera, Inc. All rights reserved. | 
+								&copy; 2019 Adorama Camera, Inc. All rights reserved. | 
 								<a href="https://www.adorama.com/help/termsAndConditions?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Terms&utm_content=Footer&utm_campaign=<?php echo $utm;?>" linkname="Terms" style="color: #A7A9AC; text-decoration:underline">
 									Terms</a> | 
 								<a href="https://www.adorama.com/privacy?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Terms&utm_content=Footer&utm_campaign=<?php echo $utm;?>" linkname="Privacy" style="color: #A7A9AC; text-decoration: underline">
