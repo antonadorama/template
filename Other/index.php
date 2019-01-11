@@ -1,12 +1,14 @@
 <?php 
 
+include_once("Other/WeekendDeals_011119/index.php");
+
 // include_once("Other/ClickAway/index.php");
 
 // include_once("Other/HotShots/index.php");
 
 // include_once("Other/NewJanuaryRebates/index.php");
 
- include_once("Other/SnapshotTemplate2/index.php");
+// include_once("Other/SnapshotTemplate2/index.php");
 
 // include_once("Other/FlashFriday122818/index.php");
 
