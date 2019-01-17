@@ -1,4 +1,6 @@
-<?php  include_once("Welcome/Welcome_2_r/index.php"); ?>
+<?php include_once("Other/VIP360_Acquisition/index.php"); ?> //Welcome 3 Since 011519
+
+<?php  // include_once("Welcome/Welcome_2_r/index.php"); ?>
 
 <?php  // include_once("Welcome/Welcome_II_VIP/index.php"); ?>
 
@@ -12,7 +14,7 @@
 
 <?php  // include_once("Welcome/Welcome_4/index.php"); ?>
 
-<?php  // include_once("Welcome/Welcome_3_r/index.php"); ?>
+<?php  //include_once("Welcome/Welcome_3_r/index.php"); ?>
 
 <?php  // include_once("Welcome/Welcome_2/index.php"); ?>
 

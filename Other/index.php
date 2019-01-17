@@ -1,6 +1,12 @@
 <?php 
 
-include_once("Other/WeekendDeals_011119/index.php");
+include_once("Other/MidnightSale_011918/index.php");
+
+// include_once("Other/VIP360_Acquisition/index.php");
+
+// include_once("Other/48HoursSale_011719/index.php");
+
+// include_once("Other/WeekendDeals_011119/index.php");
 
 // include_once("Other/ClickAway/index.php");
 
@@ -28,7 +34,7 @@ include_once("Other/WeekendDeals_011119/index.php");
 
 // include_once("Other/CategoryBrowse/index.php");
 
-//include_once("Other/CategoryBrowse/index_mashup.php");
+// include_once("Other/CategoryBrowse/index_mashup.php");
 
 // include_once("Other/CategoryBrowse2/index.php");
 
@@ -151,7 +157,7 @@ include_once("Other/WeekendDeals_011119/index.php");
 
 // include_once("Other/VIP_Sale_060118/index.php");
 
-// include_once("Other/VIP360_Acquisition/index.php");
+
 
 // include_once("Other/InspireJoinUs/index.php");
 

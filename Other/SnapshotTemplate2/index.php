@@ -42,9 +42,9 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_011119"; ?>
+					<?php $utm = "Email_Snapshot_011819"; ?>
 					
-					<?php $ttl = "Save 25% on the Dell SE Series SE2717H 27&quot; Full HD IPS LED Monitor. VGA Cable included, so shop now!"; ?>
+					<?php $ttl = "Searching for a new gear? Save big on this carbon fiber tripod with built-in monopod now!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					

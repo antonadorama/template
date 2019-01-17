@@ -43,7 +43,7 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_CategoryBrowse_Regular_010919"; ?>
+					<?php $utm = "Email_CategoryBrowse_Regular_011619"; ?>
 					
 					<?php $ttl = "These ##second_level_category## Items We Love Are Definitely Worth a Look!"; ?>
 					
