@@ -43,16 +43,16 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_CategoryBrowse_Mashup_010919"; ?>
+					<?php $utm = "Email_CategoryBrowse_Mashup_011819"; ?>
 					
-					<?php $ttl = "These ##second_level_category## We Love Are Definitely Worth a Look!"; ?>
+					<?php $ttl = "These exclusive offers on ##second_level_category## are waiting for you!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
 					<?php include_once("Other/CategoryBrowse/p_1_white.php"); ?>
           
-         <?php include_once("Other/CategoryBrowse2/p_2_light.php"); ?>
-          <?php include_once("Other/CategoryBrowse2/p_5_light.php"); ?>
+         <?php include_once("Other/CategoryBrowse2/p_2.php"); ?>
+          <?php include_once("Other/CategoryBrowse2/p_5.php"); ?>
 					
 					<?php //include_once("Other/CategoryBrowse/p_2_2.php"); ?>
 					

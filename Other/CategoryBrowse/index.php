@@ -43,9 +43,9 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_CategoryBrowse_Regular_011619"; ?>
+					<?php $utm = "Email_CategoryBrowse_Regular_011819"; ?>
 					
-					<?php $ttl = "These ##second_level_category## Items We Love Are Definitely Worth a Look!"; ?>
+					<?php $ttl = "These exclusive offers on ##second_level_category## are waiting for you!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					

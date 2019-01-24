@@ -42,9 +42,9 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_011819"; ?>
+					<?php $utm = "Email_Snapshot_012519"; ?>
 					
-					<?php $ttl = "Searching for a new gear? Save big on this carbon fiber tripod with built-in monopod now!"; ?>
+					<?php $ttl = "Save 57% on Klipsch Floorstanding Speaker. This deal won't last long so shop NOW!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					

@@ -129,6 +129,40 @@ Discover even more about what makes Adorama special:
           
 				</td>
 			</tr>
+      
+
+      
+            															<tr>
+				<td style="padding-top:5px; padding-left:30px; padding-bottom:5px; padding-right:15px;">
+					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #5e5e5e; text-align: left; line-height: 18px;
+                  width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
+					<span style="padding-right:10px;">&#9679;</span>&#32;For corporate, educational and government institutions. 
+					
+																			<a href="https://www.adorama.com/g/abs?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>"
+										 linkname="ABS" style="color:#5e5e5e; text-decoration:none;">
+						<strong>Adorama Business Solutions</strong>
+</a>
+Offers unparalleled expertise, dedicated service and competitive pricing   for all your professional equipment needs. 
+							<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+          
+				</td>
+			</tr>
+      
+            															<tr>
+				<td style="padding-top:5px; padding-left:30px; padding-bottom:5px; padding-right:15px;">
+					<!--[if (mso)|(IE)]><table bgcolor="#ffffff" style="font-size: 15px; font-family: Arial, Helvetica, sans-serif; color: #5e5e5e; text-align: left; line-height: 18px;
+                  width=100%; background-color:#ffffff; padding-top:10px; padding-bottom:10px;"><tr><td><![endif]-->
+					<span style="padding-right:10px;">&#9679;</span>&#32;Try before you buy.  Test drive gear for free up to a week.  Use the credit from your rental to fast-track your way to ownership with
+					
+																			<a href="https://www.adoramarentals.com/?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>"
+										 linkname="AdoramaRentals" style="color:#5e5e5e; text-decoration:none;">
+						<strong>Adorama Rental Co.</strong>
+</a>
+
+							<!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+          
+				</td>
+			</tr>
 
 												<tr>
 				<td style="padding-top:5px; padding-left:30px; padding-bottom:5px; padding-right:15px;">

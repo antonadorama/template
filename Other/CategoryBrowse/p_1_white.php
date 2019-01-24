@@ -44,12 +44,12 @@
                     <tr>
                       <td class="mobile-textcenter big-title name-topmargin-mobile" style="font-size: 24px; padding-top:0px; padding-bottom:10px; font-family: Gotham, Helvetica, sans-serif; 
                                        font-weight:600; color: #154760; text-align: left;">
-                         Check Out Our</td>
+                         Exclusive Offers On</td>
                     </tr>
                     <tr>
                       <td class="mobile-textcenter big-title name-topmargin-mobile" style="font-size: 22px; padding-top:10px; padding-bottom:10px; font-family: Gotham, Helvetica, sans-serif; 
                                        font-weight:300; color: #154760; text-align: left;">
-                         ##SECOND_LEVEL_CATEGORY## Favorites! </td>
+                         ##SECOND_LEVEL_CATEGORY## Are Here! </td>
                     </tr>
                     <!-- Mobile Only-->
                     <tr>

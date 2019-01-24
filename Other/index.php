@@ -1,6 +1,14 @@
 <?php 
 
-include_once("Other/MidnightSale_011918/index.php");
+include_once("Other/JanuaryBundlesExt/index.php");
+
+// include_once("Other/JanuaryBundlesLC/index.php");
+
+//include_once("Other/JanuaryBundles/index.php");
+  
+// include_once("Other/PostPurchaseThankYou/index.php");
+
+// include_once("Other/MidnightSale_011918/index.php");
 
 // include_once("Other/VIP360_Acquisition/index.php");
 
@@ -14,7 +22,7 @@ include_once("Other/MidnightSale_011918/index.php");
 
 // include_once("Other/NewJanuaryRebates/index.php");
 
-// include_once("Other/SnapshotTemplate2/index.php");
+//include_once("Other/SnapshotTemplate2/index.php");
 
 // include_once("Other/FlashFriday122818/index.php");
 
@@ -24,7 +32,7 @@ include_once("Other/MidnightSale_011918/index.php");
 
 // include_once("Other/FlashFriday122018/index.php");
 
-//include_once("Other/MidnightSale/index.php");
+// include_once("Other/MidnightSale/index.php");
 
 // include_once("Other/HolidayBestsellersLC/index.php");
 

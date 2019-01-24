@@ -41,19 +41,21 @@
 				<tbody>
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
-
-          <?php //$utm = "Email_VIP360_Acquisition_081518_VIPAqs"; ?>
-          <?php $utm = "Email_Welcome3_011519_WLCM-3"; ?>
-          <?php $ttl = "Into photography, video or audio? You’ll want to feed your passion with these great benefits. "; ?>
-
-					<?php include_once("Other/blocks/header.php"); ?>		
+					
+					<?php $utm = "Email_JanuaryBundlesLC_012518"; ?>
+					
+					<?php $ttl = "Last chance to get free gear when you buy select cameras and lenses from top brands"; ?>
+					
+					<?php include_once("Other/blocks/header.php"); ?>
+					
+					<?php include_once("Other/JanuaryBundlesLC/p_1.php"); ?>
+          <?php include_once("Other/JanuaryBundlesLC/p_3.php"); ?>
+          <?php include_once("Other/JanuaryBundlesLC/p_2.php"); ?>
           
-					<?php include_once("Other/VIP360_Acquisition/p_1.php"); ?>
-          <?php //include_once("Welcome/Welcome_3_r/p_3.php"); ?>          
-          <?php //include_once("Other/VIP360_Acquisition/p_2.php"); ?>
-          <?php include_once("Other/VIP360_Acquisition/p_3.php"); ?>
+           <?php include_once("Other/JanuaryBundlesLC/p_4.php"); ?> 
+           <?php include_once("Other/JanuaryBundlesLC/p_5.php"); ?>
 
-
+					
 					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>					
 					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>					
 					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>				
@@ -68,7 +70,7 @@
 	</tbody>
 </table>
 </div>
-<div style="display:none !important; padding:0 !important;">
+	<div style="display:none !important; padding:0 !important;">
 <img src="http://svopn.adorama.com/?sv_cid=2620_03922&sv_emopen=true&sv_svemi=##GUID##" height="1" width="1" style="display:none !important;"/>
 </div>
 </body>
