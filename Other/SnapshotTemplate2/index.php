@@ -42,9 +42,9 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_012519"; ?>
+					<?php $utm = "Email_Snapshot_012919"; ?>
 					
-					<?php $ttl = "Save 57% on Klipsch Floorstanding Speaker. This deal won't last long so shop NOW!"; ?>
+					<?php $ttl = "Save 37% on Lexar JumpDrive 128 GB Flash Drive. Shop now!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					

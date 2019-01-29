@@ -41,19 +41,35 @@
 				<tbody>
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
-
-          <?php $utm = "Email_FinancingOpenToBuy_012919"; ?>
-          <?php $ttl = "Get the gear you had your eye on, and enjoy flexible financing options - today and for future purchases."; ?>
-
-					<?php include_once("Other/blocks/header.php"); ?>		
-          
-					<?php include_once("Financing/OpenToBuy/p_1.php"); ?>
-          <?php include_once("Financing/OpenToBuy/p_2.php"); ?>
-          <?php include_once("Financing/OpenToBuy/p_3.php"); ?>          
 					
-					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>							
-					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>	
-					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
+					<?php $utm = "Email_ExpiringJanuaryRebatesBrowsed_013019"; ?>
+					
+					<?php $ttl = "Enjoy HUGE savings on ##second_level_category## rebates before they expire"; ?>
+					
+					<?php include_once("Other/blocks/header.php"); ?>
+					
+					<?php //include_once("Other/ExpiringJanuaryRebates/p_1.php"); ?>
+          
+          <?php //include_once("Other/ExpiringJanuaryRebates/p_1_fuji.php"); ?>
+          <?php //include_once("Other/ExpiringJanuaryRebates/p_1_canon.php"); ?>
+          <?php //include_once("Other/ExpiringJanuaryRebates/p_1_nikon.php"); ?>
+          <?php //include_once("Other/ExpiringJanuaryRebates/p_1_sony.php"); ?>
+          <?php //include_once("Other/ExpiringJanuaryRebates/p_1_panasonic.php"); ?>
+          
+          <?php include_once("Other/ExpiringJanuaryRebates/p_1_top.php"); ?>
+          <?php include_once("Other/ExpiringJanuaryRebates/p_1_c.php"); ?>
+          <?php include_once("Other/ExpiringJanuaryRebates/p_1_bottom.php"); ?>
+          
+          <?php include_once("Other/ExpiringJanuaryRebates/p_2.php"); ?>
+          <?php include_once("Other/ExpiringJanuaryRebates/p_3.php"); ?>
+          <?php include_once("Other/ExpiringJanuaryRebates/p_4.php"); ?>
+          
+          <?php include_once("Other/ExpiringJanuaryRebates/p_5.php"); ?>
+				
+					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>					
+					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>					
+					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>				
+					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>	
 					
 					<?php include_once("Other/blocks/footer.php"); ?>
 					
@@ -64,7 +80,7 @@
 	</tbody>
 </table>
 </div>
-<div style="display:none !important; padding:0 !important;">
+	<div style="display:none !important; padding:0 !important;">
 <img src="http://svopn.adorama.com/?sv_cid=2620_03922&sv_emopen=true&sv_svemi=##GUID##" height="1" width="1" style="display:none !important;"/>
 </div>
 </body>
