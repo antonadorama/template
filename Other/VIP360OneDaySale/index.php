@@ -42,30 +42,29 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_020119"; ?>
+					<?php $utm = "Email_VIP360OneDaySaleExtended_020219"; ?>
 					
-					<?php $ttl = "50% OFF Klipsch 2 Pack Floorstanding Home Speakers. Shop now"; ?>
+					<?php $ttl = "Take advantage of one extra day of savings, don't miss these deals!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
-					
           
-					<?php include_once("Other/SnapshotTemplate2/snapshot_header.php"); ?>
+          <?php include_once("Other/VIP360OneDaySale/p_0.php"); ?>
 					
-					<?php //include_once("Other/SnapshotTemplate/p_1.php"); ?>
+					<?php include_once("Other/VIP360OneDaySale/p_1.php"); ?>
+          <?php include_once("Other/VIP360OneDaySale/p_2.php"); ?>      
+          <?php include_once("Other/VIP360OneDaySale/p_3.php"); ?>
+          <?php include_once("Other/VIP360OneDaySale/p_4.php"); ?> 
+          <?php include_once("Other/VIP360OneDaySale/p_5.php"); ?> 
+          <?php include_once("Other/VIP360OneDaySale/p_6.php"); ?> 
+          <?php include_once("Other/VIP360OneDaySale/p_7.php"); ?> 
+
+				
+					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>					
+					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>					
+					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>				
+					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>	
 					
-					<?php include_once("Other/SnapshotTemplate2/devider.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate2/countdown_split.php"); ?>
-									
-					<?php include_once("Other/SnapshotTemplate2/snapshot.php"); ?>						
-					
-					<?php include_once("Other/SnapshotTemplate2/snapshot_footer.php"); ?>
-          
-          <?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>					
-					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>	
-					<?php include_once("Other/SnapshotTemplate2/spotlight.php"); ?>
-					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>								
-					<?php include_once("Other/blocks/footer.php"); ?>     
+					<?php include_once("Other/blocks/footer.php"); ?>
 					
 				</tbody>
 			</table>

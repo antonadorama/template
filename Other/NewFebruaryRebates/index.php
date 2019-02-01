@@ -42,30 +42,40 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_020119"; ?>
+					<?php $utm = "Email_NewFebruaryRebatesBrowsed_020319"; ?>
 					
-					<?php $ttl = "50% OFF Klipsch 2 Pack Floorstanding Home Speakers. Shop now"; ?>
+					<?php $ttl = "New instant rebates on ##second_level_category## - check it out!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
+					<?php //include_once("Other/NewFebruaryRebates/p_1.php"); ?>
           
-					<?php include_once("Other/SnapshotTemplate2/snapshot_header.php"); ?>
-					
-					<?php //include_once("Other/SnapshotTemplate/p_1.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate2/devider.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate2/countdown_split.php"); ?>
-									
-					<?php include_once("Other/SnapshotTemplate2/snapshot.php"); ?>						
-					
-					<?php include_once("Other/SnapshotTemplate2/snapshot_footer.php"); ?>
           
-          <?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>					
-					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>	
-					<?php include_once("Other/SnapshotTemplate2/spotlight.php"); ?>
-					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>								
-					<?php include_once("Other/blocks/footer.php"); ?>     
+          <?php //include_once("Other/NewFebruaryRebates/p_1_canon.php"); ?>
+         <?php //include_once("Other/NewFebruaryRebates/p_1_fuji.php"); ?>          
+          <?php //include_once("Other/NewFebruaryRebates/p_1_nikon.php"); ?>
+          <?php //include_once("Other/NewFebruaryRebates/p_1_panasonic.php"); ?>
+          
+          <?php include_once("Other/NewFebruaryRebates/p_1_top.php"); ?>
+          <?php include_once("Other/NewFebruaryRebates/p_1_c.php"); ?>
+          <?php include_once("Other/NewFebruaryRebates/p_1_bottom.php"); ?>          
+
+          <?php include_once("Other/NewFebruaryRebates/p_1_1.php"); ?>
+          <?php include_once("Other/NewFebruaryRebates/p_2.php"); ?>
+          <?php include_once("Other/NewFebruaryRebates/p_3.php"); ?>
+          <?php include_once("Other/NewFebruaryRebates/p_4.php"); ?>
+          
+          <?php //include_once("Other/NewFebruaryRebates/nikon.php"); ?>
+          <?php //include_once("Other/NewFebruaryRebates/sony.php"); ?>
+          <?php //include_once("Other/NewFebruaryRebates/gopro.php"); ?>
+          <?php //include_once("Other/NewFebruaryRebates/wacom.php"); ?>
+				
+					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>					
+					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>					
+					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>				
+					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>	
+					
+					<?php include_once("Other/blocks/footer.php"); ?>
 					
 				</tbody>
 			</table>
