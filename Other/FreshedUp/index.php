@@ -42,30 +42,34 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_020519"; ?>
+					<?php $utm = "Email_FreshedUpLC_021019"; ?>
 					
-					<?php $ttl = "Shop now and save 19% on Asus VivoBook Pro Notebook"; ?>
+					<?php $ttl = "Shop Refurbished Items now to save big"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
+					<?php //include_once("Other/FreshedUp/p_1.php"); ?>
+
+          <?php include_once("Other/FreshedUp/p_1_lc.php"); ?>
+          <?php include_once("Other/FreshedUp/p_2_lc.php"); ?>
+          <?php include_once("Other/FreshedUp/p_3_lc.php"); ?>
           
-					<?php include_once("Other/SnapshotTemplate2/snapshot_header.php"); ?>
-					
-					<?php //include_once("Other/SnapshotTemplate/p_1.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate2/devider.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate2/countdown_split.php"); ?>
-									
-					<?php include_once("Other/SnapshotTemplate2/snapshot.php"); ?>						
-					
-					<?php include_once("Other/SnapshotTemplate2/snapshot_footer.php"); ?>
+          <?php //include_once("Other/FreshedUp/p_1_top.php"); ?>
+          <?php //include_once("Other/FreshedUp/p_1_c.php"); ?>
+          <?php //include_once("Other/FreshedUp/p_1_bottom.php"); ?>          
+
+          <?php //include_once("Other/FreshedUp/p_2.php"); ?>
+          <?php //include_once("Other/FreshedUp/p_3.php"); ?>
+          <?php include_once("Other/FreshedUp/p_4.php"); ?>
           
-          <?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>					
-					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>	
-					<?php include_once("Other/SnapshotTemplate2/spotlight.php"); ?>
-					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>								
-					<?php include_once("Other/blocks/footer.php"); ?>     
+          
+				
+					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>					
+					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>					
+					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>				
+					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>	
+					
+					<?php include_once("Other/blocks/footer.php"); ?>
 					
 				</tbody>
 			</table>
