@@ -25,7 +25,8 @@
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
 		<?php //include_once("Other/blocks/style_5.php"); ?>		
-		<?php include_once("FirstTimeBuyers/blocks/style_5.php"); ?>	
+		<?php include_once("FirstTimeBuyers/blocks/style_5.php"); ?>
+		
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -42,30 +43,24 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_021519"; ?>
+          <?php $utm = "Email_GiftsYoullLove_021419"; ?>
 					
-					<?php $ttl = "Canon Wireless Laser Printer now 40% off, don't miss this deal!"; ?>
+					<?php $ttl = "Shop Valentine's Day Gifts & check out our Specials of the Month!"; ?>
 					
-					<?php include_once("Other/blocks/header.php"); ?>
+					<?php include_once("Other/blocks/header.php"); ?>					
+		
+					<?php include_once("Other/GiftsYoullLove/p_1.php"); ?>
+          <?php include_once("Other/GiftsYoullLove/p_2.php"); ?>
+          <?php include_once("Other/GiftsYoullLove/p_3.php"); ?>
+          <?php include_once("Other/GiftsYoullLove/p_4.php"); ?>
+
 					
-          
-					<?php include_once("Other/SnapshotTemplate2/snapshot_header.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>							
+					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>						
+					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
 					
-					<?php //include_once("Other/SnapshotTemplate/p_1.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate2/devider.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate2/countdown_split.php"); ?>
-									
-					<?php include_once("Other/SnapshotTemplate2/snapshot.php"); ?>						
-					
-					<?php include_once("Other/SnapshotTemplate2/snapshot_footer.php"); ?>
-          
-          <?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>					
-					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>	
-					<?php include_once("Other/SnapshotTemplate2/spotlight.php"); ?>
-					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>								
-					<?php include_once("Other/blocks/footer.php"); ?>     
+					<?php include_once("Other/blocks/footer.php"); ?>
 					
 				</tbody>
 			</table>
