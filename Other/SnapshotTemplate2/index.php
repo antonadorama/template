@@ -42,9 +42,9 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_021519"; ?>
+					<?php $utm = "Email_Snapshot_021919"; ?>
 					
-					<?php $ttl = "Canon Wireless Laser Printer now 40% off, don't miss this deal!"; ?>
+					<?php $ttl = "Shop now and save 29% on our Yamaha RX-V2085 Ultra HD 4K 9.2-Channel Network AV Receiver"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
