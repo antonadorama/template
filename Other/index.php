@@ -1,5 +1,7 @@
 <?php 
 
+include_once("Other/FiveStarFav/index.php");
+
 // include_once("Other/GiftsYoullLove/index.php");
 
 // include_once("Other/FreshedUp/index.php");
@@ -8,7 +10,7 @@
 
 // include_once("Other/VIP360OneDaySale/index.php");
 
-include_once("Other/SnapshotTemplate2/index.php");
+//include_once("Other/SnapshotTemplate2/index.php");
 
 // include_once("Other/ExpiringJanuaryRebates/index.php");
 
