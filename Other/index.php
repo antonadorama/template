@@ -1,6 +1,8 @@
 <?php 
 
-include_once("Other/NewMarchRebates/index.php");
+include_once("Other/SnapshotTemplate2/index.php");
+
+// include_once("Other/NewMarchRebates/index.php");
 
 // include_once("Other/NewInMarch/index.php");
 
@@ -22,7 +24,7 @@ include_once("Other/NewMarchRebates/index.php");
 
 // include_once("Other/VIP360OneDaySale/index.php");
 
-// include_once("Other/SnapshotTemplate2/index.php");
+
 
 // include_once("Other/ExpiringJanuaryRebates/index.php");
 

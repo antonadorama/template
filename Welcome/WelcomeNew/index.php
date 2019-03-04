@@ -42,30 +42,47 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_030519"; ?>
+					<?php $utm = "Email_WelcomeNew"; ?>
 					
-					<?php $ttl = "Save 28% on Rokinon 24mm F2.8 Full Frame Auto Focus Lens for Sony E - shop now!"; ?>
+					<?php $ttl = "TTL"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
+					<?php include_once("Welcome/WelcomeNew/p_1.php"); ?>
+          <?php include_once("Welcome/WelcomeNew/p_2.php"); ?>   
           
-					<?php include_once("Other/SnapshotTemplate2/snapshot_header.php"); ?>
-					
-					<?php //include_once("Other/SnapshotTemplate/p_1.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate2/devider.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate2/countdown_split.php"); ?>
-									
-					<?php include_once("Other/SnapshotTemplate2/snapshot.php"); ?>						
-					
-					<?php include_once("Other/SnapshotTemplate2/snapshot_footer.php"); ?>
+          <?php include_once("Welcome/WelcomeNew/p_3.php"); ?>   
           
-          <?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>					
-					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>	
-					<?php include_once("Other/SnapshotTemplate2/spotlight.php"); ?>
-					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>								
-					<?php include_once("Other/blocks/footer.php"); ?>     
+          <?php include_once("Welcome/WelcomeNew/p_5.php"); ?>
+          <?php include_once("Welcome/WelcomeNew/p_6.php"); ?>
+          
+          <?php include_once("Welcome/WelcomeNew/p_7.php"); ?>
+          <?php include_once("Welcome/WelcomeNew/p_8.php"); ?>
+          <?php include_once("Welcome/WelcomeNew/p_9.php"); ?>
+          
+          <?php include_once("Welcome/WelcomeNew/p_10.php"); ?>
+          <?php include_once("Welcome/WelcomeNew/p_11.php"); ?>
+          <?php include_once("Welcome/WelcomeNew/p_12.php"); ?>
+          <?php include_once("Welcome/WelcomeNew/p_13.php"); ?>
+          <?php include_once("Welcome/WelcomeNew/p_14.php"); ?>          
+          
+          <?php include_once("Welcome/WelcomeNew/p_15.php"); ?>
+          <?php include_once("Welcome/WelcomeNew/p_16.php"); ?>
+          <?php include_once("Welcome/WelcomeNew/p_17.php"); ?>
+          
+          <?php include_once("Welcome/WelcomeNew/p_18.php"); ?>
+          
+          <?php include_once("Welcome/WelcomeNew/p_19.php"); ?>
+          
+          <?php include_once("Welcome/WelcomeNew/p_20.php"); ?>
+          
+				
+					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>					
+					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>					
+					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>				
+					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>	
+					
+					<?php include_once("Other/blocks/footer.php"); ?>
 					
 				</tbody>
 			</table>
