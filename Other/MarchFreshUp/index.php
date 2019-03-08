@@ -42,30 +42,29 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_030819"; ?>
+					<?php $utm = "Email_MarchFreshUpBrowsed_030919"; ?>
 					
-					<?php $ttl = "Dell UltraSharp LED Monitor is now 28% off!"; ?>
+					<?php $ttl = "Freshen up for March - shop ##second_level_category## refurbished deals now"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
+					<?php //include_once("Other/MarchFreshUp/p_1.php"); ?>
+         
+          <?php include_once("Other/MarchFreshUp/p_1_top.php"); ?>
+          <?php include_once("Other/MarchFreshUp/p_1_c.php"); ?>
+          <?php include_once("Other/MarchFreshUp/p_1_bottom.php"); ?>
           
-					<?php include_once("Other/SnapshotTemplate2/snapshot_header.php"); ?>
+          <?php include_once("Other/MarchFreshUp/p_2.php"); ?>
+          <?php include_once("Other/MarchFreshUp/p_3.php"); ?>
+          <?php include_once("Other/MarchFreshUp/p_4.php"); ?>        
+           
+				
+					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>					
+					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>					
+					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>				
+					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>	
 					
-					<?php //include_once("Other/SnapshotTemplate/p_1.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate2/devider.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate2/countdown_split.php"); ?>
-									
-					<?php include_once("Other/SnapshotTemplate2/snapshot.php"); ?>						
-					
-					<?php include_once("Other/SnapshotTemplate2/snapshot_footer.php"); ?>
-          
-          <?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>					
-					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>	
-					<?php include_once("Other/SnapshotTemplate2/spotlight.php"); ?>
-					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>								
-					<?php include_once("Other/blocks/footer.php"); ?>     
+					<?php include_once("Other/blocks/footer.php"); ?>
 					
 				</tbody>
 			</table>
