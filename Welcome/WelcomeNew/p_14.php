@@ -13,14 +13,14 @@
               <tbody>
                 <tr>
                   <td>
-                      <a href="https://www.adorama.com/?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                      <a href="https://www.adorama.com/l/Computers?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          linkname="ComputersCategory" target="_blank">
                         <img src="https://www.adorama.com/col/images/email/Welcome/Welcome-Email-01_20.jpg" 
                              alt="Computers Category" width="100%" height="auto" border="0" style="display:inline;">
                       </a>
                   </td>
                   <td>
-                    <a href="https://www.adorama.com/?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                    <a href="https://www.adorama.com/l/Home-Entertainment/Home-Theater?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                        linkname="HomeTheaterCategory" target="_blank">
                       <img src="https://www.adorama.com/col/images/email/Welcome/Welcome-Email-01_21.jpg" 
                            alt="Home Theater Category" width="100%" height="auto" border="0" style="display:inline;">

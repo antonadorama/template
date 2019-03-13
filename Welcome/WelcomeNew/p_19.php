@@ -13,7 +13,7 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
+                    <a href="https://www.instagram.com/adorama/" target="_blank" 
                        linkname="GetInspiredWithAdorama">
                     <img src="https://www.adorama.com/col/images/email/Welcome/Welcome-Email-01_28.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;line-height:0 !important; font-size:0 !important;" class="mobile-full" 
                          alt="Get Inspired With Adorama" hspace="0" border="0" vspace="0" width="640">

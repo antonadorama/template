@@ -1,6 +1,6 @@
 <?php  include_once("Welcome/WelcomeNew/index.php"); ?>
 
-<?php //include_once("Other/VIP360_Acquisition/index.php"); ?> //Welcome 3 Since 011519
+<?php //include_once("Other/VIP360_Acquisition/index.php"); ?> <!-- Welcome 3 Since 011519-->
 
 <?php  // include_once("Welcome/Welcome_2_r/index.php"); ?>
 

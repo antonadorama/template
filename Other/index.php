@@ -1,10 +1,10 @@
 <?php 
 
-include_once("Other/DaylightSavings/index.php");
+// include_once("Other/DaylightSavings/index.php");
 
 // include_once("Other/MarchFreshUp/index.php");
 
-// include_once("Other/SnapshotTemplate2/index.php");
+include_once("Other/SnapshotTemplate2/index.php");
 
 // include_once("Other/NewMarchRebates/index.php");
 

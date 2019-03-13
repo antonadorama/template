@@ -51,7 +51,9 @@
 					<?php include_once("Welcome/WelcomeNew/p_1.php"); ?>
           <?php include_once("Welcome/WelcomeNew/p_2.php"); ?>   
           
-          <?php include_once("Welcome/WelcomeNew/p_3.php"); ?>   
+          <?php //include_once("Welcome/WelcomeNew/p_3.php"); ?>
+          <?php include_once("Welcome/WelcomeNew/2citerec_1.php"); ?>
+          <?php include_once("Welcome/WelcomeNew/2citerec_2.php"); ?>
           
           <?php include_once("Welcome/WelcomeNew/p_5.php"); ?>
           <?php include_once("Welcome/WelcomeNew/p_6.php"); ?>
@@ -78,9 +80,10 @@
           
 				
 					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>					
-					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>					
+					<?php //include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>
+          	<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>	
 					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>				
-					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>	
+				
 					
 					<?php include_once("Other/blocks/footer.php"); ?>
 					
