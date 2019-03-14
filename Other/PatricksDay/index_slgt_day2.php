@@ -42,30 +42,33 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Snapshot_031519"; ?>
+					<?php $utm = "Email_PatricksDayDay2_031619"; ?>
 					
-					<?php $ttl = "Take 25% off G-Technology G-DRIVE 4TB External Hard Drive While This Snapshot Deal Lasts >>"; ?>
+					<?php $ttl = "Take up to 60% off this weekend only // Check out these golden deals"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
+					<?php //include_once("Other/PatricksDay/p_1_preview.php"); ?>
+          <?php include_once("Other/PatricksDay/p_1_day2.php"); ?>
           
-					<?php include_once("Other/SnapshotTemplate2/snapshot_header.php"); ?>
-					
-					<?php //include_once("Other/SnapshotTemplate/p_1.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate2/devider.php"); ?>
-					
-					<?php include_once("Other/SnapshotTemplate2/countdown_split.php"); ?>
-									
-					<?php include_once("Other/SnapshotTemplate2/snapshot.php"); ?>						
-					
-					<?php include_once("Other/SnapshotTemplate2/snapshot_footer.php"); ?>
+          <?php include_once("Other/PatricksDay/p_2.php"); ?>
+          <?php include_once("Other/PatricksDay/p_3.php"); ?>
+          <?php include_once("Other/PatricksDay/p_4.php"); ?>
+          <?php include_once("Other/PatricksDay/p_5.php"); ?>
+          <?php include_once("Other/PatricksDay/p_6.php"); ?>
+          <?php include_once("Other/PatricksDay/p_7.php"); ?>
           
-          <?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>					
-					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>	
-					<?php include_once("Other/SnapshotTemplate2/spotlight.php"); ?>
-					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>								
-					<?php include_once("Other/blocks/footer.php"); ?>     
+          <?php //include_once("Other/PatricksDay/p_1_top.php"); ?>
+          <?php //include_once("Other/PatricksDay/p_1_c.php"); ?>
+          <?php //include_once("Other/PatricksDay/p_1_bottom.php"); ?>   
+           
+				
+					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>					
+					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>					
+					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>				
+					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>	
+					
+					<?php include_once("Other/blocks/footer.php"); ?>
 					
 				</tbody>
 			</table>

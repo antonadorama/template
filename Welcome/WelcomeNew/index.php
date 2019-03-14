@@ -76,7 +76,7 @@
           
           <?php include_once("Welcome/WelcomeNew/p_19.php"); ?>
           
-          <?php include_once("Welcome/WelcomeNew/p_20.php"); ?>
+          <?php include_once("Welcome/WelcomeNew/p_21.php"); ?>
           
 				
 					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>					
