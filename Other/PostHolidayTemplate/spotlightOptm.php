@@ -1,4 +1,4 @@
-<!-- Banner Section -->
+<!-- Content Banner -->
 
 <tr>
   <td>
@@ -13,10 +13,10 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/alc/the-essential-travel-photography-equipment-you-must-have-on-every-trip?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
-                       linkname="ALCArticle1">
-                    <img src="https://www.adorama.com/col/images/email/Optimail/TravelGear/Travel-Gear-and-Accessories--Main-Email-MKT-22506_10.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;line-height:0 !important; font-size:0 !important;" class="mobile-full" 
-                         alt="ALC Article 1" hspace="0" border="0" vspace="0" width="640">
+                    <a href="https://c38.dyneml.com/campaign/4624563504714/37888/nav.html?_=1553529287&dm_dpid=${deploymentID}&dm_uid=${uid}&utm_campaign=<?php echo $utm;?>&email=##email_address##&guid=##GUID##" target="_blank" 
+                       linkname="ContentBanner">
+                    <img src="https://c38.dyneml.com/campaign/4624563504714/37888/image_swap.png?_=1553529287&dm_dpid=${deploymentID}&dm_uid=${uid}" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
+                         alt="Content Banner" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>
                 </tr>
@@ -31,4 +31,4 @@
   </td>
 </tr>  
 
-<!-- End Banner Section -->
+<!-- Content Banner -->
