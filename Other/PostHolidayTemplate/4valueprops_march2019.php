@@ -54,7 +54,7 @@
 													<td align="center" valign="top" height="40" class="title" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #114998">
 														
 															<a linkname="Adorama_Credit" href="https://www.adorama.com/g/adorama-credit?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=ValuePropFinancing&utm_content=Body&utm_campaign=<?php echo $utm;?>">
-																<font color="#333333"><strong>12 Month Financing with Adorama Credit Card*</strong></font>
+																<font color="#333333"><strong>Get Up To 12 Months Special Financing*</strong></font>
 															</a>
 													</td>
 												</tr>

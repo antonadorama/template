@@ -42,50 +42,30 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_WelcomeNew"; ?>
+					<?php $utm = "Email_Finanicng_PreScreen"; ?>
 					
-					<?php $ttl = "TTL"; ?>
+					<?php $ttl = "We’re holding your PRE-APPROVED status until XX/XX/XXXX."; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>
 					
-					<?php include_once("Welcome/WelcomeNew/p_1.php"); ?>
-          <?php include_once("Welcome/WelcomeNew/p_2.php"); ?>   
+					<?php include_once("Financing/PreScreen/p_1.php"); ?>
+          <?php include_once("Financing/PreScreen/p_2.php"); ?>
           
-          <?php //include_once("Welcome/WelcomeNew/p_3.php"); ?>
-          <?php include_once("Welcome/WelcomeNew/2citerec_1.php"); ?>
-          <?php include_once("Welcome/WelcomeNew/2citerec_2.php"); ?>
-          
-          <?php include_once("Welcome/WelcomeNew/p_5.php"); ?>
-          <?php include_once("Welcome/WelcomeNew/p_6.php"); ?>
-          
-          <?php include_once("Welcome/WelcomeNew/p_7.php"); ?>
-          <?php include_once("Welcome/WelcomeNew/p_8.php"); ?>
-          <?php include_once("Welcome/WelcomeNew/p_9.php"); ?>
-          
-          <?php include_once("Welcome/WelcomeNew/p_10.php"); ?>
-          <?php include_once("Welcome/WelcomeNew/p_11.php"); ?>
-          <?php include_once("Welcome/WelcomeNew/p_12.php"); ?>
-          <?php include_once("Welcome/WelcomeNew/p_13.php"); ?>
-          <?php include_once("Welcome/WelcomeNew/p_14.php"); ?>          
-          
-          <?php include_once("Welcome/WelcomeNew/p_15.php"); ?>
-          <?php include_once("Welcome/WelcomeNew/p_16.php"); ?>
-          <?php include_once("Welcome/WelcomeNew/p_17.php"); ?>
-          
-          <?php include_once("Welcome/WelcomeNew/p_18.php"); ?>
-          
-          <?php include_once("Welcome/WelcomeNew/p_19.php"); ?>
-          
-          <?php include_once("Welcome/WelcomeNew/p_21.php"); ?>
+          <?php include_once("Financing/PreScreen/p_3_1.php"); ?>
+          <?php include_once("Financing/PreScreen/p_3_2.php"); ?>
+          <?php include_once("Financing/PreScreen/p_3_3.php"); ?>
+
+           <?php include_once("Financing/PreScreen/p_6.php"); ?>
+          <?php include_once("Financing/PreScreen/p_4.php"); ?>
           
 				
 					<?php include_once("Other/PostHolidayTemplate/FeaturedBannerOptm.php"); ?>					
-					<?php //include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>
           <?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>	
 					<?php include_once("Other/PostHolidayTemplate/spotlightOptm.php"); ?>				
 				
 					
-					<?php include_once("Other/blocks/footer.php"); ?>
+					<?php include_once("Financing/PreScreen/footer.php"); ?>
 					
 				</tbody>
 			</table>

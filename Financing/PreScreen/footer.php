@@ -226,6 +226,22 @@
               <p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">
               *Promotional financing available with Adorama Credit Card Accounts offered by Comenity Capital Bank which determines qualifications for credit and promotion eligibility. $500 minimum purchase online at Adorama with your Adorama Credit Card and minimum monthly payments are required.
               </p>
+                            <p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">
+                              ^Interest will be charged to your Account <strong>from the purchase date</strong> 
+                              if the promotional plan balance is not paid in full within the promotional period.
+                              Minimum payments are required for each Credit Plan. 
+                              The sum of the required payments each billing period won’t be less than $30 (or Account balance if less). 
+                              <strong>Minimum payments are NOT guaranteed to pay the promotional plan balance within the promotional period.
+                                You may have to pay more than the minimum payment to avoid accrued interest charges.</strong> 
+                                Some balances may be paid off before the promotional period ends. 
+                              Your minimum payment may be higher than if you did not select promotional financing. 
+                              Valid for single transaction only of select brands and products listed at 
+                              <font color="026ab3">https://www.adorama.com/g/pro-audio-credit</font>. Subject to credit approval. 
+                              As of April,2019: terms for New Accounts: purchase APR of 29.99%. 
+                              Minimum interest charge of $2 per Credit Plan in any billing period in which interest is due. 
+                              Existing Cardholders: see your credit card agreement for Account terms. 
+                              Adorama Credit Card Accounts are issued by Comenity Capital Bank.  
+              </p>
 
              <p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">
 							Please add 
