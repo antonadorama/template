@@ -25,14 +25,14 @@
                          bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="640">
               <tbody>
                 <tr>
-                  <td style="text-align: center; font-size: 19px; 
+                  <td style="text-align: center; font-size: 16px; 
                              font-family: Arial, Helvetica, sans-serif; 
                              color: #3d3d3d; 
                              padding-top:10px; padding-bottom:40px; line-height:26px;" 
                       class="" align="center">
                   
-                  Open your Adorama Credit Card Account by XX/XX/XXXX.<br />
-                    Use priority code XXXXX
+                  To accept your pre-approved offer click the link below by XX/XX/XXXX.<br />
+                    Use priority code XXXXXXXXXXXX
                  
                   </td>
                 </tr>
@@ -49,7 +49,7 @@
     <center>
   <![endif]-->
       <a href="https://www.adorama.com/?emailprice=t&utm_source=slgt&utm_medium=email&guid=##GUID##&utm_content=Body&utm_campaign=<?php echo $utm;?>"
-style="background-color:#026ab3;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:13px;font-weight:bold;line-height:40px;text-align:center;text-decoration:none;width:240px;-webkit-text-size-adjust:none;">OPEN MY ACCOUNT</a>
+style="background-color:#026ab3;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:13px;font-weight:bold;line-height:40px;text-align:center;text-decoration:none;width:240px;-webkit-text-size-adjust:none;">ACCEPT OFFER</a>
   <!--[if mso]>
     </center>
   </v:rect>

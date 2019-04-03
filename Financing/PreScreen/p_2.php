@@ -13,23 +13,23 @@
                              font-family: Arial, Helvetica, sans-serif; 
                              color: #026ab3; text-align: center; padding-top:40px;" 
                       align="left" bgcolor="#ffffff" class="fin_header">
-                    Congratulations<br /> [Customer]!</td>
+                    Congratulations<br /> Diana Tabakina!</td>
               </tr>
 
               <tr>
                   <td align="center">
                   <!-- Customer Intro Line -->
                   <table style="border-collapse: separate;border-spacing: 0px;
-                                padding-right: 0;width: 100%;max-width: 490px;background-color: #fff;" 
+                                padding-right: 0;width: 100%;max-width: 510px;background-color: #fff;" 
                          class="vb-container fullpad" bgcolor="#ffffff" border="0" 
-                         cellpadding="0" cellspacing="0" width="490">
+                         cellpadding="0" cellspacing="0" width="510">
               <tbody>
                 <tr>
-                  <td style="text-align: center; font-size: 19px; 
+                  <td style="text-align: center; font-size: 16px; 
                              font-family: Arial, Helvetica, sans-serif; color: #3d3d3d; 
                              padding-top:20px; padding-bottom:20px; line-height:26px;" 
                       class="" align="center">
-                  You've been <strong>pre-approved</strong> for an Adorama Credit Card. Just use the Priority Code below and your next Adorama purchase comes with:
+                  You've been <strong>pre-approved</strong> for an Adorama Credit Card.<sup>1</sup> Just use the Priority Code below and your next Adorama purchase comes with:
                   
                   </td>
                 </tr>

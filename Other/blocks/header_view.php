@@ -5,8 +5,8 @@
 							<tbody>
 								<tr>
 									<td class="logobrowser" style="width: 470px; color: #A7A9AC; font-size: 14px; padding: 20px 0;">
-										<span class="offer"><?php echo $ttl; ?></span>
-                  
+										<span class="offer"><?php echo $ttl; ?><span class="line_hide">&#32;|&#32;</span></span>
+                    <a href="" linkname="View In Browser" style="color: #A7A9AC; text-decoration: underline" target="_blank">view in a browser</a>
                   </td>
 									<td align="right" class="socialtopblock" style="color: #A7A9AC; font-size: 14px; padding-top: 15px; padding-bottom: 10px">
                     <a class="socialtop" href="https://www.facebook.com/Adorama" linkname="Facebook" style="padding: 15px 3px; text-decoration: none" target="_blank">

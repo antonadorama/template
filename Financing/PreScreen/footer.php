@@ -242,6 +242,9 @@
                               Existing Cardholders: see your credit card agreement for Account terms. 
                               Adorama Credit Card Accounts are issued by Comenity Capital Bank.  
               </p>
+                            <p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">
+                              <sup>1</sup>Subject to final credit approval. For Important Rate, Fee, and other Cost information select <strong><u><a href="https://c.comenity.net/adorama/common/Legal/schumerbox.xhtml" style="color:#A7A9AC;" target="_blank">Terms and Conditions</a></u></strong>. Adorama Credit Accounts are issued by Comenity Capital Bank.
+              </p>
 
              <p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">
 							Please add 
