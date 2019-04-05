@@ -1,8 +1,8 @@
-<!-- Featured Banner -->
+<!-- Banner Section -->
 
 <tr>
   <td>
-    <table id="ko_imageBlock_5" style="background-color: #E3E3E3;" class="vb-outer" bgcolor="#E3E3E3" border="0" cellpadding="0" cellspacing="0" width="100%">
+    <table id="ko_imageBlock_5" style="background-color: #111111;" class="vb-outer" bgcolor="#111111" border="0" cellpadding="0" cellspacing="0" width="100%">
     <tbody>
       <tr>
         <td class="vb-outer" align="center" valign="top" style="">
@@ -13,10 +13,10 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://c38.dyneml.com/campaign/4624563504714/37890/nav.html?_=1553529255&dm_dpid=${deploymentID}&dm_uid=${uid}?refby=optm&utm_campaign=<?php echo $utm;?>&email=##email_address##&guid=##GUID##&emailprice=t" target="_blank" 
-                       linkname="FeaturedBanner">
-                    <img src="https://c38.dyneml.com/campaign/4624563504714/37890/image_swap.png?_=1553529255&dm_dpid=${deploymentID}&dm_uid=${uid}" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
-                         alt="Featured Banner" hspace="0" border="0" vspace="0" width="640">
+                    <a href="https://www.adorama.com/g/nab-show-2019?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
+                       linkname="NAB Show">
+                    <img src="https://www.adorama.com/col/images/email/Optimail/NewAprilRebates/NAB_DuringShowBanner.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;line-height:0 !important; font-size:0 !important;" class="mobile-full" 
+                         alt="NAB Show" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>
                 </tr>
@@ -31,4 +31,4 @@
   </td>
 </tr>  
 
-<!-- Featured Banner -->
+<!-- End Banner Section -->

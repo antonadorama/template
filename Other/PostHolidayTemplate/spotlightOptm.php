@@ -13,7 +13,7 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://c38.dyneml.com/campaign/4624563504714/37888/nav.html?_=1553529287&dm_dpid=${deploymentID}&dm_uid=${uid}?emailprice=t&refby=optm&utm_campaign=<?php echo $utm;?>&email=##email_address##&guid=##GUID##" target="_blank" 
+                    <a href="https://c38.dyneml.com/campaign/4624563504714/37888/nav.html?_=1553529287&dm_dpid=${deploymentID}&dm_uid=${uid}?refby=optm&utm_campaign=<?php echo $utm;?>&email=##email_address##&guid=##GUID##&emailprice=t" target="_blank" 
                        linkname="ContentBanner">
                     <img src="https://c38.dyneml.com/campaign/4624563504714/37888/image_swap.png?_=1553529287&dm_dpid=${deploymentID}&dm_uid=${uid}" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
                          alt="Content Banner" hspace="0" border="0" vspace="0" width="640">

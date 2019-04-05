@@ -15,7 +15,7 @@
                   <td align="center" valign="top">
                     <a href="https://www.adorama.com/g/accessory-sale-2019?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
                        linkname="Main_Banner_Link">
-                    <img src="https://www.adorama.com/col/images/email/Optimail/AccessorySale/Accessory-Sale-Preview-MKT-22782.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;line-height:0 !important; font-size:0 !important;" class="mobile-full" 
+                    <img src="https://www.adorama.com/col/images/email/Optimail/AccessorySale/Accessory-Sale-Last-Chance-Header-MKT-22874.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;line-height:0 !important; font-size:0 !important;" class="mobile-full" 
                          alt="Main Banner" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>

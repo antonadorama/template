@@ -6,7 +6,7 @@
 
 // include_once("Other/FlashpointZoom/index.php");
 
- include_once("Other/GDPR/index.php");
+// include_once("Other/GDPR/index.php");
 
 // include_once("Other/Snooze/index.php");
 
@@ -38,7 +38,7 @@
 
 //  include_once("Other/48HoursSale_041018/index.php");
 
-// include_once("Other/Concierge2018/index.php");
+
 
 // include_once("Other/AppleSale_032218_LC/index.php");
 
