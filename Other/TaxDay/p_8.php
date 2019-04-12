@@ -13,10 +13,10 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/g/tax-day-sale-2019?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
-                       linkname="Main_Banner_Link">
-                    <img src="https://www.adorama.com/col/images/email/Optimail/TaxDay/1-Tax-Day-Email2-MKT-23285_Header.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;line-height:0 !important; font-size:0 !important;" class="mobile-full" 
-                         alt="Main Banner" hspace="0" border="0" vspace="0" width="640">
+                    <a href="https://www.adorama.com/l/Tripods-and-Supports?sel=Instant-Rebate_Yes&emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
+                       linkname="ShopByTripodsCategory">
+                    <img src="https://www.adorama.com/col/images/email/Optimail/TaxDay/5-Tripods.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;line-height:0 !important; font-size:0 !important;" class="mobile-full" 
+                         alt="Shop By Tripods Category" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>
                 </tr>

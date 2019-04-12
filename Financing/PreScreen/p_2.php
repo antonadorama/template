@@ -29,7 +29,8 @@
                              font-family: Arial, Helvetica, sans-serif; color: #3d3d3d; 
                              padding-top:20px; padding-bottom:20px; line-height:26px;" 
                       class="" align="center">
-                  You've been <strong>pre-approved</strong> for an Adorama Credit Card.<sup>1</sup> Just use the Priority Code below and your next Adorama purchase comes with:
+                  You've been <strong>pre-approved</strong> for an Adorama Credit Card.<sup>1</sup> 
+                   Use the Priority Code below and your next Adorama purchase can come with:
                   
                   </td>
                 </tr>

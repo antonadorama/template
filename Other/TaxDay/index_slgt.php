@@ -25,7 +25,8 @@
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
 		<?php //include_once("Other/blocks/style_5.php"); ?>		
-		<?php include_once("FirstTimeBuyers/blocks/style_5.php"); ?>	
+		<?php include_once("FirstTimeBuyers/blocks/style_5.php"); ?>
+		
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -42,30 +43,32 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_Finanicng_PreScreen"; ?>
+          <?php $utm = "Email_TaxDay_041419"; ?>
 					
-					<?php $ttl = "Don’t miss out, this offer expires XX/XX/XXXX"; ?>
+					<?php $ttl = "Maximize your refund!💰 Enjoy huge savings during our Tax Day Sale"; ?>
 					
-					<?php include_once("Other/blocks/header.php"); ?>
-					
-					<?php include_once("Financing/PreScreen/p_1.php"); ?>
-          <?php include_once("Financing/PreScreen/p_2.php"); ?>
+					<?php include_once("Other/blocks/header.php"); ?>   
           
-          <?php include_once("Financing/PreScreen/p_3_1.php"); ?>
-          <?php include_once("Financing/PreScreen/p_3_2.php"); ?>
-          <?php include_once("Financing/PreScreen/p_3_3.php"); ?>
-
-           <?php include_once("Financing/PreScreen/p_6.php"); ?>
-          <?php include_once("Financing/PreScreen/p_4.php"); ?>
-          
-				
-					<?php include_once("Other/PostHolidayTemplate/FeaturedBannerOptm.php"); ?>					
-					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>
-          <?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>	
-					<?php include_once("Other/PostHolidayTemplate/spotlightOptm.php"); ?>				
-				
+          <?php include_once("Other/TaxDay/p_1.php"); ?>
+          <?php include_once("Other/TaxDay/p_2.php"); ?>
+          <?php include_once("Other/TaxDay/p_3.php"); ?>
+          <?php include_once("Other/TaxDay/p_4.php"); ?>
+          <?php include_once("Other/TaxDay/p_5.php"); ?>
+          <?php include_once("Other/TaxDay/p_6.php"); ?>
+          <?php include_once("Other/TaxDay/p_7.php"); ?>
+          <?php include_once("Other/TaxDay/p_8.php"); ?>
+          <?php include_once("Other/TaxDay/p_9.php"); ?>
+          <?php include_once("Other/TaxDay/p_10.php"); ?>
+          <?php include_once("Other/TaxDay/p_11.php"); ?>
+          <?php include_once("Other/TaxDay/p_12.php"); ?>
+        
+          					
+					<?php include_once("Other/PostHolidayTemplate/FeaturedBannerOptm.php"); ?>
+					<?php include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>							
+					<?php include_once("Other/PostHolidayTemplate/spotlightOptm.php"); ?>						
+					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>
 					
-					<?php include_once("Financing/PreScreen/footer.php"); ?>
+					<?php include_once("Other/blocks/footer.php"); ?>
 					
 				</tbody>
 			</table>
@@ -75,7 +78,8 @@
 </table>
 </div>
 	<div style="display:none !important; padding:0 !important;">
-<img src="http://svopn.adorama.com/?sv_cid=2620_03922&sv_emopen=true&sv_svemi=##GUID##" height="1" width="1" style="display:none !important;"/>
+<img src="http://svopn.adorama.com/?sv_cid=2620_03922&sv_emopen=true&sv_svemi=##GUID##" 
+     height="1" width="1" style="display:none !important;"/>
 </div>
 </body>
 </html>
