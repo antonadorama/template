@@ -207,7 +207,7 @@
 								 linkname="MyEmail" style="color: #A7A9AC; font-size: 14px; text-decoration:none">
                 ##email_address##</a> </p>
 		                <p style="padding: 0 30px; text-align: center; margin: 2px; color: #A7A9AC;">
-                      <strong>This email may be considered promotional or advertising.</strong> If you wish to be removed from this email list, you can unsubscribe below. 
+                      <strong>This email may be considered an advertising or promotional message.</strong> If you no longer wish to receive these emails, unsubscribe using the link below. 
              </p> 
              		                <p style="padding: 0 30px; text-align: center; margin: 2px; color: #A7A9AC;">
              To manage your email preferences, <a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=manage&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=<?php echo $utm;?>#emailpref" 
@@ -224,27 +224,16 @@
 					<tr>
 						<td class="bottomfinal">
               <p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">
-              *Promotional financing available with Adorama Credit Card Accounts offered by Comenity Capital Bank which determines qualifications for credit and promotion eligibility. $500 minimum purchase online at Adorama with your Adorama Credit Card and minimum monthly payments are required.
+              <sup>1</sup>Subject to final credit approval. For Important Rate, Fee, and other Cost information select <strong><u><a href="https://c.comenity.net/adorama/common/Legal/schumerbox.xhtml" style="color:#A7A9AC;" target="_blank">Terms and Conditions</a></u></strong>.
+              </p>
+              <p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">
+              *Subject to credit approval. Valid for single transaction only.
               </p>
                             <p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">
-                              ^Interest will be charged to your Account <strong>from the purchase date</strong> 
-                              if the promotional plan balance is not paid in full within the promotional period.
-                              Minimum payments are required for each Credit Plan. 
-                              The sum of the required payments each billing period won’t be less than $30 (or Account balance if less). 
-                              <strong>Minimum payments are NOT guaranteed to pay the promotional plan balance within the promotional period.
-                                You may have to pay more than the minimum payment to avoid accrued interest charges.</strong> 
-                                Some balances may be paid off before the promotional period ends. 
-                              Your minimum payment may be higher than if you did not select promotional financing. 
-                              Valid for single transaction only of select brands and products listed at 
-                              <font color="026ab3">https://www.adorama.com/g/pro-audio-credit</font>. Subject to credit approval. 
-                              As of April,2019: terms for New Accounts: purchase APR of 29.99%. 
-                              Minimum interest charge of $2 per Credit Plan in any billing period in which interest is due. 
-                              Existing Cardholders: see your credit card agreement for Account terms. 
-                              Adorama Credit Card Accounts are issued by Comenity Capital Bank.  
+                              ^Subject to credit approval. Valid for single transaction only of select brands and products listed at 
+                              <font color="026ab3">https://www.adorama.com/g/pro-audio-credit</font>. 
               </p>
-                            <p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">
-                              <sup>1</sup>Subject to final credit approval. For Important Rate, Fee, and other Cost information select <strong><u><a href="https://c.comenity.net/adorama/common/Legal/schumerbox.xhtml" style="color:#A7A9AC;" target="_blank">Terms and Conditions</a></u></strong>. Adorama Credit Accounts are issued by Comenity Capital Bank.
-              </p>
+
 
              <p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">
 							Please add 

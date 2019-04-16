@@ -14,7 +14,7 @@
                              color: #a2a2a4; line-height:26px; padding:10px; " 
                       class="long-text links-color" align="center">
                     <i>You can choose to stop receiving "prescreened" offers of credit for this and other companies by calling toll-free 1-888-567-8688. 
-                      See <u>PRESCEEN &#38; OPT-OUT NOTICE</u> in the Terms and Conditions link bellow for more information about prescreened offers.</i>
+                      See <u>PRESCEEN &#38; OPT-OUT NOTICE</u> in the Terms and Conditions link below for more information about prescreened offers.</i>
 
                   </td>
                 </tr>
