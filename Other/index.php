@@ -1,6 +1,6 @@
 <?php 
 
-include_once("Other/AprilCameraEmail/index.php");
+//include_once("Other/AprilCameraEmail/index.php");
 
 // include_once("Other/ExpiringAprilRebates/index.php");
 
@@ -8,7 +8,7 @@ include_once("Other/AprilCameraEmail/index.php");
 
 // include_once("Other/EarthDay/index.php");
 
-// include_once("Other/VIPSale042119/index.php");
+include_once("Other/VIPSale042119/index.php");
 
 // include_once("Other/TaxDay/index.php");
 

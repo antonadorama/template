@@ -43,13 +43,14 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-          <?php $utm = "Email_OneDayVipSale_042119"; ?>
+          <?php $utm = "Email_OneDayVipSale_041219"; ?>
 					
-					<?php $ttl = "Save on cameras, computers, accessories and more!"; ?>
+					<?php $ttl = "Save on cameras, computers and more + gain hands-on experience at our upcoming event!"; ?>
 					
 					<?php include_once("Other/blocks/header.php"); ?>   
           
           <?php include_once("Other/VIPSale042119/p_1.php"); ?>
+          <?php include_once("Other/VIPSale042119/p_2.php"); ?>
 
           <?php include_once("Other/VIPSale042119/p_3.php"); ?>
           <?php include_once("Other/VIPSale042119/p_4.php"); ?>
