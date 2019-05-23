@@ -1,5 +1,13 @@
 <?php 
 
+//include_once("Other/MemorialDay1/index.php");
+
+ include_once("Other/MemorialDay4/index.php");
+
+// include_once("Other/Clearance_051419/index.php");
+
+// include_once("Other/Refurbished_051319/index.php");
+
 //include_once("Other/AprilCameraEmail/index.php");
 
 // include_once("Other/ExpiringAprilRebates/index.php");
@@ -8,7 +16,7 @@
 
 // include_once("Other/EarthDay/index.php");
 
-include_once("Other/VIPSale042119/index.php");
+//include_once("Other/VIPSale042119/index.php");
 
 // include_once("Other/TaxDay/index.php");
 
