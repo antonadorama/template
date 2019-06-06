@@ -13,9 +13,9 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://img.kickdyn.com/clickrb.ashx?c=10185.s218mIHQu8UVG6uMzVnZ&utm_campaign=<?php echo $utm;?>&email=##email_address##&guid=##GUID##" target="_blank" 
+                    <a href="https://c38.dyneml.com/campaign/4624563504714/39852/nav.html?_=1559836137&dm_dpid=${deploymentID}&dm_uid=${uid}&emailprice=t&utm_campaign=<?php echo $utm;?>&email=##email_address##&guid=##GUID##" target="_blank" 
                        linkname="SnapshotSpotlightBanner">
-                    <img src="https://img.kickdyn.com/10185/s218mIHQu8UVG6uMzVnZ/imgrb.png" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
+                    <img src="https://c38.dyneml.com/campaign/4624563504714/39852/image_swap.png?_=1559836137&dm_dpid=${deploymentID}&dm_uid=${uid}" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
                          alt="Snapshot Spotlight Banner" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>

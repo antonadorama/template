@@ -13,9 +13,9 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://img.kickdyn.com/clickrb.ashx?c=10179.NCpPg7dogizUiG35NG8K&utm_campaign=<?php echo $utm;?>&email=##email_address##&guid=##GUID##" target="_blank" 
+                    <a href="https://c38.dyneml.com/campaign/4624563504714/38536/nav.html?_=1559835893&dm_dpid=${deploymentID}&dm_uid=${uid}&emailprice=t&utm_campaign=<?php echo $utm;?>&email=##email_address##&guid=##GUID##" target="_blank" 
                        linkname="SnapshotDealFooter">
-                    <img src="https://img.kickdyn.com/10179/NCpPg7dogizUiG35NG8K/imgrb.png" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
+                    <img src="https://c38.dyneml.com/campaign/4624563504714/38536/image_swap.png?_=1559835893&dm_dpid=${deploymentID}&dm_uid=${uid}" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
                          alt="Snapshot Deal Footer" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>
