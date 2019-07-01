@@ -1,6 +1,12 @@
 <?php 
 
-include_once("Other/WeekendSummerSale/index.php");
+include_once("Other/VIPOneDaySale/index.php");
+
+// include_once("Other/BestOfJune/index.php");
+
+// include_once("Other/NationalCameraDay/index.php");
+
+// include_once("Other/WeekendSummerSale/index.php");
 
 // include_once("Other/EndOfSpring/index.php");
 
