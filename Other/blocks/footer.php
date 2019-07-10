@@ -212,7 +212,7 @@
              		                <p style="padding: 0 30px; text-align: center; margin: 2px; color: #A7A9AC;">
              To manage your email preferences, <a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=##GUID##&pageMode=manage&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=<?php echo $utm;?>#emailpref" 
 								 linkname="ManagePrefs" style="color: #A7A9AC; font-size: 14px; text-decoration:none">
-                <b>click here</b></a>. If you no longer wish to receive promotional emails from us, <a href="[%UNSUB%]" 
+                <b>click here</b></a>. If you no longer wish to receive promotional emails from us, <a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=[%GUID%]&pageMode=unsubscribe&utm_source=optm&email=[%EMAIL%]&utm_medium=email&utm_term=Unsubscribe&utm_content=Footer#/emailpref" 
 								 linkname="ManagePromo" style="color: #A7A9AC; font-size: 14px; text-decoration:none">
                 <b>click here</b></a>.
              </p>
