@@ -1,6 +1,8 @@
 <?php 
 
-include_once("Other/SummerLensSale/index.php");
+include_once("Other/BirthdaySale/index.php");
+
+// include_once("Other/SummerLensSale/index.php");
 
 // include_once("Other/VIPOneDaySale/index.php");
 
