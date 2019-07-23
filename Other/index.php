@@ -1,6 +1,12 @@
 <?php 
 
-include_once("Other/BirthdaySale/index.php");
+ include_once("Other/SailthruTemplate/index.php");
+
+// include_once("Other/GroupByEmail/index.php");
+
+// include_once("Other/JulyAccessorySale/index.php");
+
+// include_once("Other/BirthdaySale/index.php");
 
 // include_once("Other/SummerLensSale/index.php");
 
