@@ -1,6 +1,8 @@
 <?php 
 
- include_once("Other/SailthruTemplate/index.php");
+include_once("Other/MidSummerPriceDrop19/index.php");
+
+// include_once("Other/SailthruTemplate/index.php");
 
 // include_once("Other/GroupByEmail/index.php");
 
