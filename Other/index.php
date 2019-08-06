@@ -1,6 +1,12 @@
 <?php 
 
-include_once("Other/ExpiringJulyRebates/index.php");
+include_once("Other/HotCameraDeals/index.php");
+
+// include_once("Other/SnapshotSailthru/index.php");
+
+// include_once("Other/AugustOneDaySale/index.php");
+
+// include_once("Other/ExpiringJulyRebates/index.php");
 
 // include_once("Other/MidSummerPriceDrop19/index.php");
 

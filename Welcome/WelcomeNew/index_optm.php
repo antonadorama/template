@@ -655,20 +655,20 @@
 							<tbody>
 								<tr>
 									<td class="logobrowser" style="width: 470px; color: #A7A9AC; font-size: 14px; padding: 20px 0;">
-										<span class="offer">We're sharing exclusive new offers for our new subscribers! Take a look!<span class="line_hide">&#32;|&#32;</span></span>
-                    <a href="{view_url}" style="color: #A7A9AC; text-decoration: underline" target="_blank">view in a browser</a>
+										<span class="offer">TTL<span class="line_hide">&#32;|&#32;</span></span>
+                    <a href="" linkname="View In Browser" style="color: #A7A9AC; text-decoration: underline" target="_blank">view in a browser</a>
                   </td>
 									<td align="right" class="socialtopblock" style="color: #A7A9AC; font-size: 14px; padding-top: 15px; padding-bottom: 10px">
-                    <a class="socialtop" href="https://www.facebook.com/Adorama" style="padding: 15px 3px; text-decoration: none" target="_blank">
+                    <a class="socialtop" href="https://www.facebook.com/Adorama" linkname="Facebook" style="padding: 15px 3px; text-decoration: none" target="_blank">
                       <img alt="" src="https://www.adorama.com/col/images/email/f-x2.png" width="21" /> 
                     </a> 
-                    <a class="socialtop" href="https://www.twitter.com/Adorama" style="padding: 15px 3px; text-decoration: none" target="_blank">
+                    <a class="socialtop" href="https://www.twitter.com/Adorama" linkname="Twitter" style="padding: 15px 3px; text-decoration: none" target="_blank">
                       <img alt="" src="https://www.adorama.com/col/images/email/t-x2.png" width="21" />
                     </a>
-                    <a class="socialtop" href="https://www.youtube.com/user/adoramaTV" style="padding: 15px 3px; text-decoration: none" target="_blank">
+                    <a class="socialtop" href="https://www.youtube.com/user/adoramaTV" linkname="Youtube" style="padding: 15px 3px; text-decoration: none" target="_blank">
                       <img alt="" src="https://www.adorama.com/col/images/email/y-x2.png" width="21" />
                     </a>
-                    <a class="socialtop" href="https://www.instagram.com/Adorama" style="padding: 15px 3px; text-decoration: none" target="_blank">
+                    <a class="socialtop" href="https://www.instagram.com/Adorama" linkname="Instagram" style="padding: 15px 3px; text-decoration: none" target="_blank">
                       <img alt="" src="https://www.adorama.com/col/images/email/i-x2.png" width="21" />
                     </a>
                   </td>
@@ -678,7 +678,7 @@
 						</td>
 					</tr>
 					<!-- End Preheader -->
-<span style="display:none;">{beacon}</span>
+					
 					<!-- Header -->
 					<tr>            
 						<td bgcolor="#FFFFFF" class="logomenu" style="color: #A7A9AC; font-size: 12px; background: url(https://www.adorama.com/col/images/email/lines640.jpg) bottom center no-repeat #FFFFFF">
@@ -686,7 +686,7 @@
 							<tbody>
 								<tr>
 									<td align="center" class="logo-wrapper" style="width: 155px; padding: 30px 15px 20px 10px">
-                    <a href="https://www.adorama.com/?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Logo&utm_content=Header&utm_campaign=Email_WelcomeNew_WLCMO2	" style="color: inherit" target="_blank">
+                    <a href="https://www.adorama.com/?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Logo&utm_content=Header&utm_campaign=Email_WelcomeNew_WLCMO1	" linkname="Logo" style="color: inherit" target="_blank">
                       <img alt="ADORAMA - More than a camera store" border="0" src="https://www.adorama.com/col/images/email/logo-x2.png" style="display:block;" width="155" />
                     </a></td>
 									<td class="menuwrapper" style="padding: 40px 5px 10px 0px">
@@ -694,22 +694,22 @@
 										<tbody>
 											<tr>
 												<td class="shop" style=" text-align: center">
-                          <a color="#393F42" href="https://www.adorama.com/?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Header&utm_campaign=Email_WelcomeNew_WLCMO2	" style="text-decoration: none; color: #393F42; font-weight: bold; font-size: 12px; " target="_blank">
+                          <a color="#393F42" href="https://www.adorama.com/?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Shop&utm_content=Header&utm_campaign=Email_WelcomeNew_WLCMO1	" linkname="Shop" style="text-decoration: none; color: #393F42; font-weight: bold; font-size: 12px; " target="_blank">
                             SHOP</a></td>
 												<td class="cameras" style=" text-align: center">
-                          <a color="#393F42" href="https://www.adorama.com/l/Cameras?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Cameras&utm_content=Header&utm_campaign=Email_WelcomeNew_WLCMO2	" style="text-decoration: none; color: #393F42; font-weight: bold; font-size: 12px; " target="_blank">
+                          <a color="#393F42" href="https://www.adorama.com/l/Cameras?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Cameras&utm_content=Header&utm_campaign=Email_WelcomeNew_WLCMO1	" linkname="Cameras" style="text-decoration: none; color: #393F42; font-weight: bold; font-size: 12px; " target="_blank">
                             CAMERAS</a></td>
 												<td class="lenses" style=" text-align: center">
-                          <a color="#393F42" href="https://www.adorama.com/l/Lenses?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Lenses&utm_content=Header&utm_campaign=Email_WelcomeNew_WLCMO2	" style="text-decoration: none; color: #393F42; font-weight: bold; font-size: 12px; " target="_blank">
+                          <a color="#393F42" href="https://www.adorama.com/l/Lenses?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Lenses&utm_content=Header&utm_campaign=Email_WelcomeNew_WLCMO1	" linkname="Lenses" style="text-decoration: none; color: #393F42; font-weight: bold; font-size: 12px; " target="_blank">
                             LENSES</a></td>
 												<td class="video" style=" text-align: center">
-                          <a color="#393F42" href="https://www.adorama.com/l/Lighting-and-Studio?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Lighting&utm_content=Header&utm_campaign=Email_WelcomeNew_WLCMO2	" style="text-decoration: none; color: #393F42; font-weight: bold; font-size: 12px; " target="_blank">
+                          <a color="#393F42" href="https://www.adorama.com/l/Lighting-and-Studio?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Lighting&utm_content=Header&utm_campaign=Email_WelcomeNew_WLCMO1	" linkname="Lighting" style="text-decoration: none; color: #393F42; font-weight: bold; font-size: 12px; " target="_blank">
                             LIGHTING</a></td>
 												<td class="audio" style=" text-align: center">
-                          <a color="#393F42" href="https://www.adorama.com/l/Computers/Memory-and-Data-Storage?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Storage&utm_content=Header&utm_campaign=Email_WelcomeNew_WLCMO2	" style="text-decoration: none; color: #393F42; font-weight: bold; font-size: 12px; " target="_blank">
+                          <a color="#393F42" href="https://www.adorama.com/l/Computers/Memory-and-Data-Storage?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Storage&utm_content=Header&utm_campaign=Email_WelcomeNew_WLCMO1	" linkname="Storage" style="text-decoration: none; color: #393F42; font-weight: bold; font-size: 12px; " target="_blank">
                             STORAGE</a></td>
 												<td class="deals" style=" text-align: center">
-                          <a href="https://www.adorama.com/specials?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Deals&utm_content=Header&utm_campaign=Email_WelcomeNew_WLCMO2	" style="text-decoration: none; color: #B92E2C; font-weight: bold;font-size: 12px;" target="_blank">
+                          <a href="https://www.adorama.com/specials?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Deals&utm_content=Header&utm_campaign=Email_WelcomeNew_WLCMO1	" linkname="Deals" style="text-decoration: none; color: #B92E2C; font-weight: bold;font-size: 12px;" target="_blank">
                             DEALS</a></td>
 											</tr>
 										</tbody>
@@ -728,7 +728,6 @@
 
 
 
- 
 					
 					<!-- Banner Section -->
 
@@ -745,8 +744,8 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/specials/l/?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2" target="_blank" 
-                       >
+                    <a href="https://www.adorama.com/specials/l/?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1" target="_blank" 
+                       linkname="Main_Banner_Link">
                     <img src="https://www.adorama.com/col/images/email/Welcome/Welcome-Email-01_01.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;line-height:0 !important; font-size:0 !important;" class="mobile-full" 
                          alt="Main Banner" hspace="0" border="0" vspace="0" width="640">
                     </a>
@@ -779,8 +778,8 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/specials/l/?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2" target="_blank" 
-                       >
+                    <a href="https://www.adorama.com/specials/l/?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1" target="_blank" 
+                       linkname="ExpertPicks">
                     <img src="https://www.adorama.com/col/images/email/Welcome/Welcome-Email-01_02.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;line-height:0 !important; font-size:0 !important;" class="mobile-full" 
                          alt="Expert Picks" hspace="0" border="0" vspace="0" width="640">
                     </a>
@@ -815,8 +814,8 @@
 											<tbody>
 												<tr height="115">
 													<td align="center">
-														<a href="http://svopn.adorama.com/LiveContent/v2/get_content/2620_03922/94551/lnk/1?_emk={email}&emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=4CiteBestseller1&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2">
-																	<img src="http://svopn.adorama.com/LiveContent/v2/get_content/2620_03922/94551/img/1?_emk={email}" style="margin: 0 auto; display: block" class="product_img" width="130" height="200" border="0" 
+														<a linkname="Bestseller1" href="http://svopn.adorama.com/LiveContent/v2/get_content/2620_03922/94551/lnk/1?_emk=[%EMAIL%]&emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=4CiteBestseller1&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1">
+																	<img src="http://svopn.adorama.com/LiveContent/v2/get_content/2620_03922/94551/img/1?_emk=[%EMAIL%]" style="margin: 0 auto; display: block" class="product_img" width="130" height="200" border="0" 
 																			 alt="Recommended Product 1">
 																	</a>
 													</td>
@@ -830,8 +829,8 @@
 																	<td style="font-size: 16px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #d5dade; 
 																						 font-weight: normal; padding:8px 10px; border:1px solid #034663" height="26" align="center" bgcolor="#034663"
 																	 valign="middle" width="auto">
-																		<a href="http://svopn.adorama.com/LiveContent/v2/get_content/2620_03922/94551/lnk/1?_emk={email}&emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=4CiteBestseller1&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2" 
-																			 target="_new" style="text-decoration: none; color: #d5dade; font-weight: bold;">Shop Now</a></td>
+																		<a href="http://svopn.adorama.com/LiveContent/v2/get_content/2620_03922/94551/lnk/1?_emk=[%EMAIL%]&emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=4CiteBestseller1&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1" 
+																			 linkname="Bestseller1_View" target="_new" style="text-decoration: none; color: #d5dade; font-weight: bold;">Shop Now</a></td>
 																</tr>
 															</tbody>
 														</table>
@@ -847,8 +846,8 @@
 											<tbody>
 												<tr height="115">
 													<td align="center">
-														<a href="http://svopn.adorama.com/LiveContent/v2/get_content/2620_03922/94551/lnk/2?_emk={email}&emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=4CiteBestseller2&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2">
-																			<img src="http://svopn.adorama.com/LiveContent/v2/get_content/2620_03922/94551/img/2?_emk={email}" style="margin: 0 auto; display: block" class="product_img" width="130" height="200" border="0" 
+														<a linkname="Bestseller2" href="http://svopn.adorama.com/LiveContent/v2/get_content/2620_03922/94551/lnk/2?_emk=[%EMAIL%]&emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=4CiteBestseller2&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1">
+																			<img src="http://svopn.adorama.com/LiveContent/v2/get_content/2620_03922/94551/img/2?_emk=[%EMAIL%]" style="margin: 0 auto; display: block" class="product_img" width="130" height="200" border="0" 
 																					 alt="Recommended Product 2">
 																			</a>
 													</td>
@@ -863,8 +862,8 @@
 																	<td style="font-size: 16px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #d5dade; 
 																						 font-weight: normal; padding:8px 10px; border:1px solid #034663" height="26" align="center" bgcolor="#034663"
 																	 valign="middle" width="auto">
-																		<a href="http://svopn.adorama.com/LiveContent/v2/get_content/2620_03922/94551/lnk/2?_emk={email}&emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=4CiteBestseller2&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2" 
-																			 target="_new" style="text-decoration: none; color: #d5dade; font-weight: bold;">Shop Now</a></td>
+																		<a href="http://svopn.adorama.com/LiveContent/v2/get_content/2620_03922/94551/lnk/2?_emk=[%EMAIL%]&emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=4CiteBestseller2&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1" 
+																			 linkname="Bestseller2_View" target="_new" style="text-decoration: none; color: #d5dade; font-weight: bold;">Shop Now</a></td>
 																</tr>
 															</tbody>
 														</table>
@@ -899,8 +898,8 @@
 											<tbody>
 												<tr height="115">
 													<td align="center">
-														<a href="http://svopn.adorama.com/LiveContent/v2/get_content/2620_03922/94551/lnk/3?_emk={email}&emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=4CiteBestseller3&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2">
-																					<img src="http://svopn.adorama.com/LiveContent/v2/get_content/2620_03922/94551/img/3?_emk={email}" style="margin: 0 auto; display: block" class="product_img" width="130" height="200" border="0" 
+														<a linkname="Bestseller3" href="http://svopn.adorama.com/LiveContent/v2/get_content/2620_03922/94551/lnk/3?_emk=[%EMAIL%]&emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=4CiteBestseller3&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1">
+																					<img src="http://svopn.adorama.com/LiveContent/v2/get_content/2620_03922/94551/img/3?_emk=[%EMAIL%]" style="margin: 0 auto; display: block" class="product_img" width="130" height="200" border="0" 
 																							 alt="Recommended Product 3">
 																					</a>
 													</td>
@@ -914,8 +913,8 @@
 																	<td style="font-size: 16px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #d5dade; 
 																						 font-weight: normal; padding:8px 10px; border:1px solid #034663" height="26" align="center" bgcolor="#034663"
 																	 valign="middle" width="auto">
-																		<a href="http://svopn.adorama.com/LiveContent/v2/get_content/2620_03922/94551/lnk/3?_emk={email}&emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=4CiteBestseller3&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2" 
-																			target="_new" style="text-decoration: none; color: #d5dade; font-weight: bold;">Shop Now</a></td>
+																		<a href="http://svopn.adorama.com/LiveContent/v2/get_content/2620_03922/94551/lnk/3?_emk=[%EMAIL%]&emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=4CiteBestseller3&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1" 
+																			 linkname="Bestseller3_View" target="_new" style="text-decoration: none; color: #d5dade; font-weight: bold;">Shop Now</a></td>
 																</tr>
 															</tbody>
 														</table>
@@ -931,8 +930,8 @@
 											<tbody>
 												<tr height="115">
 													<td align="center">
-														<a href="http://svopn.adorama.com/LiveContent/v2/get_content/2620_03922/94551/lnk/4?_emk={email}&emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=4CiteBestseller4&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2">
-																							<img src="http://svopn.adorama.com/LiveContent/v2/get_content/2620_03922/94551/img/4?_emk={email}" style="margin: 0 auto; display: block" class="product_img" width="130" height="200" border="0" 
+														<a linkname="Bestseller4" href="http://svopn.adorama.com/LiveContent/v2/get_content/2620_03922/94551/lnk/4?_emk=[%EMAIL%]&emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=4CiteBestseller4&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1">
+																							<img src="http://svopn.adorama.com/LiveContent/v2/get_content/2620_03922/94551/img/4?_emk=[%EMAIL%]" style="margin: 0 auto; display: block" class="product_img" width="130" height="200" border="0" 
 																									 alt="Recommended Product 4">
 																							</a>
 													</td>
@@ -947,8 +946,8 @@
 																	<td style="font-size: 16px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #d5dade; 
 																						 font-weight: normal; padding:8px 10px; border:1px solid #034663" height="26" align="center" bgcolor="#034663"
 																	 valign="middle" width="auto">
-																		<a href="http://svopn.adorama.com/LiveContent/v2/get_content/2620_03922/94551/lnk/4?_emk={email}&emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=4CiteBestseller4&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2" 
-																			 target="_new" style="text-decoration: none; color: #d5dade; font-weight: bold;">Shop Now</a></td>
+																		<a href="http://svopn.adorama.com/LiveContent/v2/get_content/2620_03922/94551/lnk/4?_emk=[%EMAIL%]&emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=4CiteBestseller4&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1" 
+																			 linkname="Bestseller4_View" target="_new" style="text-decoration: none; color: #d5dade; font-weight: bold;">Shop Now</a></td>
 																</tr>
 															</tbody>
 														</table>
@@ -984,15 +983,15 @@
               <tbody>
                 <tr>
                   <td>
-                      <a href="https://www.adorama.com/l/?sel=Filter-By_Recent-Releases&emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2" 
-                         target="_blank">
+                      <a href="https://www.adorama.com/l/?sel=Filter-By_Recent-Releases&emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1" 
+                         linkname="NewArrivals" target="_blank">
                         <img src="https://www.adorama.com/col/images/email/Welcome/Welcome-Email-01_04.jpg" 
                              alt="New Arrivals" width="100%" height="auto" border="0" style="display:inline;">
                       </a>
                   </td>
                   <td>
-                    <a href="https://www.adorama.com/l/?sel=Discount_35-percent-Off-or-More&emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2" 
-                       target="_blank">
+                    <a href="https://www.adorama.com/l/?sel=Discount_35-percent-Off-or-More&emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1" 
+                       linkname="TopGear" target="_blank">
                       <img src="https://www.adorama.com/col/images/email/Welcome/Welcome-Email-01_05.jpg" 
                            alt="Top Gear" width="100%" height="auto" border="0" style="display:inline;">
                     </a>
@@ -1025,15 +1024,15 @@
               <tbody>
                 <tr>
                   <td>
-                      <a href="https://www.adorama.com/l/?sel=Filter-By_Kits-only&emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2" 
-                         target="_blank">
+                      <a href="https://www.adorama.com/l/?sel=Filter-By_Kits-only&emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1" 
+                         linkname="GrabKits" target="_blank">
                         <img src="https://www.adorama.com/col/images/email/Welcome/Welcome-Email-01_06.jpg" 
                              alt="Grab Kits" width="100%" height="auto" border="0" style="display:inline;">
                       </a>
                   </td>
                   <td>
-                    <a href="https://www.adorama.com/l/?sel=Filter-By_Free-Shipping&emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2" 
-                       target="_blank">
+                    <a href="https://www.adorama.com/l/?sel=Filter-By_Free-Shipping&emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1" 
+                       linkname="ItemsWithFreeShipping" target="_blank">
                       <img src="https://www.adorama.com/col/images/email/Welcome/Welcome-Email-01_07.jpg" 
                            alt="Items With Free Shipping" width="100%" height="auto" border="0" style="display:inline;">
                     </a>
@@ -1067,8 +1066,8 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2" target="_blank" 
-                       >
+                    <a href="https://www.adorama.com/?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1" target="_blank" 
+                       linkname="UnlockWorldOfValue">
                     <img src="https://www.adorama.com/col/images/email/Welcome/Welcome-Email-01_08.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;line-height:0 !important; font-size:0 !important;" class="mobile-full" 
                          alt="Unlock World Of Value" hspace="0" border="0" vspace="0" width="640">
                     </a>
@@ -1101,15 +1100,15 @@
               <tbody>
                 <tr>
                   <td>
-                      <a href="https://www.adorama.com/g/rewards?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2" 
-                         target="_blank">
+                      <a href="https://www.adorama.com/g/rewards?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1" 
+                         linkname="AdoramaRewards" target="_blank">
                         <img src="https://www.adorama.com/col/images/email/Welcome/Welcome-Email-01_new_02.jpg" 
                              alt="Adorama Rewards" width="100%" height="auto" border="0" style="display:inline;">
                       </a>
                   </td>
                   <td>
-                    <a href="https://www.adorama.com/g/VIP360?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2" 
-                       target="_blank">
+                    <a href="https://www.adorama.com/g/VIP360?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1" 
+                       linkname="VIP360" target="_blank">
                       <img src="https://www.adorama.com/col/images/email/Welcome/Welcome-Email-01_new_03.jpg" 
                            alt="VIP360" width="100%" height="auto" border="0" style="display:inline;">
                     </a>
@@ -1142,15 +1141,15 @@
               <tbody>
                 <tr>
                   <td>
-                      <a href="https://www.adorama.com/g/adorama-credit?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2" 
-                         target="_blank">
+                      <a href="https://www.adorama.com/g/adorama-credit?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1" 
+                         linkname="Financing" target="_blank">
                         <img src="https://www.adorama.com/col/images/email/Welcome/Welcome-Email-01_new_04.jpg" 
                              alt="Financing" width="100%" height="auto" border="0" style="display:inline;">
                       </a>
                   </td>
                   <td>
-                    <a href="https://www.adorama.com/pages/usedQuote?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2" 
-                      target="_blank">
+                    <a href="https://www.adorama.com/pages/usedQuote?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1" 
+                       linkname="AdoramaTrade" target="_blank">
                       <img src="https://www.adorama.com/col/images/email/Welcome/Welcome-Email-01_new_05.jpg" 
                            alt="Adorama Trade" width="100%" height="auto" border="0" style="display:inline;">
                     </a>
@@ -1184,8 +1183,8 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2" target="_blank" 
-                       >
+                    <a href="https://www.adorama.com/?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1" target="_blank" 
+                       linkname="DiscoverGear">
                     <img src="https://www.adorama.com/col/images/email/Welcome/Welcome-Email-01_13.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;line-height:0 !important; font-size:0 !important;" class="mobile-full" 
                          alt="Discover Gear" hspace="0" border="0" vspace="0" width="640">
                     </a>
@@ -1218,15 +1217,15 @@
               <tbody>
                 <tr>
                   <td>
-                      <a href="https://www.adorama.com/l/Cameras?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2" 
-                         target="_blank">
+                      <a href="https://www.adorama.com/l/Cameras?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1" 
+                         linkname="CamerasCategory" target="_blank">
                         <img src="https://www.adorama.com/col/images/email/Welcome/Welcome-Email-01_14.jpg" 
                              alt="Cameras Category" width="100%" height="auto" border="0" style="display:inline;">
                       </a>
                   </td>
                   <td>
-                    <a href="https://www.adorama.com/l/Lenses?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2" 
-                       target="_blank">
+                    <a href="https://www.adorama.com/l/Lenses?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1" 
+                       linkname="LensesCategory" target="_blank">
                       <img src="https://www.adorama.com/col/images/email/Welcome/Welcome-Email-01_15.jpg" 
                            alt="Lenses Category" width="100%" height="auto" border="0" style="display:inline;">
                     </a>
@@ -1259,15 +1258,15 @@
               <tbody>
                 <tr>
                   <td>
-                      <a href="https://www.adorama.com/l/Video-Equipment?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2" 
-                         target="_blank">
+                      <a href="https://www.adorama.com/l/Video-Equipment?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1" 
+                         linkname="ProVideoCategory" target="_blank">
                         <img src="https://www.adorama.com/col/images/email/Welcome/Welcome-Email-01_16.jpg" 
                              alt="Pro Video Category" width="100%" height="auto" border="0" style="display:inline;">
                       </a>
                   </td>
                   <td>
-                    <a href="https://www.adorama.com/l/Professional-Audio?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2" 
-                       target="_blank">
+                    <a href="https://www.adorama.com/l/Professional-Audio?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1" 
+                       linkname="ProAudioCategory" target="_blank">
                       <img src="https://www.adorama.com/col/images/email/Welcome/Welcome-Email-01_17.jpg" 
                            alt="Pro Audio Category" width="100%" height="auto" border="0" style="display:inline;">
                     </a>
@@ -1300,15 +1299,15 @@
               <tbody>
                 <tr>
                   <td>
-                      <a href="https://www.adorama.com/l/Drones-and-Action-Cams?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2" 
-                         target="_blank">
+                      <a href="https://www.adorama.com/l/Drones-and-Action-Cams?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1" 
+                         linkname="DronesCategory" target="_blank">
                         <img src="https://www.adorama.com/col/images/email/Welcome/Welcome-Email-01_18.jpg" 
                              alt="Drones Category" width="100%" height="auto" border="0" style="display:inline;">
                       </a>
                   </td>
                   <td>
-                    <a href="https://www.adorama.com/l/Lighting-and-Studio?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2" 
-                       target="_blank">
+                    <a href="https://www.adorama.com/l/Lighting-and-Studio?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1" 
+                       linkname="StudioCategory" target="_blank">
                       <img src="https://www.adorama.com/col/images/email/Welcome/Welcome-Email-01_19.jpg" 
                            alt="Studio Category" width="100%" height="auto" border="0" style="display:inline;">
                     </a>
@@ -1341,15 +1340,15 @@
               <tbody>
                 <tr>
                   <td>
-                      <a href="https://www.adorama.com/l/Computers?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2" 
-                         target="_blank">
+                      <a href="https://www.adorama.com/l/Computers?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1" 
+                         linkname="ComputersCategory" target="_blank">
                         <img src="https://www.adorama.com/col/images/email/Welcome/Welcome-Email-01_20.jpg" 
                              alt="Computers Category" width="100%" height="auto" border="0" style="display:inline;">
                       </a>
                   </td>
                   <td>
-                    <a href="https://www.adorama.com/l/Home-Entertainment/Home-Theater?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2" 
-                      target="_blank">
+                    <a href="https://www.adorama.com/l/Home-Entertainment/Home-Theater?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1" 
+                       linkname="HomeTheaterCategory" target="_blank">
                       <img src="https://www.adorama.com/col/images/email/Welcome/Welcome-Email-01_21.jpg" 
                            alt="Home Theater Category" width="100%" height="auto" border="0" style="display:inline;">
                     </a>
@@ -1384,8 +1383,8 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2" target="_blank" 
-                       >
+                    <a href="https://www.adorama.com/?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1" target="_blank" 
+                       linkname="BetterPhotographer">
                     <img src="https://www.adorama.com/col/images/email/Welcome/Welcome-Email-01_22.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;line-height:0 !important; font-size:0 !important;" class="mobile-full" 
                          alt="Better Photographer" hspace="0" border="0" vspace="0" width="640">
                     </a>
@@ -1418,15 +1417,15 @@
               <tbody>
                 <tr>
                   <td>
-                      <a href="https://www.adorama.com/alc/?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2" 
-                         target="_blank">
+                      <a href="https://www.adorama.com/alc/?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1" 
+                         linkname="WelcomeALC" target="_blank">
                         <img src="https://www.adorama.com/col/images/email/Welcome/Welcome-Email-01_23.jpg" 
                              alt="Welcome ALC" width="100%" height="auto" border="0" style="display:inline;">
                       </a>
                   </td>
                   <td>
-                    <a href="https://www.adoramarentals.com/?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2" 
-                       target="_blank">
+                    <a href="https://www.adoramarentals.com/?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1" 
+                       linkname="WelcomeARC" target="_blank">
                       <img src="https://www.adorama.com/col/images/email/Welcome/Welcome-Email-01_24.jpg" 
                            alt="Welcome ARC" width="100%" height="auto" border="0" style="display:inline;">
                     </a>
@@ -1459,15 +1458,15 @@
               <tbody>
                 <tr>
                   <td>
-                      <a href="https://www.adorama.com/abs?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2" 
-                         target="_blank">
+                      <a href="https://www.adorama.com/abs?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1" 
+                         linkname="WelcomeABS" target="_blank">
                         <img src="https://www.adorama.com/col/images/email/Welcome/Welcome-Email-01_25.jpg" 
                              alt="Welcome ABS" width="100%" height="auto" border="0" style="display:inline;">
                       </a>
                   </td>
                   <td>
-                    <a href="https://www.adoramapix.com/?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2" 
-                       target="_blank">
+                    <a href="https://www.adoramapix.com/?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Shop&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1" 
+                       linkname="WelcomeAdoramaPix" target="_blank">
                       <img src="https://www.adorama.com/col/images/email/Welcome/Welcome-Email-01_26.jpg" 
                            alt="Welcome AdoramaPix" width="100%" height="auto" border="0" style="display:inline;">
                     </a>
@@ -1501,8 +1500,8 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid={profile.vars.guid}&pageMode=manage&utm_source=slth&refby=slth&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO2#emailpref" target="_blank" 
-                       >
+                    <a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=[%GUID%]&pageMode=manage&utm_source=optm&refby=optm&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO1#emailpref" target="_blank" 
+                       linkname="LetsFocusOnYou">
                     <img src="https://www.adorama.com/col/images/email/Welcome/Welcome-Email-01_27.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;line-height:0 !important; font-size:0 !important;" class="mobile-full" 
                          alt="Lets Focus On You" hspace="0" border="0" vspace="0" width="640">
                     </a>
@@ -1537,7 +1536,7 @@
                 <tr>
                   <td align="center" valign="top">
                     <a href="https://www.instagram.com/adorama/" target="_blank" 
-                       >
+                       linkname="GetInspiredWithAdorama">
                     <img src="https://www.adorama.com/col/images/email/Welcome/Welcome-Email-01_28.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;line-height:0 !important; font-size:0 !important;" class="mobile-full" 
                          alt="Get Inspired With Adorama" hspace="0" border="0" vspace="0" width="640">
                     </a>
@@ -1575,21 +1574,21 @@
                 <tr>
                   <td>
                     <a href="https://c22.dyneml.com/campaign/4624563504714/37973/nav.html?_=1551454078&e=1&g=2393&id=37973&et=2&dpid=${deploymentID}&uid=${uid}" 
-                        target="_blank">
+                         linkname="InstagramImage1" target="_blank">
                       <img src="https://c22.dyneml.com/campaign/4624563504714/37973/instagram_anim_1.gif?_=1551454078&e=1&g=2393&id=37973&et=1&dpid=${deploymentID}&uid=${uid}" 
                            alt="Instagram Image 1" width="208" height="auto" border="0" style="display:inline;width:100%; max-width:208px; ">
                     </a>
                   </td>
                   <td>
                     <a href="https://c22.dyneml.com/campaign/4624563504714/37973/nav.html?_=1551454078&e=1&g=2393&id=37973&et=2&dpid=${deploymentID}&uid=${uid}" 
-                         target="_blank">
+                         linkname="InstagramImage2" target="_blank">
                         <img src="http://w22.dyneml.com/campaign/4624563504714/37973/instagram_anim_2.gif?_=1551454078" 
                              alt="Instagram Image 2" width="208" height="auto" border="0" style="display:inline; width:100%; max-width:208px;">
                     </a>
                   </td>
                   <td>
                     <a href="https://c22.dyneml.com/campaign/4624563504714/37973/nav.html?_=1551454078&e=1&g=2393&id=37973&et=2&dpid=${deploymentID}&uid=${uid}" 
-                        target="_blank">
+                         linkname="InstagramImage3" target="_blank">
                         <img src="http://w22.dyneml.com/campaign/4624563504714/37973/instagram_anim_3.gif?_=1551454078" 
                              alt="Instagram Image 3" width="208" height="auto" border="0" style="display:inline; width:100%; max-width:208px;">
                     </a>
@@ -1627,21 +1626,21 @@
                 <tr>
                   <td>
                     <a href="https://c22.dyneml.com/campaign/4624563504714/37973/nav.html?_=1551454078&e=1&g=2393&id=37973&et=2&dpid=${deploymentID}&uid=${uid}" 
-                         target="_blank">
+                         linkname="InstagramImage4" target="_blank">
                       <img src="http://w22.dyneml.com/campaign/4624563504714/37973/instagram_anim_4.gif?_=1551454078" 
                            alt="Instagram Image 4" width="208" height="auto" border="0" style="display:inline; width:100%; max-width:208px;">
                     </a>
                   </td>
                   <td>
                     <a href="https://c22.dyneml.com/campaign/4624563504714/37973/nav.html?_=1551454078&e=1&g=2393&id=37973&et=2&dpid=${deploymentID}&uid=${uid}" 
-                         target="_blank">
+                         linkname="InstagramImage5" target="_blank">
                         <img src="http://w22.dyneml.com/campaign/4624563504714/37973/instagram_anim_5.gif?_=1551454078" 
                              alt="Instagram Image 5" width="208" height="auto" border="0" style="display:inline;width:100%; max-width:208px; ">
                     </a>
                   </td>
                   <td>
                     <a href="https://c22.dyneml.com/campaign/4624563504714/37973/nav.html?_=1551454078&e=1&g=2393&id=37973&et=2&dpid=${deploymentID}&uid=${uid}" 
-                         target="_blank">
+                         linkname="InstagramImage6" target="_blank">
                         <img src="http://w22.dyneml.com/campaign/4624563504714/37973/instagram_anim_6.gif?_=1551454078" 
                              alt="Instagram Image 6" width="208" height="auto" border="0" style="display:inline;width:100%; max-width:208px;">
                     </a>
@@ -1679,21 +1678,21 @@
                 <tr>
                   <td>
                     <a href="https://c22.dyneml.com/campaign/4624563504714/37973/nav.html?_=1551454078&e=1&g=2393&id=37973&et=2&dpid=${deploymentID}&uid=${uid}" 
-                         target="_blank">
+                         linkname="InstagramImage7" target="_blank">
                       <img src="http://w22.dyneml.com/campaign/4624563504714/37973/instagram_anim_7.gif?_=1551454078" 
                            alt="Instagram Image 7" width="208" height="auto" border="0" style="display:inline;width:100%; max-width:208px;">
                     </a>
                   </td>
                   <td>
                     <a href="https://c22.dyneml.com/campaign/4624563504714/37973/nav.html?_=1551454078&e=1&g=2393&id=37973&et=2&dpid=${deploymentID}&uid=${uid}" 
-                         target="_blank">
+                         linkname="InstagramImage8" target="_blank">
                         <img src="http://w22.dyneml.com/campaign/4624563504714/37973/instagram_anim_8.gif?_=1551454078" 
                              alt="Instagram Image 8" width="208" height="auto" border="0" style="display:inline;width:100%; max-width:208px;">
                     </a>
                   </td>
                   <td>
                     <a href="https://c22.dyneml.com/campaign/4624563504714/37973/nav.html?_=1551454078&e=1&g=2393&id=37973&et=2&dpid=${deploymentID}&uid=${uid}" 
-                         target="_blank">
+                         linkname="InstagramImage9" target="_blank">
                         <img src="http://w22.dyneml.com/campaign/4624563504714/37973/instagram_anim_9.gif?_=1551454078" 
                              alt="Instagram Image 9" width="208" height="auto" border="0" style="display:inline;width:100%; max-width:208px;">
                     </a>
@@ -1727,8 +1726,8 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://c38.dyneml.com/campaign/4624563504714/37890/nav.html?_=1553529255&dm_dpid=${deploymentID}&dm_uid=${uid}?refby=slth&utm_campaign=Email_WelcomeNew_WLCMO2&email={email}&guid={profile.vars.guid}&emailprice=t&utm_source=slth&refby=slth&utm_medium=email&utm_term=ContentBanner&utm_content=Body" target="_blank" 
-                       >
+                    <a href="https://c38.dyneml.com/campaign/4624563504714/37890/nav.html?_=1553529255&dm_dpid=${deploymentID}&dm_uid=${uid}?emailprice=t&refby=optm&utm_campaign=Email_WelcomeNew_WLCMO1&email=[%EMAIL%]&guid=[%GUID%]" target="_blank" 
+                       linkname="FeaturedBanner">
                     <img src="https://c38.dyneml.com/campaign/4624563504714/37890/image_swap.png?_=1553529255&dm_dpid=${deploymentID}&dm_uid=${uid}" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
                          alt="Featured Banner" hspace="0" border="0" vspace="0" width="640">
                     </a>
@@ -1746,43 +1745,8 @@
 </tr>  
 
 <!-- Featured Banner -->
-												
-					<!-- Content Banner -->
-
-<tr>
-  <td>
-    <table id="ko_imageBlock_5" style="background-color: #E3E3E3;" class="vb-outer" bgcolor="#E3E3E3" border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tbody>
-      <tr>
-        <td class="vb-outer" align="center" valign="top" style="">
-          <!--[if (gte mso 9)|(lte ie 8)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="640"><tr><td align="center" valign="top"><![endif]-->
-          
-          <div class="oldwebkit" style="max-width: 640px;">
-            <table style="border-collapse: separate;padding-left: 0;padding-right: 0;width: 100%;max-width: 640px;background-color: #ECF6F8;" class="vb-container fullwidth" align="center" bgcolor="#ECF6F8" border="0" cellpadding="0" cellspacing="0" width="640">
-              <tbody>
-                <tr>
-                  <td align="center" valign="top">
-                    <a href="https://c38.dyneml.com/campaign/4624563504714/37888/nav.html?_=1553529287&dm_dpid=${deploymentID}&dm_uid=${uid}?refby=slth&utm_campaign=Email_WelcomeNew_WLCMO2&email={email}&guid={profile.vars.guid}&emailprice=t&utm_source=slth&refby=slth&utm_medium=email&utm_term=ContentBanner&utm_content=Body" target="_blank" 
-                       >
-                    <img src="https://c38.dyneml.com/campaign/4624563504714/37888/image_swap.png?_=1553529287&dm_dpid=${deploymentID}&dm_uid=${uid}" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
-                         alt="Content Banner" hspace="0" border="0" vspace="0" width="640">
-                    </a>
-                  </td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
-          
-          <!--[if (gte mso 9)|(lte ie 8)]></td></tr></table><![endif]--></td>
-      </tr>
-    </tbody>
-  </table>
-  </td>
-</tr>  
-
-<!-- Content Banner -->
-						
-					<!-- Post Holiday Value --> 
+					
+					          <!-- Post Holiday Value --> 
 
 <tr>
   <td>
@@ -1828,7 +1792,7 @@
 
 												<tr>
 													<td align="center" valign="middle" height="80">
-														<a href="https://www.adorama.com/g/adorama-credit?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=ValuePropFinancing&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2">
+														<a linkname="AdoramaCredit" href="https://www.adorama.com/g/adorama-credit?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=ValuePropFinancing&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1">
 																	<img src="https://www.adorama.com/col/images/email/Value/Adorama-Credit-Card.png" style="margin: 0 auto; display: block" class="product_img" width="81" height="81" border="0" 
 																			 alt="Get Up To 12 Months Special Financing">
 																	</a>
@@ -1837,7 +1801,7 @@
 																								<tr>
 													<td align="center" valign="top" height="40" class="title" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #114998">
 														
-															<a href="https://www.adorama.com/g/adorama-credit?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=ValuePropFinancing&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2">
+															<a linkname="Adorama_Credit" href="https://www.adorama.com/g/adorama-credit?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=ValuePropFinancing&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1">
 																<font color="#333333"><strong>12 Month Financing with Adorama Credit Card*</strong></font>
 															</a>
 													</td>
@@ -1853,7 +1817,7 @@
 
 												<tr>
 													<td align="center" valign="middle" height="80">
-														<a href="https://www.adorama.com/help/shippingAndDelivery?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=ValuePropFreeShipping&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2">
+														<a linkname="ExpeditedShipping" href="https://www.adorama.com/help/shippingAndDelivery?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=ValuePropFreeShipping&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1">
 																			<img src="https://www.adorama.com/col/images/email/Value/Expedited-Shipping.png" style="margin: 0 auto; display: block" class="product_img" width="81" height="81" border="0" 
 																					 alt="Free Expedited shipping On Most Orders">
 																			</a>
@@ -1862,7 +1826,7 @@
 																								<tr>
 													<td align="center" valign="top" height="40" class="title" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #114998">
 														
-															<a href="https://www.adorama.com/help/shippingAndDelivery?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=ValuePropFreeShipping&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2">
+															<a linkname="Expedited_Shipping" href="https://www.adorama.com/help/shippingAndDelivery?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=ValuePropFreeShipping&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1">
 																<font color="#333333"><strong>	Free Expedited Shipping On Most Orders</strong></font>
 															</a>
 													</td>
@@ -1889,7 +1853,7 @@
 		
 												<tr>
 													<td align="center" valign="middle" height="80">
-														<a href="https://www.adorama.com/als.mvc/nspc/GiftCard?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=ValuePropGiftCard&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2">
+														<a linkname="GiftCard" href="https://www.adorama.com/als.mvc/nspc/GiftCard?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=ValuePropGiftCard&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1">
 																					<img src="https://www.adorama.com/col/images/email/Value/Shop-for-Gift-Cards.png" style="margin: 0 auto; display: block" class="product_img" width="81" height="81" border="0" 
 																							 alt="Gift Card">
 																					</a>
@@ -1898,7 +1862,7 @@
 																																				<tr>
 													<td align="center" valign="top" height="40" class="title" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #114998">
 														
-															<a href="https://www.adorama.com/als.mvc/nspc/GiftCard?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=ValuePropGiftCard&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2">
+															<a linkname="Gift_Card" href="https://www.adorama.com/als.mvc/nspc/GiftCard?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=ValuePropGiftCard&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1">
 																<font color="#333333"><strong>Give the Perfect Gift: An Adorama Gift Card</strong></font>
 															</a>
 															
@@ -1917,7 +1881,7 @@
 										
 												<tr>
 													<td align="center" valign="middle" height="80">
-														<a href="https://www.adorama.com/g/VIP360?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=ValuePropBecomeVIP&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2">
+														<a linkname="BecomeVIP" href="https://www.adorama.com/g/VIP360?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=ValuePropBecomeVIP&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1">
 																							<img src="https://www.adorama.com/col/images/email/Value/ValueProp-VIP360.png" style="margin: 0 auto; display: block" class="product_img" width="81" height="81" border="0" 
 																									 alt="Become a VIP and Get Deals First">
 																							</a>
@@ -1926,7 +1890,7 @@
 																																				<tr>
 													<td align="center" valign="top" height="40" class="title" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #114998">
 														
-														<a href="https://www.adorama.com/g/VIP360?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=ValuePropBecomeVIP&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO2">
+														<a linkname="Become_VIP" href="https://www.adorama.com/g/VIP360?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=ValuePropBecomeVIP&utm_content=Body&utm_campaign=Email_WelcomeNew_WLCMO1">
 															<font color="#333333"><strong>Join VIP360 and Get Deals Before Everyone Else!</strong></font>
 														</a>
 													</td>
@@ -1946,7 +1910,44 @@
 	</td>
 </tr>
 
-<!-- End of Post Holiday Value --> 					
+<!-- End of Post Holiday Value --> 	
+					<!-- Content Banner -->
+
+<tr>
+  <td>
+    <table id="ko_imageBlock_5" style="background-color: #E3E3E3;" class="vb-outer" bgcolor="#E3E3E3" border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tbody>
+      <tr>
+        <td class="vb-outer" align="center" valign="top" style="">
+          <!--[if (gte mso 9)|(lte ie 8)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="640"><tr><td align="center" valign="top"><![endif]-->
+          
+          <div class="oldwebkit" style="max-width: 640px;">
+            <table style="border-collapse: separate;padding-left: 0;padding-right: 0;width: 100%;max-width: 640px;background-color: #ECF6F8;" class="vb-container fullwidth" align="center" bgcolor="#ECF6F8" border="0" cellpadding="0" cellspacing="0" width="640">
+              <tbody>
+                <tr>
+                  <td align="center" valign="top">
+                    <a href="https://c38.dyneml.com/campaign/4624563504714/37888/nav.html?_=1553529287&dm_dpid=${deploymentID}&dm_uid=${uid}?emailprice=t&refby=optm&utm_campaign=Email_WelcomeNew_WLCMO1&email=[%EMAIL%]&guid=[%GUID%]" target="_blank" 
+                       linkname="ContentBanner">
+                    <img src="https://c38.dyneml.com/campaign/4624563504714/37888/image_swap.png?_=1553529287&dm_dpid=${deploymentID}&dm_uid=${uid}" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
+                         alt="Content Banner" hspace="0" border="0" vspace="0" width="640">
+                    </a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          
+          <!--[if (gte mso 9)|(lte ie 8)]></td></tr></table><![endif]--></td>
+      </tr>
+    </tbody>
+  </table>
+  </td>
+</tr>  
+
+<!-- Content Banner -->
+				
+				
+					
 									
 <tr>
 	<td>
@@ -1959,75 +1960,75 @@
 							<tbody>
 								<tr>
 									<td align="center" class="menuimage" style="width: 16.666%;  text-align: center" width="16.666%">
-                    <a href="https://www.adorama.com/l/Cameras?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Cameras&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO2" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
+                    <a href="https://www.adorama.com/l/Cameras?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Cameras&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO1" linkname="CamerasFooter" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
                       <img alt="Cameras" border="0" class="menuimageimg" src="https://www.adorama.com/col/images/email/v3/cameras-v3.png" style="margin: 0 auto; display: block; padding: 10px 0" width="82" /> 
                     </a>
 									<p class="menuimagespan" style="padding: 10px 0;">
-                    <a href="https://www.adorama.com/l/Cameras?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Cameras&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO2" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
+                    <a href="https://www.adorama.com/l/Cameras?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Cameras&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO1" linkname="CamerasFooter" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
                       CAMERAS
                     </a>
                     </p>
-									<a href="https://www.adorama.com/l/Cameras?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Cameras&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO2" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
+									<a href="https://www.adorama.com/l/Cameras?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Cameras&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO1" linkname="CamerasFooter" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
                     </a>
                   </td>
 									<td align="center" class="menuimage" style="width: 16.666%; text-align: center" width="16.666%">
-                    <a href="https://www.adorama.com/l/Lenses?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Lenses&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO2" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
+                    <a href="https://www.adorama.com/l/Lenses?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Lenses&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO1" linkname="LensesIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
                       <img alt="Lenses" border="0" class="menuimageimg" src="https://www.adorama.com/col/images/email/v3/lenses-v3.png" style="margin: 0 auto; display: block; padding: 10px 0" width="82" />
                     </a>
 									<p class="menuimagespan" style="padding: 10px 0">
-                    <a href="https://www.adorama.com/l/Lenses?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Lenses&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO2" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
+                    <a href="https://www.adorama.com/l/Lenses?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Lenses&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO1" linkname="LensesIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
                       LENSES
                     </a>
                     </p>
-									<a href="https://www.adorama.com/l/Lenses?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Lenses&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO2" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
+									<a href="https://www.adorama.com/l/Lenses?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Lenses&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO1" linkname="LensesIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
                     </a>
                   </td>
 									<td align="center" class="menuimage" style="width: 16.666%; text-align: center" width="16.666%">
-                    <a href="https://www.adorama.com/l/Lighting-and-Studio?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Lighting&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO2" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
+                    <a href="https://www.adorama.com/l/Lighting-and-Studio?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Lighting&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO1" linkname="LightingIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
                       <img alt="Lighting" border="0" class="menuimageimg" src="https://www.adorama.com/col/images/email/v3/Lighting_v2.png" style="margin: 0 auto; display: block; padding: 10px 0" width="82" />
                     </a>
 									<p class="menuimagespan" style="padding: 10px 0">
-                    <a href="https://www.adorama.com/l/Lighting-and-Studio?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Lighting&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO2" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
+                    <a href="https://www.adorama.com/l/Lighting-and-Studio?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Lighting&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO1" linkname="LightingIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
                       LIGHTING
                     </a>
                     </p>
-									<a href="https://www.adorama.com/l/Lighting-and-Studio?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Lighting&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO2" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
+									<a href="https://www.adorama.com/l/Lighting-and-Studio?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Lighting&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO1" linkname="LightingIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
                     </a>
                   </td>
 									<td align="center" class="menuimage" style="width: 16.666%; text-align: center" width="16.666%">
-                    <a href="https://www.adorama.com/l/Computers/Memory-and-Data-Storage?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Storage&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO2" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
+                    <a href="https://www.adorama.com/l/Computers/Memory-and-Data-Storage?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Storage&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO1" linkname="StorageIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
                       <img alt="Storage" border="0" class="menuimageimg" src="https://www.adorama.com/col/images/email/v3/Storage_v3.png" style="margin: 0 auto; display: block; padding: 10px 0" width="82" />
                     </a>
 									<p class="menuimagespan" style="padding: 10px 0">
-                    <a href="https://www.adorama.com/l/Computers/Memory-and-Data-Storage?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Storage&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO2" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
+                    <a href="https://www.adorama.com/l/Computers/Memory-and-Data-Storage?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Storage&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO1" linkname="StorageIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
                       STORAGE
                     </a>
                     </p>
-									<a href="https://www.adorama.com/l/Computers/Memory-and-Data-Storage?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Storage&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO2" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
+									<a href="https://www.adorama.com/l/Computers/Memory-and-Data-Storage?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Storage&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO1" linkname="StorageIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
                     </a>
                   </td>
 									<td align="center" class="menuimage" style="width: 16.666%;  white-space: nowrap; text-align: center" width="16.666%">
-                    <a href="https://www.adorama.com/l/Computers?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Computers&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO2" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
+                    <a href="https://www.adorama.com/l/Computers?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Computers&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO1" linkname="ComputersIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
                       <img alt="Computers" border="0" class="menuimageimg" src="https://www.adorama.com/col/images/email/v3/computers-v3.png" style="margin: 0 auto; display: block; padding: 10px 0" width="82" />
                     </a>
 									<p class="menuimagespan" style="padding: 10px 0">
-                    <a href="https://www.adorama.com/l/Computers?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Computers&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO2" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
+                    <a href="https://www.adorama.com/l/Computers?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Computers&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO1" linkname="ComputersIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
                       COMPUTERS
                     </a>
                     </p>
-									<a href="https://www.adorama.com/l/Computers?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Computers&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO2" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
+									<a href="https://www.adorama.com/l/Computers?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Computers&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO1" linkname="ComputersIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
                     </a>
                   </td>
 									<td align="center" class="menuimage" style="width: 16.666%; text-align: center" width="16.666%">
-                    <a href="https://www.adorama.com/l/Video-Equipment/Drones-and-Accessories?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Drone&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO2" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
+                    <a href="https://www.adorama.com/l/Video-Equipment/Drones-and-Accessories?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Drone&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO1" linkname="DroneIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
                       <img alt="Drone" border="0" class="menuimageimg" src="https://www.adorama.com/col/images/email/v3/drone_v3.png" style="margin: 0 auto; display: block; padding: 10px 0" width="82" />
                     </a>
 									<p class="menuimagespan" style="padding: 10px 0">
-                    <a href="https://www.adorama.com/l/Video-Equipment/Drones-and-Accessories?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Drone&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO2" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
+                    <a href="https://www.adorama.com/l/Video-Equipment/Drones-and-Accessories?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Drone&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO1" linkname="DroneIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
                       DRONES
                     </a>
                     </p>
-									<a href="https://www.adorama.com/l/Video-Equipment/Drones-and-Accessories?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Drone&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO2" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
+									<a href="https://www.adorama.com/l/Video-Equipment/Drones-and-Accessories?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Drone&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO1" linkname="DroneIcon" style="color: #A7A9AC; font-size: 11px; text-decoration: none;" target="_blank">
                     </a>
                   </td>
 								</tr>
@@ -2047,12 +2048,12 @@
 									<table cellpadding="0" cellspacing="0" class="wrap100" width="100%">
 										<tbody>
 											<tr>
-												<td align="center"><a href="https://www.facebook.com/Adorama" style="color: inherit" target="_blank"><img alt="" src="https://www.adorama.com/col/images/email/fx-x2.png" width="24" /> </a></td>
-												<td align="center"><a href="https://www.twitter.com/Adorama" style="color: inherit" target="_blank"><img alt="" src="https://www.adorama.com/col/images/email/tx-x2.png" width="24" /> </a></td>
-												<td align="center"><a href="https://www.youtube.com/user/adoramaTV" style="color: inherit" target="_blank"><img alt="" src="https://www.adorama.com/col/images/email/yx-x2.png" width="24" /> </a></td>
-												<td align="center"><a href="https://plus.google.com/+Adorama/posts" style="color: inherit" target="_blank"><img alt="" src="https://www.adorama.com/col/images/email/gx-x2.png" width="24" /> </a></td>
-												<td align="center"><a href="https://www.instagram.com/Adorama" style="color: inherit" target="_blank"><img alt="" src="https://www.adorama.com/col/images/email/ix-x2.png" width="24" /> </a></td>
-												<td align="center"><a href="https://www.pinterest.com/adorama/" style="color: inherit" target="_blank"><img alt="" src="https://www.adorama.com/col/images/email/px-x2.png" width="24" /> </a></td>
+												<td align="center"><a href="https://www.facebook.com/Adorama" linkname="FacebookFooter" style="color: inherit" target="_blank"><img alt="" src="https://www.adorama.com/col/images/email/fx-x2.png" width="24" /> </a></td>
+												<td align="center"><a href="https://www.twitter.com/Adorama" linkname="TwitterFooter" style="color: inherit" target="_blank"><img alt="" src="https://www.adorama.com/col/images/email/tx-x2.png" width="24" /> </a></td>
+												<td align="center"><a href="https://www.youtube.com/user/adoramaTV" linkname="YouTubeFooter" style="color: inherit" target="_blank"><img alt="" src="https://www.adorama.com/col/images/email/yx-x2.png" width="24" /> </a></td>
+												<td align="center"><a href="https://plus.google.com/+Adorama/posts" linkname="GooglePlusFooter" style="color: inherit" target="_blank"><img alt="" src="https://www.adorama.com/col/images/email/gx-x2.png" width="24" /> </a></td>
+												<td align="center"><a href="https://www.instagram.com/Adorama" linkname="InstagramFooter" style="color: inherit" target="_blank"><img alt="" src="https://www.adorama.com/col/images/email/ix-x2.png" width="24" /> </a></td>
+												<td align="center"><a href="https://www.pinterest.com/adorama/" linkname="PinterestFooter" style="color: inherit" target="_blank"><img alt="" src="https://www.adorama.com/col/images/email/px-x2.png" width="24" /> </a></td>
 											</tr>
 										</tbody>
 									</table>
@@ -2063,14 +2064,14 @@
 										<tbody>
 											<tr>
 												<td align="center">
-													<a class="bottomsubmenu" href="https://www.adorama.com/help/contactus?utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Contact&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO2" 
-																							style="color: #003055; font-size: 12px; text-decoration: none; font-weight: bold;" target="_blank">CONTACT US </a></td>
+													<a class="bottomsubmenu" href="https://www.adorama.com/help/contactus?utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Contact&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO1" 
+																							linkname="Contact Us" style="color: #003055; font-size: 12px; text-decoration: none; font-weight: bold;" target="_blank">CONTACT US </a></td>
 												<td align="center">
-													<a class="bottomsubmenu" href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Account&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO2#dashboard" 
-																							style="color: #003055; font-size: 12px; text-decoration: none; font-weight: bold;" target="_blank">MY ACCOUNT </a></td>
+													<a class="bottomsubmenu" href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Account&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO1#dashboard" 
+																							linkname="My Account" style="color: #003055; font-size: 12px; text-decoration: none; font-weight: bold;" target="_blank">MY ACCOUNT </a></td>
 												<td align="center">
-													<a class="bottomsubmenu" href="https://www.adorama.com/trackOrder?utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Status&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO2" 
-																							style="color: #003055; font-size: 12px; text-decoration: none; font-weight: bold;" target="_blank">ORDER STATUS </a></td>
+													<a class="bottomsubmenu" href="https://www.adorama.com/trackOrder?utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Status&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO1" 
+																							linkname="Order Status" style="color: #003055; font-size: 12px; text-decoration: none; font-weight: bold;" target="_blank">ORDER STATUS </a></td>
 											</tr>
 										</tbody>
 									</table>
@@ -2093,7 +2094,7 @@
 										<tbody>
 											<tr>
 												<td align="center" class="flogo">
-                          <a href="https://www.adorama.com/?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Logo&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO2" style="color: inherit" target="_blank">
+                          <a href="https://www.adorama.com/?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Logo&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO1" linkname="LogoFooter" style="color: inherit" target="_blank">
                             <img alt="" src="https://www.adorama.com/col/images/email/logo-gray-x2.png" width="156" />
                           </a>
                         </td>
@@ -2101,17 +2102,17 @@
                           <img alt="" src="https://www.adorama.com/col/images/email/brands.jpg" />
                         </td>
 												<td align="center" class="fbottom">
-                          <a href="https://www.adoramarentals.com/?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=ARC&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO2" style="color: inherit" target="_blank">
+                          <a href="https://www.adoramarentals.com/?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=ARC&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO1" linkname="ARCFooter" style="color: inherit" target="_blank">
                             <img alt="" src="https://www.adorama.com/col/images/email/logo-arc-x2.png" width="51" />
                           </a>
                         </td>
 												<td align="center" class="fbottom">
-                          <a href="https://www.adoramapix.com/app/home?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Pix&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO2" style="color: inherit" target="_blank">
+                          <a href="https://www.adoramapix.com/app/home?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Pix&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO1" linkname="PixFooter" style="color: inherit" target="_blank">
                             <img alt="" src="https://www.adorama.com/col/images/email/logo-pix-x2.png" width="44" />
                           </a>
                         </td>
 												<td align="center" class="fbottom">
-                          <a href="https://www.adorama.com/pages/usedQuote?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Trade&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO2" style="color: inherit" target="_blank">
+                          <a href="https://www.adorama.com/pages/usedQuote?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Trade&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO1" linkname="TradeFooter" style="color: inherit" target="_blank">
                             <img alt="" src="https://www.adorama.com/col/images/email/logo-trade-x2.png" width="64" />
                           </a>
                         </td>
@@ -2135,8 +2136,8 @@
 									<td align="center" class="bottomlinksbright" style="padding: 14px 0; border-right: 1px solid #FFFFFF; color: #A7A9AC;" width="50%">42 W 18TH STREET, NEW YORK, NY 10011</td>
 									<td align="center" class="bottomlinksbright" style="padding: 14px 0; border-right: 1px solid #FFFFFF; color: #A7A9AC;">800-223-2500</td>
 									<td align="center" class="bottomlinksbrightno" style="padding: 14px 0">
-                    <a href="https://www.adorama.com/?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Text&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO2" 
-											 style="color: #A7A9AC; font-size: 13px; text-decoration: none;" target="_blank">
+                    <a href="https://www.adorama.com/?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Text&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO1" 
+											 linkname="AdoramaText" style="color: #A7A9AC; font-size: 13px; text-decoration: none;" target="_blank">
                       ADORAMA.COM
                     </a>
                   </td>
@@ -2152,17 +2153,17 @@
            <td class="bottomlinkscredentials" style="color: #A7A9AC; font-size: 14px; text-align: center;">
 						<p style="padding: 0 30px; margin:5px;">
 							Email sent to: 
-							<a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid={profile.vars.guid}&pageMode=manage&utm_source=slth&refby=slth&email={email}&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO2#emailpref" 
-								 style="color: #A7A9AC; font-size: 14px; text-decoration:none">
-                {email}</a> </p>
+							<a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=[%GUID%]&pageMode=manage&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO1#emailpref" 
+								 linkname="MyEmail" style="color: #A7A9AC; font-size: 14px; text-decoration:none">
+                [%EMAIL%]</a> </p>
 		                <p style="padding: 0 30px; text-align: center; margin: 2px; color: #A7A9AC;">
                       <strong>This email may be considered promotional or advertising.</strong> If you wish to be removed from this email list, you can unsubscribe below. 
              </p> 
              		                <p style="padding: 0 30px; text-align: center; margin: 2px; color: #A7A9AC;">
-             To manage your email preferences, <a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid={profile.vars.guid}&pageMode=manage&utm_source=slth&refby=slth&email={email}&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO2#emailpref" 
-								 style="color: #A7A9AC; font-size: 14px; text-decoration:none">
-                <b>click here</b></a>. If you no longer wish to receive promotional emails from us, <a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid={profile.vars.guid}&pageMode=unsubscribe&utm_source=slth&email={email}&utm_medium=email&utm_term=Unsubscribe&utm_content=Footer#/emailpref" 
-								 style="color: #A7A9AC; font-size: 14px; text-decoration:none">
+             To manage your email preferences, <a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=[%GUID%]&pageMode=manage&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO1#emailpref" 
+								 linkname="ManagePrefs" style="color: #A7A9AC; font-size: 14px; text-decoration:none">
+                <b>click here</b></a>. If you no longer wish to receive promotional emails from us, <a href="" 
+								 linkname="ManagePromo" style="color: #A7A9AC; font-size: 14px; text-decoration:none">
                 <b>click here</b></a>.
              </p>
 						</td>						
@@ -2178,23 +2179,24 @@
 
              <p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">
 							Please add 
-							<a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid={profile.vars.guid}&pageMode=manage&utm_source=slth&refby=slth&email={email}&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO2#emailpref" 
-								 style="color: #A7A9AC; text-decoration:none">
+							<a href="https://www.adorama.com/Als.Mvc/nspc/MyAccount?guid=[%GUID%]&pageMode=manage&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&utm_term=Preferences&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO1#emailpref" 
+								 linkname="AddUs" style="color: #A7A9AC; text-decoration:none">
 								info@shop.adorama.com</a> to your email address book or white list.</p>
 							<p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">
 								Products are subject to price change and availability. Not responsible for typographical errors.</p>
 							<p style="padding: 0 30px; text-align: center; margin: 5px; color: #A7A9AC;">
 								&copy; 2019 Adorama Camera, Inc. All rights reserved. | 
-								<a href="https://www.adorama.com/help/termsAndConditions?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Terms&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO2" style="color: #A7A9AC; text-decoration:underline">
+								<a href="https://www.adorama.com/help/termsAndConditions?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Terms&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO1" linkname="Terms" style="color: #A7A9AC; text-decoration:underline">
 									Terms</a> | 
-								<a href="https://www.adorama.com/privacy?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Terms&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO2" style="color: #A7A9AC; text-decoration: underline">
+								<a href="https://www.adorama.com/privacy?emailprice=t&utm_source=optm&refby=optm&email=[%EMAIL%]&utm_medium=email&guid=[%GUID%]&utm_term=Terms&utm_content=Footer&utm_campaign=Email_WelcomeNew_WLCMO1" linkname="Privacy" style="color: #A7A9AC; text-decoration: underline">
 									Privacy</a></p>
 						</td>
 					</tr>
 					<!-- End Terms -->
 						</table>
 		</td>
-</tr>				</tbody>
+</tr>					
+				</tbody>
 			</table>
 			</td>
 		</tr>
@@ -2202,7 +2204,12 @@
 </table>
 </div>
 	<div style="display:none !important; padding:0 !important;">
-<img src="http://svopn.adorama.com/?sv_cid=2620_03922&sv_emopen=true&sv_svemi={profile.vars.guid}" height="1" width="1" style="display:none !important;"/>
+<img src="http://svopn.adorama.com/?sv_cid=2620_03922&sv_emopen=true&sv_svemi=[%GUID%]" height="1" width="1" style="display:none !important;"/>
 </div>
 </body>
 </html>
+
+
+
+
+

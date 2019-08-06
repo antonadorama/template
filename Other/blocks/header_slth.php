@@ -28,7 +28,7 @@
 						</td>
 					</tr>
 					<!-- End Preheader -->
-					{beacon}
+<span style="display:none;">{beacon}</span>
 					<!-- Header -->
 					<tr>            
 						<td bgcolor="#FFFFFF" class="logomenu" style="color: #A7A9AC; font-size: 12px; background: url(https://www.adorama.com/col/images/email/lines640.jpg) bottom center no-repeat #FFFFFF">

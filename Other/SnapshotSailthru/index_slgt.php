@@ -13,6 +13,7 @@
 	</xml>
 	<![endif]-->
 </head>
+
 <body style="min-width: 100%; padding: 0; margin: 0; -webkit-text-size-adjust: none; background-color: #e3e3e3;">
 	<p style="display:none;">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -25,7 +26,8 @@
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
 		<?php //include_once("Other/blocks/style_5.php"); ?>		
-		<?php include_once("FirstTimeBuyers/blocks/style_5.php"); ?>	
+		<?php include_once("FirstTimeBuyers/blocks/style_5.php"); ?>
+		
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -42,49 +44,32 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_WelcomeNew_WLCMO2"; ?>
+          <?php $utm = "Email_OneDaySaleExtCanon_080619"; ?>
 					
-					<?php $ttl = "We're sharing exclusive new offers for our new subscribers! Take a look!"; ?>
+					<?php $ttl = "Don't miss these savings on Panasonic Lumix Digital Camera + Accessory Bundle!"; ?>
 					
-					<?php include_once("Other/blocks/header_slth.php"); ?> 
+					<?php include_once("Other/blocks/header_slth.php"); ?>   
+          
 					
-					<?php include_once("Welcome/WelcomeNew/p_1.php"); ?>
-          <?php include_once("Welcome/WelcomeNew/p_2.php"); ?>   
           
-          <?php //include_once("Welcome/WelcomeNew/p_3.php"); ?>
-          <?php include_once("Welcome/WelcomeNew/2citerec_1.php"); ?>
-          <?php include_once("Welcome/WelcomeNew/2citerec_2.php"); ?>
+					<?php include_once("Other/SnapshotSailthru/snapshot_header.php"); ?>
+					
+					<?php include_once("Other/SnapshotSailthru/snapshot_new_countdown.php"); ?>
+									
+					<?php include_once("Other/SnapshotSailthru/snapshot.php"); ?>						
+					
+					<?php include_once("Other/SnapshotSailthru/snapshot_footer.php"); ?>     
           
-          <?php include_once("Welcome/WelcomeNew/p_5.php"); ?>
-          <?php include_once("Welcome/WelcomeNew/p_6.php"); ?>
-          
-          <?php include_once("Welcome/WelcomeNew/p_7.php"); ?>
-          <?php include_once("Welcome/WelcomeNew/p_8.php"); ?>
-          <?php include_once("Welcome/WelcomeNew/p_9.php"); ?>
-          
-          <?php include_once("Welcome/WelcomeNew/p_10.php"); ?>
-          <?php include_once("Welcome/WelcomeNew/p_11.php"); ?>
-          <?php include_once("Welcome/WelcomeNew/p_12.php"); ?>
-          <?php include_once("Welcome/WelcomeNew/p_13.php"); ?>
-          <?php include_once("Welcome/WelcomeNew/p_14.php"); ?>          
-          
-          <?php include_once("Welcome/WelcomeNew/p_15.php"); ?>
-          <?php include_once("Welcome/WelcomeNew/p_16.php"); ?>
-          <?php include_once("Welcome/WelcomeNew/p_17.php"); ?>
-          
-          <?php include_once("Welcome/WelcomeNew/p_18.php"); ?>
-          
-          <?php include_once("Welcome/WelcomeNew/p_19.php"); ?>
-          
-          <?php include_once("Welcome/WelcomeNew/p_21.php"); ?>
-          
-				
+
+         					
 					<?php include_once("Other/SailthruTemplate/FeaturedBannerOptm_slth.php"); ?>
-					<?php //include_once("Other/SailthruTemplate/4citerecs_slth.php"); ?>							
-					<?php include_once("Other/SailthruTemplate/spotlightOptm_slth.php"); ?>						
+					<?php include_once("Other/SailthruTemplate/4citerecs_slth.php"); ?>							
+					<?php include_once("Other/SnapshotSailthru/spotlight.php"); ?>						
 					<?php include_once("Other/SailthruTemplate/4valueprops_slth.php"); ?>
 					
 					<?php include_once("Other/blocks/footer_slth.php"); ?>
+
+					
 				</tbody>
 			</table>
 			</td>
@@ -93,7 +78,8 @@
 </table>
 </div>
 	<div style="display:none !important; padding:0 !important;">
-<img src="http://svopn.adorama.com/?sv_cid=2620_03922&sv_emopen=true&sv_svemi=##GUID##" height="1" width="1" style="display:none !important;"/>
+<img src="http://svopn.adorama.com/?sv_cid=2620_03922&sv_emopen=true&sv_svemi={profile.vars.guid}" 
+     height="1" width="1" style="display:none !important;"/>
 </div>
 </body>
 </html>
