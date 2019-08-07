@@ -1,6 +1,8 @@
 <?php 
 
-include_once("Other/HotCameraDeals/index.php");
+include_once("Other/SailthruCategory/index.php");
+
+// include_once("Other/HotCameraDeals/index.php");
 
 // include_once("Other/SnapshotSailthru/index.php");
 
