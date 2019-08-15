@@ -1,6 +1,8 @@
 <?php 
 
-include_once("Other/HotAccessoryDeals/index.php");
+include_once("Other/SummerSunday/index.php");
+
+// include_once("Other/HotAccessoryDeals/index.php");
 
 // include_once("Other/FlashFriday_080919/index.php");
 
