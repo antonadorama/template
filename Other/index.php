@@ -1,6 +1,14 @@
 <?php 
 
-include_once("Other/SummerSunday/index.php");
+include_once("Other/WeekendFlashSale_082419/index.php");
+
+// include_once("Other/CategoryNav/index.php");
+
+// include_once("Other/FujiHotDeals/index.php");
+
+// include_once("Other/PanasonicInstantRebates/index.php");
+
+// include_once("Other/SummerSunday/index.php");
 
 // include_once("Other/HotAccessoryDeals/index.php");
 
