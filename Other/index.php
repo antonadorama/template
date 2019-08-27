@@ -1,6 +1,8 @@
 <?php 
 
-include_once("Other/WeekendFlashSale_082419/index.php");
+include_once("Other/ExpiringAugustRebates/index.php");
+
+// include_once("Other/WeekendFlashSale_082419/index.php");
 
 // include_once("Other/CategoryNav/index.php");
 

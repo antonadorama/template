@@ -43,31 +43,33 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-          <?php $utm = "Email_WeekendFlashSaleFujifilm_082419"; ?>
+          <?php $utm = "Email_ExpiringAugustRebatesApple_082819"; ?>
 					
-					<?php $ttl = "Shop our Weekend Flash Sale & save big on your favorite brands!"; ?>
+					<?php $ttl = "Don't let these instant rebates go... Shop now to save on Apple!"; ?>
 					
 					<?php include_once("Other/blocks/header_slth.php"); ?>   
 
-          <?php //include_once("Other/WeekendFlashSale_082419/p_0.php"); ?>          
-          <?php //include_once("Other/WeekendFlashSale_082419/p_1.php"); ?>
+          <?php //include_once("Other/ExpiringAugustRebates/p_0.php"); ?>          
+          <?php //include_once("Other/ExpiringAugustRebates/p_1.php"); ?>
           
-          <?php //include_once("Other/WeekendFlashSale_082419/p_1_canon.php"); ?>
-          <?php //include_once("Other/WeekendFlashSale_082419/p_1_nikon.php"); ?>
-          <?php //include_once("Other/WeekendFlashSale_082419/p_1_sony.php"); ?>
-          <?php //include_once("Other/WeekendFlashSale_082419/p_1_panasonic.php"); ?>
-          <?php include_once("Other/WeekendFlashSale_082419/p_1_fujifilm.php"); ?>
-          <?php //include_once("Other/WeekendFlashSale_082419/p_1_olympus.php"); ?>
-          <?php //include_once("Other/WeekendFlashSale_082419/p_1_apple.php"); ?>
+          <?php //include_once("Other/ExpiringAugustRebates/p_1_canon.php"); ?>
+          <?php //include_once("Other/ExpiringAugustRebates/p_1_nikon.php"); ?>
+          <?php //include_once("Other/ExpiringAugustRebates/p_1_sony.php"); ?>
+          <?php //include_once("Other/ExpiringAugustRebates/p_1_panasonic.php"); ?>
+          <?php //include_once("Other/ExpiringAugustRebates/p_1_fujifilm.php"); ?>
+          <?php //include_once("Other/ExpiringAugustRebates/p_1_olympus.php"); ?>
+          <?php include_once("Other/ExpiringAugustRebates/p_1_apple.php"); ?>
           
-          <?php include_once("Other/CategoryNav/evegreen_cats.php"); ?>
+          <?php //include_once("Other/CategoryNav/evegreen_cats.php"); ?>
           <?php //include_once("Other/CategoryNav/canon_cats.php"); ?>
           <?php //include_once("Other/CategoryNav/nikon_cats.php"); ?>
           <?php //include_once("Other/CategoryNav/sony_cats.php"); ?>
-          <?php //include_once("Other/CategoryNav/apple_cats.php"); ?>
+          <?php include_once("Other/CategoryNav/apple_cats.php"); ?>
           <?php //include_once("Other/CategoryNav/panasonic_cats.php"); ?>
           <?php //include_once("Other/CategoryNav/olympus_cats.php"); ?>
           <?php //include_once("Other/CategoryNav/fujifilm_cats.php"); ?>
+          
+          <?php include_once("Other/ExpiringAugustRebates/p_2.php"); ?>
       
 
 

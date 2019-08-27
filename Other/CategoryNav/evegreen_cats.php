@@ -20,7 +20,7 @@
                       </a>
                   </td>
                   <td>
-                    <a href="https://www.adorama.com/c/Lenses?sel=Instant-Rebate_Yes&emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                    <a href="https://www.adorama.com/l/Lenses?sel=Instant-Rebate_Yes&emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                        target="_blank">
                       <img src="https://www.adorama.com/col/images/email/Optimail/CategoryNav/evergreen/adorama_category-navigation_evergreen_02.jpg" 
                            alt="Lenses" width="100%" height="auto" border="0" style="display:inline;">
