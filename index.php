@@ -22,7 +22,7 @@ include_once("Other/index.php");
 
 // include_once("Financing/index.php");
 
-// include_once("Welcome/index.php"); 
+ // include_once("Welcome/index.php"); 
 
 // include_once("FirstTimeBuyers/index.php");  
 

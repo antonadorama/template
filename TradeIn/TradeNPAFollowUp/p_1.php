@@ -13,7 +13,7 @@
                   <td align="center" valign="top">
                     <a href="https://www.adorama.com/bmccp6kef.html?emailprice=t&utm_source=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=GetQuote&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
                        >
-                    <img src="https://www.adorama.com/col/images/email/Optimail/TradeNPAFollowUp/NPA-Trade-up-Followup-MKT-26432_01.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
+                    <img src="https://www.adorama.com/col/images/email/Optimail/TradeNPAFollowUp/NPA-Trade-up-Followup-MKT-26432-2_01.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
                          alt="Blackmagic Design Pocket Cinema Camera 6K" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>

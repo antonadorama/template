@@ -44,7 +44,7 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-          <?php $utm = "Email_SonyTrade_082819"; ?>
+          <?php $utm = "Email_SonyTrade_082919"; ?>
 					
 					<?php $ttl = "Trade-in your used Blackmagic Design Pocket Camera for some extra cash!"; ?>
 					

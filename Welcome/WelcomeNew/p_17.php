@@ -13,15 +13,15 @@
               <tbody>
                 <tr>
                   <td>
-                      <a href="https://www.adorama.com/abs?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
-                         linkname="WelcomeABS" target="_blank">
+                      <a href="https://www.adorama.com/abs?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                         target="_blank">
                         <img src="https://www.adorama.com/col/images/email/Welcome/Welcome-Email-01_25.jpg" 
                              alt="Welcome ABS" width="100%" height="auto" border="0" style="display:inline;">
                       </a>
                   </td>
                   <td>
-                    <a href="https://www.adoramapix.com/?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
-                       linkname="WelcomeAdoramaPix" target="_blank">
+                    <a href="https://www.adoramapix.com/?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                       target="_blank">
                       <img src="https://www.adorama.com/col/images/email/Welcome/Welcome-Email-01_26.jpg" 
                            alt="Welcome AdoramaPix" width="100%" height="auto" border="0" style="display:inline;">
                     </a>

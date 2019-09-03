@@ -25,7 +25,8 @@
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
 		<?php //include_once("Other/blocks/style_5.php"); ?>		
-		<?php include_once("FirstTimeBuyers/blocks/style_5.php"); ?>	
+		<?php include_once("FirstTimeBuyers/blocks/style_5.php"); ?>
+		
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -42,50 +43,43 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_WelcomeNew_WLCMO2"; ?>
+          <?php $utm = "Email_OneDayVIPSaleSeptemberFujifilm_090519"; ?>
 					
-					<?php $ttl = "We're sharing exclusive new offers for our new subscribers! Take a look!"; ?>
+					<?php $ttl = "Up to 50% off won't be around much longer... Start shopping now to save!"; ?>
 					
-					<?php include_once("Other/blocks/header_slth.php"); ?> 
-					
-					<?php include_once("Welcome/WelcomeNew/p_1.php"); ?>
-          <?php include_once("Welcome/WelcomeNew/p_2.php"); ?>   
+					<?php include_once("Other/blocks/header_slth.php"); ?>   
+
+          <?php //include_once("Other/OneDayVIPSaleSeptember/p_0.php"); ?>          
+          <?php //include_once("Other/OneDayVIPSaleSeptember/p_1.php"); ?>
+          <?php //include_once("Other/OneDayVIPSaleSeptember/p_2.php"); ?>
           
-          <?php //include_once("Welcome/WelcomeNew/p_3.php"); ?>
-          <?php include_once("Welcome/WelcomeNew/2citerec_1.php"); ?>
-          <?php include_once("Welcome/WelcomeNew/2citerec_2.php"); ?>
+          <?php //include_once("Other/OneDayVIPSaleSeptember/p_1_canon.php"); ?>
+          <?php //include_once("Other/OneDayVIPSaleSeptember/p_1_nikon.php"); ?>
+          <?php //include_once("Other/OneDayVIPSaleSeptember/p_1_sony.php"); ?>
+          <?php //include_once("Other/OneDayVIPSaleSeptember/p_1_panasonic.php"); ?>
+          <?php include_once("Other/OneDayVIPSaleSeptember/p_1_fujifilm.php"); ?>
+          <?php //include_once("Other/OneDayVIPSaleSeptember/p_1_olympus.php"); ?>
+          <?php //include_once("Other/OneDayVIPSaleSeptember/p_1_apple.php"); ?>
           
-          <?php include_once("Welcome/WelcomeNew/p_5.php"); ?>
-          <?php include_once("Welcome/WelcomeNew/p_6.php"); ?>
-          
-          <?php include_once("Welcome/WelcomeNew/p_7.php"); ?>
-          <?php include_once("Welcome/WelcomeNew/p_8_2.php"); ?>
-          <?php include_once("Welcome/WelcomeNew/p_9_2.php"); ?>
-          
-          <?php include_once("Welcome/WelcomeNew/p_10.php"); ?>
-          <?php include_once("Welcome/WelcomeNew/p_11.php"); ?>
-          <?php include_once("Welcome/WelcomeNew/p_12.php"); ?>
-          <?php include_once("Welcome/WelcomeNew/p_13.php"); ?>
-          <?php include_once("Welcome/WelcomeNew/p_14.php"); ?>          
-          
-          <?php include_once("Welcome/WelcomeNew/p_15.php"); ?>
-          <?php include_once("Welcome/WelcomeNew/p_16.php"); ?>
-          <?php include_once("Welcome/WelcomeNew/p_17.php"); ?>
-          
-          <?php include_once("Welcome/WelcomeNew/p_18.php"); ?>
-          
-          <?php include_once("Welcome/WelcomeNew/p_19.php"); ?>
-          
-          <?php include_once("Welcome/WelcomeNew/p_21.php"); ?>
-          
-				
+          <?php //include_once("Other/CategoryNav/evegreen_cats.php"); ?>
+          <?php //include_once("Other/CategoryNav/canon_cats.php"); ?>
+          <?php //include_once("Other/CategoryNav/nikon_cats.php"); ?>
+          <?php //include_once("Other/CategoryNav/sony_cats.php"); ?>
+          <?php //include_once("Other/CategoryNav/apple_cats.php"); ?>
+          <?php //include_once("Other/CategoryNav/panasonic_cats.php"); ?>
+          <?php //include_once("Other/CategoryNav/olympus_cats.php"); ?>
+          <?php include_once("Other/CategoryNav/fujifilm_cats.php"); ?>                  
+      
+
+
 					<?php include_once("Other/SailthruTemplate/FeaturedBannerOptm_slth.php"); ?>
-					<?php //include_once("Other/SailthruTemplate/4citerecs_slth.php"); ?>							
-					<?php include_once("Other/SailthruTemplate/spotlightOptm_slth.php"); ?>	
-          {include "value_props"}
-					<?php //include_once("Other/SailthruTemplate/4valueprops_slth.php"); ?>
+					<?php include_once("Other/SailthruTemplate/4citerecs_slth.php"); ?>							
+					<?php include_once("Other/SailthruTemplate/spotlightOptm_slth.php"); ?>						
+					<?php include_once("Other/SailthruTemplate/4valueprops_slth.php"); ?>
 					
 					<?php include_once("Other/blocks/footer_slth.php"); ?>
+
+					
 				</tbody>
 			</table>
 			</td>
@@ -94,7 +88,8 @@
 </table>
 </div>
 	<div style="display:none !important; padding:0 !important;">
-<img src="http://svopn.adorama.com/?sv_cid=2620_03922&sv_emopen=true&sv_svemi={profile.vars.guid}" height="1" width="1" style="display:none !important;"/>
+<img src="http://svopn.adorama.com/?sv_cid=2620_03922&sv_emopen=true&sv_svemi={profile.vars.guid}" 
+     height="1" width="1" style="display:none !important;"/>
 </div>
 </body>
 </html>

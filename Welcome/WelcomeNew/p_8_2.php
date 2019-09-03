@@ -13,17 +13,17 @@
               <tbody>
                 <tr>
                   <td>
-                      <a href="https://www.adorama.com/l/Cameras?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                      <a href="https://www.adorama.com/g/rewards?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
                          target="_blank">
-                        <img src="https://www.adorama.com/col/images/email/Welcome/Welcome-Email-01_14.jpg" 
-                             alt="Cameras Category" width="100%" height="auto" border="0" style="display:inline;">
+                        <img src="https://www.adorama.com/col/images/email/Welcome/adorama_welcome-series_email_gift-cards-block_01.jpg" 
+                             alt="Adorama Rewards" width="100%" height="auto" border="0" style="display:inline;">
                       </a>
                   </td>
                   <td>
-                    <a href="https://www.adorama.com/l/Lenses?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
-                       target="_blank">
-                      <img src="https://www.adorama.com/col/images/email/Welcome/Welcome-Email-01_15.jpg" 
-                           alt="Lenses Category" width="100%" height="auto" border="0" style="display:inline;">
+                    <a href="https://www.adorama.com/g/VIP360?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                      target="_blank">
+                      <img src="https://www.adorama.com/col/images/email/Welcome/adorama_welcome-series_email_gift-cards-block_02.jpg" 
+                           alt="VIP360" width="100%" height="auto" border="0" style="display:inline;">
                     </a>
                   </td>
                 </tr>

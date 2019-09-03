@@ -1,6 +1,10 @@
 <?php 
 
-include_once("Other/ExpiringAugustRebates/index.php");
+include_once("Other/SailthruCategory/index.php");
+
+// include_once("Other/OneDayVIPSaleSeptember/index.php");
+
+// include_once("Other/ExpiringAugustRebates/index.php");
 
 // include_once("Other/WeekendFlashSale_082419/index.php");
 
@@ -15,8 +19,6 @@ include_once("Other/ExpiringAugustRebates/index.php");
 // include_once("Other/HotAccessoryDeals/index.php");
 
 // include_once("Other/FlashFriday_080919/index.php");
-
-// include_once("Other/SailthruCategory/index.php");
 
 // include_once("Other/HotCameraDeals/index.php");
 
