@@ -2,26 +2,28 @@
 
 <tr>
   <td>
-    <table id="ko_imageBlock_5" style="background-color: #013771;" class="vb-outer" bgcolor="#013771" border="0" cellpadding="0" cellspacing="0" width="100%">
+    <table id="ko_imageBlock_5" style="background-color: #f1f1f1;" class="vb-outer" bgcolor="#f1f1f1" border="0" cellpadding="0" cellspacing="0" width="100%">
     <tbody>
       <tr>
         <td class="vb-outer" align="center" valign="top" style="">
           <!--[if (gte mso 9)|(lte ie 8)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="640"><tr><td align="center" valign="top"><![endif]-->
           
           <div class="oldwebkit" style="max-width: 640px;">
-            <table style="border-collapse: separate;padding-left: 0;padding-right: 0;width: 100%;max-width: 640px;background-color: #013771;" class="vb-container fullwidth" align="center" bgcolor="#013771" border="0" cellpadding="0" cellspacing="0" width="640">
+            <table style="border-collapse: separate;padding-left: 0;padding-right: 0;width: 100%;max-width: 640px;background-color: #f1f1f1;" class="vb-container fullwidth" align="center" bgcolor="#f1f1f1" border="0" cellpadding="0" cellspacing="0" width="640">
               <tbody>
                 <tr>
                   <td>
-                      <a href="https://www.adorama.com/ica5dm4k1.html?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
-                         linkname="ica5dm4k1" target="_blank">
-                        <img src="image_library/global/eMail-NewIn_Januaury-3_6.png" alt="ica5dm4k1" width="100%" height="auto" border="0" style="display:inline;">
+                      <a href="https://www.adorama.com/ica90d.html?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                         target="_blank">
+                        <img src="https://www.adorama.com/col/images/email/Optimail/HotShots/adorama_9-9_banner_02.jpg" 
+                             alt="Canon EOS 90D DSLR Camera Body" width="100%" height="auto" border="0" style="display:inline;">
                       </a>
                   </td>
                   <td>
-                    <a href="https://www.adorama.com/inkd850b.html?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
-                       linkname="inkd850b" target="_blank">
-                      <img src="image_library/global/eMail-NewIn_Januaury-4_6.png" alt="inkd850b" width="100%" height="auto" border="0" style="display:inline;">
+                    <a href="https://www.adorama.com/icam62s.html?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                       target="_blank">
+                      <img src="https://www.adorama.com/col/images/email/Optimail/HotShots/adorama_9-9_banner_03.jpg" 
+                           alt="Canon EOS M6 Mark II Mirrorless Digital Camera Body" width="100%" height="auto" border="0" style="display:inline;">
                     </a>
                   </td>
                 </tr>

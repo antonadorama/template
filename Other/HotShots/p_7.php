@@ -2,26 +2,28 @@
 
 <tr>
   <td>
-    <table id="ko_imageBlock_5" style="background-color: #013771;" class="vb-outer" bgcolor="#013771" border="0" cellpadding="0" cellspacing="0" width="100%">
+    <table id="ko_imageBlock_5" style="background-color: #f1f1f1;" class="vb-outer" bgcolor="#f1f1f1" border="0" cellpadding="0" cellspacing="0" width="100%">
     <tbody>
       <tr>
         <td class="vb-outer" align="center" valign="top" style="">
           <!--[if (gte mso 9)|(lte ie 8)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="640"><tr><td align="center" valign="top"><![endif]-->
           
           <div class="oldwebkit" style="max-width: 640px;">
-            <table style="border-collapse: separate;padding-left: 0;padding-right: 0;width: 100%;max-width: 640px;background-color: #013771;" class="vb-container fullwidth" align="center" bgcolor="#013771" border="0" cellpadding="0" cellspacing="0" width="640">
+            <table style="border-collapse: separate;padding-left: 0;padding-right: 0;width: 100%;max-width: 640px;background-color: #f1f1f1;" class="vb-container fullwidth" align="center" bgcolor="#f1f1f1" border="0" cellpadding="0" cellspacing="0" width="640">
               <tbody>
                 <tr>
                   <td>
-                      <a href="https://www.adorama.com/boqc35wrl2bk.html?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
-                         linkname="boqc35wrl2bk" target="_blank">
-                        <img src="image_library/global/eMail-NewIn_Januaury-10.png" alt="boqc35wrl2bk" width="100%" height="auto" border="0" style="display:inline;">
+                      <a href="https://www.adorama.com/djiosmom3.html?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                         target="_blank">
+                        <img src="https://www.adorama.com/col/images/email/Optimail/HotShots/adorama_9-9_banner_10.jpg" 
+                             alt="DJI Osmo Mobile 3" width="100%" height="auto" border="0" style="display:inline;">
                       </a>
                   </td>
                   <td>
-                    <a href="https://www.adorama.com/pl1510chnf.html?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
-                       linkname="pl1510chnf" target="_blank">
-                      <img src="image_library/global/eMail-NewIn_Januaury-11_2.png" alt="pl1510chnf" width="100%" height="auto" border="0" style="display:inline;">
+                    <a href="https://www.adorama.com/romc707.html?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                       target="_blank">
+                      <img src="https://www.adorama.com/col/images/email/Optimail/HotShots/adorama_9-9_banner_11.jpg" 
+                           alt="Roland MC-707 Groovebox with 8 Tracks, 128 Clips" width="100%" height="auto" border="0" style="display:inline;">
                     </a>
                   </td>
                 </tr>

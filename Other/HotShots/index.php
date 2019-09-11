@@ -25,7 +25,8 @@
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1">
 
 		<?php //include_once("Other/blocks/style_5.php"); ?>		
-		<?php include_once("FirstTimeBuyers/blocks/style_5.php"); ?>	
+		<?php include_once("FirstTimeBuyers/blocks/style_5.php"); ?>
+		
 		
 	<!--[if gte mso 15]>
   <style type="text/css" media="all">tr { font-size:16px;  mso-margin-top-alt:1px; }</style>
@@ -42,38 +43,34 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-					<?php $utm = "Email_HotShots_010719"; ?>
+          <?php $utm = "Email_HotShotsCategory_090919"; ?>
 					
-					<?php $ttl = "The newest and hottest arrivals are here! Shop now!"; ?>
+					<?php $ttl = "Hot Shots 🔥 We've rounded up our bestsellers just for you!"; ?>
 					
-					<?php include_once("Other/blocks/header.php"); ?>
-					
-					<?php include_once("Other/HotShots/p_1.php"); ?>
-          
+					<?php include_once("Other/blocks/header_slth.php"); ?> 
+    
+          <?php include_once("Other/HotShots/p_1.php"); ?>
           <?php include_once("Other/HotShots/p_2.php"); ?>
           <?php include_once("Other/HotShots/p_3.php"); ?>
           <?php include_once("Other/HotShots/p_4.php"); ?>
-          
           <?php include_once("Other/HotShots/p_5.php"); ?>
           <?php include_once("Other/HotShots/p_6.php"); ?>
           <?php include_once("Other/HotShots/p_7.php"); ?>
           
-          <?php include_once("Other/HotShots/p_8.php"); ?>
           <?php include_once("Other/HotShots/p_9.php"); ?>
-          <?php include_once("Other/HotShots/p_10.php"); ?>
-					
-          <?php include_once("Other/HotShots/p_11.php"); ?>
-					
-					<?php include_once("Other/PostHolidayTemplate/FeaturedBanner.php"); ?>
-					
-					<?php  include_once("Other/PostHolidayTemplate/4citerecs.php"); ?>
-					
-					<?php include_once("Other/PostHolidayTemplate/spotlight.php"); ?>			
-					
-					<?php include_once("Other/PostHolidayTemplate/4valueprops.php"); ?>	
+          <?php include_once("Other/HotShots/p_1_white.php"); ?>
 
+          
+          <?php include_once("Other/HotShots/p_8.php"); ?>
+          
+
+					<?php include_once("Other/SailthruTemplate/FeaturedBannerOptm_slth.php"); ?>
+					<?php include_once("Other/SailthruTemplate/4citerecs_slth.php"); ?>							
+					<?php include_once("Other/SailthruTemplate/spotlightOptm_slth.php"); ?>						
+					<?php include_once("Other/SailthruTemplate/4valueprops_slth.php"); ?>
 					
-					<?php include_once("Other/blocks/footer.php"); ?>
+					<?php include_once("Other/blocks/footer_slth.php"); ?>
+
 					
 				</tbody>
 			</table>
@@ -83,7 +80,8 @@
 </table>
 </div>
 	<div style="display:none !important; padding:0 !important;">
-<img src="http://svopn.adorama.com/?sv_cid=2620_03922&sv_emopen=true&sv_svemi=##GUID##" height="1" width="1" style="display:none !important;"/>
+<img src="http://svopn.adorama.com/?sv_cid=2620_03922&sv_emopen=true&sv_svemi={profile.vars.guid}" 
+     height="1" width="1" style="display:none !important;"/>
 </div>
 </body>
 </html>

@@ -2,26 +2,28 @@
 
 <tr>
   <td>
-    <table id="ko_imageBlock_5" style="background-color: #154760;" class="vb-outer" bgcolor="#154760" border="0" cellpadding="0" cellspacing="0" width="100%">
+    <table id="ko_imageBlock_5" style="background-color: #ffffff; padding-top:20px;" class="vb-outer" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="100%">
     <tbody>
       <tr>
         <td class="vb-outer" align="center" valign="top" style="">
           <!--[if (gte mso 9)|(lte ie 8)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="640"><tr><td align="center" valign="top"><![endif]-->
           
           <div class="oldwebkit" style="max-width: 640px;">
-            <table style="border-collapse: separate;padding-left: 0;padding-right: 0;width: 100%;max-width: 640px;background-color: #154760;" class="vb-container fullwidth" align="center" bgcolor="#154760" border="0" cellpadding="0" cellspacing="0" width="640">
+            <table style="border-collapse: separate;padding-left: 0;padding-right: 0;width: 100%;max-width: 640px;background-color: #ffffff;" class="vb-container fullwidth" align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="640">
               <tbody>
                 <tr>
                   <td>
-                      <a href="##second_level_category_url##?sel=Filter-By_Kits-only&emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
-                         linkname="BoxIcon" target="_blank">
-                        <img src="image_library/org_1/4393/Category-Browse-Email_07.jpg" alt="Box Icon" width="100%" height="auto" border="0" style="display:inline;">
+                      <a href="{profile.vars.fourcite_second_level_category_url}?sel=Price-Range_-dollar-250-to-dollar-500&emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                         arget="_blank">
+                        <img src="https://www.adorama.com/col/images/email/Optimail/CategoryBrowse/top-deals-icon_blue1_320x110.png" 
+                             alt="Under 500" width="100%" height="auto" border="0" style="display:inline;">
                       </a>
                   </td>
                   <td>
-                    <a href="##second_level_category_url##?sel=Filter-By_Free-Shipping&emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
-                       linkname="TruckIcon" target="_blank">
-                      <img src="image_library/org_1/4393/Category-Browse-Email_08.jpg" alt="Truck Icon" width="100%" height="auto" border="0" style="display:inline;">
+                    <a href="{profile.vars.fourcite_second_level_category_url}?sel=Ratings-and-Reviews_4-and-up&emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                       target="_blank">
+                      <img src="https://www.adorama.com/col/images/email/Optimail//CategoryBrowse/five-star-icon_blue1_320x110.png" 
+                           alt="Top Rated" width="100%" height="auto" border="0" style="display:inline;">
                     </a>
                   </td>
                 </tr>

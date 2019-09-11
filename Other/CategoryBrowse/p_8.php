@@ -1,39 +1,73 @@
-<!-- Two Column Row -->
+<!-- Category Title-->
 
 <tr>
   <td>
-    <table id="ko_imageBlock_5" style="background-color: #154760;" class="vb-outer" bgcolor="#154760" border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tbody>
-      <tr>
-        <td class="vb-outer" align="center" valign="top" style="">
-          <!--[if (gte mso 9)|(lte ie 8)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="640"><tr><td align="center" valign="top"><![endif]-->
-          
-          <div class="oldwebkit" style="max-width: 640px;">
-            <table style="border-collapse: separate;padding-left: 0;padding-right: 0;width: 100%;max-width: 640px;background-color: #154760;" class="vb-container fullwidth" align="center" bgcolor="#154760" border="0" cellpadding="0" cellspacing="0" width="640">
+    <table style="background-color: #ffffff;" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="100%" align="center">
+      <tbody>
+        <tr>
+          <td align="center" valign="top" width="100%">
+            <table style="border-collapse: separate;padding-left: 0;padding-right: 0;background-color: #ffffff; text-align:center;" align="center" bgcolor="#ffffff" 
+                   border="0" cellpadding="10" cellspacing="0" width="100%">
               <tbody>
-                <tr>
-                  <td>
-                      <a href="https://www.adorama.com/rebates?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
-                         linkname="Rebates" target="_blank">
-                        <img src="image_library/org_1/4393/Category-Browse-Email_12.jpg" alt="Rebates" width="100%" height="auto" border="0" style="display:inline;">
-                      </a>
+                <tr width="100%">
+                  <td width="50%">
+                    <table style="text-align:center;" align="center">
+                      <tbody>
+                        <tr>
+                          <td align="center" bgcolor="#ffffff" valign="top" width="100%">
+                            <table style="border-collapse: separate;border-spacing: 0px;padding-left: 0;padding-right: 0;
+                                              background-color: #ffffff; text-align:center;" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0">
+                              <tbody>
+                                <tr>
+                                  <td style="background-color: #ffffff;  text-align:center; padding-top:20px;padding-bottom:20px; padding-left:5px;" align="center" bgcolor="#ffffff" class="" valign="middle">
+                         <a href="{profile.vars.fourcite_second_level_category_url}?sel=Filter-By_Kits-only&emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                        target="_blank" style="text-decoration:none;"> 
+                                    <span style="font-weight:bold; font-size: 18px; font-family: Arial, Helvetica, sans-serif; 
+                             color: #163458; text-decoration:none;">{profile.vars.fourcite_second_level_category}<br />Kits &#38; Bundles >
+</span>
+                                    </a>     
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
                   </td>
-                  <td>
-                    <a href="https://www.adorama.com/g/Clearance_Specials?emailprice=t&utm_source=slgt&refby=slgt&email=##email_address##&utm_medium=email&guid=##GUID##&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
-                       linkname="Clearance" target="_blank">
-                      <img src="image_library/org_1/4393/Category-Browse-Email_13.jpg" alt="Clearance" width="100%" height="auto" border="0" style="display:inline;">
-                    </a>
+                  <td width="50%">
+                    <table style="text-align:center;" align="center">
+                      <tbody>
+                        <tr>
+                          <td class="" align="center" bgcolor="#ffffff" valign="top" width="100%">
+                            <table style="border-collapse: separate;border-spacing: 0px;padding-left: 0;padding-right: 0;
+                                                background-color: #ffffff; text-align:center;" class="" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0">
+                              <tbody>
+                                <tr>
+                                  <td style="background-color: #ffffff;  text-align:center; padding-top:20px;padding-bottom:20px; padding-right:5px;" align="center" bgcolor="#ffffff" class="" valign="middle">
+                               <a href="{profile.vars.fourcite_second_level_category_url}?sel=Instant-Rebate_Yes&emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
+                       target="_blank" style="text-decoration:none;">  
+                                    <span style="font-weight:bold; font-size: 18px; font-family: Arial, Helvetica, sans-serif; color: #163458; text-decoration:none;">
+                                      Hot New Rebates on<br />{profile.vars.fourcite_second_level_category} >
+</span>
+                                    </a>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
                   </td>
                 </tr>
               </tbody>
             </table>
-          </div>
-          
-          <!--[if (gte mso 9)|(lte ie 8)]></td></tr></table><![endif]--></td>
-      </tr>
-    </tbody>
-  </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
   </td>
-</tr>  
+</tr>
 
-<!-- End of 2 Column Row -->
+<!-- End of Category Title -->
