@@ -43,57 +43,19 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-          <?php $utm = "Email_HotShotsCategory_091619"; ?>
+          <?php $utm = "Email_MidNightSale_091719"; ?>
 					
-					<?php $ttl = "Shop our newest arrivals from Canon, Sony and more!"; ?>
+					<?php $ttl = "Our Midnight Sale is on! Shop now for BIG savings"; ?>
 					
-					<?php include_once("Other/blocks/header_slth.php"); ?> 
+					<?php include_once("Other/blocks/header_slth.php"); ?>   
     
           
-          <?php //include_once("Other/HotShots_091619/p_0.php"); ?>
-          <?php //include_once("Other/HotShots_091619/p_1.php"); ?>
-          
-          <?php include_once("Other/HotShots_091619/p_1_browsed_1.php"); ?>
-          <?php include_once("Other/HotShots_091619/p_1_browsed_2.php"); ?>
-          <?php include_once("Other/HotShots_091619/p_1_browsed_3.php"); ?>
-          
-          <?php include_once("Other/CategoryBrowse/p_2.php"); ?>
-          <?php include_once("Other/CategoryBrowse/2citerec_1.php"); ?>
-          <?php include_once("Other/CategoryBrowse/2citerec_2.php"); ?>
-          
-          <?php include_once("Other/CategoryBrowse/p_3.php"); ?>
-          <?php include_once("Other/CategoryBrowse/p_5.php"); ?>
-          <?php include_once("Other/CategoryBrowse/p_6.php"); ?>
-          <?php include_once("Other/CategoryBrowse/p_7.php"); ?>
-          <?php include_once("Other/CategoryBrowse/p_8.php"); ?>
-
-          <?php //include_once("Other/CategoryBrowse/p_9.php"); ?>
-          <?php //include_once("Other/CategoryBrowse/p_10.php"); ?>
-          <?php //include_once("Other/CategoryBrowse/p_11.php"); ?>
-          
-          <?php include_once("Other/CategoryBrowse/p_12.php"); ?>
-          <?php include_once("Other/CategoryBrowse/p_13.php"); ?>
-          <?php include_once("Other/CategoryBrowse/p_14.php"); ?>
-          <?php include_once("Other/CategoryBrowse/p_15.php"); ?>
-          <?php include_once("Other/CategoryBrowse/p_16.php"); ?>
-
-          
-          <?php include_once("Other/HotShots_091619/p_2.php"); ?>
-          <?php include_once("Other/HotShots_091619/p_3.php"); ?>
-          <?php include_once("Other/HotShots_091619/p_4.php"); ?>
-          <?php include_once("Other/HotShots_091619/p_5.php"); ?>
-          <?php include_once("Other/HotShots_091619/p_6.php"); ?>
-          <?php include_once("Other/HotShots_091619/p_7.php"); ?>
-          <?php include_once("Other/HotShots_091619/p_7_2.php"); ?>
-
-          
-          <?php //include_once("Other/HotShots_091619/p_9.php"); ?>
-          <?php //include_once("Other/HotShots_091619/devider.php"); ?>
-          <?php //include_once("Other/HotShots_091619/p_1_white.php"); ?>
-
-          
-          <?php //include_once("Other/HotShots_091619/p_8.php"); ?>
-          <?php include_once("Other/HotShots_091619/FeaturedBannerOptm_slth.php"); ?>
+          <?php include_once("Other/MidNightSale_091719/p_1.php"); ?>
+          <?php include_once("Other/MidNightSale_091719/p_2.php"); ?>
+          <?php include_once("Other/MidNightSale_091719/p_3.php"); ?>
+          <?php include_once("Other/MidNightSale_091719/p_4.php"); ?>
+          <?php include_once("Other/MidNightSale_091719/p_5.php"); ?>
+          <?php include_once("Other/MidNightSale_091719/p_6.php"); ?>
 
 					<?php include_once("Other/SailthruTemplate/FeaturedBannerOptm_slth.php"); ?>
 					<?php include_once("Other/SailthruTemplate/4citerecs_slth.php"); ?>							
