@@ -2,7 +2,7 @@
 
 <tr>
   <td>
-    <table id="ko_imageBlock_5" style="background-color: #111111;" class="vb-outer" bgcolor="#111111" border="0" cellpadding="0" cellspacing="0" width="100%">
+    <table id="ko_imageBlock_5" style="background-color: #fffadc;" class="vb-outer" bgcolor="#fffadc" border="0" cellpadding="0" cellspacing="0" width="100%">
     <tbody>
       <tr>
         <td class="vb-outer" align="center" valign="top" style="">
@@ -13,9 +13,9 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="https://www.adorama.com/g/end-of-summer-sale-2019?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
+                    <a href="{profile.vars.fourcite_second_level_category_url}?sel=Filter-By_Specials&emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
                        >
-                    <img src="https://www.adorama.com/col/images/email/Optimail/EndOfSummerSale/adorama_9-20_end-of-summer_main_01.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;line-height:0 !important; font-size:0 !important;" class="mobile-full" 
+                    <img src="https://www.adorama.com/col/images/email/Optimail/ExpiringSeptemberRebates/adorama_9-27_expiring-september-rebates_dynamic_01.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;line-height:0 !important; font-size:0 !important;" class="mobile-full" 
                          alt="Main Banner" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>

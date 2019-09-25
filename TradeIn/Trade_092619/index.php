@@ -13,6 +13,7 @@
 	</xml>
 	<![endif]-->
 </head>
+
 <body style="min-width: 100%; padding: 0; margin: 0; -webkit-text-size-adjust: none; background-color: #e3e3e3;">
 	<p style="display:none;">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -43,48 +44,18 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-          <?php $utm = "Email_EndOfSummerSaleMain_092119"; ?>
+          <?php $utm = "Email_Trade_092619"; ?>
 					
-					<?php $ttl = "Shop top brands now to save big!"; ?>
+					<?php $ttl = "Up to 70% cash back >> Fall trade in!"; ?>
 					
-					<?php include_once("Other/blocks/header_slth.php"); ?>   
+					<?php include_once("Other/blocks/header_slth.php"); ?>             
 
-          <?php //include_once("Other/EndOfSummerSale/p_0.php"); ?>          
+          <?php include_once("TradeIn/Trade_092619/p_1.php"); ?>
+          <?php include_once("TradeIn/Trade_092619/devider.php"); ?>
+          <?php include_once("TradeIn/Trade_092619/p_2.php"); ?>
           
-          <?php include_once("Other/EndOfSummerSale/p_1.php"); ?>
-          <?php //include_once("Other/EndOfSummerSale/p_1_lc.php"); ?>
-
-          <?php include_once("Other/EndOfSummerSale/p_2.php"); ?>
-          <?php include_once("Other/EndOfSummerSale/p_3.php"); ?>
-          <?php include_once("Other/EndOfSummerSale/p_4.php"); ?>  
-
-               
+          <?php include_once("Other/ExpiringSeptemberRebates/FeaturedBannerOptm_slth.php"); ?>
           
-          
-          <?php //include_once("Other/EndOfSummerSale/p_1_canon.php"); ?>
-          <?php //include_once("Other/EndOfSummerSale/p_1_nikon.php"); ?>
-          <?php //include_once("Other/EndOfSummerSale/p_1_sony.php"); ?>
-          <?php //include_once("Other/EndOfSummerSale/p_1_panasonic.php"); ?>
-          <?php //include_once("Other/EndOfSummerSale/p_1_fujifilm.php"); ?>
-          <?php //include_once("Other/EndOfSummerSale/p_1_olympus.php"); ?>
-          <?php //include_once("Other/EndOfSummerSale/p_1_apple.php"); ?>
-          
-  
-
-          
-          <?php include_once("Other/CategoryNav/evegreen_cats.php"); ?>
-          <?php //include_once("Other/CategoryNav/canon_cats.php"); ?>
-          <?php //include_once("Other/CategoryNav/nikon_cats.php"); ?>
-          <?php //include_once("Other/CategoryNav/sony_cats.php"); ?>
-          <?php //include_once("Other/CategoryNav/apple_cats.php"); ?>
-          <?php //include_once("Other/CategoryNav/panasonic_cats.php"); ?>
-          <?php //include_once("Other/CategoryNav/olympus_cats.php"); ?>
-          <?php //include_once("Other/CategoryNav/fujifilm_cats.php"); ?>
-          
-         
-        
-
-           <?php include_once("Other/HotShots_091619/FeaturedBannerOptm_slth.php"); ?>
 					<?php include_once("Other/SailthruTemplate/FeaturedBannerOptm_slth.php"); ?>
 					<?php include_once("Other/SailthruTemplate/4citerecs_slth.php"); ?>							
 					<?php include_once("Other/SailthruTemplate/spotlightOptm_slth.php"); ?>						
