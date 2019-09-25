@@ -1,6 +1,8 @@
 <?php
 
-include_once("Other/ExpiringSeptemberRebates/index.php");
+include_once("Other/TradeRebrand/index.php");
+
+// include_once("Other/ExpiringSeptemberRebates/index.php");
 
 // include_once("Other/EndOfSummerSale/index.php");
 
