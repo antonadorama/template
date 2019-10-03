@@ -56,9 +56,9 @@
           <?php include_once("TradeIn/Trade_092619/devider.php"); ?>
           <?php include_once("TradeIn/Trade_092619/p_2.php"); ?>
           
-          <?php include_once("Other/ExpiringSeptemberRebates/FeaturedBannerOptm_slth.php"); ?>
+          <?php //include_once("Other/ExpiringSeptemberRebates/FeaturedBannerOptm_slth.php"); ?>
           
-					<?php include_once("Other/SailthruTemplate/FeaturedBannerOptm_slth.php"); ?>
+					<?php //include_once("Other/SailthruTemplate/FeaturedBannerOptm_slth.php"); ?>
 					<?php include_once("Other/SailthruTemplate/4citerecs_rebrand.php"); ?>							
 					<?php include_once("Other/SailthruTemplate/spotlightOptm_slth.php"); ?>						
 					<?php include_once("Other/SailthruTemplate/4valueprops_rebrand.php"); ?>

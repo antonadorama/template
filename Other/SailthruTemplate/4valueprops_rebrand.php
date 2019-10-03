@@ -2,19 +2,19 @@
 
 <tr>
   <td>
-    <table id="ko_titleBlock_7" style="background-color: #ffffff;" class="vb-outer" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="100%">
+    <table style="background-color: #ffffff;" class="vb-outer" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="100%">
     <tbody>
       <tr>
         <td style="background-color: #ffffff;" class="vb-outer" align="center" bgcolor="#ffffff" valign="center">
           <!--[if (gte mso 9)|(lte ie 8)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="640"><tr><td align="center" valign="center"><![endif]-->
           
-          <div class="oldwebkit" style="max-width: 640px;">
+          <div style="max-width: 640px;">
             <table style="border-collapse: separate;border-spacing: 9px;width: 100%;max-width: 640px;background-color: #ffffff;" 
-                   class="vb-container halfpad" bgcolor="#ffffff" border="0" cellpadding="5" cellspacing="5" width="570">
+                   class="vb-container" bgcolor="#ffffff" border="0" cellpadding="5" cellspacing="5" width="570">
               <tbody>
                 <tr>
                   <td style="background-color: #ffffff; font-size: 26px; font-family: 'Lato', Helvetica, sans-serif; 
-														 font-weight:900; color: #004387; text-align: center; letter-spacing:1px;" align="center" bgcolor="#ffffff">
+														 font-weight:900; color: #585C5F; text-align: center; letter-spacing:1px;" align="center" bgcolor="#ffffff">
                    OUR VALUE</td>
                 </tr>
               </tbody>
@@ -54,7 +54,7 @@
 													<td align="center" valign="top" height="40" class="title" style="font-family: 'Lato', Arial, Helvetica, sans-serif; font-size: 14px; color: #114998">
 														
 															<a href="https://www.adorama.com/g/adorama-credit?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=ValuePropFinancing&utm_content=Body&utm_campaign=<?php echo $utm;?>">
-																<font color="#8B949B"><strong>12 Month Financing with Adorama Credit Card*</strong></font>
+																<font color="#585C5F"><strong>12 Month Financing with Adorama Credit Card*</strong></font>
 															</a>
 													</td>
 												</tr>
@@ -79,7 +79,7 @@
 													<td align="center" valign="top" height="40" class="title" style="font-family: 'Lato', Arial, Helvetica, sans-serif; font-size: 14px; color: #114998">
 														
 															<a href="https://www.adorama.com/help/shippingAndDelivery?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=ValuePropFreeShipping&utm_content=Body&utm_campaign=<?php echo $utm;?>">
-																<font color="#8B949B"><strong>	Free Expedited Shipping On Most Orders</strong></font>
+																<font color="#585C5F"><strong>	Free Expedited Shipping On Most Orders</strong></font>
 															</a>
 													</td>
 												</tr>
@@ -115,7 +115,7 @@
 													<td align="center" valign="top" height="40" class="title" style="font-family: 'Lato', Arial, Helvetica, sans-serif; font-size: 14px; color: #114998">
 														
 															<a href="https://www.adorama.com/als.mvc/nspc/GiftCard?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=ValuePropGiftCard&utm_content=Body&utm_campaign=<?php echo $utm;?>">
-																<font color="#8B949B"><strong>Give the Perfect Gift: An Adorama Gift Card</strong></font>
+																<font color="#585C5F"><strong>Give the Perfect Gift: An Adorama Gift Card</strong></font>
 															</a>
 															
 													</td>
@@ -143,7 +143,7 @@
 													<td align="center" valign="top" height="40" class="title" style="font-family: 'Lato', Arial, Helvetica, sans-serif; font-size: 14px; color: #114998">
 														
 														<a href="https://www.adorama.com/g/VIP360?emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=ValuePropBecomeVIP&utm_content=Body&utm_campaign=<?php echo $utm;?>">
-															<font color="#8B949B"><strong>Join VIP360 and Get Deals Before Everyone Else!</strong></font>
+															<font color="#585C5F"><strong>Join VIP360 and Get Deals Before Everyone Else!</strong></font>
 														</a>
 													</td>
 												</tr>

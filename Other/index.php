@@ -1,10 +1,10 @@
 <?php
 
-include_once("Other/OneDayVIPSaleOctober/index.php");
+// include_once("Other/OneDayVIPSaleOctober/index.php");
 
 // include_once("Other/Snapshot_092719/index.php");
 
-// include_once("Other/TradeRebrand/index.php");
+include_once("Other/TradeRebrand/index.php");
 
 // include_once("Other/ExpiringSeptemberRebates/index.php");
 
