@@ -46,25 +46,50 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-          <?php $utm = "Email_Snapshot_100419"; ?>
+          <?php $utm = "Email_NewOctoberRebatesApple_100619"; ?>
 					
-					<?php $ttl = "Save 38% on this Apple MacBook 12&#34; Now"; ?>
+					<?php $ttl = "Your October rebates have arrived! Shop & save on Apple now >>"; ?>
+          
+          <?php $main_url = "https://www.adorama.com/l/?sel=brand_Apple%7CInstant-Rebate_Yes%7CDiscount_10-percent-Off-or-More&"; ?>
+          
+          <?php $main_image = "adorama_10-6_new-october-rebates_apple.jpg"; ?>
 					
 					<?php include_once("Other/blocks/header_rebrand.php"); ?>             
 
-         
-          <?php include_once("Other_090419/SnapshotSailthru/snapshot_header.php"); ?>
-					<?php include_once("Other_090419/SnapshotSailthru/snapshot_new_countdown.php"); ?>						
-					<?php include_once("Other_090419/SnapshotSailthru/snapshot.php"); ?>					
-					<?php include_once("Other_090419/SnapshotSailthru/snapshot_footer.php"); ?>   
+           <?php //include_once("Other/NewSeptemberRebates/p_0.php"); ?>          
           
-          <?php //include_once("Other/ExpiringSeptemberRebates/FeaturedBannerOptm_slth.php"); ?>
+          <?php include_once("Other/NewOctoberRebates/p_1.php"); ?>
+          <?php include_once("Other/NewOctoberRebates/p_2.php"); ?>
+          <?php include_once("Other/NewOctoberRebates/p_3.php"); ?>
+                   
+                    
+          <?php //include_once("Other/NewSeptemberRebates/p_1_canon.php"); ?>
+          <?php //include_once("Other/NewSeptemberRebates/p_1_nikon.php"); ?>
+          <?php //include_once("Other/NewSeptemberRebates/p_1_sony.php"); ?>
+          <?php //include_once("Other/NewSeptemberRebates/p_1_panasonic.php"); ?>
+          <?php //include_once("Other/NewSeptemberRebates/p_1_fujifilm.php"); ?>
+          <?php //include_once("Other/NewSeptemberRebates/p_1_olympus.php"); ?>
+          <?php //include_once("Other/NewSeptemberRebates/p_1_apple.php"); ?>
           
-					<?php //include_once("Other/SailthruTemplate/FeaturedBannerOptm_slth.php"); ?>
+          <?php include_once("Other/NewOctoberRebates/p_4.php"); ?>
+          
+          <?php //include_once("Other/CategoryNav/evegreen_cats.php"); ?>
+          <?php //include_once("Other/CategoryNav/canon_cats.php"); ?>
+          <?php //include_once("Other/CategoryNav/nikon_cats.php"); ?>
+          <?php //include_once("Other/CategoryNav/sony_cats.php"); ?>
+          <?php include_once("Other/CategoryNav/apple_cats.php"); ?>
+          <?php //include_once("Other/CategoryNav/panasonic_cats.php"); ?>
+          <?php //include_once("Other/CategoryNav/olympus_cats.php"); ?>
+          <?php //include_once("Other/CategoryNav/fujifilm_cats.php"); ?>
+          
+          <?php include_once("Other/NewOctoberRebates/p_5.php"); ?>
+          <?php include_once("Other/ExpiringSeptemberRebates/FeaturedBannerOptm_slth.php"); ?>
+          
+					<?php include_once("Other/SailthruTemplate/FeaturedBannerOptm_slth.php"); ?>
 					<?php include_once("Other/SailthruTemplate/4citerecs_rebrand.php"); ?>							
 					<?php include_once("Other/SailthruTemplate/spotlightOptm_slth.php"); ?>						
 					<?php include_once("Other/SailthruTemplate/4valueprops_rebrand.php"); ?>
-          
+					
 					<?php include_once("Other/blocks/footer_rebrand.php"); ?>
 
 					

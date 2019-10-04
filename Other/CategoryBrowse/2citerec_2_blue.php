@@ -7,7 +7,7 @@
 						<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" class="wrap320">
 							<tbody>
 								<tr>
-									<td align="center" class="half" height="260" style="border-right:1px solid #ffffff; padding-top:20px;">
+									<td align="center" class="half" height="260" style="border-right:1px solid #d5dade; padding-top:20px;">
 										<!-- Product Details Block -->
 										<table width="146" height="260" border="0" cellspacing="3" cellpadding="3" align="center" class="wrap150" bgcolor="#ffffff" style="background-color:#ffffff;">
 											<tbody>
@@ -25,11 +25,11 @@
 														<table width="180" border="0" cellspacing="0" cellpadding="0" align="center" class="Btn135">
 															<tbody>
 																<tr>
-																	<td style="font-size: 16px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #ffffff; 
-																						 font-weight: normal; padding:8px 10px; border:1px solid #ed5132" height="26" align="center" bgcolor="#ed5132"
+																	<td style="font-size: 16px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #d5dade; 
+																						 font-weight: normal; padding:8px 10px; border:1px solid #034663" height="26" align="center" bgcolor="#034663"
 																	 valign="middle" width="auto">
 																		<a href="http://svopn.adorama.com/LiveContent/v2/get_content/2620_03922/94551/lnk/3?_emk={email}&emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=4CiteBestseller3&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
-																			 target="_new" style="text-decoration: none; color: #ffffff; font-weight: bold;">Shop Now</a></td>
+																			 target="_new" style="text-decoration: none; color: #d5dade; font-weight: bold;">Shop Now</a></td>
 																</tr>
 															</tbody>
 														</table>
@@ -58,11 +58,11 @@
 														<table width="180" border="0" cellspacing="0" cellpadding="0" align="center" class="Btn135">
 															<tbody>
 																<tr>
-																	<td style="font-size: 16px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #ffffff; 
-																						 font-weight: normal; padding:8px 10px; border:1px solid #ed5132" height="26" align="center" bgcolor="#ed5132"
+																	<td style="font-size: 16px; font-family: Arial, Helvetica, sans-serif; text-align: center; color: #d5dade; 
+																						 font-weight: normal; padding:8px 10px; border:1px solid #034663" height="26" align="center" bgcolor="#034663"
 																	 valign="middle" width="auto">
 																		<a href="http://svopn.adorama.com/LiveContent/v2/get_content/2620_03922/94551/lnk/4?_emk={email}&emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=4CiteBestseller4&utm_content=Body&utm_campaign=<?php echo $utm;?>" 
-																			target="_new" style="text-decoration: none; color: #ffffff; font-weight: bold;">Shop Now</a></td>
+																			target="_new" style="text-decoration: none; color: #d5dade; font-weight: bold;">Shop Now</a></td>
 																</tr>
 															</tbody>
 														</table>
