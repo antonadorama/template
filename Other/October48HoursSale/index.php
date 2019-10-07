@@ -46,28 +46,46 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
 					
-          <?php $utm = "Email_Snapshot_100819"; ?>
+          <?php $utm = "Email_October48HoursSaleDynamic_101019"; ?>
 					
 					<?php $ttl = "TTL"; ?>
-					
+          
 					<?php include_once("Other/blocks/header_rebrand.php"); ?>             
 
-         
-          <?php include_once("Other_090419/SnapshotSailthru/snapshot_header.php"); ?>
-					<?php include_once("Other_090419/SnapshotSailthru/snapshot_new_countdown.php"); ?>						
-					<?php include_once("Other_090419/SnapshotSailthru/snapshot.php"); ?>					
-					<?php include_once("Other_090419/SnapshotSailthru/snapshot_footer.php"); ?>   
+          <?php include_once("Other/October48HoursSale/p_1_browsed_1.php"); ?>
+          <?php include_once("Other/October48HoursSale/p_1_browsed_2.php"); ?>
+          <?php include_once("Other/October48HoursSale/p_1_browsed_3.php"); ?>
           
-          <?php include("Other/SailthruTemplate/devider.php"); ?>
-         	<?php include_once("Other/SailthruTemplate/FeaturedBannerOptm_slth.php"); ?>
-           <?php include("Other/SailthruTemplate/devider.php"); ?>
-          <?php include_once("Other/ExpiringSeptemberRebates/FeaturedBannerOptm_slth.php"); ?>
-         
+          <?php include_once("Other/CategoryBrowse/p_2.php"); ?>
+          <?php include_once("Other/CategoryBrowse/2citerec_1.php"); ?>
+          <?php include_once("Other/CategoryBrowse/2citerec_2.php"); ?>
+          
+          <?php include_once("Other/CategoryBrowse/p_3.php"); ?>
+          <?php include_once("Other/CategoryBrowse/p_5.php"); ?>
+          <?php include_once("Other/CategoryBrowse/p_6.php"); ?>
+          <?php include_once("Other/CategoryBrowse/p_7.php"); ?>
+          <?php include_once("Other/CategoryBrowse/p_8.php"); ?>
 
+          <?php //include_once("Other/CategoryBrowse/p_9.php"); ?>
+          <?php //include_once("Other/CategoryBrowse/p_10.php"); ?>
+          <?php //include_once("Other/CategoryBrowse/p_11.php"); ?>
+          
+          <?php include_once("Other/CategoryBrowse/p_12.php"); ?>
+          <?php include_once("Other/CategoryBrowse/p_13.php"); ?>
+          <?php include_once("Other/CategoryBrowse/p_14.php"); ?>
+          <?php include_once("Other/CategoryBrowse/p_15.php"); ?>
+          <?php include_once("Other/CategoryBrowse/p_16.php"); ?>
+                    
+      
+  
+          
+          <?php include_once("Other/SailthruTemplate/FeaturedBannerOptm_slth.php"); ?>
+          <?php include_once("Other/SailthruTemplate/devider.php"); ?>
+          <?php include_once("Other/ExpiringSeptemberRebates/FeaturedBannerOptm_slth.php"); ?>         					
 					<?php include_once("Other/SailthruTemplate/4citerecs_rebrand.php"); ?>							
 					<?php include_once("Other/SailthruTemplate/spotlightOptm_slth.php"); ?>						
 					<?php include_once("Other/SailthruTemplate/4valueprops_rebrand.php"); ?>
-          
+					
 					<?php include_once("Other/blocks/footer_rebrand_nobrands.php"); ?>
 
 					

@@ -6,7 +6,7 @@
         
         <tr>
           <td>
-            <span style="display:block; background-color:#ffffff; line-height:5px; width:100%;" >&nbsp;</span>
+            <span style="display:block; background-color:#ffffff; line-height:10px; width:100%;" >&nbsp;</span>
           </td>
         </tr>        
        
