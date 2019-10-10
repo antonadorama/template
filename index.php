@@ -2,9 +2,9 @@
 
 // include_once("api2.php");	
 
-include_once("Other/index.php");	
+ include_once("Other/index.php");	
 
-// include_once("TradeIn/index.php");
+//include_once("TradeIn/index.php");
 
 // include_once("VIP360/index.php");	
 

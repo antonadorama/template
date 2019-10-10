@@ -1,8 +1,6 @@
-<!-- Banner Section -->
-
 <tr>
   <td>
-    <table id="ko_imageBlock_5" style="background-color: #111111;" class="vb-outer" bgcolor="#111111" border="0" cellpadding="0" cellspacing="0" width="100%">
+    <table id="ko_imageBlock_5" style="background-color: #E3E3E3;" class="vb-outer" bgcolor="#E3E3E3" border="0" cellpadding="0" cellspacing="0" width="100%">
     <tbody>
       <tr>
         <td class="vb-outer" align="center" valign="top" style="">
@@ -13,22 +11,19 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="<?php echo $main_url;?>emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
+                    <a href="https://www.adorama.com/l/Used/?sel=Condition_D_E-plus_N_E&emailprice=t&utm_source=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=UsedClearanceBanner&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
                        >
-                    <img src="https://www.adorama.com/col/images/email/<?php echo $image_folder;?>/<?php echo $main_image;?>" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;line-height:0 !important; font-size:0 !important;" class="mobile-full" 
-                         alt="Main Banner" hspace="0" border="0" vspace="0" width="640">
+                    <img src="https://www.adorama.com/col/images/email/Optimail/Trade101019/Pre-Owned-Feature-Banner-MKT-28151.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;" class="mobile-full" 
+                         alt="Used Sale" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>
                 </tr>
               </tbody>
             </table>
-          </div>
-          
+          </div>          
           <!--[if (gte mso 9)|(lte ie 8)]></td></tr></table><![endif]--></td>
       </tr>
     </tbody>
   </table>
   </td>
 </tr>  
-
-<!-- End Banner Section -->

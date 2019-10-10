@@ -1,4 +1,6 @@
-<?php include_once("TradeIn/Trade_092619/index.php"); ?>
+<?php include_once("TradeIn/Trade_101019/index.php"); ?>
+
+<?php //include_once("TradeIn/Trade_092619/index.php"); ?>
 
 <?php //include_once("TradeIn/Trade_091219/index.php"); ?>
 

@@ -13,10 +13,10 @@
               <tbody>
                 <tr>
                   <td align="center" valign="top">
-                    <a href="<?php echo $main_url;?>emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
+                    <a href="https://www.adorama.com/l/?sel=Instant-Rebate_Yes|Discount_35-percent-Off-or-More&emailprice=t&utm_source=slth&refby=slth&email={email}&utm_medium=email&guid={profile.vars.guid}&utm_term=Shop&utm_content=Body&utm_campaign=<?php echo $utm;?>" target="_blank" 
                        >
-                    <img src="https://www.adorama.com/col/images/email/<?php echo $image_folder;?>/<?php echo $main_image;?>" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;line-height:0 !important; font-size:0 !important;" class="mobile-full" 
-                         alt="Main Banner" hspace="0" border="0" vspace="0" width="640">
+                    <img src="https://www.adorama.com/col/images/email/Optimail/WeekendDeals/adorama_10-25_10-27_weekend-deals_last-chance_02.jpg" style="border: 0px;border-radius: 0px;display: block;max-width: 640px;width: 100%;height: auto;line-height:0 !important; font-size:0 !important;" class="mobile-full" 
+                         alt="Rebates of the Week" hspace="0" border="0" vspace="0" width="640">
                     </a>
                   </td>
                 </tr>

@@ -1,12 +1,16 @@
 <?php
 
+include_once("Other/WeekendDeals/index.php");
+
+ // include_once("Other/WeekendDealsLC/index.php");
+
 // include_once("Other/October48HoursSaleLC/index.php");
 
  // include_once("Other/October48HoursSale/index.php");
 
  // include_once("Other/NewOctoberRebates/index.php");
 
-include_once("Other/SnapshotTemplate/index.php");
+// include_once("Other/SnapshotTemplate/index.php");
 
 // include_once("Other/OneDayVIPSaleOctober/index.php");
 

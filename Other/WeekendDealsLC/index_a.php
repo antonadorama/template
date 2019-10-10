@@ -46,44 +46,44 @@
 					
 					<?php //include_once("Other/blocks/send_button.php"); ?>
           
-          <?php $image_folder = "Optimail/WeekendDeals"; ?>
-          <?php $default_folder = "WeekendDeals"; ?>
+          <?php $image_folder = "Optimail/WeekendDeals/lc"; ?>
+          <?php $default_folder = "WeekendDealsLC"; ?>
 					
-          <?php //$utm = "Email_WeekendDeals_102619"; ?>
+          <?php $utm = "Email_WeekendDealsLc_102719"; ?>
           <?php //$utm = "Email_WeekendDealsCanon_102619"; ?>
           <?php //$utm = "Email_WeekendDealsNikon_102619"; ?>
           <?php //$utm = "Email_WeekendDealsSony_102619"; ?>
           <?php //$utm = "Email_WeekendDealsOlympus_102619"; ?>
           <?php //$utm = "Email_WeekendDealsPanasonic_102619"; ?>
           <?php //$utm = "Email_WeekendDealsFujifilm_102619"; ?>
-          <?php $utm = "Email_WeekendDealsApple_102619"; ?>
+          <?php //$utm = "Email_WeekendDealsApple_102619"; ?>
 					
-					<?php //$ttl = "Shop all weekend to save big on top brands"; ?>
-          <?php //$ttl = "Grab savings on top brands like Canon & more!"; ?><!-- Canon -->
-          <?php //$ttl = "Grab these weekend savings today"; ?> <!-- Nikon -->
-          <?php //$ttl = "You don't want to miss our Weekend Sale to save big on Sony!"; ?><!-- Sony -->
-          <?php //$ttl = "Grab HUGE savings on top brands during our Weekend Sale"; ?><!-- Olympus -->
-          <?php //$ttl = "Don't delay! Shop our Weekend Sale now to save big"; ?><!-- Panasonic -->
-          <?php //$ttl = "Your favorite brands are on sale all weekend long... Shop now!"; ?><!-- Fujifilm -->
-          <?php $ttl = "Grab these savings on top brands like Apple before our Weekend Sale ends..."; ?><!-- Apple -->
+					<?php $ttl = "You're almost out of time to grab these weekend savings!"; ?>
+          <?php //$ttl = "Our sale is about to end... SHOP NOW!"; ?><!-- Canon -->
+          <?php //$ttl = "Grab these Nikon savings today before they're gone for good >>"; ?> <!-- Nikon -->
+          <?php //$ttl = "Sony is on sale for 2 days only... Don't wait!"; ?><!-- Sony -->
+          <?php //$ttl = "Shop Olympus and other top brands now to save big"; ?><!-- Olympus -->
+          <?php //$ttl = "Your Panasonic savings are about to expire..."; ?><!-- Panasonic -->
+          <?php //$ttl = "Our sale is almost over... Shop Fujifilm before it's too late!"; ?><!-- Fujifilm -->
+          <?php //$ttl = "Shop Apple to save // It's your last chance!"; ?><!-- Apple -->
           
-          <?php //$main_url = "https://www.adorama.com/g/weekend-deals-october-2019?"; ?>
+          <?php $main_url = "https://www.adorama.com/g/weekend-deals-october-2019?"; ?>
           <?php //$main_url = "https://www.adorama.com/l/?sel=brand_Canon%7CInstant-Rebate_Yes%7CDiscount_10-percent-Off-or-More&"; ?>
           <?php //$main_url = "https://www.adorama.com/l/?sel=brand_Nikon%7CInstant-Rebate_Yes%7CDiscount_10-percent-Off-or-More&"; ?>
           <?php //$main_url = "https://www.adorama.com/l/?sel=brand_Sony%7CInstant-Rebate_Yes%7CDiscount_10-percent-Off-or-More&"; ?>
           <?php //$main_url = "https://www.adorama.com/l/?sel=brand_Olympus%7CInstant-Rebate_Yes%7CDiscount_10-percent-Off-or-More&"; ?>
           <?php //$main_url = "https://www.adorama.com/l/?sel=brand_Panasonic%7CInstant-Rebate_Yes%7CDiscount_10-percent-Off-or-More&"; ?>
           <?php //$main_url = "https://www.adorama.com/l/?sel=brand_Fujifilm%7CInstant-Rebate_Yes%7CDiscount_10-percent-Off-or-More&"; ?>
-          <?php $main_url = "https://www.adorama.com/l/?sel=brand_Apple%7CInstant-Rebate_Yes%7CDiscount_10-percent-Off-or-More&"; ?>
+          <?php //$main_url = "https://www.adorama.com/l/?sel=brand_Apple%7CInstant-Rebate_Yes%7CDiscount_10-percent-Off-or-More&"; ?>
           
-          <?php //$main_image = "adorama_10-25_10-27_weekend-deals_main_01.jpg"; ?>
-          <?php //$main_image = "adorama_10-25_10-27_weekend-deals_brand_1_canon.jpg"; ?>
-          <?php //$main_image = "adorama_10-25_10-27_weekend-deals_brand_2_nikon.jpg"; ?>
-          <?php //$main_image = "adorama_10-25_10-27_weekend-deals_brand_3_sony.jpg"; ?>
-          <?php //$main_image = "adorama_10-25_10-27_weekend-deals_brand_6_olympus.jpg"; ?>
-          <?php //$main_image = "adorama_10-25_10-27_weekend-deals_brand_4_panasonic.jpg"; ?>
-          <?php //$main_image = "adorama_10-25_10-27_weekend-deals_brand_5_fujifilm.jpg"; ?>
-          <?php $main_image = "adorama_10-25_10-27_weekend-deals_brand_7_apple.jpg"; ?>
+          <?php $main_image = "adorama_10-25_10-27_weekend-deals_last-chance_01.jpg"; ?>
+          <?php //$main_image = "adorama_10-10_48-hour-sale_default_last-chance_brand_canon.jpg"; ?>
+          <?php //$main_image = "adorama_10-10_48-hour-sale_default_last-chance_brand_nikon.jpg"; ?>
+          <?php //$main_image = "adorama_10-10_48-hour-sale_default_last-chance_brand_sony.jpg"; ?>
+          <?php //$main_image = "adorama_10-10_48-hour-sale_default_last-chance_brand_olympus.jpg"; ?>
+          <?php //$main_image = "adorama_10-10_48-hour-sale_default_last-chance_brand_panasonic.jpg"; ?>
+          <?php //$main_image = "adorama_10-10_48-hour-sale_default_last-chance_brand_fujifilm.jpg"; ?>
+          <?php //$main_image = "adorama_10-10_48-hour-sale_default_last-chance_brand_apple.jpg"; ?>
 					
 					<?php include_once("Other/blocks/header_rebrand.php"); ?>             
 
@@ -103,19 +103,19 @@
           
           <?php //include_once("Other/$default_folder/p_4.php"); ?>
           
-          <?php //include_once("Other/CategoryNav/evegreen_cats.php"); ?>
+          <?php include_once("Other/CategoryNav/evegreen_cats.php"); ?>
           <?php //include_once("Other/CategoryNav/canon_cats.php"); ?>
           <?php //include_once("Other/CategoryNav/nikon_cats.php"); ?>
           <?php //include_once("Other/CategoryNav/sony_cats.php"); ?>
           <?php //include_once("Other/CategoryNav/olympus_cats.php"); ?>
           <?php //include_once("Other/CategoryNav/panasonic_cats.php"); ?>
           <?php //include_once("Other/CategoryNav/fujifilm_cats.php"); ?>
-          <?php include_once("Other/CategoryNav/apple_cats.php"); ?>    
+          <?php //include_once("Other/CategoryNav/apple_cats.php"); ?>    
           
                    
-          <?php //include("Other/SailthruTemplate/devider.php"); ?>
+          
           <?php include_once("Other/ExpiringSeptemberRebates/FeaturedBannerOptm_slth.php"); ?>
-          <?php include("Other/SailthruTemplate/devider.php"); ?>
+          <?php include_once("Other/SailthruTemplate/devider.php"); ?>
 					<?php include_once("Other/SailthruTemplate/FeaturedBannerOptm_slth.php"); ?>
 					<?php include_once("Other/SailthruTemplate/4citerecs_rebrand.php"); ?>							
 					<?php include_once("Other/SailthruTemplate/spotlightOptm_slth.php"); ?>						
